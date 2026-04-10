@@ -12,7 +12,7 @@ def to_xmltv_time(iso_str):
     return dt.strftime("%Y%m%d%H%M%S +0000")
 
 
-# ✅ FIXED: COSMOTE channel ID
+# ✅ FIX: ONLY USE REAL CHANNEL ID (XTV...)
 def get_channel_id(ch):
     if not isinstance(ch, dict):
         return None
@@ -33,10 +33,11 @@ with open("epg.json", "r", encoding="utf-8") as f:
     epg_data = json.load(f)
 
 
-# ✅ FIXED: build epg map using SAME ID system
+# ✅ FIXED: epg.json mapping MUST use SAME ID system (XTV...)
 epg_map = {}
+
 for ch in epg_data:
-    cid = ch.get("id") or ch.get("channel_id")
+    cid = ch.get("id")  # 🔥 ONLY THIS (no channel_id, no guid)
     if cid:
         epg_map[cid] = ch.get("programs", [])
 
