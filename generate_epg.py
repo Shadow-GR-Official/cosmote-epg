@@ -1,7 +1,7 @@
 import requests
 import json
 
-API = "https://www.cosmotetv.gr/api/channels/schedule"
+API = "https://www.cosmotetv.gr/api/channels/schedule?"
 
 
 def main():
