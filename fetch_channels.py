@@ -7,26 +7,26 @@ API = "https://www.cosmotetv.gr/api/channels?locale=el"
 
 def extract_channels(data):
     """
-    Try to extract channel list from multiple possible API formats.
+    Extract channels from known Cosmote TV API structure.
     """
-    if isinstance(data, list):
-        return data
 
     if not isinstance(data, dict):
         return []
 
-    # common API keys
-    for key in ["channels", "data", "result", "items", "entries"]:
-        value = data.get(key)
+    # ✅ REAL STRUCTURE (your debug output)
+    if "stripes" in data and isinstance(data["stripes"], dict):
+        if isinstance(data["stripes"].get("channels"), list):
+            return data["stripes"]["channels"]
 
-        if isinstance(value, list):
-            return value
+    # fallback (just in case API changes again)
+    for key in ["channels", "data", "result", "items"]:
+        if isinstance(data.get(key), list):
+            return data[key]
 
-        if isinstance(value, dict):
-            for subkey in ["channels", "items", "data"]:
-                subvalue = value.get(subkey)
-                if isinstance(subvalue, list):
-                    return subvalue
+        if isinstance(data.get(key), dict):
+            for subkey in ["channels", "items"]:
+                if isinstance(data[key].get(subkey), list):
+                    return data[key][subkey]
 
     return []
 
@@ -44,41 +44,33 @@ def main():
         "Origin": "https://www.cosmotetv.gr",
     }
 
-    try:
-        r = requests.get(API, headers=headers, timeout=20)
-    except Exception as e:
-        print("REQUEST FAILED:", e)
-        sys.exit(1)
+    r = requests.get(API, headers=headers, timeout=20)
 
     print("STATUS:", r.status_code)
-    content_type = r.headers.get("content-type")
-    print("CONTENT-TYPE:", content_type)
+    print("CONTENT-TYPE:", r.headers.get("content-type"))
 
     if r.status_code != 200:
-        print("ERROR: Non-200 response")
+        print("ERROR: request failed")
         print(r.text[:500])
         sys.exit(1)
 
-    # ensure JSON
     try:
         data = r.json()
     except Exception:
-        print("ERROR: Response is not JSON")
-        print(r.text[:1000])
+        print("ERROR: not JSON")
+        print(r.text[:500])
         sys.exit(1)
 
-    # extract channels
-    raw_channels = extract_channels(data)
+    channels_raw = extract_channels(data)
 
-    if not raw_channels:
-        print("ERROR: No channels found in API response.")
-        print("DEBUG SAMPLE:", json.dumps(data, indent=2)[:1000])
+    if not channels_raw:
+        print("ERROR: No channels found (after extraction)")
+        print(json.dumps(data, indent=2)[:1000])
         sys.exit(1)
 
     channels = []
 
-    for ch in raw_channels:
-
+    for ch in channels_raw:
         if isinstance(ch, dict):
 
             if ch.get("type") and ch.get("type") != "channel":
@@ -87,21 +79,12 @@ def main():
             channels.append({
                 "id": ch.get("guid") or ch.get("id"),
                 "name": ch.get("title") or ch.get("name"),
-                "logo": (
-                    ch.get("logos", {}).get("square")
-                    if isinstance(ch.get("logos"), dict)
-                    else None
-                )
-            })
-
-        elif isinstance(ch, str):
-            channels.append({
-                "id": ch,
-                "name": ch
+                "logo": ch.get("logos", {}).get("square") if isinstance(ch.get("logos"), dict) else None,
+                "number": ch.get("number")
             })
 
     if not channels:
-        print("ERROR: Parsed channels list is empty.")
+        print("ERROR: parsed channels empty")
         sys.exit(1)
 
     with open("channels.json", "w", encoding="utf-8") as f:
