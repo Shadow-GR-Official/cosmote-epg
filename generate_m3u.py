@@ -1,46 +1,21 @@
 import json
-import os
 
-OUTPUT = "channels.m3u"
-CHANNELS_FILE = "channels.json"
+with open("channels.json", "r", encoding="utf-8") as f:
+    channels = json.load(f)
 
+lines = ["#EXTM3U"]
 
-def main():
+for ch in channels:
+    cid = ch["guid"]
+    name = ch.get("title", "")
+    logo = ch.get("logos", {}).get("square", "")
 
-    if not os.path.exists(CHANNELS_FILE):
-        print("ERROR: channels.json not found")
-        return
+    lines.append(
+        f'#EXTINF:-1 tvg-id="{cid}" tvg-name="{name}" tvg-logo="{logo}",{name}'
+    )
+    lines.append(f"http://127.0.0.1/{cid}")
 
-    with open(CHANNELS_FILE, "r", encoding="utf-8") as f:
-        channels = json.load(f)
+with open("channels.m3u", "w", encoding="utf-8") as f:
+    f.write("\n".join(lines))
 
-    if not channels:
-        print("ERROR: channels.json is empty")
-        return
-
-    lines = ["#EXTM3U"]
-
-    for ch in channels:
-
-        channel_id = ch.get("id") or ch.get("channel_id")
-        name = ch.get("name") or ch.get("channel_name") or "Unknown"
-        logo = ch.get("logo") or ""
-
-        if not channel_id:
-            continue
-
-        stream_url = f"http://127.0.0.1/{channel_id}"
-
-        lines.append(
-            f'#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{name}" tvg-logo="{logo}",{name}'
-        )
-        lines.append(stream_url)
-
-    with open(OUTPUT, "w", encoding="utf-8") as f:
-        f.write("\n".join(lines))
-
-    print(f"SUCCESS: created {OUTPUT} with {len(lines)//2} channels")
-
-
-if __name__ == "__main__":
-    main()
+print(f"SUCCESS: M3U generated for {len(channels)} channels")
