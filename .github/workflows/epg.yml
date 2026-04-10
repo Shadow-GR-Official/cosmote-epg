@@ -27,7 +27,7 @@ jobs:
       - name: Fetch channels
         run: python fetch_channels.py
 
-      # 🔍 DEBUG 1 - channels validation
+      # 🔍 SAFE VALIDATION (supports all API formats)
       - name: Validate channels.json
         run: |
           python - << 'EOF'
@@ -36,21 +36,37 @@ jobs:
           with open("channels.json", "r", encoding="utf-8") as f:
               data = json.load(f)
 
-          total = len(data)
-          valid = len([c for c in data if isinstance(c, dict) and ("guid" in c or "channel_id" in c)])
+          def get_id(ch):
+              if not isinstance(ch, dict):
+                  return None
 
-          print(f"TOTAL channels: {total}")
-          print(f"VALID channels: {valid}")
+              if "guid" in ch:
+                  return ch["guid"]
 
-          if valid == 0:
+              if "channel_id" in ch:
+                  return ch["channel_id"]
+
+              if "channel" in ch and isinstance(ch["channel"], dict):
+                  return ch["channel"].get("guid")
+
+              return None
+
+          valid = [get_id(c) for c in data]
+          valid = [v for v in valid if v]
+
+          print(f"TOTAL channels: {len(data)}")
+          print(f"VALID channels: {len(valid)}")
+
+          if len(valid) == 0:
+              print("SAMPLE:")
+              print(data[0])
               raise Exception("NO VALID CHANNELS FOUND")
           EOF
 
       - name: Generate EPG JSON
         run: python generate_epg.py
 
-      # 🔍 DEBUG 2 - epg.json validation
-      - name: Validate epg.json
+      - name: Validate EPG JSON
         run: |
           python - << 'EOF'
           import json
@@ -58,32 +74,20 @@ jobs:
           with open("epg.json", "r", encoding="utf-8") as f:
               data = json.load(f)
 
-          total_channels = len(data)
           total_programs = sum(len(c.get("programs", [])) for c in data)
 
-          print(f"EPG channels: {total_channels}")
+          print(f"EPG channels: {len(data)}")
           print(f"TOTAL programs: {total_programs}")
 
-          if total_channels == 0:
-              raise Exception("EPG JSON EMPTY")
+          if total_programs == 0:
+              raise Exception("EPG EMPTY")
           EOF
 
       - name: Generate M3U
         run: python generate_m3u.py
 
-      - name: Show generated files
-        run: |
-          echo "===== FILE LIST ====="
-          ls -lah
-
-          echo "===== EPG XML SIZE ====="
-          ls -lh epg.xml || echo "missing epg.xml"
-
-          echo "===== EPG JSON SIZE ====="
-          ls -lh epg.json || echo "missing epg.json"
-
-          echo "===== M3U SIZE ====="
-          ls -lh channels.m3u || echo "missing m3u"
+      - name: Show files
+        run: ls -lah
 
       - name: Commit changes
         run: |
