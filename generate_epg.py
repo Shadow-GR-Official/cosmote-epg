@@ -1,92 +1,69 @@
-import requests
 import json
+import xml.etree.ElementTree as ET
 from datetime import datetime
 
-API = "https://www.cosmotetv.gr/api/channels/schedule?"
-
-
 def to_xmltv_time(iso_str):
-    dt = datetime.strptime(iso_str, "%Y-%m-%dT%H:%M:%SZ")
+    if not iso_str:
+        return ""
+
+    # handle Z or +00:00
+    iso_str = iso_str.replace("Z", "")
+    dt = datetime.fromisoformat(iso_str)
     return dt.strftime("%Y%m%d%H%M%S +0000")
 
+# load files
+with open("channels.json", "r", encoding="utf-8") as f:
+    channels = json.load(f)
 
-def main():
+with open("epg.json", "r", encoding="utf-8") as f:
+    epg_data = json.load(f)
 
-    # -------------------------
-    # LOAD CHANNELS (STATIC)
-    # -------------------------
-    try:
-        with open("channels.json", "r", encoding="utf-8") as f:
-            channels_list = json.load(f)
-    except:
-        channels_list = []
+# map epg by channel_id
+epg_map = {}
+for ch in epg_data:
+    cid = ch.get("channel_id")
+    if cid:
+        epg_map[cid] = ch.get("programs", [])
 
-    channel_map = {
-        c["id"]: c.get("name")
-        for c in channels_list
-        if "id" in c
-    }
+tv = ET.Element("tv")
 
-    # -------------------------
-    # FETCH EPG
-    # -------------------------
-    r = requests.get(API, headers={
-        "User-Agent": "Mozilla/5.0",
-        "Accept": "application/json",
-        "Referer": "https://www.cosmotetv.gr/"
-    })
+# CHANNELS (always preserved)
+for ch in channels:
+    channel_id = ch["guid"]
 
-    data = r.json()
-    channels = data.get("stripes", {}).get("channels", [])
+    channel_el = ET.SubElement(tv, "channel", id=channel_id)
+    name_el = ET.SubElement(channel_el, "display-name")
+    name_el.text = ch.get("title", "")
 
-    # -------------------------
-    # BUILD XMLTV
-    # -------------------------
-    xml = []
-    xml.append('<?xml version="1.0" encoding="UTF-8"?>')
-    xml.append("<tv>")
+# PROGRAMMES
+for ch in channels:
+    cid = ch["guid"]
+    programs = epg_map.get(cid, [])
 
-    # ✔ STATIC CHANNELS (from file, NOT API rewrite)
-    for cid, name in channel_map.items():
-        xml.append(f'<channel id="{cid}">')
-        xml.append(f"<display-name>{name}</display-name>")
-        xml.append("</channel>")
+    for p in programs:
+        prog_el = ET.SubElement(
+            tv,
+            "programme",
+            start=to_xmltv_time(p.get("start")),
+            stop=to_xmltv_time(p.get("end")),
+            channel=cid
+        )
 
-    # -------------------------
-    # PROGRAMMES ONLY
-    # -------------------------
-    for ch in channels:
+        title_el = ET.SubElement(prog_el, "title", lang="el")
+        title_el.text = p.get("title", "")
 
-        cid = ch.get("guid")
-        items = ch.get("items", []) or []
+        desc_text = p.get("description")
+        if desc_text:
+            desc_el = ET.SubElement(prog_el, "desc", lang="el")
+            desc_el.text = desc_text
 
-        for p in items:
+        genre = p.get("genre")
+        if genre:
+            cat_el = ET.SubElement(prog_el, "category", lang="el")
+            cat_el.text = genre
 
-            qoe = p.get("qoe", {})
+# write file
+tree = ET.ElementTree(tv)
+tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
 
-            title = qoe.get("title") or p.get("title") or ""
-            desc = p.get("description") or ""
-
-            start = to_xmltv_time(p.get("startTime"))
-            stop = to_xmltv_time(p.get("endTime"))
-
-            xml.append(
-                f'<programme start="{start}" stop="{stop}" channel="{cid}">'
-            )
-            xml.append(f"<title lang=\"el\">{title}</title>")
-            xml.append(f"<desc lang=\"el\">{desc}</desc>")
-            xml.append("</programme>")
-
-    xml.append("</tv>")
-
-    # -------------------------
-    # WRITE OUTPUT
-    # -------------------------
-    with open("epg.xml", "w", encoding="utf-8") as f:
-        f.write("\n".join(xml))
-
-    print(f"SUCCESS: XMLTV generated with {len(channel_map)} channels")
-
-
-if __name__ == "__main__":
-    main()
+print(f"SUCCESS: XMLTV generated for {len(channels)} channels")
