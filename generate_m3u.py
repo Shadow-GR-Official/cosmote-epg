@@ -3,20 +3,17 @@ import json
 def get_id(ch):
     if not isinstance(ch, dict):
         return None
-
-    return (
-        ch.get("guid")
-        or ch.get("channel_id")
-        or (ch.get("channel", {}) if isinstance(ch.get("channel"), dict) else {}).get("guid")
-    )
+    return ch.get("id")  # FIX: your real schema
 
 def get_name(ch):
     if not isinstance(ch, dict):
         return ""
-    return ch.get("title") or ch.get("name") or ""
+    return ch.get("name") or ""
 
 def get_logo(ch):
-    return (ch.get("logos", {}) or {}).get("square", "")
+    if not isinstance(ch, dict):
+        return ""
+    return ch.get("logo") or ""
 
 
 with open("channels.json", "r", encoding="utf-8") as f:
@@ -24,18 +21,25 @@ with open("channels.json", "r", encoding="utf-8") as f:
 
 lines = ["#EXTM3U"]
 
+count = 0
+
 for ch in channels:
     cid = get_id(ch)
-    if not cid:
-        continue
-
     name = get_name(ch)
     logo = get_logo(ch)
 
-    lines.append(f'#EXTINF:-1 tvg-id="{cid}" tvg-name="{name}" tvg-logo="{logo}",{name}')
+    if not cid or not name:
+        continue
+
+    lines.append(
+        f'#EXTINF:-1 tvg-id="{cid}" tvg-name="{name}" tvg-logo="{logo}",{name}'
+    )
+
     lines.append(f"http://127.0.0.1/{cid}")
+
+    count += 1
 
 with open("channels.m3u", "w", encoding="utf-8") as f:
     f.write("\n".join(lines))
 
-print(f"SUCCESS: M3U generated for {len(channels)} channels")
+print(f"SUCCESS: M3U generated for {count} channels")
