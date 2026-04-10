@@ -1,4 +1,4 @@
-name: Update EPG
+name: Build EPG
 
 on:
   schedule:
@@ -10,27 +10,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - uses: actions/setup-python@v4
         with:
           python-version: "3.11"
 
-      - name: Install deps
-        run: pip install -r requirements.txt
+      - run: pip install -r requirements.txt
 
-      - name: Fetch channels
-        run: python fetch_channels.py
+      - run: python generate_epg.py
 
-      - name: Generate EPG
-        run: python generate_epg.py
-
-      - name: Commit & push
+      - name: Commit results
         run: |
-          git config --local user.email "bot@github.com"
-          git config --local user.name "EPG Bot"
-          git add channels.json guide.xml
-          git commit -m "Auto update EPG" || echo "No changes"
+          git config user.name "EPG Bot"
+          git config user.email "bot@github.com"
+          git add epg.xml
+          git commit -m "update epg" || echo "no changes"
           git push
