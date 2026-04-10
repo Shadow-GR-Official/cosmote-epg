@@ -1,4 +1,4 @@
-name: Build EPG
+name: IPTV EPG Builder
 
 on:
   schedule:
@@ -18,12 +18,14 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - run: python fetch_channels.py
+
       - run: python generate_epg.py
 
-      - name: Commit results
+      - name: Commit
         run: |
           git config user.name "EPG Bot"
           git config user.email "bot@github.com"
-          git add epg.xml
+          git add epg.xml channels.json
           git commit -m "update epg" || echo "no changes"
           git push
