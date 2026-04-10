@@ -1,12 +1,14 @@
 import requests
 import json
+import xml.etree.ElementTree as ET
 
-API = "https://www.cosmotetv.gr/api/channels/schedule"
+API = "https://www.cosmotetv.gr/api/channels?locale=el"
+
 
 def main():
     headers = {
         "User-Agent": "Mozilla/5.0",
-        "Accept": "application/json",
+        "Accept": "application/xml,text/xml;q=0.9,*/*;q=0.8",
         "Referer": "https://www.cosmotetv.gr/"
     }
 
@@ -15,50 +17,38 @@ def main():
     print("STATUS:", r.status_code)
     print("CONTENT-TYPE:", r.headers.get("content-type"))
 
-    try:
-        data = r.json()
-    except Exception:
-        print("ERROR: Response is not JSON")
+    if r.status_code != 200:
+        print("ERROR: request failed")
         print(r.text[:500])
         return
 
-    # 🔍 DEBUG: δες structure
-    print("TOP KEYS:", list(data.keys()) if isinstance(data, dict) else type(data))
+    try:
+        root = ET.fromstring(r.text)
+    except Exception as e:
+        print("ERROR: XML parse failed:", e)
+        print(r.text[:500])
+        return
 
     channels = []
 
-    """
-    Most likely structures:
-    1) data["channels"]
-    2) data["items"]
-    3) data["data"]["channels"]
-    """
+    for ch in root.findall("channel"):
+        cid = ch.get("id")
+        name = ch.findtext("display-name")
 
-    if isinstance(data, dict):
-
-        if "channels" in data:
-            raw = data["channels"]
-
-        elif "data" in data and isinstance(data["data"], dict):
-            raw = data["data"].get("channels", [])
-
-        else:
-            raw = []
-
-    else:
-        raw = []
-
-    for ch in raw:
-        if isinstance(ch, dict):
+        if cid and name:
             channels.append({
-                "id": ch.get("id") or ch.get("guid"),
-                "name": ch.get("name") or ch.get("title")
+                "id": cid,
+                "name": name.strip()
             })
+
+    if not channels:
+        print("ERROR: No channels parsed from XML")
+        return
 
     with open("channels.json", "w", encoding="utf-8") as f:
         json.dump(channels, f, ensure_ascii=False, indent=2)
 
-    print(f"Saved {len(channels)} channels")
+    print(f"SUCCESS: Saved {len(channels)} channels")
 
 
 if __name__ == "__main__":
