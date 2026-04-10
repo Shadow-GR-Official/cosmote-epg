@@ -1,104 +1,66 @@
-import time
-import datetime
 import requests
 import json
-from xml.etree.ElementTree import Element, SubElement, ElementTree
 
 API = "https://www.cosmotetv.gr/api/channels/schedule?"
 
-def xmltv_time(ts):
-    return datetime.datetime.fromtimestamp(ts).strftime("%Y%m%d%H%M%S +0300")
-
-def fetch_epg(channel_id, start, end):
-
-    r = requests.get(API, params={
-        "locale": "el",
-        "from": start,
-        "to": end,
-        "channels": channel_id
-    }, headers={
-        "User-Agent": "Mozilla/5.0",
-        "Accept": "application/json"
-    })
-
-    # 🔥 DEBUG (important)
-    print("\n==============================")
-    print("CHANNEL:", channel_id)
-    print("URL:", r.url)
-    print("STATUS:", r.status_code)
-    print("RESPONSE (first 300 chars):", r.text[:300])
-
-    try:
-        data = r.json()
-    except Exception as e:
-        print("JSON ERROR:", e)
-        return []
-
-    print("PARSED DATA TYPE:", type(data))
-    print("PARSED DATA SAMPLE:", str(data)[:200])
-
-    # normalize πιθανών formats
-    if isinstance(data, dict):
-        data = data.get("data") or data.get("programs") or data.get("schedule") or []
-
-    if not isinstance(data, list):
-        return []
-
-    return data
-
 
 def main():
+    headers = {
+        "User-Agent": "Mozilla/5.0",
+        "Accept": "application/json",
+        "Referer": "https://www.cosmotetv.gr/"
+    }
 
-    with open("channels.json", encoding="utf-8") as f:
-        channels = json.load(f)
+    r = requests.get(API, headers=headers, timeout=20)
 
-    if not channels:
-        print("ERROR: channels.json is empty")
+    print("STATUS:", r.status_code)
+
+    data = r.json()
+
+    epg = []
+
+    if not isinstance(data, list):
+        print("ERROR: unexpected format")
+        print(type(data))
         return
 
-    now = int(time.time())
-    end = now + 2 * 24 * 3600
+    for ch in data:
 
-    tv = Element("tv")
+        channel_id = ch.get("guid") or ch.get("channelGuid")
+        channel_name = ch.get("title")
 
-    for ch in channels:
+        items = ch.get("items", [])
 
-        channel_id = ch.get("id")
-        name = ch.get("name", channel_id)
+        programs = []
 
-        if not channel_id:
-            continue
+        for p in items:
 
-        data = fetch_epg(channel_id, now, end)
+            qoe = p.get("qoe", {})
 
-        # channel node
-        channel_el = SubElement(tv, "channel", id=channel_id)
-        SubElement(channel_el, "display-name").text = name
-
-        # programmes
-        for p in data:
-
-            if not isinstance(p, dict):
-                continue
-
-            start = p.get("startTime") or p.get("start")
-            end_t = p.get("endTime") or p.get("end")
-
-            if not start or not end_t:
-                continue
-
-            prog = SubElement(tv, "programme", {
-                "start": xmltv_time(start),
-                "stop": xmltv_time(end_t),
-                "channel": channel_id
+            programs.append({
+                "id": p.get("programGuid"),
+                "title": qoe.get("title") or p.get("title"),
+                "start": p.get("startTime"),
+                "end": p.get("endTime"),
+                "description": p.get("description"),
+                "genre": qoe.get("genre"),
+                "thumbnail": (
+                    p.get("thumbnails", {}).get("medium")
+                    if isinstance(p.get("thumbnails"), dict)
+                    else None
+                )
             })
 
-            SubElement(prog, "title").text = p.get("title", "")
-            SubElement(prog, "desc").text = p.get("description", "")
+        epg.append({
+            "channel_id": channel_id,
+            "channel_name": channel_name,
+            "programs": programs
+        })
 
-    ElementTree(tv).write("epg.xml", encoding="utf-8", xml_declaration=True)
+    with open("epg.json", "w", encoding="utf-8") as f:
+        json.dump(epg, f, ensure_ascii=False, indent=2)
 
-    print("\nDONE → epg.xml generated")
+    print(f"SUCCESS: Saved EPG for {len(epg)} channels")
 
 
 if __name__ == "__main__":
