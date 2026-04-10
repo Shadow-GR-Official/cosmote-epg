@@ -5,27 +5,41 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-      - run: python fetch_channels.py
+      - name: Fetch channels
+        run: python fetch_channels.py
 
-      - run: python generate_epg.py
+      - name: Generate EPG
+        run: python generate_epg.py
 
-      - name: Commit
+      - name: Show generated files
+        run: ls -la
+
+      - name: Commit changes
         run: |
           git config user.name "EPG Bot"
           git config user.email "bot@github.com"
-          git add epg.xml channels.json
+
+          git add epg.json channels.json epg.xml || true
+
           git commit -m "update epg" || echo "no changes"
+
           git push
