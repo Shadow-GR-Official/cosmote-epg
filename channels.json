@@ -1,5 +1,8 @@
 [
-  { "id": "euronewseng", "name": "Euronews" },
-  { "id": "cnn", "name": "CNN" },
-  { "id": "bbcworld", "name": "BBC World News" }
+  {
+    "id": "XTV100000952",
+    "name": "ΕΡΤ1 HD",
+    "callSign": "ert1",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/ert1-normal_blue.png"
+  }
 ]
