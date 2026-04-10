@@ -1,97 +1,91 @@
 import requests
 import json
+from datetime import datetime
 
 API = "https://www.cosmotetv.gr/api/channels/schedule?"
 
 
+def to_xmltv_time(iso_str):
+    dt = datetime.strptime(iso_str, "%Y-%m-%dT%H:%M:%SZ")
+    return dt.strftime("%Y%m%d%H%M%S +0000")
+
+
 def main():
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/122.0 Safari/537.36"
-        ),
-        "Accept": "application/json, text/plain, */*",
-        "Accept-Language": "el-GR,el;q=0.9,en;q=0.8",
-        "Referer": "https://www.cosmotetv.gr/",
-        "Origin": "https://www.cosmotetv.gr",
-        "Connection": "keep-alive"
+
+    # -------------------------
+    # LOAD CHANNELS (STATIC)
+    # -------------------------
+    try:
+        with open("channels.json", "r", encoding="utf-8") as f:
+            channels_list = json.load(f)
+    except:
+        channels_list = []
+
+    channel_map = {
+        c["id"]: c.get("name")
+        for c in channels_list
+        if "id" in c
     }
 
-    try:
-        r = requests.get(API, headers=headers, timeout=20)
-    except Exception as e:
-        print("REQUEST FAILED:", e)
-        return
+    # -------------------------
+    # FETCH EPG
+    # -------------------------
+    r = requests.get(API, headers={
+        "User-Agent": "Mozilla/5.0",
+        "Accept": "application/json",
+        "Referer": "https://www.cosmotetv.gr/"
+    })
 
-    print("STATUS:", r.status_code)
-    print("CONTENT-TYPE:", r.headers.get("content-type"))
-
-    # 🔥 HARD STOP if server fails
-    if r.status_code != 200:
-        print("ERROR: non-200 response")
-        print(r.text[:500])
-        return
-
-    # 🔥 parse JSON safely
-    try:
-        data = r.json()
-    except Exception:
-        print("ERROR: response is not JSON")
-        print(r.text[:500])
-        return
-
-    # 🔥 debug empty response
-    if not data:
-        print("ERROR: empty response {}")
-        print(r.text[:500])
-        return
-
-    # 🔥 correct structure
+    data = r.json()
     channels = data.get("stripes", {}).get("channels", [])
 
-    if not channels:
-        print("ERROR: no channels in stripes")
-        print(json.dumps(data, indent=2)[:1000])
-        return
+    # -------------------------
+    # BUILD XMLTV
+    # -------------------------
+    xml = []
+    xml.append('<?xml version="1.0" encoding="UTF-8"?>')
+    xml.append("<tv>")
 
-    epg = []
+    # ✔ STATIC CHANNELS (from file, NOT API rewrite)
+    for cid, name in channel_map.items():
+        xml.append(f'<channel id="{cid}">')
+        xml.append(f"<display-name>{name}</display-name>")
+        xml.append("</channel>")
 
+    # -------------------------
+    # PROGRAMMES ONLY
+    # -------------------------
     for ch in channels:
-        channel_id = ch.get("guid")
-        channel_name = ch.get("title")
 
-        items = ch.get("items") or []
-
-        programs = []
+        cid = ch.get("guid")
+        items = ch.get("items", []) or []
 
         for p in items:
+
             qoe = p.get("qoe", {})
 
-            programs.append({
-                "id": p.get("programGuid"),
-                "title": qoe.get("title") or p.get("title"),
-                "start": p.get("startTime"),
-                "end": p.get("endTime"),
-                "description": p.get("description"),
-                "genre": qoe.get("genre"),
-                "thumbnail": (
-                    p.get("thumbnails", {}).get("medium")
-                    if isinstance(p.get("thumbnails"), dict)
-                    else None
-                )
-            })
+            title = qoe.get("title") or p.get("title") or ""
+            desc = p.get("description") or ""
 
-        epg.append({
-            "channel_id": channel_id,
-            "channel_name": channel_name,
-            "programs": programs
-        })
+            start = to_xmltv_time(p.get("startTime"))
+            stop = to_xmltv_time(p.get("endTime"))
 
-    with open("epg.json", "w", encoding="utf-8") as f:
-        json.dump(epg, f, ensure_ascii=False, indent=2)
+            xml.append(
+                f'<programme start="{start}" stop="{stop}" channel="{cid}">'
+            )
+            xml.append(f"<title lang=\"el\">{title}</title>")
+            xml.append(f"<desc lang=\"el\">{desc}</desc>")
+            xml.append("</programme>")
 
-    print(f"SUCCESS: saved EPG for {len(epg)} channels")
+    xml.append("</tv>")
+
+    # -------------------------
+    # WRITE OUTPUT
+    # -------------------------
+    with open("epg.xml", "w", encoding="utf-8") as f:
+        f.write("\n".join(xml))
+
+    print(f"SUCCESS: XMLTV generated with {len(channel_map)} channels")
 
 
 if __name__ == "__main__":
