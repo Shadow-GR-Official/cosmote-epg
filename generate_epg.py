@@ -2,6 +2,7 @@ import json
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
+
 def to_xmltv_time(iso_str):
     if not iso_str:
         return ""
@@ -11,21 +12,17 @@ def to_xmltv_time(iso_str):
     return dt.strftime("%Y%m%d%H%M%S +0000")
 
 
+# ✅ FIXED: COSMOTE channel ID
 def get_channel_id(ch):
     if not isinstance(ch, dict):
         return None
-
-    return (
-        ch.get("guid")
-        or ch.get("channel_id")
-        or (ch.get("channel", {}) if isinstance(ch.get("channel"), dict) else {}).get("guid")
-    )
+    return ch.get("id")
 
 
 def get_channel_name(ch):
     if not isinstance(ch, dict):
         return ""
-    return ch.get("title") or ch.get("name") or (ch.get("channel", {}) or {}).get("title", "")
+    return ch.get("name", "")
 
 
 # load files
@@ -35,14 +32,17 @@ with open("channels.json", "r", encoding="utf-8") as f:
 with open("epg.json", "r", encoding="utf-8") as f:
     epg_data = json.load(f)
 
-# map epg
+
+# ✅ FIXED: build epg map using SAME ID system
 epg_map = {}
 for ch in epg_data:
-    cid = ch.get("channel_id")
+    cid = ch.get("id") or ch.get("channel_id")
     if cid:
         epg_map[cid] = ch.get("programs", [])
 
+
 tv = ET.Element("tv")
+
 
 # CHANNELS
 for ch in channels:
@@ -55,6 +55,7 @@ for ch in channels:
     channel_el = ET.SubElement(tv, "channel", id=cid)
     dn = ET.SubElement(channel_el, "display-name")
     dn.text = name
+
 
 # PROGRAMMES
 for ch in channels:
@@ -83,6 +84,7 @@ for ch in channels:
         if p.get("genre"):
             cat = ET.SubElement(prog, "category", lang="el")
             cat.text = p["genre"]
+
 
 ET.ElementTree(tv).write("epg.xml", encoding="utf-8", xml_declaration=True)
 
