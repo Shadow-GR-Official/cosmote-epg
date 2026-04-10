@@ -15,7 +15,9 @@ def to_xmltv_time(iso_str):
         return ""
 
 
-# ✅ CHANNELS (ONLY REAL ID USED)
+# -----------------------------
+# CHANNEL HELPERS
+# -----------------------------
 def get_channel_id(ch):
     return ch.get("id") if isinstance(ch, dict) else None
 
@@ -24,7 +26,9 @@ def get_channel_name(ch):
     return ch.get("name", "") if isinstance(ch, dict) else ""
 
 
-# load files
+# -----------------------------
+# LOAD FILES
+# -----------------------------
 with open("channels.json", "r", encoding="utf-8") as f:
     channels = json.load(f)
 
@@ -32,48 +36,65 @@ with open("epg.json", "r", encoding="utf-8") as f:
     epg_data = json.load(f)
 
 
-# 🔥 FIX: normalize epg channels (handles ANY API variation safely)
-epg_map = {}
+# -----------------------------
+# BUILD EPG INDEX (ROBUST)
+# -----------------------------
+epg_by_id = {}
+epg_by_name = {}
 
 for ch in epg_data:
     if not isinstance(ch, dict):
         continue
 
-    cid = (
-        ch.get("id")
-        or ch.get("channel_id")
-        or ch.get("guid")
-        or (ch.get("channel", {}) if isinstance(ch.get("channel"), dict) else {}).get("id")
-        or (ch.get("channel", {}) if isinstance(ch.get("channel"), dict) else {}).get("guid")
-    )
+    cid = ch.get("id") or ch.get("channel_id") or ch.get("guid")
+    name = ch.get("name") or ch.get("title")
 
-    if cid and isinstance(ch.get("programs"), list):
-        epg_map[cid] = ch["programs"]
+    programs = ch.get("programs", [])
+
+    if cid:
+        epg_by_id[cid] = programs
+
+    if name:
+        epg_by_name[name.lower().strip()] = programs
 
 
+# -----------------------------
+# CREATE XMLTV ROOT
+# -----------------------------
 tv = ET.Element("tv")
 
 
-# CHANNELS
+# -----------------------------
+# CHANNELS SECTION
+# -----------------------------
 for ch in channels:
     cid = get_channel_id(ch)
+    name = get_channel_name(ch)
+
     if not cid:
         continue
-
-    name = get_channel_name(ch)
 
     channel_el = ET.SubElement(tv, "channel", id=cid)
     dn = ET.SubElement(channel_el, "display-name")
     dn.text = name
 
 
-# PROGRAMMES
+# -----------------------------
+# PROGRAMMES SECTION
+# -----------------------------
 for ch in channels:
     cid = get_channel_id(ch)
+    name = get_channel_name(ch)
+
     if not cid:
         continue
 
-    programs = epg_map.get(cid, [])
+    # 1️⃣ try match by ID
+    programs = epg_by_id.get(cid, [])
+
+    # 2️⃣ fallback: match by name (VERY IMPORTANT SAFETY NET)
+    if not programs:
+        programs = epg_by_name.get(name.lower().strip(), [])
 
     for p in programs:
         if not isinstance(p, dict):
@@ -88,7 +109,7 @@ for ch in channels:
         )
 
         title = ET.SubElement(prog, "title", lang="el")
-        title.text = p.get("title", "") or "No Title"
+        title.text = p.get("title", "No Title")
 
         if p.get("description"):
             desc = ET.SubElement(prog, "desc", lang="el")
@@ -99,6 +120,13 @@ for ch in channels:
             cat.text = p["genre"]
 
 
-ET.ElementTree(tv).write("epg.xml", encoding="utf-8", xml_declaration=True)
+# -----------------------------
+# WRITE OUTPUT
+# -----------------------------
+ET.ElementTree(tv).write(
+    "epg.xml",
+    encoding="utf-8",
+    xml_declaration=True
+)
 
 print(f"SUCCESS: XML generated for {len(channels)} channels")
