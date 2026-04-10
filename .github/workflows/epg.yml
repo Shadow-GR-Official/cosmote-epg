@@ -27,8 +27,11 @@ jobs:
       - name: Fetch channels
         run: python fetch_channels.py
 
-      - name: Generate EPG
+      - name: Generate EPG (XMLTV)
         run: python generate_epg.py
+
+      - name: Generate M3U
+        run: python generate_m3u.py
 
       - name: Show generated files
         run: ls -la
@@ -38,8 +41,8 @@ jobs:
           git config user.name "EPG Bot"
           git config user.email "bot@github.com"
 
-          git add epg.json channels.json epg.xml || true
+          git add epg.xml epg.json channels.json channels.m3u || true
 
-          git commit -m "update epg" || echo "no changes"
+          git commit -m "update epg + m3u" || echo "no changes"
 
           git push
