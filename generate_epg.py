@@ -6,19 +6,18 @@ def to_xmltv_time(iso_str):
     if not iso_str:
         return ""
 
-    # handle Z or +00:00
     iso_str = iso_str.replace("Z", "")
     dt = datetime.fromisoformat(iso_str)
     return dt.strftime("%Y%m%d%H%M%S +0000")
 
-# load files
+# load
 with open("channels.json", "r", encoding="utf-8") as f:
     channels = json.load(f)
 
 with open("epg.json", "r", encoding="utf-8") as f:
     epg_data = json.load(f)
 
-# map epg by channel_id
+# map epg
 epg_map = {}
 for ch in epg_data:
     cid = ch.get("channel_id")
@@ -27,17 +26,26 @@ for ch in epg_data:
 
 tv = ET.Element("tv")
 
-# CHANNELS (always preserved)
+# CHANNELS (SAFE LOOP)
 for ch in channels:
-    channel_id = ch["guid"]
+    channel_id = ch.get("guid") or ch.get("channel_id")
+
+    if not channel_id:
+        continue  # skip broken entries
 
     channel_el = ET.SubElement(tv, "channel", id=channel_id)
+
+    name = ch.get("title") or ch.get("name") or ""
     name_el = ET.SubElement(channel_el, "display-name")
-    name_el.text = ch.get("title", "")
+    name_el.text = name
 
 # PROGRAMMES
 for ch in channels:
-    cid = ch["guid"]
+    cid = ch.get("guid") or ch.get("channel_id")
+
+    if not cid:
+        continue
+
     programs = epg_map.get(cid, [])
 
     for p in programs:
@@ -52,18 +60,19 @@ for ch in channels:
         title_el = ET.SubElement(prog_el, "title", lang="el")
         title_el.text = p.get("title", "")
 
-        desc_text = p.get("description")
-        if desc_text:
+        if p.get("description"):
             desc_el = ET.SubElement(prog_el, "desc", lang="el")
-            desc_el.text = desc_text
+            desc_el.text = p["description"]
 
-        genre = p.get("genre")
-        if genre:
+        if p.get("genre"):
             cat_el = ET.SubElement(prog_el, "category", lang="el")
-            cat_el.text = genre
+            cat_el.text = p["genre"]
 
-# write file
-tree = ET.ElementTree(tv)
-tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
+# write
+ET.ElementTree(tv).write(
+    "epg.xml",
+    encoding="utf-8",
+    xml_declaration=True
+)
 
-print(f"SUCCESS: XMLTV generated for {len(channels)} channels")
+print(f"SUCCESS: XML generated for {len(channels)} channels")
