@@ -1,49 +1,33 @@
 import requests
 import json
 
-CHANNELS_API = "https://www.cosmotetv.gr/api/channels"
+API = "https://www.cosmotetv.gr/api/channels?locale=el"
 
 def main():
-    r = requests.get(CHANNELS_API, headers={
+    r = requests.get(API, headers={
         "User-Agent": "Mozilla/5.0",
         "Accept": "application/json"
     })
 
-    try:
-        data = r.json()
-    except:
-        print("Response is not JSON:")
-        print(r.text)
-        return
+    data = r.json()
 
     channels = []
 
-    # περίπτωση 1: dict με key
-    if isinstance(data, dict):
-        data = data.get("channels", [])
+    for ch in data:
+        if ch.get("type") != "channel":
+            continue
 
-    # περίπτωση 2: list
-    if isinstance(data, list):
-        for ch in data:
-            if isinstance(ch, dict):
-                channels.append({
-                    "id": ch.get("id"),
-                    "name": ch.get("name", ch.get("id"))
-                })
-            elif isinstance(ch, str):
-                channels.append({
-                    "id": ch,
-                    "name": ch
-                })
-
-    else:
-        print("Unknown format:", type(data))
-        return
+        channels.append({
+            "id": ch.get("guid"),
+            "name": ch.get("title"),
+            "callSign": ch.get("callSign"),
+            "logo": (ch.get("logos") or {}).get("square")
+        })
 
     with open("channels.json", "w", encoding="utf-8") as f:
         json.dump(channels, f, ensure_ascii=False, indent=2)
 
-    print(f"Saved {len(channels)} channels.")
+    print(f"Loaded {len(channels)} channels")
 
 if __name__ == "__main__":
     main()
