@@ -1,7 +1,7 @@
 import requests
 import json
 
-API = "https://www.cosmotetv.gr/api/channels/schedule?"
+API = "https://www.cosmotetv.gr/api/channels/schedule"
 
 
 def main():
@@ -15,26 +15,32 @@ def main():
 
     print("STATUS:", r.status_code)
 
-    data = r.json()
+    try:
+        data = r.json()
+    except Exception as e:
+        print("ERROR: invalid JSON:", e)
+        print(r.text[:500])
+        return
+
+    # ✅ correct path
+    channels = data.get("stripes", {}).get("channels", [])
+
+    if not channels:
+        print("ERROR: no channels found in stripes")
+        print(json.dumps(data, indent=2)[:1000])
+        return
 
     epg = []
 
-    if not isinstance(data, list):
-        print("ERROR: unexpected format")
-        print(type(data))
-        return
-
-    for ch in data:
-
-        channel_id = ch.get("guid") or ch.get("channelGuid")
+    for ch in channels:
+        channel_id = ch.get("guid")
         channel_name = ch.get("title")
 
-        items = ch.get("items", [])
+        items = ch.get("items", []) or []
 
         programs = []
 
         for p in items:
-
             qoe = p.get("qoe", {})
 
             programs.append({
