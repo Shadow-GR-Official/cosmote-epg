@@ -27,7 +27,7 @@ jobs:
       - name: Fetch channels
         run: python fetch_channels.py
 
-      # 🔍 SAFE VALIDATION (supports all API formats)
+      # ✅ FIXED VALIDATION (COSMOTE schema)
       - name: Validate channels.json
         run: |
           python - << 'EOF'
@@ -36,31 +36,26 @@ jobs:
           with open("channels.json", "r", encoding="utf-8") as f:
               data = json.load(f)
 
-          def get_id(ch):
-              if not isinstance(ch, dict):
-                  return None
+          def is_valid(ch):
+              return (
+                  isinstance(ch, dict)
+                  and isinstance(ch.get("id"), str)
+                  and len(ch.get("id")) > 0
+                  and isinstance(ch.get("name"), str)
+                  and len(ch.get("name")) > 0
+              )
 
-              if "guid" in ch:
-                  return ch["guid"]
-
-              if "channel_id" in ch:
-                  return ch["channel_id"]
-
-              if "channel" in ch and isinstance(ch["channel"], dict):
-                  return ch["channel"].get("guid")
-
-              return None
-
-          valid = [get_id(c) for c in data]
-          valid = [v for v in valid if v]
+          valid = [c for c in data if is_valid(c)]
 
           print(f"TOTAL channels: {len(data)}")
           print(f"VALID channels: {len(valid)}")
 
           if len(valid) == 0:
-              print("SAMPLE:")
-              print(data[0])
+              print("\nSAMPLE:")
+              print(json.dumps(data[0], indent=2, ensure_ascii=False))
               raise Exception("NO VALID CHANNELS FOUND")
+
+          print("VALIDATION OK")
           EOF
 
       - name: Generate EPG JSON
@@ -81,6 +76,8 @@ jobs:
 
           if total_programs == 0:
               raise Exception("EPG EMPTY")
+
+          print("EPG VALIDATION OK")
           EOF
 
       - name: Generate M3U
