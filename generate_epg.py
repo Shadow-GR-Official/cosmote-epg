@@ -10,7 +10,25 @@ def to_xmltv_time(iso_str):
     dt = datetime.fromisoformat(iso_str)
     return dt.strftime("%Y%m%d%H%M%S +0000")
 
-# load
+
+def get_channel_id(ch):
+    if not isinstance(ch, dict):
+        return None
+
+    return (
+        ch.get("guid")
+        or ch.get("channel_id")
+        or (ch.get("channel", {}) if isinstance(ch.get("channel"), dict) else {}).get("guid")
+    )
+
+
+def get_channel_name(ch):
+    if not isinstance(ch, dict):
+        return ""
+    return ch.get("title") or ch.get("name") or (ch.get("channel", {}) or {}).get("title", "")
+
+
+# load files
 with open("channels.json", "r", encoding="utf-8") as f:
     channels = json.load(f)
 
@@ -26,30 +44,28 @@ for ch in epg_data:
 
 tv = ET.Element("tv")
 
-# CHANNELS (SAFE LOOP)
+# CHANNELS
 for ch in channels:
-    channel_id = ch.get("guid") or ch.get("channel_id")
+    cid = get_channel_id(ch)
+    if not cid:
+        continue
 
-    if not channel_id:
-        continue  # skip broken entries
+    name = get_channel_name(ch)
 
-    channel_el = ET.SubElement(tv, "channel", id=channel_id)
-
-    name = ch.get("title") or ch.get("name") or ""
-    name_el = ET.SubElement(channel_el, "display-name")
-    name_el.text = name
+    channel_el = ET.SubElement(tv, "channel", id=cid)
+    dn = ET.SubElement(channel_el, "display-name")
+    dn.text = name
 
 # PROGRAMMES
 for ch in channels:
-    cid = ch.get("guid") or ch.get("channel_id")
-
+    cid = get_channel_id(ch)
     if not cid:
         continue
 
     programs = epg_map.get(cid, [])
 
     for p in programs:
-        prog_el = ET.SubElement(
+        prog = ET.SubElement(
             tv,
             "programme",
             start=to_xmltv_time(p.get("start")),
@@ -57,22 +73,17 @@ for ch in channels:
             channel=cid
         )
 
-        title_el = ET.SubElement(prog_el, "title", lang="el")
-        title_el.text = p.get("title", "")
+        title = ET.SubElement(prog, "title", lang="el")
+        title.text = p.get("title", "")
 
         if p.get("description"):
-            desc_el = ET.SubElement(prog_el, "desc", lang="el")
-            desc_el.text = p["description"]
+            desc = ET.SubElement(prog, "desc", lang="el")
+            desc.text = p["description"]
 
         if p.get("genre"):
-            cat_el = ET.SubElement(prog_el, "category", lang="el")
-            cat_el.text = p["genre"]
+            cat = ET.SubElement(prog, "category", lang="el")
+            cat.text = p["genre"]
 
-# write
-ET.ElementTree(tv).write(
-    "epg.xml",
-    encoding="utf-8",
-    xml_declaration=True
-)
+ET.ElementTree(tv).write("epg.xml", encoding="utf-8", xml_declaration=True)
 
 print(f"SUCCESS: XML generated for {len(channels)} channels")
