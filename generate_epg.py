@@ -6,27 +6,52 @@ API = "https://www.cosmotetv.gr/api/channels/schedule?"
 
 def main():
     headers = {
-        "User-Agent": "Mozilla/5.0",
-        "Accept": "application/json",
-        "Referer": "https://www.cosmotetv.gr/"
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/122.0 Safari/537.36"
+        ),
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "el-GR,el;q=0.9,en;q=0.8",
+        "Referer": "https://www.cosmotetv.gr/",
+        "Origin": "https://www.cosmotetv.gr",
+        "Connection": "keep-alive"
     }
 
-    r = requests.get(API, headers=headers, timeout=20)
+    try:
+        r = requests.get(API, headers=headers, timeout=20)
+    except Exception as e:
+        print("REQUEST FAILED:", e)
+        return
 
     print("STATUS:", r.status_code)
+    print("CONTENT-TYPE:", r.headers.get("content-type"))
 
-    try:
-        data = r.json()
-    except Exception as e:
-        print("ERROR: invalid JSON:", e)
+    # 🔥 HARD STOP if server fails
+    if r.status_code != 200:
+        print("ERROR: non-200 response")
         print(r.text[:500])
         return
 
-    # ✅ correct path
+    # 🔥 parse JSON safely
+    try:
+        data = r.json()
+    except Exception:
+        print("ERROR: response is not JSON")
+        print(r.text[:500])
+        return
+
+    # 🔥 debug empty response
+    if not data:
+        print("ERROR: empty response {}")
+        print(r.text[:500])
+        return
+
+    # 🔥 correct structure
     channels = data.get("stripes", {}).get("channels", [])
 
     if not channels:
-        print("ERROR: no channels found in stripes")
+        print("ERROR: no channels in stripes")
         print(json.dumps(data, indent=2)[:1000])
         return
 
@@ -36,7 +61,7 @@ def main():
         channel_id = ch.get("guid")
         channel_name = ch.get("title")
 
-        items = ch.get("items", []) or []
+        items = ch.get("items") or []
 
         programs = []
 
@@ -66,7 +91,7 @@ def main():
     with open("epg.json", "w", encoding="utf-8") as f:
         json.dump(epg, f, ensure_ascii=False, indent=2)
 
-    print(f"SUCCESS: Saved EPG for {len(epg)} channels")
+    print(f"SUCCESS: saved EPG for {len(epg)} channels")
 
 
 if __name__ == "__main__":
