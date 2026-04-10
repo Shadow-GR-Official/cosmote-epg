@@ -7,22 +7,21 @@ def to_xmltv_time(iso_str):
     if not iso_str:
         return ""
 
-    iso_str = iso_str.replace("Z", "")
-    dt = datetime.fromisoformat(iso_str)
-    return dt.strftime("%Y%m%d%H%M%S +0000")
+    try:
+        iso_str = iso_str.replace("Z", "")
+        dt = datetime.fromisoformat(iso_str)
+        return dt.strftime("%Y%m%d%H%M%S +0000")
+    except Exception:
+        return ""
 
 
-# ✅ FIX: ONLY USE REAL CHANNEL ID (XTV...)
+# ✅ CHANNELS (ONLY REAL ID USED)
 def get_channel_id(ch):
-    if not isinstance(ch, dict):
-        return None
-    return ch.get("id")
+    return ch.get("id") if isinstance(ch, dict) else None
 
 
 def get_channel_name(ch):
-    if not isinstance(ch, dict):
-        return ""
-    return ch.get("name", "")
+    return ch.get("name", "") if isinstance(ch, dict) else ""
 
 
 # load files
@@ -33,13 +32,23 @@ with open("epg.json", "r", encoding="utf-8") as f:
     epg_data = json.load(f)
 
 
-# ✅ FIXED: epg.json mapping MUST use SAME ID system (XTV...)
+# 🔥 FIX: normalize epg channels (handles ANY API variation safely)
 epg_map = {}
 
 for ch in epg_data:
-    cid = ch.get("id")  # 🔥 ONLY THIS (no channel_id, no guid)
-    if cid:
-        epg_map[cid] = ch.get("programs", [])
+    if not isinstance(ch, dict):
+        continue
+
+    cid = (
+        ch.get("id")
+        or ch.get("channel_id")
+        or ch.get("guid")
+        or (ch.get("channel", {}) if isinstance(ch.get("channel"), dict) else {}).get("id")
+        or (ch.get("channel", {}) if isinstance(ch.get("channel"), dict) else {}).get("guid")
+    )
+
+    if cid and isinstance(ch.get("programs"), list):
+        epg_map[cid] = ch["programs"]
 
 
 tv = ET.Element("tv")
@@ -67,6 +76,9 @@ for ch in channels:
     programs = epg_map.get(cid, [])
 
     for p in programs:
+        if not isinstance(p, dict):
+            continue
+
         prog = ET.SubElement(
             tv,
             "programme",
@@ -76,7 +88,7 @@ for ch in channels:
         )
 
         title = ET.SubElement(prog, "title", lang="el")
-        title.text = p.get("title", "")
+        title.text = p.get("title", "") or "No Title"
 
         if p.get("description"):
             desc = ET.SubElement(prog, "desc", lang="el")
