@@ -1,4 +1,5 @@
 import json
+import os
 
 OUTPUT = "channels.m3u"
 CHANNELS_FILE = "channels.json"
@@ -6,13 +7,18 @@ CHANNELS_FILE = "channels.json"
 
 def main():
 
+    if not os.path.exists(CHANNELS_FILE):
+        print("ERROR: channels.json not found")
+        return
+
     with open(CHANNELS_FILE, "r", encoding="utf-8") as f:
         channels = json.load(f)
 
-    lines = []
+    if not channels:
+        print("ERROR: channels.json is empty")
+        return
 
-    # M3U header
-    lines.append("#EXTM3U")
+    lines = ["#EXTM3U"]
 
     for ch in channels:
 
@@ -20,8 +26,10 @@ def main():
         name = ch.get("name") or ch.get("channel_name") or "Unknown"
         logo = ch.get("logo") or ""
 
-        # placeholder stream url (you will fill later)
-        stream_url = "http://127.0.0.1/stream/" + channel_id
+        if not channel_id:
+            continue
+
+        stream_url = f"http://127.0.0.1/{channel_id}"
 
         lines.append(
             f'#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{name}" tvg-logo="{logo}",{name}'
@@ -31,7 +39,7 @@ def main():
     with open(OUTPUT, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
-    print(f"SUCCESS: M3U created with {len(channels)} channels")
+    print(f"SUCCESS: created {OUTPUT} with {len(lines)//2} channels")
 
 
 if __name__ == "__main__":
