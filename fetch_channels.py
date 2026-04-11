@@ -1,66 +1,93 @@
-import requests
 import json
-import sys
+import xml.etree.ElementTree as ET
 from datetime import datetime
+import pytz
 
-# Σωστό URL με το διαχωριστικό & πριν το date
-current_date = datetime.now().strftime("%Y-%m-%d")
-API = f"https://cosmotetv.gr{current_date}"
-
-def extract_channels(data):
-    if not isinstance(data, dict): return []
-    if isinstance(data.get("stripes"), list):
-        for item in data["stripes"]:
-            if isinstance(item, dict) and isinstance(item.get("channels"), list):
-                return item["channels"]
-    return []
-
-def normalize_channel(ch):
-    if not isinstance(ch, dict): return None
-    channel_id = ch.get("id") or ch.get("guid") or ch.get("number")
-    if not channel_id: return None
-    return {
-        "id": str(channel_id),
-        "name": ch.get("title") or ch.get("name") or "UNKNOWN",
-        "programs": ch.get("programs", [])
-    }
-
-def main():
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0 Safari/537.36",
-        "Referer": "https://cosmotetv.gr",
-    }
-
+# -----------------------------
+# TIME FORMAT (FIXED)
+# -----------------------------
+def to_xmltv_time(iso_str):
+    if not iso_str:
+        return ""
     try:
-        print(f"Fetching data for date: {current_date}...")
-        r = requests.get(API, headers=headers, timeout=20)
+        # Η Cosmote επιστρέφει: "2024-04-11T10:30:00Z"
+        # Το 'Z' σημαίνει UTC.
+        iso_str = iso_str.replace("Z", "")
+        dt_utc = datetime.fromisoformat(iso_str)
         
-        if r.status_code != 200:
-            print(f"Σφάλμα API: {r.status_code}")
-            sys.exit(1)
-
-        data = r.json()
-        channels_raw = extract_channels(data)
+        # Ορίζουμε ότι είναι UTC
+        dt_utc = pytz.utc.localize(dt_utc)
         
-        channels_list = []
-        for ch in channels_raw:
-            norm = normalize_channel(ch)
-            if norm:
-                channels_list.append(norm)
+        # Μετατροπή σε ώρα Ελλάδος (υπολογίζει αυτόματα DST/Καλοκαιρινή)
+        athens_tz = pytz.timezone('Europe/Athens')
+        dt_athens = dt_utc.astimezone(athens_tz)
+        
+        # Format για XMLTV: YYYYMMDDHHMMSS +0300 ή +0200
+        return dt_athens.strftime("%Y%m%d%H%M%S %z")
+    except Exception:
+        return ""
 
-        # Σώζουμε τα κανάλια για το επόμενο script
-        with open("channels.json", "w", encoding="utf-8") as f:
-            json.dump(channels_list, f, ensure_ascii=False, indent=2)
-            
-        # Σώζουμε και το epg.json (το αρχείο που διαβάζει το XML script σου)
-        with open("epg.json", "w", encoding="utf-8") as f:
-            json.dump(channels_list, f, ensure_ascii=False, indent=2)
+# -----------------------------
+# CATEGORY MAP (Συνοπτικό)
+# -----------------------------
+CATEGORY_MAP = {"Movie": "Ταινία", "Film": "Ταινία", "Series": "Σειρά", "Sports": "Αθλητικά", "News": "Ειδήσεις"}
 
-        print(f"SUCCESS: Saved {len(channels_list)} channels to channels.json and epg.json")
+def normalize_genre(genre):
+    if not genre: return None
+    return CATEGORY_MAP.get(genre, genre)
 
-    except Exception as e:
-        print(f"ERROR: {str(e)}")
-        sys.exit(1)
+# -----------------------------
+# LOAD DATA
+# -----------------------------
+try:
+    with open("channels.json", "r", encoding="utf-8") as f:
+        channels = json.load(f)
+    with open("epg.json", "r", encoding="utf-8") as f:
+        epg_data = json.load(f)
+except FileNotFoundError:
+    print("Σφάλμα: Λείπουν τα αρχεία json!")
+    exit(1)
 
-if __name__ == "__main__":
-    main()
+# Indexing EPG
+epg_by_id = {str(ch.get("id")): ch.get("programs", []) for ch in epg_data if isinstance(ch, dict)}
+
+# -----------------------------
+# BUILD XMLTV
+# -----------------------------
+tv = ET.Element("tv", {"generator-info-name": "Cosmote TV Grabber"})
+
+# Channels
+for ch in channels:
+    cid = str(ch.get("id"))
+    channel_el = ET.SubElement(tv, "channel", id=cid)
+    ET.SubElement(channel_el, "display-name", lang="el").text = ch.get("name")
+
+# Programmes
+for ch in channels:
+    cid = str(ch.get("id"))
+    programs = epg_by_id.get(cid, [])
+
+    for p in programs:
+        start = to_xmltv_time(p.get("start"))
+        stop = to_xmltv_time(p.get("end"))
+        
+        if not start or not stop: continue
+
+        prog = ET.SubElement(tv, "programme", start=start, stop=stop, channel=cid)
+        ET.SubElement(prog, "title", lang="el").text = p.get("title", "Χωρίς τίτλο")
+        
+        if p.get("description"):
+            ET.SubElement(prog, "desc", lang="el").text = p["description"]
+        
+        if p.get("genre"):
+            cat = ET.SubElement(prog, "category", lang="el")
+            cat.text = normalize_genre(p["genre"])
+
+# -----------------------------
+# SAVE XML
+# -----------------------------
+tree = ET.ElementTree(tv)
+ET.indent(tree, space="\t", level=0)
+tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
+
+print("SUCCESS: Το epg.xml δημιουργήθηκε με σωστές ώρες Ελλάδος!")
