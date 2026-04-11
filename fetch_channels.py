@@ -4,13 +4,19 @@ import sys
 import time
 
 def main():
-    # 1. Υπολογίζουμε τα Timestamps (από χθες το βράδυ μέχρι αύριο το βράδυ)
-    # 172800 δευτερόλεπτα = 48 ώρες για να είμαστε σίγουροι
-    start_ts = int(time.time()) - 36000  # 10 ώρες πίσω από τώρα
-    end_ts = start_ts + 172800           # 48 ώρες πρόγραμμα
+    # 1. Υπολογισμός Timestamps (48 ώρες πρόγραμμα)
+    start_ts = int(time.time()) - 36000  # 10 ώρες πίσω
+    end_ts = start_ts + 172800           # +48 ώρες
 
-    # 2. Το "ακριβές" API URL που χρησιμοποιεί η Cosmote
-    API = f"https://cosmotetv.gr{start_ts}&to={end_ts}"
+    # 2. Το σταθερό API URL
+    API_URL = "https://cosmotetv.gr"
+    
+    # 3. Οι παράμετροι ξεχωριστά για να μην γίνει λάθος στο URL
+    params = {
+        "locale": "el",
+        "from": start_ts,
+        "to": end_ts
+    }
 
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
@@ -21,12 +27,14 @@ def main():
     session = requests.Session()
     
     try:
-        print(f"Fetching 48h EPG from {start_ts} to {end_ts}...")
-        # Hit th σελίδα για cookies
+        print(f"Fetching EPG from {start_ts} to {end_ts}...")
+        # Warm up session
         session.get("https://cosmotetv.gr", headers=headers, timeout=15)
         
-        # Κλήση API
-        r = session.get(API, headers=headers, timeout=20)
+        # Κλήση API με params
+        r = session.get(API_URL, params=params, headers=headers, timeout=20)
+        
+        print(f"Request URL: {r.url}") # Για να βλέπουμε αν χτίστηκε σωστά
         
         if r.status_code != 200:
             print(f"API Error: {r.status_code}")
@@ -34,27 +42,27 @@ def main():
 
         data = r.json()
         
-        # Εξαγωγή καναλιών από το stripes
         channels_raw = []
         if isinstance(data.get("stripes"), list):
             for item in data["stripes"]:
-                if "channels" in item:
+                if isinstance(item, dict) and "channels" in item:
                     channels_raw = item["channels"]
                     break
-        
+        elif isinstance(data.get("stripes"), dict):
+            channels_raw = data["stripes"].get("channels", [])
+
         if not channels_raw:
-            print("No channels found in API response.")
+            print("No channels found in response.")
             sys.exit(1)
 
-        # Αποθήκευση στο epg.json
+        # Αποθήκευση
         with open("epg.json", "w", encoding="utf-8") as f:
             json.dump(channels_raw, f, ensure_ascii=False, indent=2)
             
-        # Αποθήκευση και στο channels.json για το άλλο script
         with open("channels.json", "w", encoding="utf-8") as f:
             json.dump(channels_raw, f, ensure_ascii=False, indent=2)
 
-        print(f"SUCCESS: Saved {len(channels_raw)} channels with full 48h schedule.")
+        print(f"SUCCESS: Saved {len(channels_raw)} channels.")
 
     except Exception as e:
         print(f"ERROR: {str(e)}")
