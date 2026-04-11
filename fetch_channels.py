@@ -1,70 +1,67 @@
+import requests
 import json
-import xml.etree.ElementTree as ET
-from datetime import datetime
-from zoneinfo import ZoneInfo
+import sys
+import time
 
-def to_xmltv_time(iso_str):
-    if not iso_str: return ""
+def main():
+    # 1. Δυναμικός υπολογισμός Timestamps για το "Τώρα"
+    # start_ts: Η τρέχουσα στιγμή (Unix Timestamp)
+    # end_ts: Μετά από 24 ώρες
+    start_ts = int(time.time())
+    end_ts = start_ts + 86400 
+
+    # 2. Χτίζουμε το URL με τα φρέσκα Timestamps
+    API = f"https://cosmotetv.gr{start_ts}&to={end_ts}"
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+        "Referer": "https://cosmotetv.gr",
+        "X-Requested-With": "XMLHttpRequest"
+    }
+
+    session = requests.Session()
+    
     try:
-        iso_str = iso_str.strip().replace("Z", "+00:00")
-        if '+' not in iso_str and '-' not in iso_str[10:]:
-            iso_str += "+00:00"
-        dt_obj = datetime.fromisoformat(iso_str)
-        dt_athens = dt_obj.astimezone(ZoneInfo("Europe/Athens"))
-        return dt_athens.strftime("%Y%m%d%H%M%S %z")
-    except:
-        return ""
-
-# Φόρτωση δεδομένων
-try:
-    with open("epg.json", "r", encoding="utf-8") as f:
-        epg_data = json.load(f)
-except Exception as e:
-    print(f"Error loading epg.json: {e}")
-    exit(1)
-
-tv = ET.Element("tv", {"generator-info-name": "Cosmote EPG Fixer"})
-
-for ch in epg_data:
-    if not isinstance(ch, dict): continue
-    
-    # ID και Όνομα καναλιού
-    cid = str(ch.get("guid") or ch.get("id") or "")
-    name = ch.get("title") or ch.get("name") or "Unknown"
-    
-    if not cid: continue
-
-    # Προσθήκη καναλιού στο XML
-    channel_el = ET.SubElement(tv, "channel", id=cid)
-    ET.SubElement(channel_el, "display-name", lang="el").text = name
-
-    # Εύρεση εκπομπών (δοκιμάζει 'items' ή 'programs')
-    progs = ch.get("items") or ch.get("programs") or []
-    
-    for p in progs:
-        # Η Cosmote χρησιμοποιεί 'startTime'/'endTime' μέσα στο items
-        start = to_xmltv_time(p.get("startTime") or p.get("start"))
-        stop = to_xmltv_time(p.get("endTime") or p.get("end"))
+        print(f"Fetching fresh EPG starting from: {time.ctime(start_ts)}")
         
-        if not start or not stop: continue
-
-        prog_el = ET.SubElement(tv, "programme", start=start, stop=stop, channel=cid)
-        ET.SubElement(prog_el, "title", lang="el").text = p.get("title", "Χωρίς τίτλο")
+        # Προθέρμανση session για cookies
+        session.get("https://cosmotetv.gr", headers=headers, timeout=20)
         
-        desc_text = p.get("description") or ""
-        if desc_text:
-            ET.SubElement(prog_el, "desc", lang="el").text = desc_text
-            
-        # Κατηγορία από το genres list ή το genre string
-        genres = p.get("genres")
-        genre = genres[0] if isinstance(genres, list) and genres else p.get("genre")
-        if genre:
-            ET.SubElement(prog_el, "category", lang="el").text = str(genre)
+        # Κλήση API
+        r = session.get(API, headers=headers, timeout=25)
+        
+        if r.status_code != 200:
+            print(f"API Error: {r.status_code}")
+            sys.exit(1)
 
-# Αποθήκευση
-tree = ET.ElementTree(tv)
-try: ET.indent(tree, space="\t", level=0)
-except: pass
-tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
+        data = r.json()
+        
+        # Εξαγωγή καναλιών από το stripes (Format που είδαμε στο JSON σου)
+        channels_raw = []
+        if isinstance(data.get("stripes"), list):
+            for item in data["stripes"]:
+                if isinstance(item, dict) and "channels" in item:
+                    channels_raw = item["channels"]
+                    break
+        elif isinstance(data.get("stripes"), dict):
+            channels_raw = data["stripes"].get("channels", [])
+        else:
+            # Fallback αν το JSON είναι απευθείας λίστα
+            channels_raw = data if isinstance(data, list) else []
 
-print("SUCCESS: epg.xml generated! Now IPTVnator should see the programs.")
+        if not channels_raw:
+            print("No fresh data found in API response.")
+            sys.exit(1)
+
+        # Αποθήκευση στο epg.json για το generate_epg.py
+        with open("epg.json", "w", encoding="utf-8") as f:
+            json.dump(channels_raw, f, ensure_ascii=False, indent=2)
+
+        print(f"SUCCESS: Saved {len(channels_raw)} channels with CURRENT schedule.")
+
+    except Exception as e:
+        print(f"CRITICAL ERROR: {str(e)}")
+        sys.exit(1)
+
+if __name__ == "__main__":
+    main()
