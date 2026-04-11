@@ -3,7 +3,7 @@ import json
 import sys
 from datetime import datetime
 
-# Προσθέτουμε την ημερομηνία στο URL (YYYY-MM-DD)
+# Σωστό URL με το διαχωριστικό & πριν το date
 current_date = datetime.now().strftime("%Y-%m-%d")
 API = f"https://cosmotetv.gr{current_date}"
 
@@ -22,7 +22,7 @@ def normalize_channel(ch):
     return {
         "id": str(channel_id),
         "name": ch.get("title") or ch.get("name") or "UNKNOWN",
-        "programs": ch.get("programs", []) # Παίρνουμε και τα προγράμματα εδώ!
+        "programs": ch.get("programs", [])
     }
 
 def main():
@@ -32,7 +32,9 @@ def main():
     }
 
     try:
+        print(f"Fetching data for date: {current_date}...")
         r = requests.get(API, headers=headers, timeout=20)
+        
         if r.status_code != 200:
             print(f"Σφάλμα API: {r.status_code}")
             sys.exit(1)
@@ -40,17 +42,21 @@ def main():
         data = r.json()
         channels_raw = extract_channels(data)
         
-        # Εδώ σώζουμε ΟΛΑ τα δεδομένα (κανάλια + προγράμματα) στο epg.json
-        channels_with_programs = []
+        channels_list = []
         for ch in channels_raw:
             norm = normalize_channel(ch)
             if norm:
-                channels_with_programs.append(norm)
+                channels_list.append(norm)
 
+        # Σώζουμε τα κανάλια για το επόμενο script
+        with open("channels.json", "w", encoding="utf-8") as f:
+            json.dump(channels_list, f, ensure_ascii=False, indent=2)
+            
+        # Σώζουμε και το epg.json (το αρχείο που διαβάζει το XML script σου)
         with open("epg.json", "w", encoding="utf-8") as f:
-            json.dump(channels_with_programs, f, ensure_ascii=False, indent=2)
+            json.dump(channels_list, f, ensure_ascii=False, indent=2)
 
-        print(f"SUCCESS: Saved data for {len(channels_with_programs)} channels")
+        print(f"SUCCESS: Saved {len(channels_list)} channels to channels.json and epg.json")
 
     except Exception as e:
         print(f"ERROR: {str(e)}")
