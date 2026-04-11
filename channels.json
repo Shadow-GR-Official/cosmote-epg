@@ -640,5 +640,23 @@
     "name": "Euronews English",
     "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/euronewseng_new-normal.png",
     "number": 712
+  },
+  {
+    "id": "TST000000001",
+    "name": "TEST01",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/test01_new4-normal.png",
+    "number": 901
+  },
+  {
+    "id": "TST000000002",
+    "name": "TEST02",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/test02-normal.png",
+    "number": 902
+  },
+  {
+    "id": "TST000000004",
+    "name": "TESTDR",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/testdr-normal.png",
+    "number": 904
   }
 ]

@@ -213,3 +213,9 @@ http://127.0.0.1/XTV100000931
 http://127.0.0.1/XTV100000932
 #EXTINF:-1 tvg-id="XTV100002407" tvg-name="Euronews English" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/euronewseng_new-normal.png",Euronews English
 http://127.0.0.1/XTV100002407
+#EXTINF:-1 tvg-id="TST000000001" tvg-name="TEST01" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/test01_new4-normal.png",TEST01
+http://127.0.0.1/TST000000001
+#EXTINF:-1 tvg-id="TST000000002" tvg-name="TEST02" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/test02-normal.png",TEST02
+http://127.0.0.1/TST000000002
+#EXTINF:-1 tvg-id="TST000000004" tvg-name="TESTDR" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/testdr-normal.png",TESTDR
+http://127.0.0.1/TST000000004
