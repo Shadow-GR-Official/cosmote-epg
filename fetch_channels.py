@@ -2,7 +2,7 @@ import requests
 import json
 import sys
 
-API = "https://www.cosmotetv.gr/api/channels?locale=el"
+API = "https://www.cosmotetv.gr/api/channels/schedule?locale=el"
 
 
 def extract_channels(data):
