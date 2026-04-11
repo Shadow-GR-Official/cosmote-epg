@@ -1,67 +1,70 @@
-import requests
 import json
-import sys
-import time
-from datetime import datetime, time as dt_time
+import xml.etree.ElementTree as ET
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
-def main():
-    # 1. Υπολογισμός "στρογγυλών" timestamps για το σημερινό 24ωρο (00:00 έως 23:59)
-    today = datetime.combine(datetime.now(), dt_time.min)
-    start_ts = int(today.timestamp())
-    end_ts = start_ts + 86399 # +24 ώρες μείον 1 δευτερόλεπτο
-
-    # 2. Χτίζουμε το URL με τα σωστά timestamps
-    API = f"https://www.cosmotetv.gr/api/channels/schedule?locale=el&from={start_ts}&to={end_ts}"
-
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-        "Referer": "https://cosmotetv.gr",
-        "X-Requested-With": "XMLHttpRequest"
-    }
-
-    session = requests.Session()
-    
+def to_xmltv_time(iso_str):
+    if not iso_str: return ""
     try:
-        print(f"Target URL: {API}")
-        
-        # Προθέρμανση session για cookies
-        session.get("https://cosmotetv.gr", headers=headers, timeout=20)
-        
-        # Κλήση API
-        r = session.get(API, headers=headers, timeout=25)
-        
-        if r.status_code != 200:
-            print(f"API Error: {r.status_code}")
-            sys.exit(1)
+        iso_str = iso_str.strip().replace("Z", "+00:00")
+        if '+' not in iso_str and '-' not in iso_str[10:]:
+            iso_str += "+00:00"
+        dt_obj = datetime.fromisoformat(iso_str)
+        dt_athens = dt_obj.astimezone(ZoneInfo("Europe/Athens"))
+        return dt_athens.strftime("%Y%m%d%H%M%S %z")
+    except:
+        return ""
 
-        data = r.json()
+# Φόρτωση δεδομένων
+try:
+    with open("epg.json", "r", encoding="utf-8") as f:
+        epg_data = json.load(f)
+except Exception as e:
+    print(f"Error loading epg.json: {e}")
+    exit(1)
+
+tv = ET.Element("tv", {"generator-info-name": "Cosmote EPG Fixer"})
+
+for ch in epg_data:
+    if not isinstance(ch, dict): continue
+    
+    # ID και Όνομα καναλιού
+    cid = str(ch.get("guid") or ch.get("id") or "")
+    name = ch.get("title") or ch.get("name") or "Unknown"
+    
+    if not cid: continue
+
+    # Προσθήκη καναλιού στο XML
+    channel_el = ET.SubElement(tv, "channel", id=cid)
+    ET.SubElement(channel_el, "display-name", lang="el").text = name
+
+    # Εύρεση εκπομπών (δοκιμάζει 'items' ή 'programs')
+    progs = ch.get("items") or ch.get("programs") or []
+    
+    for p in progs:
+        # Η Cosmote χρησιμοποιεί 'startTime'/'endTime' μέσα στο items
+        start = to_xmltv_time(p.get("startTime") or p.get("start"))
+        stop = to_xmltv_time(p.get("endTime") or p.get("end"))
         
-        # Εξαγωγή καναλιών από το stripes
-        channels_raw = []
-        if isinstance(data.get("stripes"), list):
-            for item in data["stripes"]:
-                if isinstance(item, dict) and "channels" in item:
-                    channels_raw = item["channels"]
-                    break
-        elif isinstance(data.get("stripes"), dict):
-            channels_raw = data["stripes"].get("channels", [])
+        if not start or not stop: continue
 
-        if not channels_raw:
-            print("No data found in stripes.")
-            sys.exit(1)
-
-        # Αποθήκευση στα αρχεία
-        with open("epg.json", "w", encoding="utf-8") as f:
-            json.dump(channels_raw, f, ensure_ascii=False, indent=2)
+        prog_el = ET.SubElement(tv, "programme", start=start, stop=stop, channel=cid)
+        ET.SubElement(prog_el, "title", lang="el").text = p.get("title", "Χωρίς τίτλο")
+        
+        desc_text = p.get("description") or ""
+        if desc_text:
+            ET.SubElement(prog_el, "desc", lang="el").text = desc_text
             
-        with open("channels.json", "w", encoding="utf-8") as f:
-            json.dump(channels_raw, f, ensure_ascii=False, indent=2)
+        # Κατηγορία από το genres list ή το genre string
+        genres = p.get("genres")
+        genre = genres[0] if isinstance(genres, list) and genres else p.get("genre")
+        if genre:
+            ET.SubElement(prog_el, "category", lang="el").text = str(genre)
 
-        print(f"SUCCESS: Φορτώθηκαν {len(channels_raw)} κανάλια για το 24ωρο.")
+# Αποθήκευση
+tree = ET.ElementTree(tv)
+try: ET.indent(tree, space="\t", level=0)
+except: pass
+tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
 
-    except Exception as e:
-        print(f"CRITICAL ERROR: {str(e)}")
-        sys.exit(1)
-
-if __name__ == "__main__":
-    main()
+print("SUCCESS: epg.xml generated! Now IPTVnator should see the programs.")
