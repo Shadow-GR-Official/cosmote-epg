@@ -4,27 +4,35 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 # -----------------------------
-# TIME FORMAT (FIXED - NO PYTZ NEEDED)
+# FIXED TIME FORMAT
 # -----------------------------
 def to_xmltv_time(iso_str):
     if not iso_str:
         return ""
     try:
-        # Το Cosmote API δίνει "2024-04-11T10:30:00Z"
-        # Αντικαθιστούμε το Z με +00:00 για να το αναγνωρίσει η Python ως UTC
-        iso_str = iso_str.replace("Z", "+00:00")
-        dt_utc = datetime.fromisoformat(iso_str)
+        # Καθαρίζουμε το string και βεβαιωνόμαστε ότι η Python το βλέπει ως UTC
+        iso_str = iso_str.strip()
         
-        # Μετατροπή στην ώρα Ελλάδος (υπολογίζει αυτόματα καλοκαίρι/χειμώνα)
-        dt_athens = dt_utc.astimezone(ZoneInfo("Europe/Athens"))
+        # Αν η ημερομηνία έρχεται με Z ή χωρίς offset, την κάνουμε standard UTC
+        if iso_str.endswith('Z'):
+            iso_str = iso_str.replace("Z", "+00:00")
+        elif '+' not in iso_str and '-' not in iso_str[10:]: # αν δεν έχει offset
+            iso_str += "+00:00"
+
+        # Μετατροπή σε datetime αντικείμενο
+        dt_obj = datetime.fromisoformat(iso_str)
         
-        # Format για XMLTV: YYYYMMDDHHMMSS +offset
+        # Μετατροπή στην ώρα Ελλάδος (Europe/Athens)
+        # Αυτό θα μετατρέψει π.χ. το 21:00 UTC σε 00:00 Athens (+3)
+        dt_athens = dt_obj.astimezone(ZoneInfo("Europe/Athens"))
+        
+        # Format για XMLTV: YYYYMMDDHHMMSS +0300
         return dt_athens.strftime("%Y%m%d%H%M%S %z")
-    except Exception:
+    except Exception as e:
         return ""
 
 # -----------------------------
-# LOAD FILES
+# LOAD DATA
 # -----------------------------
 try:
     with open("channels.json", "r", encoding="utf-8") as f:
@@ -32,40 +40,42 @@ try:
     with open("epg.json", "r", encoding="utf-8") as f:
         epg_data = json.load(f)
 except FileNotFoundError as e:
-    print(f"Σφάλμα: Δεν βρέθηκε το αρχείο {e.filename}")
+    print(f"Error: Missing file {e.filename}")
     exit(1)
 
-# Indexing EPG
+# Indexing EPG data by ID για γρήγορη αναζήτηση
 epg_by_id = {}
 for ch in epg_data:
     if not isinstance(ch, dict): continue
     cid = str(ch.get("id") or ch.get("channel_id") or ch.get("guid", ""))
-    epg_by_id[cid] = ch.get("programs", [])
+    if cid:
+        epg_by_id[cid] = ch.get("programs", [])
 
 # -----------------------------
-# CREATE XMLTV ROOT
+# BUILD XMLTV
 # -----------------------------
-tv = ET.Element("tv", {"generator-info-name": "Cosmote EPG Fixer"})
+tv = ET.Element("tv", {"generator-info-name": "Cosmote EPG Fixer v2"})
 
-# 1. CHANNELS
+# 1. CHANNELS SECTION
 for ch in channels:
     cid = str(ch.get("id", ""))
     if not cid: continue
     channel_el = ET.SubElement(tv, "channel", id=cid)
     ET.SubElement(channel_el, "display-name", lang="el").text = ch.get("name", "Unknown")
 
-# 2. PROGRAMMES
+# 2. PROGRAMMES SECTION
 for ch in channels:
     cid = str(ch.get("id", ""))
+    # Παίρνουμε τις εκπομπές για το συγκεκριμένο κανάλι
     programs = epg_by_id.get(cid, [])
 
     for p in programs:
-        start = to_xmltv_time(p.get("start"))
-        stop = to_xmltv_time(p.get("end"))
+        start_xml = to_xmltv_time(p.get("start"))
+        stop_xml = to_xmltv_time(p.get("end"))
         
-        if not start or not stop: continue
+        if not start_xml or not stop_xml: continue
 
-        prog = ET.SubElement(tv, "programme", start=start, stop=stop, channel=cid)
+        prog = ET.SubElement(tv, "programme", start=start_xml, stop=stop_xml, channel=cid)
         ET.SubElement(prog, "title", lang="el").text = p.get("title", "Χωρίς τίτλο")
         
         if p.get("description"):
@@ -78,7 +88,8 @@ for ch in channels:
 # WRITE OUTPUT
 # -----------------------------
 tree = ET.ElementTree(tv)
-# Το indent θέλει Python 3.9+
+
+# Indentation για να είναι ευανάγνωστο (Python 3.9+)
 try:
     ET.indent(tree, space="\t", level=0)
 except AttributeError:
@@ -86,4 +97,4 @@ except AttributeError:
 
 tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
 
-print("SUCCESS: Το epg.xml δημιουργήθηκε με σωστή ώρα Ελλάδος!")
+print("SUCCESS: epg.xml generated. Check your times now!")
