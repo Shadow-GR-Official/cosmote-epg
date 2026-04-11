@@ -1,40 +1,26 @@
 import json
 import xml.etree.ElementTree as ET
 from datetime import datetime
-import pytz
+from zoneinfo import ZoneInfo # Standard στην Python 3.9+
 
 # -----------------------------
-# TIME FORMAT (FIXED)
+# TIME FORMAT (NO EXTERNAL LIB)
 # -----------------------------
 def to_xmltv_time(iso_str):
     if not iso_str:
         return ""
     try:
-        # Η Cosmote επιστρέφει: "2024-04-11T10:30:00Z"
-        # Το 'Z' σημαίνει UTC.
-        iso_str = iso_str.replace("Z", "")
+        # Αντικατάσταση του Z με +00:00 για να το διαβάσει η fromisoformat
+        iso_str = iso_str.replace("Z", "+00:00")
         dt_utc = datetime.fromisoformat(iso_str)
         
-        # Ορίζουμε ότι είναι UTC
-        dt_utc = pytz.utc.localize(dt_utc)
+        # Μετατροπή σε ώρα Ελλάδος (υπολογίζει αυτόματα καλοκαίρι/χειμώνα)
+        dt_athens = dt_utc.astimezone(ZoneInfo("Europe/Athens"))
         
-        # Μετατροπή σε ώρα Ελλάδος (υπολογίζει αυτόματα DST/Καλοκαιρινή)
-        athens_tz = pytz.timezone('Europe/Athens')
-        dt_athens = dt_utc.astimezone(athens_tz)
-        
-        # Format για XMLTV: YYYYMMDDHHMMSS +0300 ή +0200
+        # Format για XMLTV: YYYYMMDDHHMMSS +0300
         return dt_athens.strftime("%Y%m%d%H%M%S %z")
     except Exception:
         return ""
-
-# -----------------------------
-# CATEGORY MAP (Συνοπτικό)
-# -----------------------------
-CATEGORY_MAP = {"Movie": "Ταινία", "Film": "Ταινία", "Series": "Σειρά", "Sports": "Αθλητικά", "News": "Ειδήσεις"}
-
-def normalize_genre(genre):
-    if not genre: return None
-    return CATEGORY_MAP.get(genre, genre)
 
 # -----------------------------
 # LOAD DATA
@@ -45,24 +31,24 @@ try:
     with open("epg.json", "r", encoding="utf-8") as f:
         epg_data = json.load(f)
 except FileNotFoundError:
-    print("Σφάλμα: Λείπουν τα αρχεία json!")
+    print("Error: Missing JSON files!")
     exit(1)
 
-# Indexing EPG
+# Indexing EPG data by ID
 epg_by_id = {str(ch.get("id")): ch.get("programs", []) for ch in epg_data if isinstance(ch, dict)}
 
 # -----------------------------
 # BUILD XMLTV
 # -----------------------------
-tv = ET.Element("tv", {"generator-info-name": "Cosmote TV Grabber"})
+tv = ET.Element("tv", {"generator-info-name": "Cosmote EPG Fixer"})
 
-# Channels
+# 1. Channels Section
 for ch in channels:
     cid = str(ch.get("id"))
     channel_el = ET.SubElement(tv, "channel", id=cid)
     ET.SubElement(channel_el, "display-name", lang="el").text = ch.get("name")
 
-# Programmes
+# 2. Programmes Section
 for ch in channels:
     cid = str(ch.get("id"))
     programs = epg_by_id.get(cid, [])
@@ -81,13 +67,13 @@ for ch in channels:
         
         if p.get("genre"):
             cat = ET.SubElement(prog, "category", lang="el")
-            cat.text = normalize_genre(p["genre"])
+            cat.text = p["genre"]
 
 # -----------------------------
-# SAVE XML
+# WRITE OUTPUT
 # -----------------------------
 tree = ET.ElementTree(tv)
 ET.indent(tree, space="\t", level=0)
 tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
 
-print("SUCCESS: Το epg.xml δημιουργήθηκε με σωστές ώρες Ελλάδος!")
+print("SUCCESS: epg.xml generated with correct Athens time!")
