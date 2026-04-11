@@ -4,14 +4,14 @@ import sys
 import time
 
 def main():
-    # 1. Δυναμικός υπολογισμός Timestamps για το "Τώρα"
-    # start_ts: Η τρέχουσα στιγμή (Unix Timestamp)
-    # end_ts: Μετά από 24 ώρες
+    # 1. Δυναμικά timestamps
     start_ts = int(time.time())
     end_ts = start_ts + 86400 
 
-    # 2. Χτίζουμε το URL με τα φρέσκα Timestamps
-    API = f"https://cosmotetv.gr{start_ts}&to={end_ts}"
+    # 2. Χτίσιμο URL κομμάτι-κομμάτι για να αποφύγουμε το NameResolutionError
+    base = "https://cosmotetv.gr"
+    params = "?locale=el&from=" + str(start_ts) + "&to=" + str(end_ts)
+    full_url = base + params
 
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
@@ -22,45 +22,47 @@ def main():
     session = requests.Session()
     
     try:
-        print(f"Fetching fresh EPG starting from: {time.ctime(start_ts)}")
+        print("Target URL: " + full_url)
         
-        # Προθέρμανση session για cookies
-        session.get("https://cosmotetv.gr", headers=headers, timeout=20)
+        # Προθέρμανση session
+        session.get("https://cosmotetv.grportal/el/epg/program", headers=headers, timeout=20)
         
         # Κλήση API
-        r = session.get(API, headers=headers, timeout=25)
+        r = session.get(full_url, headers=headers, timeout=25)
         
         if r.status_code != 200:
-            print(f"API Error: {r.status_code}")
+            print("API Error: " + str(r.status_code))
             sys.exit(1)
 
         data = r.json()
         
-        # Εξαγωγή καναλιών από το stripes (Format που είδαμε στο JSON σου)
+        # Εξαγωγή καναλιών (δοκιμή όλων των πιθανών structure της Cosmote)
         channels_raw = []
-        if isinstance(data.get("stripes"), list):
-            for item in data["stripes"]:
-                if isinstance(item, dict) and "channels" in item:
-                    channels_raw = item["channels"]
-                    break
-        elif isinstance(data.get("stripes"), dict):
-            channels_raw = data["stripes"].get("channels", [])
-        else:
-            # Fallback αν το JSON είναι απευθείας λίστα
-            channels_raw = data if isinstance(data, list) else []
+        if isinstance(data, list):
+            channels_raw = data
+        elif isinstance(data, dict):
+            stripes = data.get("stripes", [])
+            if isinstance(stripes, list):
+                for s in stripes:
+                    if isinstance(s, dict) and "channels" in s:
+                        channels_raw.extend(s["channels"])
+            elif isinstance(stripes, dict):
+                channels_raw = stripes.get("channels", [])
+            else:
+                channels_raw = data.get("channels", [])
 
         if not channels_raw:
-            print("No fresh data found in API response.")
+            print("No data found in JSON response.")
             sys.exit(1)
 
-        # Αποθήκευση στο epg.json για το generate_epg.py
+        # Αποθήκευση στο epg.json
         with open("epg.json", "w", encoding="utf-8") as f:
             json.dump(channels_raw, f, ensure_ascii=False, indent=2)
 
-        print(f"SUCCESS: Saved {len(channels_raw)} channels with CURRENT schedule.")
+        print("SUCCESS: Saved " + str(len(channels_raw)) + " channels to epg.json")
 
     except Exception as e:
-        print(f"CRITICAL ERROR: {str(e)}")
+        print("CRITICAL ERROR: " + str(e))
         sys.exit(1)
 
 if __name__ == "__main__":
