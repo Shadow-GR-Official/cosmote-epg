@@ -2,99 +2,118 @@ import json
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from zoneinfo import ZoneInfo
+import os
+import sys
 
 # -----------------------------
-# FIXED TIME FORMAT
+# ΣΩΣΤΟ FORMAT ΩΡΑΣ (UTC -> Athens)
 # -----------------------------
 def to_xmltv_time(iso_str):
     if not iso_str:
         return ""
     try:
-        # Καθαρίζουμε το string και βεβαιωνόμαστε ότι η Python το βλέπει ως UTC
-        iso_str = iso_str.strip()
-        
-        # Αν η ημερομηνία έρχεται με Z ή χωρίς offset, την κάνουμε standard UTC
-        if iso_str.endswith('Z'):
-            iso_str = iso_str.replace("Z", "+00:00")
-        elif '+' not in iso_str and '-' not in iso_str[10:]: # αν δεν έχει offset
+        # Καθαρισμός και μετατροπή σε ISO format που καταλαβαίνει η Python
+        iso_str = iso_str.strip().replace("Z", "+00:00")
+        if '+' not in iso_str and '-' not in iso_str[10:]:
             iso_str += "+00:00"
-
-        # Μετατροπή σε datetime αντικείμενο
+            
         dt_obj = datetime.fromisoformat(iso_str)
-        
-        # Μετατροπή στην ώρα Ελλάδος (Europe/Athens)
-        # Αυτό θα μετατρέψει π.χ. το 21:00 UTC σε 00:00 Athens (+3)
+        # Μετατροπή σε ώρα Ελλάδος (υπολογίζει αυτόματα DST)
         dt_athens = dt_obj.astimezone(ZoneInfo("Europe/Athens"))
-        
-        # Format για XMLTV: YYYYMMDDHHMMSS +0300
         return dt_athens.strftime("%Y%m%d%H%M%S %z")
-    except Exception as e:
+    except Exception:
         return ""
 
 # -----------------------------
-# LOAD DATA
+# ΦΟΡΤΩΣΗ ΔΕΔΟΜΕΝΩΝ
 # -----------------------------
-try:
-    with open("channels.json", "r", encoding="utf-8") as f:
-        channels = json.load(f)
-    with open("epg.json", "r", encoding="utf-8") as f:
-        epg_data = json.load(f)
-except FileNotFoundError as e:
-    print(f"Error: Missing file {e.filename}")
-    exit(1)
+input_file = "epg.json"
+output_file = "epg.xml"
 
-# Indexing EPG data by ID για γρήγορη αναζήτηση
-epg_by_id = {}
+if not os.path.exists(input_file):
+    print(f"ERROR: Το αρχείο {input_file} δεν βρέθηκε!")
+    sys.exit(1)
+
+try:
+    with open(input_file, "r", encoding="utf-8") as f:
+        epg_data = json.load(f)
+except Exception as e:
+    print(f"ERROR reading json: {e}")
+    sys.exit(1)
+
+# -----------------------------
+# ΔΗΜΙΟΥΡΓΙΑ XMLTV
+# -----------------------------
+tv = ET.Element("tv", {"generator-info-name": "Cosmote EPG Fixer"})
+
+channels_count = 0
+programs_count = 0
+
 for ch in epg_data:
     if not isinstance(ch, dict): continue
-    cid = str(ch.get("id") or ch.get("channel_id") or ch.get("guid", ""))
-    if cid:
-        epg_by_id[cid] = ch.get("programs", [])
-
-# -----------------------------
-# BUILD XMLTV
-# -----------------------------
-tv = ET.Element("tv", {"generator-info-name": "Cosmote EPG Fixer v2"})
-
-# 1. CHANNELS SECTION
-for ch in channels:
-    cid = str(ch.get("id", ""))
+    
+    # ID και Όνομα καναλιού (δοκιμάζει όλα τα πιθανά κλειδιά)
+    cid = str(ch.get("guid") or ch.get("id") or "")
+    name = ch.get("title") or ch.get("name") or "Unknown Channel"
+    
     if not cid: continue
+
+    # 1. Προσθήκη Καναλιού
     channel_el = ET.SubElement(tv, "channel", id=cid)
-    ET.SubElement(channel_el, "display-name", lang="el").text = ch.get("name", "Unknown")
+    ET.SubElement(channel_el, "display-name", lang="el").text = name
+    channels_count += 1
 
-# 2. PROGRAMMES SECTION
-for ch in channels:
-    cid = str(ch.get("id", ""))
-    # Παίρνουμε τις εκπομπές για το συγκεκριμένο κανάλι
-    programs = epg_by_id.get(cid, [])
+    # 2. Εύρεση Εκπομπών (η Cosmote τις έχει στο 'items')
+    progs = ch.get("items") or ch.get("programs") or []
+    
+    for p in progs:
+        # Χρήση startTime/endTime (UTC) από το JSON
+        start = to_xmltv_time(p.get("startTime") or p.get("start"))
+        stop = to_xmltv_time(p.get("endTime") or p.get("end"))
+        
+        if not start or not stop: continue
 
-    for p in programs:
-        start_xml = to_xmltv_time(p.get("start"))
-        stop_xml = to_xmltv_time(p.get("end"))
+        prog_el = ET.SubElement(tv, "programme", start=start, stop=stop, channel=cid)
         
-        if not start_xml or not stop_xml: continue
-
-        prog = ET.SubElement(tv, "programme", start=start_xml, stop=stop_xml, channel=cid)
-        ET.SubElement(prog, "title", lang="el").text = p.get("title", "Χωρίς τίτλο")
+        # Τίτλος
+        title_text = p.get("title") or "Χωρίς τίτλο"
+        ET.SubElement(prog_el, "title", lang="el").text = title_text
         
-        if p.get("description"):
-            ET.SubElement(prog, "desc", lang="el").text = p["description"]
+        # Περιγραφή
+        desc_text = p.get("description") or ""
+        if desc_text:
+            ET.SubElement(prog_el, "desc", lang="el").text = desc_text
+            
+        # Κατηγορία (Genre)
+        genres = p.get("genres")
+        genre_val = ""
+        if isinstance(genres, list) and genres:
+            genre_val = genres[0]
+        else:
+            genre_val = p.get("genre") or ""
+            
+        if genre_val:
+            ET.SubElement(prog_el, "category", lang="el").text = str(genre_val)
         
-        if p.get("genre"):
-            ET.SubElement(prog, "category", lang="el").text = str(p["genre"])
+        programs_count += 1
 
 # -----------------------------
-# WRITE OUTPUT
+# ΑΠΟΘΗΚΕΥΣΗ (ΑΝΤΙΚΑΤΑΣΤΑΣΗ)
 # -----------------------------
-tree = ET.ElementTree(tv)
+if os.path.exists(output_file):
+    os.remove(output_file)
 
-# Indentation για να είναι ευανάγνωστο (Python 3.9+)
 try:
-    ET.indent(tree, space="\t", level=0)
-except AttributeError:
-    pass 
+    tree = ET.ElementTree(tv)
+    if hasattr(ET, "indent"):
+        ET.indent(tree, space="\t", level=0)
+    
+    with open(output_file, "wb") as f:
+        tree.write(f, encoding="utf-8", xml_declaration=True)
+    
+    print(f"SUCCESS: Δημιουργήθηκε το {output_file}")
+    print(f"Στατιστικά: {channels_count} κανάλια, {programs_count} εκπομπές.")
 
-tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
-
-print("SUCCESS: epg.xml generated. Check your times now!")
+except Exception as e:
+    print(f"CRITICAL ERROR writing XML: {e}")
+    sys.exit(1)
