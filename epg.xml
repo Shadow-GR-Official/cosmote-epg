@@ -1,7 +1,334 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="Cosmote EPG Ultimate">
+<tv generator-info-name="Cosmote EPG Static List">
 	<channel id="XTV100000953">
 		<display-name lang="el">Promo HD</display-name>
+	</channel>
+	<channel id="XTV100000954">
+		<display-name lang="el">ΒΟΥΛΗ HD</display-name>
+	</channel>
+	<channel id="XTV100003524">
+		<display-name lang="el">ΕΡΤ NEWS</display-name>
+	</channel>
+	<channel id="XTV100000952">
+		<display-name lang="el">ΕΡΤ1 HD</display-name>
+	</channel>
+	<channel id="XTV100000955">
+		<display-name lang="el">ΕΡΤ2 ΣΠΟΡ</display-name>
+	</channel>
+	<channel id="XTV100001664">
+		<display-name lang="el">ΕΡΤ3 HD</display-name>
+	</channel>
+	<channel id="XTV100003344">
+		<display-name lang="el">ERT WORLD</display-name>
+	</channel>
+	<channel id="XTV100001026">
+		<display-name lang="el">ANT1</display-name>
+	</channel>
+	<channel id="XTV100001262">
+		<display-name lang="el">ALPHA</display-name>
+	</channel>
+	<channel id="XTV100001040">
+		<display-name lang="el">STAR</display-name>
+	</channel>
+	<channel id="XTV100001064">
+		<display-name lang="el">ΣΚΑΪ</display-name>
+	</channel>
+	<channel id="XTV100001464">
+		<display-name lang="el">OPEN BEYOND</display-name>
+	</channel>
+	<channel id="XTV100003184">
+		<display-name lang="el">ONE Channel HD</display-name>
+	</channel>
+	<channel id="XTV100003227">
+		<display-name lang="el">MEGA HD</display-name>
+	</channel>
+	<channel id="XTV100000963">
+		<display-name lang="el">Μακεδονία TV HD</display-name>
+	</channel>
+	<channel id="XTV100003511">
+		<display-name lang="el">Naftemporiki</display-name>
+	</channel>
+	<channel id="XTV100002365">
+		<display-name lang="el">Action 24</display-name>
+	</channel>
+	<channel id="XTV100003510">
+		<display-name lang="el">Kontra</display-name>
+	</channel>
+	<channel id="XTV900000001">
+		<display-name lang="el">ATTICA TV</display-name>
+	</channel>
+	<channel id="XTV100003228">
+		<display-name lang="el">MEGA News</display-name>
+	</channel>
+	<channel id="XTV100000925">
+		<display-name lang="el">Euronews Greek</display-name>
+	</channel>
+	<channel id="XTV100001866">
+		<display-name lang="el">COSMOTE History HD</display-name>
+	</channel>
+	<channel id="XTV100001106">
+		<display-name lang="el">COSMOTE Cinema 1 HD</display-name>
+	</channel>
+	<channel id="XTV100001060">
+		<display-name lang="el">COSMOTE Cinema 2 HD</display-name>
+	</channel>
+	<channel id="XTV100001073">
+		<display-name lang="el">COSMOTE Cinema 3 HD</display-name>
+	</channel>
+	<channel id="XTV100001622">
+		<display-name lang="el">COSMOTE Series HD</display-name>
+	</channel>
+	<channel id="XTV100003264">
+		<display-name lang="el">COSMOTE Series Marathon</display-name>
+	</channel>
+	<channel id="XTV100000782">
+		<display-name lang="el">Village Cinema HD</display-name>
+	</channel>
+	<channel id="XTV100002885">
+		<display-name lang="el">TCM</display-name>
+	</channel>
+	<channel id="XTV100002107">
+		<display-name lang="el">FX Life</display-name>
+	</channel>
+	<channel id="XTV100002164">
+		<display-name lang="el">FX</display-name>
+	</channel>
+	<channel id="XTV100001107">
+		<display-name lang="el">E! HD</display-name>
+	</channel>
+	<channel id="XTV100001400">
+		<display-name lang="el">COSMOTE Sport Highlights HD</display-name>
+	</channel>
+	<channel id="XTV100001071">
+		<display-name lang="el">COSMOTE Sport 1 HD</display-name>
+	</channel>
+	<channel id="XTV100001080">
+		<display-name lang="el">COSMOTE Sport 2 HD</display-name>
+	</channel>
+	<channel id="XTV100001072">
+		<display-name lang="el">COSMOTE Sport 3 HD</display-name>
+	</channel>
+	<channel id="XTV100001109">
+		<display-name lang="el">COSMOTE Sport 4 HD</display-name>
+	</channel>
+	<channel id="XTV100001063">
+		<display-name lang="el">COSMOTE Sport 5 HD</display-name>
+	</channel>
+	<channel id="XTV100001360">
+		<display-name lang="el">COSMOTE Sport 6 HD</display-name>
+	</channel>
+	<channel id="XTV100001708">
+		<display-name lang="el">COSMOTE Sport 7 HD</display-name>
+	</channel>
+	<channel id="XTV100001725">
+		<display-name lang="el">COSMOTE Sport 8 HD</display-name>
+	</channel>
+	<channel id="XTV100002945">
+		<display-name lang="el">COSMOTE Sport 9 HD</display-name>
+	</channel>
+	<channel id="XTV100011401">
+		<display-name lang="el">COSMOTE Sport 4K</display-name>
+	</channel>
+	<channel id="XTV900000002">
+		<display-name lang="el">COSMOTE Sport Start HD</display-name>
+	</channel>
+	<channel id="XTV100003506">
+		<display-name lang="el">ΑΕΚ SL Pass</display-name>
+	</channel>
+	<channel id="XTV100003505">
+		<display-name lang="el">ΟΛΥΜΠΙΑΚΟΣ SL Pass</display-name>
+	</channel>
+	<channel id="XTV100003508">
+		<display-name lang="el">ΠΑΝΑΘΗΝΑΪΚΟΣ SL Pass</display-name>
+	</channel>
+	<channel id="XTV600000607">
+		<display-name lang="el">Novasports News HD</display-name>
+	</channel>
+	<channel id="XTV600000608">
+		<display-name lang="el">Novasports Start HD</display-name>
+	</channel>
+	<channel id="XTV600000609">
+		<display-name lang="el">Novasports Prime HD</display-name>
+	</channel>
+	<channel id="XTV600000601">
+		<display-name lang="el">Novasports1HD</display-name>
+	</channel>
+	<channel id="XTV600000602">
+		<display-name lang="el">Novasports2HD</display-name>
+	</channel>
+	<channel id="XTV600000603">
+		<display-name lang="el">Novasports3HD</display-name>
+	</channel>
+	<channel id="XTV600000604">
+		<display-name lang="el">Novasports4HD</display-name>
+	</channel>
+	<channel id="XTV600000605">
+		<display-name lang="el">Novasports5HD</display-name>
+	</channel>
+	<channel id="XTV600000606">
+		<display-name lang="el">Novasports6HD</display-name>
+	</channel>
+	<channel id="XTV600000614">
+		<display-name lang="el">Novasports Premier League HD</display-name>
+	</channel>
+	<channel id="XTV600000610">
+		<display-name lang="el">Novasportsextra1HD</display-name>
+	</channel>
+	<channel id="XTV600000611">
+		<display-name lang="el">Novasportsextra2HD</display-name>
+	</channel>
+	<channel id="XTV600000612">
+		<display-name lang="el">Novasportsextra3HD</display-name>
+	</channel>
+	<channel id="XTV600000613">
+		<display-name lang="el">Novasportsextra4HD</display-name>
+	</channel>
+	<channel id="XTV100002606">
+		<display-name lang="el">Nautical Channel HD</display-name>
+	</channel>
+	<channel id="XTV100000803">
+		<display-name lang="el">Motorvision+</display-name>
+	</channel>
+	<channel id="XTV100002724">
+		<display-name lang="el">GINX eSports</display-name>
+	</channel>
+	<channel id="XTV100003424">
+		<display-name lang="el">MAD HD</display-name>
+	</channel>
+	<channel id="XTV100000905">
+		<display-name lang="el">MAD Viral HD</display-name>
+	</channel>
+	<channel id="XTV100003365">
+		<display-name lang="el">Panik TV</display-name>
+	</channel>
+	<channel id="XTV100001425">
+		<display-name lang="el">MEZZO LIVE HD</display-name>
+	</channel>
+	<channel id="XTV100000791">
+		<display-name lang="el">Stingray CMusic</display-name>
+	</channel>
+	<channel id="XTV100001105">
+		<display-name lang="el">Stingray iConcerts</display-name>
+	</channel>
+	<channel id="XTV100001076">
+		<display-name lang="el">National Geographic HD</display-name>
+	</channel>
+	<channel id="XTV100001103">
+		<display-name lang="el">Nat Geo Wild HD</display-name>
+	</channel>
+	<channel id="XTV100002484">
+		<display-name lang="el">BBC Earth HD</display-name>
+	</channel>
+	<channel id="XTV100001926">
+		<display-name lang="el">Viasat History HD</display-name>
+	</channel>
+	<channel id="XTV100002564">
+		<display-name lang="el">Viasat Nature HD</display-name>
+	</channel>
+	<channel id="XTV100002565">
+		<display-name lang="el">Viasat Explore HD</display-name>
+	</channel>
+	<channel id="XTV100002584">
+		<display-name lang="el">Crime and Investigation</display-name>
+	</channel>
+	<channel id="XTV100003327">
+		<display-name lang="el">Museum TV</display-name>
+	</channel>
+	<channel id="XTV100003384">
+		<display-name lang="el">MyZen TV</display-name>
+	</channel>
+	<channel id="XTV100000957">
+		<display-name lang="el">Luxe TV HD</display-name>
+	</channel>
+	<channel id="XTV100000958">
+		<display-name lang="el">FTV HD</display-name>
+	</channel>
+	<channel id="XTV100001075">
+		<display-name lang="el">Disney Channel</display-name>
+	</channel>
+	<channel id="XTV100001068">
+		<display-name lang="el">Disney Junior</display-name>
+	</channel>
+	<channel id="XTV100000789">
+		<display-name lang="el">Keedoo</display-name>
+	</channel>
+	<channel id="XTV100000788">
+		<display-name lang="el">Baby TV</display-name>
+	</channel>
+	<channel id="XTV100002204">
+		<display-name lang="el">Smile TV</display-name>
+	</channel>
+	<channel id="XTV100003485">
+		<display-name lang="el">ducktv</display-name>
+	</channel>
+	<channel id="XTV100000912">
+		<display-name lang="el">Βεργίνα TV</display-name>
+	</channel>
+	<channel id="XTV100000913">
+		<display-name lang="el">CENTER TV</display-name>
+	</channel>
+	<channel id="XTV100000908">
+		<display-name lang="el">ENA Channel</display-name>
+	</channel>
+	<channel id="XTV100000911">
+		<display-name lang="el">4Ε</display-name>
+	</channel>
+	<channel id="XTV100002326">
+		<display-name lang="el">Κρήτη Νέα Τηλεόραση</display-name>
+	</channel>
+	<channel id="XTV100000909">
+		<display-name lang="el">Κρήτη TV</display-name>
+	</channel>
+	<channel id="XTV100000910">
+		<display-name lang="el">Star Κεντρικής Ελλάδας</display-name>
+	</channel>
+	<channel id="XTV100002045">
+		<display-name lang="el">TV100</display-name>
+	</channel>
+	<channel id="XTV100002906">
+		<display-name lang="el">CNN</display-name>
+	</channel>
+	<channel id="XTV100000924">
+		<display-name lang="el">BBC News</display-name>
+	</channel>
+	<channel id="XTV100003404">
+		<display-name lang="el">Sky News</display-name>
+	</channel>
+	<channel id="XTV100000926">
+		<display-name lang="el">Deutsche Welle</display-name>
+	</channel>
+	<channel id="XTV100000927">
+		<display-name lang="el">France 24 En</display-name>
+	</channel>
+	<channel id="XTV100000928">
+		<display-name lang="el">France 24 Fr</display-name>
+	</channel>
+	<channel id="XTV100003246">
+		<display-name lang="el">Al Arabiya</display-name>
+	</channel>
+	<channel id="XTV100000929">
+		<display-name lang="el">Al Jazeera</display-name>
+	</channel>
+	<channel id="XTV100003545">
+		<display-name lang="el">Asharq News</display-name>
+	</channel>
+	<channel id="XTV100000931">
+		<display-name lang="el">Bloomberg</display-name>
+	</channel>
+	<channel id="XTV100000932">
+		<display-name lang="el">CNBC</display-name>
+	</channel>
+	<channel id="XTV100002407">
+		<display-name lang="el">Euronews English</display-name>
+	</channel>
+	<channel id="TST000000001">
+		<display-name lang="el">TEST01</display-name>
+	</channel>
+	<channel id="TST000000002">
+		<display-name lang="el">TEST02</display-name>
+	</channel>
+	<channel id="TST000000004">
+		<display-name lang="el">TESTDR</display-name>
 	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV100000953">
 		<title lang="el">Διαφημιστικό Πρόγραμμα</title>
@@ -55,9 +382,6 @@
 		<title lang="el">Διαφημιστικό Πρόγραμμα</title>
 		<category lang="el">Διαφημιστικό Πρόγραμμα</category>
 	</programme>
-	<channel id="XTV100000954">
-		<display-name lang="el">ΒΟΥΛΗ HD</display-name>
-	</channel>
 	<programme start="20260411083000 +0300" stop="20260411092500 +0300" channel="XTV100000954">
 		<title lang="el">Μεγάλο Σάββατο: Εσπερινός</title>
 		<desc lang="el">Λειτουργία με τους Βυζαντίνους χορούς της Αγίας Ειρήνης.</desc>
@@ -178,14 +502,6 @@
 		<desc lang="el">Ανασκόπηση των σημαντικότερων πολιτικών γεγονότων που συνέβησαν σαν σήμερα.</desc>
 		<category lang="el">Άλλο</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412103000 +0300" channel="XTV100000954">
-		<title lang="el">Συναυλία</title>
-		<desc lang="el">Σαρλ Αζναβούρ &amp; Μστισλάβ Ροστροπόβιτς. Το Κανάλι της Βουλής σας παρουσιάζει μια ευρεία συλλογή από επιλεγμένες συναυλίες.</desc>
-		<category lang="el">Μουσική</category>
-	</programme>
-	<channel id="XTV100003524">
-		<display-name lang="el">ΕΡΤ NEWS</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411095500 +0300" channel="XTV100003524">
 		<title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
 		<desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
@@ -266,19 +582,6 @@
 		<desc lang="el">Ο Δημήτρης Κοτταρίδης και η Νίνα Κασιμάτη παρουσιάζουν τη νέα ενημερωτική εκπομπή της ΕΡΤ 'Σαββατοκύριακο από τις 5 με ειδήσεις, ιστορίες, πρόσωπα, εικόνες και φυσικά πολύ χιούμορ.</desc>
 		<category lang="el">Εκπομπή</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412095500 +0300" channel="XTV100003524">
-		<title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
-		<desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
-		<category lang="el">Ειδήσεις</category>
-	</programme>
-	<programme start="20260412095500 +0300" stop="20260412100000 +0300" channel="XTV100003524">
-		<title lang="el">Ειδήσεις στη Νοηματική</title>
-		<desc lang="el">Παρακολουθήστε τις τελευταίες ειδήσεις με ταυτόχρονη διερμηνεία στην Ελληνική Νοηματική Γλώσσα.</desc>
-		<category lang="el">Ειδήσεις</category>
-	</programme>
-	<channel id="XTV100000952">
-		<display-name lang="el">ΕΡΤ1 HD</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411120000 +0300" channel="XTV100000952">
 		<title lang="el">Καλημέρα Είπαμε;</title>
 		<desc lang="el">Η Ζωή Κρονάκη και ο Τάσος Ιορδανίδης ενώνουν τις δυνάμεις τους για να κάνουν τα Σαββατοκύριακά μας πιο ενδιαφέροντα και μας υπόσχονται ενημέρωση και ψυχαγωγία σε σωστές δόσεις, σ' ένα infotainment πολυθεματικό μαγκαζίνο.</desc>
@@ -359,14 +662,6 @@
 		<desc lang="el">Ο σκανταλιάρης και υπερκινητικός λαγός, που με τις περιπέτειες του έχει κρατήσει συντροφιά σε εκατομμύρια παιδιά, κατακτά και την μεγάλη οθόνη. Κοντράρεται έντονα με τον Τόμας ΜακΓκρέγκορ, αφού ούτε λίγο, ούτε πολύ θέλει να κατακτήσει τον λαχταριστό του λαχανόκηπο. (90') (Μεταγλ.)</desc>
 		<category lang="el">Κιν. Σχεδίων</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412120000 +0300" channel="XTV100000952">
-		<title lang="el">Καλημέρα Είπαμε;</title>
-		<desc lang="el">Η Ζωή Κρονάκη και ο Τάσος Ιορδανίδης ενώνουν τις δυνάμεις τους για να κάνουν τα Σαββατοκύριακά μας πιο ενδιαφέροντα και μας υπόσχονται ενημέρωση και ψυχαγωγία σε σωστές δόσεις, σ' ένα infotainment πολυθεματικό μαγκαζίνο.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<channel id="XTV100000955">
-		<display-name lang="el">ΕΡΤ2 ΣΠΟΡ</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411111500 +0300" channel="XTV100000955">
 		<title lang="el">Ακολουθία του Εσπερινού, Θεία Λειτουργία του Μεγάλου Βασιλείου (Ζ)</title>
 		<desc lang="el">Από τον Μητροπολιτικό Ιερό Ναό Αγίων Αναργύρων Νέας Ιωνίας.</desc>
@@ -462,9 +757,6 @@
 		<desc lang="el">Ο ΠΣΑΠΠ, πιστός στην προσπάθειά του για την ανάδειξη των παθογενειών του ποδοσφαίρου και τη συμβολή του στη βελτίωση των συνθηκών εργασίας σε όλα τα επίπεδα, παρουσιάζει το πρώτο ντοκιμαντέρ για το ποδόσφαιρο γυναικών στην Ελλάδα.</desc>
 		<category lang="el">Αθλητισμός - Αθλητές</category>
 	</programme>
-	<channel id="XTV100001664">
-		<display-name lang="el">ΕΡΤ3 HD</display-name>
-	</channel>
 	<programme start="20260411070000 +0300" stop="20260411110000 +0300" channel="XTV100001664">
 		<title lang="el">Παιδικό Πρόγραμμα</title>
 		<desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένα, παιδικά προγράμματα.</desc>
@@ -565,9 +857,6 @@
 		<desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένα, παιδικά προγράμματα.</desc>
 		<category lang="el">Σειρά</category>
 	</programme>
-	<channel id="XTV100003344">
-		<display-name lang="el">ERT WORLD</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411100000 +0300" channel="XTV100003344">
 		<title lang="el">Ό,τι Αξίζει Κ2</title>
 		<desc lang="el">Επεισόδιο: Καστοριά - Φύση, εκεί που η ζωή ανασαίνει. Στην Καστοριά, στους ορεινούς όγκους του Γράμμου και του Βιτσίου, η εκπομπή συναντά ανθρώπους που έχουν επιλέξει να ζουν σε βαθιά σύνδεση με τη φύση και την κίνηση.</desc>
@@ -668,14 +957,6 @@
 		<desc lang="el">Επεισόδιο: Κυρά Παναγιά: Οι Ακρίτες της Πίστης. Το ταξίδι μας ξεκινά από τη Θεσσαλονίκη με προορισμό την Κυρά Παναγιά, ένα ερημονήσι που ανήκει στο Θαλάσσιο Πάρκο Αλοννήσου-Βόρειων Σποράδων. Σ' αυτή την προστατευόμενη περιοχή, βρίσκεται ένα μετόχι της Μεγίστης Λαύρας Αγίου Όρους.</desc>
 		<category lang="el">Κοινωνικό - Πολιτικό</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412100000 +0300" channel="XTV100003344">
-		<title lang="el">Δώδεκα Μήνες</title>
-		<desc lang="el">Επεισόδιο: Απρίλιος. Το ντοκιμαντέρ καταγράφει την αρμονική εναλλαγή του χρόνου, των εργασιών και των εθίμων.</desc>
-		<category lang="el">Φύση - Ανθρωπολογία</category>
-	</programme>
-	<channel id="XTV100001026">
-		<display-name lang="el">ANT1</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411103000 +0300" channel="XTV100001026">
 		<title lang="el">Ο Ιησούς από τη Ναζαρέτ (Ε)</title>
 		<desc lang="el">Θρησκευτική δραματική μίνι σειρά αμερικανικής παραγωγής 1977. Η πιo αγαπητή και μεγαλoπρεπής θρησκευτική παραγωγή στηv ιστoρία της τηλεόρασης, που παρουσιάζει τη ζωή του Χριστού με την ακρίβεια των Γραφών.</desc>
@@ -771,9 +1052,6 @@
 		<desc lang="el">Ο Αστερίξ και ο Οβελίξ φτάνουν στην αρχαία Ελλάδα για να βοηθήσουν τον ερωτοχτυπημένο Καψουρίξ να νικήσει στους Ολυμπιακούς Αγώνες και να κατακτήσει το κορίτσι των ονείρων του. (150')</desc>
 		<category lang="el">Κωμωδία</category>
 	</programme>
-	<channel id="XTV100001262">
-		<display-name lang="el">ALPHA</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411091500 +0300" channel="XTV100001262">
 		<title lang="el">Πρωταγωνιστές Ε12 (Ε)</title>
 		<desc lang="el">Εξομολογήσεις μοναχών πριν την Ανάσταση. Πριν 40 χρόνια 18 αδελφές από την Μονή της Σουρωτής στάλθηκαν στον Έβρο για να 'στήσουν', 'δίπλα στα σύνορα', το πρώτο μοναστήρι στην Αλεξανδρούπολη. Την 'Παναγιά του Έβρου'.</desc>
@@ -879,14 +1157,6 @@
 		<desc lang="el">Ένα αγόρι με τραυματικό παρελθόν ανακαλύπτει στο δάσος μια τίγρη. Κι ενώ η ζωή του αλλάζει με απροσδόκητο τρόπο, μια γυναίκα και ένα κορίτσι το βοηθούν να επουλώσει τις πληγές του. (105')</desc>
 		<category lang="el">Οικογενειακή</category>
 	</programme>
-	<programme start="20260412091500 +0300" stop="20260412101500 +0300" channel="XTV100001262">
-		<title lang="el">Οικογενειακές Ιστορίες (Ε)</title>
-		<desc lang="el">Απρόβλεπτες οικογενειακές ιστορίες που προκαλούν αίσθηση. Κρυμμένα μυστικά που έρχονται στο φως και ταράσσουν τις ισορροπίες. Έντονα συναισθήματα, δυνατές συγκρούσεις. Πόσο έτοιμη είναι μια οικογένεια να κοιτάξει την αλήθεια κατάματα;</desc>
-		<category lang="el">Ριάλιτι</category>
-	</programme>
-	<channel id="XTV100001040">
-		<display-name lang="el">STAR</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411103000 +0300" channel="XTV100001040">
 		<title lang="el">Tom and Jerry: Back to Oz</title>
 		<desc lang="el">Με την κακιά μάγισσα της Δύσης να έχει χαθεί από τη Χώρα του Oz, ο Τομ και ο Τζέρι μαζί με τη Ντόροθι επιστρέφουν στο Κάνσας! Αλλά όχι για πολύ, καθώς ένας νέος κακός κάνει την επανεμφάνιση του από τα έγκατα της μαγικής γης, ο Βασιλιάς Gnome! (90') (Μεταγλ.)</desc>
@@ -992,19 +1262,6 @@
 		<desc lang="el">Παιδική σειρά κινουμένων σχεδίων γαλλικής παραγωγής 2024. Μετά από μια απίθανη ανατροπή των σχεδίων του, ο Weasy, μια πονηρή νυφίτσα, με έφεση στις διαρρήξεις, βρίσκεται να κάθεται πάνω σε ένα τεράστιο αυγό, λίγο πριν την εκκόλαψη. (Μεταγλ.)</desc>
 		<category lang="el">Ψυχολογικό Δράμα</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412091500 +0300" channel="XTV100001040">
-		<title lang="el">Πέππα, το Γουρουνάκι</title>
-		<desc lang="el">Παιδική σειρά κινουμένων σχεδίων βρετανικής παραγωγής. Η Πέππα είναι το τρίτο μέλος μίας αξιολάτρευτης οικογένειας. Μιας οικογένειας όμως που δεν είναι και τόσο συνηθισμένη. Πρόκειται για μία αξιαγάπητη οικογένεια γουρουνιών. (Μεταγλ.)</desc>
-		<category lang="el">Παιδική</category>
-	</programme>
-	<programme start="20260412091500 +0300" stop="20260412110000 +0300" channel="XTV100001040">
-		<title lang="el">Ο Άνθρωπος των Σπηλαίων</title>
-		<desc lang="el">Μια φυλή ανθρώπων της παλαιολιθικής περιόδου ζει αρμονικά σε μια καταπράσινη κοιλάδα. Μέχρι που έρχεται αντιμέτωπη με τους πολέμαρχους της εποχής του χαλκού, οι οποίοι εισβάλλουν στην περιοχή της... με αποικιοκρατικές διαθέσεις. (85') (Μεταγλ.)</desc>
-		<category lang="el">Κιν. Σχεδίων</category>
-	</programme>
-	<channel id="XTV100001064">
-		<display-name lang="el">ΣΚΑΪ</display-name>
-	</channel>
 	<programme start="20260411070000 +0300" stop="20260411120000 +0300" channel="XTV100001064">
 		<title lang="el">Οι Δεκατιανοί</title>
 		<desc lang="el">Δυο καταξιωμένοι δημοσιογράφοι, ο Γιάννης Πιτταράς και ο Γιώργος Γρηγοριάδης 'σερβίρουν' ένα πλήρες και ενημερωτικό... 'δεκατιανό'. Με όλες τις ειδήσεις της τρέχουσας επικαιρότητας και της πολιτικής ζωής, με αποκαλυπτικό παρασκήνιο, αποκλειστικότητες και ενδιαφέρουσες συνεντεύξεις.</desc>
@@ -1100,9 +1357,6 @@
 		<desc lang="el">Δυο καταξιωμένοι δημοσιογράφοι, ο Γιάννης Πιτταράς και ο Γιώργος Γρηγοριάδης 'σερβίρουν' ένα πλήρες και ενημερωτικό... 'δεκατιανό'. Με όλες τις ειδήσεις της τρέχουσας επικαιρότητας και της πολιτικής ζωής, με αποκαλυπτικό παρασκήνιο, αποκλειστικότητες και ενδιαφέρουσες συνεντεύξεις.</desc>
 		<category lang="el">Εκπομπή</category>
 	</programme>
-	<channel id="XTV100001464">
-		<display-name lang="el">OPEN BEYOND</display-name>
-	</channel>
 	<programme start="20260411060000 +0300" stop="20260411095000 +0300" channel="XTV100001464">
 		<title lang="el">Τώρα Μαζί</title>
 		<desc lang="el">Ρεπορτάζ από την καρδιά των γεγονότων, διεθνείς ανταποκρίσεις, αλλά και καλεσμένοι στο στούντιο από όλο το φάσμα της πολιτικής, οικονομικής και κοινωνικής επικαιρότητας, σχολιάζουν τα γεγονότα και δίνουν απαντήσεις σε κρίσιμα ερωτήματα.</desc>
@@ -1193,14 +1447,6 @@
 		<desc lang="el">Ρεπορτάζ από την καρδιά των γεγονότων, διεθνείς ανταποκρίσεις, αλλά και καλεσμένοι στο στούντιο από όλο το φάσμα της πολιτικής, οικονομικής και κοινωνικής επικαιρότητας, σχολιάζουν τα γεγονότα και δίνουν απαντήσεις σε κρίσιμα ερωτήματα.</desc>
 		<category lang="el">Εκπομπή</category>
 	</programme>
-	<programme start="20260412095000 +0300" stop="20260412114500 +0300" channel="XTV100001464">
-		<title lang="el">Άλλος για τον Παράδεισο</title>
-		<desc lang="el">Ένας ενάρετος εργάτης, ο Ιερεμίας, πέφτει θύμα αυτοκινητικού δυστυχήματος. Όταν συνέρχεται, πηγαίνει ξανά στη δουλειά του και επιστρέφοντας σπίτι δέχεται επίσκεψη απ' τον αρχάγγελου Ανταμάν που τον οδηγεί στην ουρανούπολη. (115')</desc>
-		<category lang="el">Κωμωδία</category>
-	</programme>
-	<channel id="XTV100003184">
-		<display-name lang="el">ONE Channel HD</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV100003184">
 		<title lang="el">Ακολουθία Μεγάλου Σαββάτου</title>
 		<desc lang="el">Ζωντανή μετάδοση.</desc>
@@ -1306,9 +1552,6 @@
 		<desc lang="el">Ο αγαπημένος σεφ μας δίνει καθημερινά ραντεβού, παρουσιάζοντας με το μοναδικό του τρόπο αγαπημένες συνταγές, λαχταριστά πιάτα και πρωτότυπες δημιουργίες. Ο Άκης φιλοξενεί και έναν καλεσμένο - επαγγελματία ή σπουδαστή σεφ, ο οποίος ετοιμάζει μία συνταγή με τη βοήθεια και τις συμβουλές του Άκη. (ΤΠ)</desc>
 		<category lang="el">Μαγειρική</category>
 	</programme>
-	<channel id="XTV100003227">
-		<display-name lang="el">MEGA HD</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV100003227">
 		<title lang="el">Ακολουθία Μεγάλου Σαββάτου</title>
 		<desc lang="el">Από τομ Ιερό Καθεδρικό Ναό Αγίας Τριάδας Πειραιώς.</desc>
@@ -1409,14 +1652,6 @@
 		<desc lang="el">Ένας ανθρωπάκος, που προσπαθεί να στεριώσει σε κάποιο επάγγελμα, μπλέκεται σε μια περίεργη υπόθεση κληρονομιάς. (77')</desc>
 		<category lang="el">Κωμωδία</category>
 	</programme>
-	<programme start="20260412092000 +0300" stop="20260412124500 +0300" channel="XTV100003227">
-		<title lang="el">Χαμογέλα και Πάλι!</title>
-		<desc lang="el">Για 5η σεζόν, η Σίσσυ Χρηστίδου, με την επαγγελματική συνέπεια, την ευθύτητα και την ειλικρίνεια που τη διακρίνουν, θα καλωσορίζει κάθε Σάββατο και Κυριακή τους τηλεθεατές, με στόχο να προσφέρει αλήθεια και ουσιαστική επαφή με το κοινό. Δίπλα της, μια ομάδα με αληθινό δέσιμο και ξεχωριστή ενέργεια.</desc>
-		<category lang="el">Ψυχαγωγική Εκπομπή</category>
-	</programme>
-	<channel id="XTV100000963">
-		<display-name lang="el">Μακεδονία TV HD</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411110000 +0300" channel="XTV100000963">
 		<title lang="el">Η Βίβλος: Ο Σολομώντας</title>
 		<desc lang="el">Β' Μέρος. Λίγο πριν το θάνατο του Βασιλιά Δαυίδ, ξεσπά φιλονικία ανάμεσα στα δύο αδέρφια, Αδωνία και Σολομώντα, για τη διαδοχή του θρόνου. (120')</desc>
@@ -1487,14 +1722,6 @@
 		<desc lang="el">Αμερικανική κωμική σειρά μυστηρίου. Μετά τη δολοφονία της γυναίκας του, ο ντετέκτιβ Μονκ απομονώνεται και η υπηρεσία τον θέτει στο περιθώριο. Όταν όμως οι συνάδερφοί του βρίσκονται σε αδιέξοδο, αναλαμβάνει πάλι δράση.</desc>
 		<category lang="el">Μυστηρίου</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412110000 +0300" channel="XTV100000963">
-		<title lang="el">Άκρως Οικογενειακόν (Ε)</title>
-		<desc lang="el">Ελληνική κωμική σειρά παραγωγής 2001-2003. Ο Αλέξανδρος και η Μαργαρίτα ζουν με τα τέσσερα παιδιά τους μια ήσυχη οικογενειακή ζωή κάπου στα βόρεια προάστια της Αθήνας.</desc>
-		<category lang="el">Κωμωδία</category>
-	</programme>
-	<channel id="XTV100003511">
-		<display-name lang="el">Naftemporiki</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV100003511">
 		<title lang="el">News 2.0</title>
 		<desc lang="el">News 2.0 με τον Γιώργο Μελιγγώνη για τη δεύτερη ματιά σε όλα τα μεγάλα θέματα.</desc>
@@ -1620,14 +1847,6 @@
 		<desc lang="el">Αυτή η συγκλονιστική σειρά αληθινών γεγονότων του CNBC εξετάζει τη σκοτεινή πλευρά του αμερικανικού ονείρου. Ανακαλύψτε απάτες εκατομμυρίων δολαρίων που δημιουργούν τεράστιες περιουσίες. Ταξιδέψτε σε μέρη όπου οι δόλιες απάτες δημιουργούν ανέφικτες επιθυμίες.</desc>
 		<category lang="el">Αληθινές Ιστορίες</category>
 	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100003511">
-		<title lang="el">Real Estate</title>
-		<desc lang="el">Τα πάντα γύρω από τις εξελίξεις σε σχέση με το real estate , αναλύσεις , συνεντεύξεις και συμβουλές με τον Παύλο Πανταζόπουλο.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<channel id="XTV100002365">
-		<display-name lang="el">Action 24</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411100000 +0300" channel="XTV100002365">
 		<title lang="el">Θα Φας Καλά</title>
 		<desc lang="el">Ο Σωτήρης Καλυβάτσης μπαίνει στις κουζίνες των εστιατορίων που φτιάχνουν τα καλύτερα φαγητά της πόλης και κάθεται στα τραπέζια με τους πελάτες για να δοκιμάσει το φαγητό τους και να σας συστήσει τους κρυφούς γαστρονομικούς θησαυρούς.</desc>
@@ -1743,14 +1962,6 @@
 		<desc lang="el">Ο Σωτήρης Καλυβάτσης μπαίνει στις κουζίνες των εστιατορίων που φτιάχνουν τα καλύτερα φαγητά της πόλης και κάθεται στα τραπέζια με τους πελάτες για να δοκιμάσει το φαγητό τους και να σας συστήσει τους κρυφούς γαστρονομικούς θησαυρούς.</desc>
 		<category lang="el">Ψυχαγωγική Εκπομπή</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412100000 +0300" channel="XTV100002365">
-		<title lang="el">Θα Φας Καλά</title>
-		<desc lang="el">Ο Σωτήρης Καλυβάτσης μπαίνει στις κουζίνες των εστιατορίων που φτιάχνουν τα καλύτερα φαγητά της πόλης και κάθεται στα τραπέζια με τους πελάτες για να δοκιμάσει το φαγητό τους και να σας συστήσει τους κρυφούς γαστρονομικούς θησαυρούς.</desc>
-		<category lang="el">Ψυχαγωγική Εκπομπή</category>
-	</programme>
-	<channel id="XTV100003510">
-		<display-name lang="el">Kontra</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411130000 +0300" channel="XTV100003510">
 		<title lang="el">Επανάληψη Προγράμματος</title>
 		<desc lang="el">Επανάληψη προγράμματος.</desc>
@@ -1791,9 +2002,6 @@
 		<desc lang="el">Επανάληψη προγράμματος.</desc>
 		<category lang="el">Special</category>
 	</programme>
-	<channel id="XTV900000001">
-		<display-name lang="el">ATTICA TV</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411100000 +0300" channel="XTV900000001">
 		<title lang="el">Κινούμενα Σχέδια</title>
 		<desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
@@ -1909,19 +2117,6 @@
 		<desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
 		<category lang="el">Κιν. Σχεδίων</category>
 	</programme>
-	<programme start="20260412093000 +0300" stop="20260412094500 +0300" channel="XTV900000001">
-		<title lang="el">Η Συνταγή της Καρδιάς μας</title>
-		<desc lang="el">Συνταγές μαγειρικής.</desc>
-		<category lang="el">Μαγειρική</category>
-	</programme>
-	<programme start="20260412094500 +0300" stop="20260412100000 +0300" channel="XTV900000001">
-		<title lang="el">Εικόνες της Γης</title>
-		<desc lang="el">Πανέμορφες εικόνες από όλα τα μήκη και πλάτη της Γης.</desc>
-		<category lang="el">Φύση - Ανθρωπολογία</category>
-	</programme>
-	<channel id="XTV100003228">
-		<display-name lang="el">MEGA News</display-name>
-	</channel>
 	<programme start="20260411075000 +0300" stop="20260411100000 +0300" channel="XTV100003228">
 		<title lang="el">Ακολουθία Μεγάλου Σαββάτου</title>
 		<desc lang="el">Θεία λειτουργία από τον Ιερό Ναό Αγίας Τριάδος Πειραιώς.</desc>
@@ -2052,14 +2247,6 @@
 		<desc lang="el">Επεισόδιο: Α' Μέρος. Το πρώτο μέρος του ντοκιμαντέρ που παρουσιάζει όλες τις πληροφορίες για τη ζωή του Αγίου Παΐσιου από τη στιγμή που έφυγε με την οικογένειά του από την Καππαδοκία μέχρι και την εποχή που κλονίζεται η υγεία του.</desc>
 		<category lang="el">Ντοκιμαντέρ</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412100000 +0300" channel="XTV100003228">
-		<title lang="el">Άγιος Παΐσιος - ο Ασυρματιστής του Θεού (Ε)</title>
-		<desc lang="el">Επεισόδιο: Β' Μέρος. Το Ινστιτούτο Άγιος Μάξιμος ο Γραικός σε συνεργασία με τον όμιλο Παραπολιτικά media, προβάλλουν το 2o μέρος του ντοκιμαντέρ που παρουσιάζει όλες τις πληροφορίες για τη ζωή του Αγίου Παΐσιου.</desc>
-		<category lang="el">Ντοκιμαντέρ</category>
-	</programme>
-	<channel id="XTV100000925">
-		<display-name lang="el">Euronews Greek</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411090500 +0300" channel="XTV100000925">
 		<title lang="el">5 Λεπτά</title>
 		<desc lang="el">Οι πιο σημαντικές ειδήσεις της επικαιρότητας.</desc>
@@ -2615,29 +2802,6 @@
 		<desc lang="el">Οι πιο σημαντικές ειδήσεις της επικαιρότητας.</desc>
 		<category lang="el">Ειδήσεις</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412090500 +0300" channel="XTV100000925">
-		<title lang="el">5 Λεπτά</title>
-		<desc lang="el">Οι πιο σημαντικές ειδήσεις της επικαιρότητας.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<programme start="20260412090500 +0300" stop="20260412093000 +0300" channel="XTV100000925">
-		<title lang="el">Ειδήσεις</title>
-		<desc lang="el">Οι πιο σημαντικές ειδήσεις της επικαιρότητας.</desc>
-		<category lang="el">Ειδήσεις</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412093500 +0300" channel="XTV100000925">
-		<title lang="el">5 Λεπτά</title>
-		<desc lang="el">Οι πιο σημαντικές ειδήσεις της επικαιρότητας.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<programme start="20260412093500 +0300" stop="20260412100000 +0300" channel="XTV100000925">
-		<title lang="el">Ειδήσεις</title>
-		<desc lang="el">Οι πιο σημαντικές ειδήσεις της επικαιρότητας.</desc>
-		<category lang="el">Ειδήσεις</category>
-	</programme>
-	<channel id="XTV100001866">
-		<display-name lang="el">COSMOTE History HD</display-name>
-	</channel>
 	<programme start="20260411084500 +0300" stop="20260411093000 +0300" channel="XTV100001866">
 		<title lang="el">Η Ζωή του Ιησού Ε7</title>
 		<desc lang="el">Επεισόδιο: Μαρία Μαγδαληνή: Η Σταύρωση. Ως γυναίκα, η Μαρία Μαγδαληνή ήταν υπεράνω υποψίας για τις ρωμαϊκές αρχές. Έτσι, παρακολούθησε από κοντά όλο το μαρτύριο του Ιησού μέχρι τη Σταύρωση. Πιστή ακόμα και μετά το τέλος, η Μαρία έγινε η πρώτη μάρτυρας της Ανάστασης. (40')</desc>
@@ -2783,14 +2947,6 @@
 		<desc lang="el">Επεισόδιο: Πέτρος: Η Ανάσταση. Τρομοκρατημένος μετά τη σύλληψη του Ιησού, ο Πέτρος, ο πιο πιστός μαθητής του, αρνήθηκε κάθε σχέση μαζί του όχι μία, αλλά τρεις φορές. Το μετάνιωσε πικρά, όμως η ευκαιρία να επανορθώσει εμφανίστηκε μόνο μετά την Ανάσταση... (40')</desc>
 		<category lang="el">Σειρά Ντοκιμαντέρ</category>
 	</programme>
-	<programme start="20260412093500 +0300" stop="20260412101500 +0300" channel="XTV100001866">
-		<title lang="el">Οι Άγιοι: Ιωάννης ο Βαπτιστής</title>
-		<desc lang="el">Βίοι Αγίων μέσα από τη ματιά του Μάρτιν Σκορσέζε. Ο Άγιος Ιωάννης ο Βαπτιστής, υιός του Προφήτη Ζαχαρία και της Ελισάβετ, κήρυξε τον ερχομό του Μεσσία και βάπτιζε τους πιστούς, ζώντας ασκητικά στην έρημο και κηρύττοντας μετάνοια. (38')</desc>
-		<category lang="el">Ντοκιμαντέρ</category>
-	</programme>
-	<channel id="XTV100001106">
-		<display-name lang="el">COSMOTE Cinema 1 HD</display-name>
-	</channel>
 	<programme start="20260411064500 +0300" stop="20260411092000 +0300" channel="XTV100001106">
 		<title lang="el">Βραβεία Ευρωπαϊκής Ακαδημίας Κινηματογράφου 2025</title>
 		<desc lang="el">Από το Βερολίνο της Γερμανίας, παρακολουθείτε την 38η τελετή απονομής των βραβείων της Ευρωπαϊκής Ακαδημίας Κινηματογράφου, που για ακόμη μία χρονιά τιμά τον πλούτο και τη δημιουργικότητα του σινεμά στη Γηραιά Ήπειρο. (146')</desc>
@@ -2871,14 +3027,6 @@
 		<desc lang="el">Όταν η ζούγκλα απειλείται με ολική καταστροφή από ένα πονηρό κοάλα και τον στρατό του, ένας ξεχωριστός πιγκουίνος, που κρύβει μέσα του έναν πραγματικό τίγρη, αναλαμβάνει με την παρέα του να διατηρήσει την τάξη και τη δικαιοσύνη. (94') (Μεταγλ.)</desc>
 		<category lang="el">Κιν. Σχεδίων</category>
 	</programme>
-	<programme start="20260412091500 +0300" stop="20260412101000 +0300" channel="XTV100001106">
-		<title lang="el">Bruce Lee, Enter the Dragon</title>
-		<desc lang="el">Με την ταινία 'Enter the Dragon', ο Μπρους Λι έφερε επανάσταση στο Χόλιγουντ. Ως ο πρώτος Ασιάτης που πρωταγωνίστησε σε χολιγουντιανή παραγωγή, νίκησε τα φυλετικά στερεότυπα και έγινε σύμβολο της απελευθέρωσης των καταπιεσμένων. (53')</desc>
-		<category lang="el">Ντοκιμαντέρ</category>
-	</programme>
-	<channel id="XTV100001060">
-		<display-name lang="el">COSMOTE Cinema 2 HD</display-name>
-	</channel>
 	<programme start="20260411082000 +0300" stop="20260411095000 +0300" channel="XTV100001060">
 		<title lang="el">Γραμμή Δισταγμού</title>
 		<desc lang="el">Μια δικηγόρος μοιράζει τον χρόνο της ανάμεσα στο δικαστικό μέγαρο και στο νοσοκομείο όπου νοσηλεύεται η μητέρα της. Κι ενώ η δίκη ενός νεαρού που υπερασπίζεται φτάνει στο τέλος της, εκείνη καλείται να πάρει κρίσιμες αποφάσεις. (84')</desc>
@@ -2949,14 +3097,6 @@
 		<desc lang="el">Αναζητώντας μια απόδραση από τις μονότονες διακοπές με τη μητέρα τους, τέσσερα παιδιά κατασκηνώνουν σε ένα απομονωμένο νησί. Σύντομα, όμως, θα ανακαλύψουν ότι δεν είναι μόνα... Η ταινία βασίζεται σε βιβλίο του Άρθουρ Ράνσομ. (93')</desc>
 		<category lang="el">Οικογενειακή</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412103000 +0300" channel="XTV100001060">
-		<title lang="el">The Family Road</title>
-		<desc lang="el">Ένας αρχιτέκτονας αναγκάζεται να αλλάξει τα σχέδια των διακοπών του και να πάει τη μητέρα του στο Μαρόκο. Έτσι, ξεκινά ένα οδικό ταξίδι που φέρνει την οικογένεια αντιμέτωπη με γλυκές μνήμες αλλά και πικρές στιγμές του παρελθόντος. (91')</desc>
-		<category lang="el">Κωμωδία</category>
-	</programme>
-	<channel id="XTV100001073">
-		<display-name lang="el">COSMOTE Cinema 3 HD</display-name>
-	</channel>
 	<programme start="20260411082500 +0300" stop="20260411095500 +0300" channel="XTV100001073">
 		<title lang="el">2.000 Ναύτες και Ένα Κορίτσι</title>
 		<desc lang="el">Μία ερωτευμένη χορεύτρια, που δεν θέλει να μείνει μακριά από τον αγαπημένο της, μπαίνει κρυφά στον Ναύσταθμο. Η είσοδός της γίνεται γνωστή, ο οπλονόμος σημαίνει συναγερμό και η αναστάτωση που προκαλεί η παρουσία της δεν περιγράφεται. (72')</desc>
@@ -3042,9 +3182,6 @@
 		<desc lang="el">Ένας άνδρας έχει ανακαλύψει μια μέθοδο παρασκευής βενζίνης και ψάχνει να βρει το συστατικό που λείπει ώστε να ολοκληρωθεί το σκεύασμα με την βοήθεια των φίλων του. (78')</desc>
 		<category lang="el">Κωμωδία</category>
 	</programme>
-	<channel id="XTV100001622">
-		<display-name lang="el">COSMOTE Series HD</display-name>
-	</channel>
 	<programme start="20260411082000 +0300" stop="20260411090500 +0300" channel="XTV100001622">
 		<title lang="el">Matlock Κ2 Ε13</title>
 		<desc lang="el">Η ομάδα υπερασπίζεται μια πελάτισσα στη διεκδίκηση μιας εταιρείας τεχνητής νοημοσύνης. Την ίδια στιγμή, η Ολίμπια προσπαθεί να βελτιώσει τη σχέση της με τη Σάρα, ενώ η Μάτι λαμβάνει ένα ανησυχητικό τηλεφώνημα από τον Τζόι. (42')</desc>
@@ -3180,19 +3317,6 @@
 		<desc lang="el">Μια μέρα γιορτής στο ροντέο του Ετζγουότερ μετατρέπεται σε απόλυτο χάος, όταν ένα κοπάδι αφηνιασμένων αλόγων ξεφεύγει και θέτει σε κίνδυνο το πλήθος. (42')</desc>
 		<category lang="el">Δραματική</category>
 	</programme>
-	<programme start="20260412090500 +0300" stop="20260412095500 +0300" channel="XTV100001622">
-		<title lang="el">Art Detectives Ε2</title>
-		<desc lang="el">Η αποκάλυψη ενός θησαυρού κινεί τις υποψίες του Μικ, ο οποίος διαπιστώνει ότι είχε κλαπεί από μια προϊστορική ταφή. Καθώς εμβαθύνει, έρχονται στην επιφάνεια μια ψευδής αυτοκτονία, μια ύπουλη προδοσία και ένα χιλιόχρονο μυστικό. (50')</desc>
-		<category lang="el">Αστυνομική</category>
-	</programme>
-	<programme start="20260412095500 +0300" stop="20260412104500 +0300" channel="XTV100001622">
-		<title lang="el">Resident Alien Κ4 Ε9</title>
-		<desc lang="el">Με τη ζωή των γύρω του να κρέμεται από μια κλωστή, οι αντοχές του Χάρι δοκιμάζονται. (43')</desc>
-		<category lang="el">Περιπέτεια</category>
-	</programme>
-	<channel id="XTV100003264">
-		<display-name lang="el">COSMOTE Series Marathon</display-name>
-	</channel>
 	<programme start="20260411085000 +0300" stop="20260411094000 +0300" channel="XTV100003264">
 		<title lang="el">Poker Face Κ2 Ε12</title>
 		<desc lang="el">Φινάλε 2ου κύκλου. Αντιμέτωπη με αλλοτινούς συμμάχους και στην προσπάθειά της να αποτρέψει ένα έγκλημα, η Τσάρλι ξεκινά έναν επικίνδυνο αγώνα ενάντια στον χρόνο, που θα την αναγκάσει να αμφισβητήσει όλα όσα θεωρούσε δεδομένα. (50')</desc>
@@ -3338,14 +3462,6 @@
 		<desc lang="el">Ο Στάμπλερ συνεργάζεται με την Ιζαμπέλα, για να ανακαλύψουν ποιος κρύβεται πίσω από την Καμόρα πριν ξεσπάσει ολοκληρωτικός πόλεμος. Στο μεταξύ, ο Ρέγιες διεισδύει στη συμμορία Λος Σάντος, τα μέλη της οποίας διψούν για εκδίκηση. (41')</desc>
 		<category lang="el">Αστυνομική</category>
 	</programme>
-	<programme start="20260412091500 +0300" stop="20260412100000 +0300" channel="XTV100003264">
-		<title lang="el">Law &amp; Order: Organized Crime Κ5 Ε5</title>
-		<desc lang="el">Η καριέρα του Ιλάι στην αστυνομία παίρνει απρόσμενη τροπή, γεγονός που τον φέρνει σε σύγκρουση με την οικογένειά του. Παράλληλα, ο αρχηγός της Καμόρα βγαίνει από το κρησφύγετό του μόλις η εγκληματική οργάνωση αρχίζει να καταρρέει. (41')</desc>
-		<category lang="el">Αστυνομική</category>
-	</programme>
-	<channel id="XTV100000782">
-		<display-name lang="el">Village Cinema HD</display-name>
-	</channel>
 	<programme start="20260411085500 +0300" stop="20260411102000 +0300" channel="XTV100000782">
 		<title lang="el">Η Μεγάλη Κακιά Αλεπού και Άλλες Ιστορίες...</title>
 		<desc lang="el">Όποιος νομίζει πως η εξοχή είναι ήρεμη κάνει λάθος. Εκεί βρίσκονται κάποια ιδιαίτερα ανήσυχα ζώα. Μια αλεπού που νομίζει πως είναι κοτόπουλο, ένας λαγός που κάνει τον πελαργό και μια πάπια που θέλει να πάρει τη θέση του Άγιου Βασίλη. (79') (Μεταγλ.)</desc>
@@ -3416,9 +3532,6 @@
 		<desc lang="el">Σε ένα ειδυλλιακό χωριό της Γερμανίας, ένας 12χρονος είναι αχώριστος με τη σκυλίτσα του. Όταν, όμως, η οικογένειά του μετακομίζει σε ένα μικρό διαμέρισμα, το μικρό αγόρι αναγκάζεται να αποχωριστεί την καλύτερή του φίλη... (93') (Μεταγλ.)</desc>
 		<category lang="el">Οικογενειακή</category>
 	</programme>
-	<channel id="XTV100002885">
-		<display-name lang="el">TCM</display-name>
-	</channel>
 	<programme start="20260411084000 +0300" stop="20260411102000 +0300" channel="XTV100002885">
 		<title lang="el">Θρύλος</title>
 		<desc lang="el">Σε ένα μυθικό δάσος, ένα νεαρό αγόρι αναλαμβάνει να σταματήσει τον Άρχοντα του Σκότους, που απειλεί να καταστρέψει το φως της μέρας και να τον αποτρέψει από το να παντρευτεί τη γυναίκα που αγαπάει. (100')</desc>
@@ -3489,14 +3602,6 @@
 		<desc lang="el">Δύο κακοποιοί που φτάνουν στη δύση της καριέρας τους προσπαθούν να ενώσουν και πάλι την παλιά τους συμμορία, για μια τελευταία παράσταση, προτού ο ένας αποσυρθεί, διεκπεραιώνοντας την τελευταία του 'δουλειά' - να σκοτώσει το σύντροφό του. (90')</desc>
 		<category lang="el">Κωμωδία</category>
 	</programme>
-	<programme start="20260412094000 +0300" stop="20260412114000 +0300" channel="XTV100002885">
-		<title lang="el">Απίθανες Ιστορίες</title>
-		<desc lang="el">Ένας άνδρας προσπαθεί να διακρίνει την αλήθεια που κρύβεται πίσω από τις ιστορίες που του αφηγείται ο ετοιμοθάνατος πατέρας του. (120')</desc>
-		<category lang="el">Περιπέτεια</category>
-	</programme>
-	<channel id="XTV100002107">
-		<display-name lang="el">FX Life</display-name>
-	</channel>
 	<programme start="20260411082000 +0300" stop="20260411090500 +0300" channel="XTV100002107">
 		<title lang="el">Castle Κ5 Ε4</title>
 		<desc lang="el">Επεισόδιο: Murder, He Wrote. Τα σχέδια του Castle και της Beckett για ένα ρομαντικό Σαββατοκύριακο στα Χάμπτονς διακόπτονται, όταν ένας άντρας σκοντάφτει στην αυλή του Castle και καταρρέει στην πισίνα.</desc>
@@ -3667,19 +3772,6 @@
 		<desc lang="el">Επεισόδιο: On The Hook. Ο απινιδωτής της Brett και της Violet δεν λειτουργεί καλά σε μια κλήση. Ο Herrmann προσπαθεί να βρει το τέλειο σημείο για τη νέα του πολυθρόνα.</desc>
 		<category lang="el">Κοινωνική</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412095000 +0300" channel="XTV100002107">
-		<title lang="el">Chicago Fire Κ12 Ε6</title>
-		<desc lang="el">Επεισόδιο: Port in the Storm. Ο Σταθμός 51 καλωσορίζει ξανά κάποια γνωστά πρόσωπα και αποχαιρετά την Brett. Η Violet προσπαθεί να διακοσμήσει τον γαμήλιο χώρο της Brett.</desc>
-		<category lang="el">Κοινωνική</category>
-	</programme>
-	<programme start="20260412095000 +0300" stop="20260412103500 +0300" channel="XTV100002107">
-		<title lang="el">Rizzoli &amp; Isles Κ2 Ε8</title>
-		<desc lang="el">Επεισόδιο: My Own Worst Enemy. Μετά από μια ληστεία που πήγε στραβά, η Τζέιν και η Μάουρα εισχωρούν στο παρελθόν μιας οικογένειας.</desc>
-		<category lang="el">Μυστηρίου</category>
-	</programme>
-	<channel id="XTV100002164">
-		<display-name lang="el">FX</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411094000 +0300" channel="XTV100002164">
 		<title lang="el">Doctor Odyssey Κ1 Ε8</title>
 		<desc lang="el">Επεισόδιο: Quackers. Μια αλλόκοτη τάση σαρώνει τη βιομηχανία των κρουαζιερόπλοιων.</desc>
@@ -3875,14 +3967,6 @@
 		<desc lang="el">Επεισόδιο: Sophisticated Ladies. Ο Τρίσταν παλεύει να αποδείξει την αξία του στην Έιβερι.</desc>
 		<category lang="el">Δραματική</category>
 	</programme>
-	<programme start="20260412094000 +0300" stop="20260412100000 +0300" channel="XTV100002164">
-		<title lang="el">Brooklyn Nine-Nine Κ3 Ε19</title>
-		<desc lang="el">Επεισόδιο: Terry Kitties. Σε μια προσπάθεια να αποδείξει στο παλιό του Τμήμα την αξία του, ο Τέρι ζητά τη βοήθεια του Τζέικ για να επιλύσουν μια υπόθεση από το παρελθόν.</desc>
-		<category lang="el">Κωμωδία</category>
-	</programme>
-	<channel id="XTV100001107">
-		<display-name lang="el">E! HD</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411095500 +0300" channel="XTV100001107">
 		<title lang="el">Αποτυχημένες Επεμβάσεις Κ4 Ε6</title>
 		<desc lang="el">Επεισόδιο: 4000 κυβικά και βάλε. Ο Dr. Nassif αναλαμβάνει έναν άνθρωπο με τρία φρύδια, ενώ ο Dr. Dubrow εγχειρίζει μια μητέρα τριών παιδιών που αναφέρεται στα αποτυχημένα στήθη της ως 'σακουλάκια που κρέμονται' και μια γυναίκα θέλει μελλοντικά να συρρικνώσει την πηγή χρημάτων της.</desc>
@@ -4013,19 +4097,6 @@
 		<desc lang="el">Επεισόδιο: Επιστροφή απ' τον Παράδεισο. Λίγο πριν φύγουν από τον παράδεισο, Κένταλ και Κάιλι προσπαθούν να λύσουν τις διαφορές τους, ενώ Κιμ και Κλόι βοηθούν την Κόρτνι να ξεχάσει τον Σκοτ.</desc>
 		<category lang="el">Ριάλιτι</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412095500 +0300" channel="XTV100001107">
-		<title lang="el">Αποτυχημένες Επεμβάσεις Κ4 Ε8</title>
-		<desc lang="el">Επεισόδιο: Στήθος και μύτη ζητούν επειγόντως φροντίδα. Μια μητέρα συγκρατεί το στήθος της με μονωτική ταινία, ένα εργαλείο κατέστρεψε τη μύτη μιας νοσοκόμας και μια ανθυποδιασημότητα θέλει καλύτερη μύτη.</desc>
-		<category lang="el">Ριάλιτι</category>
-	</programme>
-	<programme start="20260412095500 +0300" stop="20260412105000 +0300" channel="XTV100001107">
-		<title lang="el">Αποτυχημένες Επεμβάσεις Κ4 Ε9</title>
-		<desc lang="el">Επεισόδιο: Γνωρίστε τη μέλλουσα κυρία Paul Nassif. Μια τρελαμένη Καναδή χρησιμοποιεί το στήθος της για να προσεγγίσει τον Paul. Οι γιατροί κάνουν ρινοπλαστική σε ένα πρώην μοντέλο λίγο πριν παντρευτεί.</desc>
-		<category lang="el">Ριάλιτι</category>
-	</programme>
-	<channel id="XTV100001400">
-		<display-name lang="el">COSMOTE Sport Highlights HD</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411120000 +0300" channel="XTV100001400">
 		<title lang="el">COSMOTE SPORT Highlights HD</title>
 		<desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
@@ -4061,9 +4132,6 @@
 		<desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
 		<category lang="el">Διάφορα Σπορ</category>
 	</programme>
-	<channel id="XTV100001071">
-		<display-name lang="el">COSMOTE Sport 1 HD</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV100001071">
 		<title lang="el">Ποδόσφαιρο: Ράγιο Βαγιεκάνο - ΑΕΚ</title>
 		<desc lang="el">UEFA Conference League 2025-26. Προημιτελική Φάση, 1η Αγωνιστική. Με στόχο το πρώτο βήμα πρόκρισης στους '4' του UEFA Conference Lague η ΑΕΚ ταξιδεύει στη Μαδρίτη για να αντιμετωπίσει τη Ράγιο Βαγεκάνο. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
@@ -4164,14 +4232,6 @@
 		<desc lang="el">UEFA Champions League 2025-26. Προημιτελική Φάση, 1η Αγωνιστική.  Περιγραφή: Στέφανος Αβραμίδης.</desc>
 		<category lang="el">Ποδόσφαιρο</category>
 	</programme>
-	<programme start="20260412093000 +0300" stop="20260412113000 +0300" channel="XTV100001071">
-		<title lang="el">Ποδόσφαιρο: Παρί Σεν Ζερμέν - Λίβερπουλ</title>
-		<desc lang="el">UEFA Champions League 2025-26. Προημιτελική Φάση, 1η Αγωνιστική.  Περιγραφή: Μιχάλης Τσόχος.</desc>
-		<category lang="el">Ποδόσφαιρο</category>
-	</programme>
-	<channel id="XTV100001080">
-		<display-name lang="el">COSMOTE Sport 2 HD</display-name>
-	</channel>
 	<programme start="20260411070000 +0300" stop="20260411091000 +0300" channel="XTV100001080">
 		<title lang="el">Ποδόσφαιρο: Βόλος ΝΠΣ - ΟΦΗ</title>
 		<desc lang="el">Stoiximan Super League 2025-26. Playoffs, Θέσεις 5-8, 1η Αγωνιστική. Στη 'μάχη' της Ευρώπης, Βόλος και ΟΦΗ ξεκινούν ισόβαθμοι την προσπάθειά τους, πέντε βαθμούς πίσω από τον πρωτοπόρο του γκρουπ Λεβαδειακό. Περιγραφή: Άλκης Τσαβδαράς.</desc>
@@ -4257,19 +4317,6 @@
 		<desc lang="el">Stoiximan Super League 2025-26. Playoffs, Θέσεις 1-4, 1η Αγωνιστική. Πρεμιέρα στα Playoffs και η πρωτοπόρος ΑΕΚ αντιμετωπίζει εκτός έδρας τον δεύτερο Ολυμπιακό, με τις δύο ομάδες να χωρίζουν δύο βαθμοί. Περιγραφή: Αντρέα Παλομπαρίνι.</desc>
 		<category lang="el">Ποδόσφαιρο</category>
 	</programme>
-	<programme start="20260412091000 +0300" stop="20260412093000 +0300" channel="XTV100001080">
-		<title lang="el">Sports Classics: My Sporting Moment</title>
-		<desc lang="el">Φουχς. Κορυφαίοι αθλητές μιλούν για την καλύτερη στιγμή της καριέρας τους.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100001080">
-		<title lang="el">Sports Classics: Ultimate Rush Κ1 Ε15</title>
-		<desc lang="el">Γιατί οι αθλητές των extreme sports θέτουν τη ζωή τους σε κίνδυνο; Η σειρά επικεντρώνεται στα εξωφρενικά κατορθώματα μερικών από τους καλύτερους αθλητές στον κόσμο.</desc>
-		<category lang="el">Αθλητισμός - Αθλητές</category>
-	</programme>
-	<channel id="XTV100001072">
-		<display-name lang="el">COSMOTE Sport 3 HD</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV100001072">
 		<title lang="el">Ποδόσφαιρο: Φαμαλικάο - Μορεϊρένσε</title>
 		<desc lang="el">Liga Portugal Betclic 2025-26. 29η Αγωνιστική.  Περιγραφή: Παύλος Παλαιστής.</desc>
@@ -4365,9 +4412,6 @@
 		<desc lang="el">Liga Portugal Betclic 2025-26. 29η Αγωνιστική.  Περιγραφή: Κώστας Γιαλιτάκης.</desc>
 		<category lang="el">Ποδόσφαιρο</category>
 	</programme>
-	<channel id="XTV100001109">
-		<display-name lang="el">COSMOTE Sport 4 HD</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV100001109">
 		<title lang="el">Μπάσκετ: Μπανταλόνα - Μούρθια</title>
 		<desc lang="el">ACB Liga Endesa 2025-26. 25η Αγωνιστική. Περιγραφή: Άρης Μπάρκας.</desc>
@@ -4468,14 +4512,6 @@
 		<desc lang="el">Το NBA On Fire σε βάζει στον μαγικό κόσμο του NBA.</desc>
 		<category lang="el">Μπάσκετ</category>
 	</programme>
-	<programme start="20260412093000 +0300" stop="20260412113000 +0300" channel="XTV100001109">
-		<title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ</title>
-		<desc lang="el">Turkish Basketball Super League 2025-26. 26η Αγωνιστική.  Περιγραφή: Γιάννης Φιλέρης.</desc>
-		<category lang="el">Μπάσκετ</category>
-	</programme>
-	<channel id="XTV100001063">
-		<display-name lang="el">COSMOTE Sport 5 HD</display-name>
-	</channel>
 	<programme start="20260411085500 +0300" stop="20260411094000 +0300" channel="XTV100001063">
 		<title lang="el">WRC 2026</title>
 		<desc lang="el">Κροατία, SS4 Ucka 1. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
@@ -4601,19 +4637,6 @@
 		<desc lang="el">Γερμανία, Χόκενχαϊμ - 2ος Αγώνας. Το Γερμανικό Πρωτάθλημα Τουρισμού φιλοξενεί τροποποιημένα αυτοκίνητα που κυκλοφορούν στον δρόμο. Περιγραφή: Χρήστος Βασιλείου.</desc>
 		<category lang="el">Μηχανοκίνητα</category>
 	</programme>
-	<programme start="20260412091000 +0300" stop="20260412093000 +0300" channel="XTV100001063">
-		<title lang="el">Αθλητικά Στιγμιότυπα</title>
-		<desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
-		<category lang="el">Στιγμιότυπα</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412103000 +0300" channel="XTV100001063">
-		<title lang="el">2026 FIA World Championship - Στιγμιότυπα</title>
-		<desc lang="el">Πορτογαλία Rally Raid. Απολαύστε έντονη δράση με απίστευτα και μοναδικά οχήματα!</desc>
-		<category lang="el">Μηχανοκίνητα</category>
-	</programme>
-	<channel id="XTV100001360">
-		<display-name lang="el">COSMOTE Sport 6 HD</display-name>
-	</channel>
 	<programme start="20260411060000 +0300" stop="20260411100000 +0300" channel="XTV100001360">
 		<title lang="el">Τένις: ATP Masters 1000 2026</title>
 		<desc lang="el">Μόντε Κάρλο (Προημιτελικοί). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
@@ -4689,14 +4712,6 @@
 		<desc lang="el">Η μοναδική εκπομπή για το τένις, φιλοξενεί πλούσια αγωνιστική επικαιρότητα και θεματολογία από το χώρο του τένις, στην Ελλάδα και το εξωτερικό.</desc>
 		<category lang="el">Εκπομπή</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412130000 +0300" channel="XTV100001360">
-		<title lang="el">Τένις: ATP Masters 1000 2026</title>
-		<desc lang="el">Μόντε Κάρλο (Ημιτελικοί). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
-		<category lang="el">Τένις</category>
-	</programme>
-	<channel id="XTV100001708">
-		<display-name lang="el">COSMOTE Sport 7 HD</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV100001708">
 		<title lang="el">COSMOTESport7HD</title>
 		<desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
@@ -4787,14 +4802,6 @@
 		<desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
 		<category lang="el">Promo Card</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412100000 +0300" channel="XTV100001708">
-		<title lang="el">COSMOTESport7HD</title>
-		<desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
-		<category lang="el">Promo Card</category>
-	</programme>
-	<channel id="XTV100001725">
-		<display-name lang="el">COSMOTE Sport 8 HD</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV100001725">
 		<title lang="el">COSMOTESport8HD</title>
 		<desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
@@ -4860,9 +4867,6 @@
 		<desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
 		<category lang="el">Promo Card</category>
 	</programme>
-	<channel id="XTV100002945">
-		<display-name lang="el">COSMOTE Sport 9 HD</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV100002945">
 		<title lang="el">COSMOTESport9HD</title>
 		<desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
@@ -4933,9 +4937,6 @@
 		<desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
 		<category lang="el">Promo Card</category>
 	</programme>
-	<channel id="XTV100011401">
-		<display-name lang="el">COSMOTE Sport 4K</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV100011401">
 		<title lang="el">COSMOTESport4K</title>
 		<desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
@@ -5016,9 +5017,6 @@
 		<desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
 		<category lang="el">Promo Card</category>
 	</programme>
-	<channel id="XTV900000002">
-		<display-name lang="el">COSMOTE Sport Start HD</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV900000002">
 		<title lang="el">Ποδόσφαιρο: Παρί Σεν Ζερμέν - Λίβερπουλ</title>
 		<desc lang="el">UEFA Champions League 2025-26. Προημιτελική Φάση, 1η Αγωνιστική.  Περιγραφή: Μιχάλης Τσόχος.</desc>
@@ -5084,9 +5082,6 @@
 		<desc lang="el">UEFA Champions League 2025-26. Προημιτελική Φάση, 1η Αγωνιστική.  Περιγραφή: Στέφανος Αβραμίδης.</desc>
 		<category lang="el">Ποδόσφαιρο</category>
 	</programme>
-	<channel id="XTV100003506">
-		<display-name lang="el">ΑΕΚ SL Pass</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV100003506">
 		<title lang="el">COSMOTE SPORT ΑΕΚ Super League Pass</title>
 		<desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για την ΑΕΚ στη Super League 2025-2026.</desc>
@@ -5152,9 +5147,6 @@
 		<desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για την ΑΕΚ στη Super League 2025-2026.</desc>
 		<category lang="el">Promo Card</category>
 	</programme>
-	<channel id="XTV100003505">
-		<display-name lang="el">ΟΛΥΜΠΙΑΚΟΣ SL Pass</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV100003505">
 		<title lang="el">COSMOTE SPORT ΟΛΥΜΠΙΑΚΟΣ Super League Pass</title>
 		<desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τον Ολυμπιακό στη Super League 2025-2026.</desc>
@@ -5220,9 +5212,6 @@
 		<desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τον Ολυμπιακό στη Super League 2025-2026.</desc>
 		<category lang="el">Promo Card</category>
 	</programme>
-	<channel id="XTV100003508">
-		<display-name lang="el">ΠΑΝΑΘΗΝΑΪΚΟΣ SL Pass</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV100003508">
 		<title lang="el">COSMOTE SPORT ΠΑΝΑΘΗΝΑΪΚΟΣ Super League Pass</title>
 		<desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τον Παναθηναϊκό στη Super League 2025-2026.</desc>
@@ -5288,9 +5277,6 @@
 		<desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τον Παναθηναϊκό στη Super League 2025-2026.</desc>
 		<category lang="el">Promo Card</category>
 	</programme>
-	<channel id="XTV600000607">
-		<display-name lang="el">Novasports News HD</display-name>
-	</channel>
 	<programme start="20260411060000 +0300" stop="20260411100000 +0300" channel="XTV600000607">
 		<title lang="el">Novasports News</title>
 		<desc lang="el">Δείτε αποκλειστικά highlights όλων των διοργανώσεων ποδοσφαίρου, μπάσκετ και άλλων σπορ των καναλιών Novasports! Ακόμη, συνεχής ενημέρωση για την αθλητική επικαιρότητα με νέα, στατιστικά και ό,τι συζητιέται στα social media!</desc>
@@ -5331,9 +5317,6 @@
 		<desc lang="el">Δείτε αποκλειστικά highlights όλων των διοργανώσεων ποδοσφαίρου, μπάσκετ και άλλων σπορ των καναλιών Novasports! Ακόμη, συνεχής ενημέρωση για την αθλητική επικαιρότητα με νέα, στατιστικά και ό,τι συζητιέται στα social media!</desc>
 		<category lang="el">Διάφορα Σπορ</category>
 	</programme>
-	<channel id="XTV600000608">
-		<display-name lang="el">Novasports Start HD</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411120000 +0300" channel="XTV600000608">
 		<title lang="el">Ποδόσφαιρο: Vikos Cola Elite Neon Cup</title>
 		<desc lang="el">Το τουρνουά Elite Neon Cup είναι το πρώτο και μεγαλύτερο διεθνές τουρνουά ποδοσφαίρου νέων στην Ελλάδα και φέτος διεξάγεται για 12η χρονιά στις 6-9 Απριλίου στην Αθήνα, στις κατηγορίες Κ14 και Κ16.</desc>
@@ -5394,9 +5377,6 @@
 		<desc lang="el">Eurocup 2025-26. Παρακολουθήστε τους αγώνες του EuroCup 2025/26, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 20 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ.</desc>
 		<category lang="el">Μπάσκετ</category>
 	</programme>
-	<channel id="XTV600000609">
-		<display-name lang="el">Novasports Prime HD</display-name>
-	</channel>
 	<programme start="20260411081500 +0300" stop="20260411091500 +0300" channel="XTV600000609">
 		<title lang="el">Ανασκόπηση Eredivisie 2025/26</title>
 		<desc lang="el">Ανασκόπηση 29ης Αγωνιστικής. Τα κανάλια Novasports εξασφάλισαν για τους λάτρεις του ποδοσφαίρου αγώνες του ολλανδικού πρωταθλήματος. Μείνετε συντονισμένοι για τα καλύτερα στιγμιότυπα, τις πιο εντυπωσιακές φάσεις και όλα τα γκολ της αγωνιστικής που προηγήθηκε.</desc>
@@ -5467,9 +5447,6 @@
 		<desc lang="el">Euroleague. Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'.</desc>
 		<category lang="el">Μπάσκετ</category>
 	</programme>
-	<channel id="XTV600000601">
-		<display-name lang="el">Novasports1HD</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV600000601">
 		<title lang="el">Ποδόσφαιρο: Οβιέδο - Σεβίλλη</title>
 		<desc lang="el">La Liga EA Sports 2025/26. Απολαύστε όλους τους αγώνες της ισπανικής La Liga, ενός από τα κορυφαία πρωταθλήματα σε όλο τον πλανήτη, με εμβληματικούς συλλόγους, μεγάλους αστέρες, σπουδαίους προπονητές και τις πιο γεμάτες κερκίδες στην Ευρώπη!</desc>
@@ -5540,9 +5517,6 @@
 		<desc lang="el">La Liga EA Sports 2025/26. Απολαύστε όλους τους αγώνες της ισπανικής La Liga, ενός από τα κορυφαία πρωταθλήματα σε όλο τον πλανήτη, με εμβληματικούς συλλόγους, μεγάλους αστέρες, σπουδαίους προπονητές και τις πιο γεμάτες κερκίδες στην Ευρώπη!</desc>
 		<category lang="el">Ποδόσφαιρο</category>
 	</programme>
-	<channel id="XTV600000602">
-		<display-name lang="el">Novasports2HD</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="XTV600000602">
 		<title lang="el">Ποδόσφαιρο: Σλοβακία - Κόσοβο</title>
 		<desc lang="el">UEFA European Qualifiers. Δείτε τους αγώνες των εθνικών ομάδων των ομίλων της ευρωπαϊκής ζώνης για την προκριματική φάση του Παγκόσμιου Κυπέλλου FIFA 2026.</desc>
@@ -5608,14 +5582,6 @@
 		<desc lang="el">UEFA European Qualifiers. Δείτε τους αγώνες των εθνικών ομάδων των ομίλων της ευρωπαϊκής ζώνης για την προκριματική φάση του Παγκόσμιου Κυπέλλου FIFA 2026.</desc>
 		<category lang="el">Ποδόσφαιρο</category>
 	</programme>
-	<programme start="20260412093000 +0300" stop="20260412113000 +0300" channel="XTV600000602">
-		<title lang="el">Ποδόσφαιρο: Ανόβερο - Έλβερσμπεργκ</title>
-		<desc lang="el">Bundesliga 2 2025/26. Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 18 σύλλογοι, ενώ πέρσι πρωταθλήτρια αναδείχθηκε η Κολωνία.</desc>
-		<category lang="el">Ποδόσφαιρο</category>
-	</programme>
-	<channel id="XTV600000603">
-		<display-name lang="el">Novasports3HD</display-name>
-	</channel>
 	<programme start="20260411060000 +0300" stop="20260411100000 +0300" channel="XTV600000603">
 		<title lang="el">Novasports 3 HD</title>
 		<desc lang="el">Ξανά κοντά σας στις 12:00. Ένα κανάλι αφιερωμένο στη γερμανική Bundesliga, το νούμερο ένα ποδοσφαιρικό πρωτάθλημα στον κόσμο σε μέσο όρο προσέλευσης θεατών από όλα τα αθλήματα.</desc>
@@ -5681,9 +5647,6 @@
 		<desc lang="el">Ξανά κοντά σας στις 12:00. Ένα κανάλι αφιερωμένο στη γερμανική Bundesliga, το νούμερο ένα ποδοσφαιρικό πρωτάθλημα στον κόσμο σε μέσο όρο προσέλευσης θεατών από όλα τα αθλήματα.</desc>
 		<category lang="el">Promo - Trailer</category>
 	</programme>
-	<channel id="XTV600000604">
-		<display-name lang="el">Novasports4HD</display-name>
-	</channel>
 	<programme start="20260411060000 +0300" stop="20260411100000 +0300" channel="XTV600000604">
 		<title lang="el">Novasports 4 HD</title>
 		<desc lang="el">Ξανά κοντά σας στις 12:00. Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
@@ -5749,9 +5712,6 @@
 		<desc lang="el">Ξανά κοντά σας στις 12:00. Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
 		<category lang="el">Promo - Trailer</category>
 	</programme>
-	<channel id="XTV600000605">
-		<display-name lang="el">Novasports5HD</display-name>
-	</channel>
 	<programme start="20260411060000 +0300" stop="20260411100000 +0300" channel="XTV600000605">
 		<title lang="el">Novasports 5 HD</title>
 		<desc lang="el">Ξανά κοντά σας στις 12:00. Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
@@ -5807,9 +5767,6 @@
 		<desc lang="el">Ξανά κοντά σας στις 12:00. Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
 		<category lang="el">Διάφορα Σπορ</category>
 	</programme>
-	<channel id="XTV600000606">
-		<display-name lang="el">Novasports6HD</display-name>
-	</channel>
 	<programme start="20260411060000 +0300" stop="20260411100000 +0300" channel="XTV600000606">
 		<title lang="el">Novasports 6 HD</title>
 		<desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
@@ -5860,9 +5817,6 @@
 		<desc lang="el">Ξανά κοντά σας στις 11:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
 		<category lang="el">Άλλο Άθλημα</category>
 	</programme>
-	<channel id="XTV600000614">
-		<display-name lang="el">Novasports Premier League HD</display-name>
-	</channel>
 	<programme start="20260411060000 +0300" stop="20260411100000 +0300" channel="XTV600000614">
 		<title lang="el">Novasports Premier League</title>
 		<desc lang="el">Ένα κανάλι αποκλειστικά αφιερωμένο στη διοργάνωση της Premier League! Το ΚΟΡΥΦΑΙΟ πρωτάθλημα στον κόσμο με ζωντανούς αγώνες και ειδικές εκπομπές, αφιερώματα, ντοκιμαντέρ και συνεντεύξεις από το 1992 μέχρι σήμερα.</desc>
@@ -5943,9 +5897,6 @@
 		<desc lang="el">Ένα κανάλι αποκλειστικά αφιερωμένο στη διοργάνωση της Premier League! Το ΚΟΡΥΦΑΙΟ πρωτάθλημα στον κόσμο με ζωντανούς αγώνες και ειδικές εκπομπές, αφιερώματα, ντοκιμαντέρ και συνεντεύξεις από το 1992 μέχρι σήμερα.</desc>
 		<category lang="el">Ποδόσφαιρο</category>
 	</programme>
-	<channel id="XTV600000610">
-		<display-name lang="el">Novasportsextra1HD</display-name>
-	</channel>
 	<programme start="20260411060000 +0300" stop="20260411100000 +0300" channel="XTV600000610">
 		<title lang="el">Novasports extra1 HD</title>
 		<desc lang="el">Ξανά κοντά σας στις 16:30. Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
@@ -5996,9 +5947,6 @@
 		<desc lang="el">Ξανά κοντά σας στις 17 Απριλίου. Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
 		<category lang="el">Στιγμιότυπα</category>
 	</programme>
-	<channel id="XTV600000611">
-		<display-name lang="el">Novasportsextra2HD</display-name>
-	</channel>
 	<programme start="20260411060000 +0300" stop="20260411100000 +0300" channel="XTV600000611">
 		<title lang="el">Novasports extra2 HD</title>
 		<desc lang="el">Ξανά κοντά σας στις 17 Απριλίου. Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
@@ -6044,9 +5992,6 @@
 		<desc lang="el">Ξανά κοντά σας στις 17 Απριλίου. Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
 		<category lang="el">Στιγμιότυπα</category>
 	</programme>
-	<channel id="XTV600000612">
-		<display-name lang="el">Novasportsextra3HD</display-name>
-	</channel>
 	<programme start="20260411060000 +0300" stop="20260411100000 +0300" channel="XTV600000612">
 		<title lang="el">Novasports extra3 HD</title>
 		<desc lang="el">Ξανά κοντά σας στις 17 Απριλίου. Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
@@ -6092,9 +6037,6 @@
 		<desc lang="el">Ξανά κοντά σας στις 17 Απριλίου. Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
 		<category lang="el">Άλλο Άθλημα</category>
 	</programme>
-	<channel id="XTV600000613">
-		<display-name lang="el">Novasportsextra4HD</display-name>
-	</channel>
 	<programme start="20260411060000 +0300" stop="20260411100000 +0300" channel="XTV600000613">
 		<title lang="el">Novasports extra4 HD</title>
 		<desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
@@ -6140,9 +6082,6 @@
 		<desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
 		<category lang="el">Promo Card</category>
 	</programme>
-	<channel id="XTV100002606">
-		<display-name lang="el">Nautical Channel HD</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411093000 +0300" channel="XTV100002606">
 		<title lang="el">Παγκόσμιο Πρωτάθλημα Ιστιοπλοΐας 2023 Ε3</title>
 		<desc lang="el">Επεισόδιο: Χάγη. Παρακολουθήστε όλη τη δράση του παγκοσμίου πρωταθλήματος ιστιοπλοΐας.</desc>
@@ -6363,14 +6302,6 @@
 		<desc lang="el">Ένα μοναδικό μηνιαίο μαγκαζίνο που παρακολουθεί την πιο καυτή δράση του Kiteboard παγκοσμίως, παρουσιάζοντας όλα τα τελευταία νέα από αυτό το εντυπωσιακό και απαιτητικό άθλημα.</desc>
 		<category lang="el">Άλλο Άθλημα</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412103000 +0300" channel="XTV100002606">
-		<title lang="el">Ο Κόλπος του Μεξικό</title>
-		<desc lang="el">Διασχίστε τον Κόλπο του Μεξικό με καγιάκ, μέσα από τις λίμνες και τους βάλτους του Μεξικό με τον ακραίο αθλητή του καγιάκ Μπέπε Φέαρσιν. Ακολουθήστε τον στη μεγάλη του περιπέτεια και στις προκλήσεις που βρίσκει στο δρόμο του.</desc>
-		<category lang="el">Αθλητισμός - Αθλητές</category>
-	</programme>
-	<channel id="XTV100000803">
-		<display-name lang="el">Motorvision+</display-name>
-	</channel>
 	<programme start="20260411084000 +0300" stop="20260411093000 +0300" channel="XTV100000803">
 		<title lang="el">Ferrari Challenge Europe</title>
 		<desc lang="el">Επεισόδιο: Autodromo Internazionale del Mugello, Ιταλία. Το μακροβιότερο πρωτάθλημα ενιαίου τύπου στην ιστορία της Ferrari μάς υπόσχεται υψηλές επιδόσεις και ταλαντούχους οδηγούς σε απαιτητικές πίστες σε όλη την Ευρώπη.</desc>
@@ -6541,19 +6472,6 @@
 		<desc lang="el">Επεισόδιο: Παγκόσμιοι Τελικοί Mondiali 2025. Το Ferrari Challenge είναι ένα πρωτάθλημα για μονοθέσια, το οποίο δημιουργήθηκε από τους ιδιοκτήτες του 348 Berlinetta για να μπορέσουν να πάρουν κι εκείνοι μέρος σε αγώνες.</desc>
 		<category lang="el">Μηχανοκίνητα</category>
 	</programme>
-	<programme start="20260412091000 +0300" stop="20260412094000 +0300" channel="XTV100000803">
-		<title lang="el">Tour European Rally</title>
-		<desc lang="el">Επεισόδιο: Rally Terra Sarda. Το Tour European Rally συνδυάζει ορισμένα από τα πιο συναρπαστικά rally σε μία Ευρωπαϊκή σειρά.</desc>
-		<category lang="el">Μηχανοκίνητα</category>
-	</programme>
-	<programme start="20260412094000 +0300" stop="20260412103000 +0300" channel="XTV100000803">
-		<title lang="el">Βρετανικό Πρωτάθλημα Ράλι 2025</title>
-		<desc lang="el">Επεισόδιο: Grampian Forest Rally, Μπάντσορι. Το Βρετανικό Πρωτάθλημα Ράλι προσφέρει αγωνία και δράση σε ολόκληρο το Ηνωμένο Βασίλειο, με ειδικές διαδρομές σε χώμα και άσφαλτο και πολλούς επαγγελματίες οδηγούς να διεκδικούν τη δόξα.</desc>
-		<category lang="el">Μηχανοκίνητα</category>
-	</programme>
-	<channel id="XTV100002724">
-		<display-name lang="el">GINX eSports</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411093000 +0300" channel="XTV100002724">
 		<title lang="el">Σκάσε &amp; Παίξε!</title>
 		<desc lang="el">Επεισόδιο: House of Golf 2. Μια εκπομπή που εστιάζει στο gaming, με τη συμμετοχή μελών του NPCS. Αναμένεται να σας προκαλέσει γέλιο, διασκέδαση και δάκρυα. Κανένα μέλος του συνεργείου δεν τραυματίστηκε κατά τη δημιουργία αυτής της εκπομπής (υποσχόμαστε!).</desc>
@@ -6709,14 +6627,6 @@
 		<desc lang="el">Επεισόδιο: Pepper Grinder. Μια εκπομπή που εστιάζει στο gaming, με τη συμμετοχή μελών του NPCS. Αναμένεται να σας προκαλέσει γέλιο, διασκέδαση και δάκρυα. Κανένα μέλος του συνεργείου δεν τραυματίστηκε κατά τη δημιουργία αυτής της εκπομπής (υποσχόμαστε!).</desc>
 		<category lang="el">Ψυχαγωγική Εκπομπή</category>
 	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100002724">
-		<title lang="el">Οι Απαρχές</title>
-		<desc lang="el">Επεισόδιο: Tetris. Συντονιστείτε εδώ και παρακολουθήστε πώς δημιουργήθηκαν τα αγαπημένα σας esports παιχνίδια. Από την πρώτη δημιουργική σπίθα μέχρι τα υπέροχα παιχνίδια που γεμίζουν ολόκληρα γήπεδα παγκοσμίως.</desc>
-		<category lang="el">Ψυχαγωγική Εκπομπή</category>
-	</programme>
-	<channel id="XTV100003424">
-		<display-name lang="el">MAD HD</display-name>
-	</channel>
 	<programme start="20260411070000 +0300" stop="20260411100000 +0300" channel="XTV100003424">
 		<title lang="el">Music On</title>
 		<desc lang="el">Όλα τα Ελληνικά &amp; International hits σε ένα όμορφα δεμένο mix.</desc>
@@ -6812,9 +6722,6 @@
 		<desc lang="el">Όλα τα Ελληνικά &amp; International hits σε ένα όμορφα δεμένο mix.</desc>
 		<category lang="el">Μουσική</category>
 	</programme>
-	<channel id="XTV100000905">
-		<display-name lang="el">MAD Viral HD</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411100000 +0300" channel="XTV100000905">
 		<title lang="el">Fitness Coaches</title>
 		<desc lang="el">Ολοκληρωμένα προγράμματα γυμναστικής και συμβουλές υγιεινής διατροφής από γυμναστές και διατροφολόγους.</desc>
@@ -6930,14 +6837,6 @@
 		<desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
 		<category lang="el">Ψυχαγωγική Εκπομπή</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412100000 +0300" channel="XTV100000905">
-		<title lang="el">Fitness Coaches</title>
-		<desc lang="el">Ολοκληρωμένα προγράμματα γυμναστικής και συμβουλές υγιεινής διατροφής από γυμναστές και διατροφολόγους.</desc>
-		<category lang="el">Ψυχαγωγική Εκπομπή</category>
-	</programme>
-	<channel id="XTV100003365">
-		<display-name lang="el">Panik TV</display-name>
-	</channel>
 	<programme start="20260411060000 +0300" stop="20260411100000 +0300" channel="XTV100003365">
 		<title lang="el">Wake Up Hits</title>
 		<desc lang="el">Ξεκίνα δυνατά την ημέρα σου με επιτυχίες back to back!</desc>
@@ -6988,9 +6887,6 @@
 		<desc lang="el">Ξεκίνα δυνατά την ημέρα σου με επιτυχίες back to back!</desc>
 		<category lang="el">Μουσική</category>
 	</programme>
-	<channel id="XTV100001425">
-		<display-name lang="el">MEZZO LIVE HD</display-name>
-	</channel>
 	<programme start="20260411082000 +0300" stop="20260411095500 +0300" channel="XTV100001425">
 		<title lang="el">Γεφίμ Μπρόνφμαν, Φιλαρμονική της Βιέννης, Νεζέτ-Σεγκέν</title>
 		<desc lang="el">O Γιανίκ Νεζέτ-Σεγκέν διευθύνει τη Φιλαρμονική της Βιέννης και τον Γεφίμ Μπρόνφμαν (πιάνο) σε έργα Μπετόβεν και Στράους.</desc>
@@ -7081,14 +6977,6 @@
 		<desc lang="el">Κοντσέρτο τζαζ μουσικής με τους Ανουάρ Μπραχίμ, Τζάνγκο Μπέιτς, Ντέιβ Χόλαντ και Άνια Λέχνερ. Από τη Philharmonie του Παρισιού.</desc>
 		<category lang="el">Μουσική</category>
 	</programme>
-	<programme start="20260412094000 +0300" stop="20260412103000 +0300" channel="XTV100001425">
-		<title lang="el">Ιντερμέτζο</title>
-		<desc lang="el">Μουσικές συνθέσεις.</desc>
-		<category lang="el">Μουσική</category>
-	</programme>
-	<channel id="XTV100000791">
-		<display-name lang="el">Stingray CMusic</display-name>
-	</channel>
 	<programme start="20260411070000 +0300" stop="20260411110000 +0300" channel="XTV100000791">
 		<title lang="el">Πρωινή Χορωδία</title>
 		<desc lang="el">Ξεκινήστε την ημέρα σας με το σωστό τρόπο μέσα από τις επιλογές μας από ανεβαστικά μουσικά βίντεο.</desc>
@@ -7149,9 +7037,6 @@
 		<desc lang="el">Ξεκινήστε την ημέρα σας με το σωστό τρόπο μέσα από τις επιλογές μας από ανεβαστικά μουσικά βίντεο.</desc>
 		<category lang="el">Μουσική</category>
 	</programme>
-	<channel id="XTV100001105">
-		<display-name lang="el">Stingray iConcerts</display-name>
-	</channel>
 	<programme start="20260411085500 +0300" stop="20260411095000 +0300" channel="XTV100001105">
 		<title lang="el">Ζωντανά στο Main Square Festival - 2013</title>
 		<desc lang="el">Of Monsters and Men. Η ισλανδική μπάντα Of Monsters and Men δίνουν μια συναρπαστική συναυλία στην ηλιόλουστη Arras της Γαλλίας. Οι ειδικοί της folk μουσικής κάνουν τα πάντα όπως πρέπει!</desc>
@@ -7257,14 +7142,6 @@
 		<desc lang="el">John Legend. In London, in 2014, at the Itunes Festival, John Legend manages to clean the career of this singer who besides being multitalented can be a human rights activist.</desc>
 		<category lang="el">Μουσική</category>
 	</programme>
-	<programme start="20260412094000 +0300" stop="20260412104000 +0300" channel="XTV100001105">
-		<title lang="el">Jerry Lee Lewis and Friends</title>
-		<desc lang="el">Ο Jerry Lee Lewis είναι ένας από τους ιδρυτές του ροκ εν ρολ. Αυτή η συναυλία από το Hammersmith Apollo του Λονδίνου το 1989, παρουσιάζει κλασικές επιτυχίες του όπως τα Whole Lotta Shakin Goin On, What Id Say, High School Confidential και Great Balls Of Fire.</desc>
-		<category lang="el">Μουσική</category>
-	</programme>
-	<channel id="XTV100001076">
-		<display-name lang="el">National Geographic HD</display-name>
-	</channel>
 	<programme start="20260411082000 +0300" stop="20260411091000 +0300" channel="XTV100001076">
 		<title lang="el">Στα Βάθη των Ωκεανών Κ2 Ε14</title>
 		<desc lang="el">Επεισόδιο: Σοκ στον Ειρηνικό. Το 1942, μια χώρα, η Ιαπωνία, κυριάρχησε στην περιοχή του Ειρηνικού και κατάφερε μεγάλο πλήγμα στους Συμμάχους. Το μυστικό για το πώς τα κατάφερε περιμένει ακόμα να ανακαλυφθεί.</desc>
@@ -7430,14 +7307,6 @@
 		<desc lang="el">Επεισόδιο: Αρχαίες Πόλεις από Πέτρα. Ο εξερευνητής του National Geographic Albert Lin ρισκάρει για να αποκαλύψει μυστήρια των Ναϊτών Ιπποτών, του Στόουνχεντζ και μιας βυθισμένης πόλης στον Ειρηνικό.</desc>
 		<category lang="el">Αρχαιολογία</category>
 	</programme>
-	<programme start="20260412093000 +0300" stop="20260412101500 +0300" channel="XTV100001076">
-		<title lang="el">Αποκαλύπτοντας Χαμένες Πόλεις με τον Άλμπερτ Λιν Κ1 Ε6</title>
-		<desc lang="el">Επεισόδιο: Το Λίκνο των Μάγια. Ο Άλμπερτ Λιν κατευθύνεται βαθιά στη ζούγκλα του Μεξικού αναζητώντας μια αρχαία χαμένη πόλη, η οποία κάποτε φιλοξενούσε τους Μάγια που έχτισαν τη μεγάλη πυραμίδα της πόλης Παλένκε.</desc>
-		<category lang="el">Αρχαιολογία</category>
-	</programme>
-	<channel id="XTV100001103">
-		<display-name lang="el">Nat Geo Wild HD</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411095000 +0300" channel="XTV100001103">
 		<title lang="el">Αφιλόξενος Πλανήτης Κ1 Ε5</title>
 		<desc lang="el">Επεισόδιο: Ωκεανοί. Βουτήξτε κάτω από την επιφάνεια των ωκεανών, στο μεγαλύτερο βιότοπο της Γης και ανακαλύψτε ένα κόσμο εκπληκτικών αντιθέσεων από βαθιά ρήγματα και απότομες ακτές έως γαλάζιες ερήμους και πολυσύχναστους ύφαλους.</desc>
@@ -7603,14 +7472,6 @@
 		<desc lang="el">Επεισόδιο: Η Κλίκα. Έριξε τον προηγούμενο ηγέτη της αγέλης North Clan σε μια μάχη χωρίς προηγούμενο, σκαρφαλώνοντας στην ιεραρχία από χαμηλή θέση. Αποτελεί μια αδίστακτη ηγέτιδα που οδηγεί την αγέλη της σε πόλεμο με εχθρούς αλλά είναι και πιστή φύλακας της ομάδας της και μητέρα στα μικρά της.</desc>
 		<category lang="el">Φύση - Ανθρωπολογία</category>
 	</programme>
-	<programme start="20260412091500 +0300" stop="20260412100000 +0300" channel="XTV100001103">
-		<title lang="el">Άγριοι Κυνηγοί Κ1 Ε3</title>
-		<desc lang="el">Επεισόδιο: Φίδια. Όταν κυνηγούν, τα φίδια καταλαβαίνουν επακριβώς τη στιγμή που χωρίζει τη ζωή από τον θάνατο. Τα δηλητηριώδη φίδια είναι μερικά από τα πιο φονικά ζώα του πλανήτη.</desc>
-		<category lang="el">Φύση - Ανθρωπολογία</category>
-	</programme>
-	<channel id="XTV100002484">
-		<display-name lang="el">BBC Earth HD</display-name>
-	</channel>
 	<programme start="20260411084500 +0300" stop="20260411094500 +0300" channel="XTV100002484">
 		<title lang="el">Η Ζωή Υπό το Μηδέν Κ11 Ε2</title>
 		<desc lang="el">Επεισόδιο: Σαν Φαντάσματα. Οι Χέιλστοουν κατασκευάζουν ένα αυθεντικό έργο τέχνης των αυτόχθονων κατοίκων της Αλάσκας, ενώ ο Κόουλ Στέρτζις επιχειρεί να επισκεφθεί τους ερημότοπους στα νοτιοανατολικά σε ένα κυνήγι ζωής και θανάτου.</desc>
@@ -7736,14 +7597,6 @@
 		<desc lang="el">Επεισόδιο: Στο Σέλας. Οι κάτοικοι της Αλάσκας έρχονται αντιμέτωποι με το περιβάλλον αλλά και τον εαυτό τους καθώς ο χειμώνας αρχίζει να σφυροκοπά.</desc>
 		<category lang="el">Φύση - Ανθρωπολογία</category>
 	</programme>
-	<programme start="20260412092500 +0300" stop="20260412103000 +0300" channel="XTV100002484">
-		<title lang="el">Ζωή στο Αγρόκτημα Κ1 Ε4</title>
-		<desc lang="el">Είναι αρχές του χειμώνα και παρόλο που έχει κρύο και σκοτεινιάζει γρήγορα είναι η εποχή που γεννιούνται ζώα στις φάρμες. Στα ανατολικά της Σκοτίας, οι στάβλοι του Μάρτιν φιλοξενούν ετοιμόγεννες αγελάδες, αλλά την προσοχή του μονοπωλούν δύο από αυτές.</desc>
-		<category lang="el">Φύση - Ανθρωπολογία</category>
-	</programme>
-	<channel id="XTV100001926">
-		<display-name lang="el">Viasat History HD</display-name>
-	</channel>
 	<programme start="20260411081000 +0300" stop="20260411091000 +0300" channel="XTV100001926">
 		<title lang="el">Μυστικές Βάσεις των Ναζί Κ4 Ε5</title>
 		<desc lang="el">Επεισόδιο: Νησί Οχυρό. Μετά την απόβαση των Συμμάχων στη Νορμανδία, οι πόλεις της Γαλλίας έπεφταν η μία μετά την άλλη. Το οχυρό σε ένα νησί ανοιχτά της χώρας έγινε το θέατρο μιας φρικτής πράξης αντίστασης προς τους ναζί.</desc>
@@ -7859,14 +7712,6 @@
 		<desc lang="el">Επεισόδιο: Σκοτεινοί Πυργίσκοι. Όταν ο Χίτλερ περικύκλωσε την Ευρώπη, τα παλιά κάστρα της περιήλθαν στον έλεγχο των ναζί. Τα άλλοτε σύμβολα αριστοκρατίας και πολιτισμού μεταμορφώθηκαν για να εξυπηρετούν τις φιλοδοξίες του Γ' Ράιχ.</desc>
 		<category lang="el">Ιστορικό - Πολεμικό</category>
 	</programme>
-	<programme start="20260412091500 +0300" stop="20260412101500 +0300" channel="XTV100001926">
-		<title lang="el">Η Μυστική Επιστήμη των Ναζί Κ1 Ε6</title>
-		<desc lang="el">Επεισόδιο: Υποτάσσοντας τα Στοιχεία της Φύσης. Οι ναζί δημιούργησαν σταθμούς ραντάρ και συστήματα που αξιοποιούσαν τη δύναμη των συχνοτήτων για να οργανώνουν τις επόμενες κινήσεις τους. Μήπως τελικά εκμεταλλεύθηκαν και τη δύναμη του ήλιου;</desc>
-		<category lang="el">Επιστήμη - Μηχανική</category>
-	</programme>
-	<channel id="XTV100002564">
-		<display-name lang="el">Viasat Nature HD</display-name>
-	</channel>
 	<programme start="20260411082000 +0300" stop="20260411091500 +0300" channel="XTV100002564">
 		<title lang="el">Οι Περιπέτειες του Ατένμπορο στον Κόσμο Κ1 Ε1</title>
 		<desc lang="el">Επεισόδιο: Η Περιπέτεια του Ατένμπορο στον Κόσμο. Πολλοί νομίζουν ότι ο Ντέιβιντ Ατένμπορο αποσύρθηκε, όμως τώρα αρχίζει μια νέα εποχή ντοκιμαντέρ σε αγαπημένες του τοποθεσίες αξιοποιώντας την τεχνολογία για να αφηγηθεί ιστορίες του φυσικού κόσμου.</desc>
@@ -8017,14 +7862,6 @@
 		<desc lang="el">Επεισόδιο: Η Άγρια Δύση. Επισκεπτόμαστε τους αδάμαστους τόπους όπου η έρημος της εσώτερης Αυστραλίας συναντά τον ζεστό κι εχθρικό Ινδικό ωκεανό ενώ η βιολόγος Λίζι Ντέιλ βουτά δίπλα σε καρχαρίες τίγρεις, σαλάχια και χελώνες.</desc>
 		<category lang="el">Φύση - Ανθρωπολογία</category>
 	</programme>
-	<programme start="20260412094000 +0300" stop="20260412103000 +0300" channel="XTV100002564">
-		<title lang="el">Μια Νύχτα στο Δάσος</title>
-		<desc lang="el">Κλέμενς Κεκ και Τομ Χόρακ παρουσιάζουν τι συμβαίνει σε ένα δάσος της κεντρικής Ευρώπης τη νύχτα. Αν και σε εμάς φαίνεται απόκοσμο, το δάσος ζωντανεύει στο σκοτάδι για τους νυκτόβιους κατοίκους του.</desc>
-		<category lang="el">Φύση - Ανθρωπολογία</category>
-	</programme>
-	<channel id="XTV100002565">
-		<display-name lang="el">Viasat Explore HD</display-name>
-	</channel>
 	<programme start="20260411082500 +0300" stop="20260411092500 +0300" channel="XTV100002565">
 		<title lang="el">Οι Χρυσωρύχοι της Αυστραλίας Κ10 Ε10</title>
 		<desc lang="el">Ο Σέιν δοκιμάζει εξόρυξη από βράχια και δέχεται τη βοήθεια απρόσμενου προσώπου. Οι Μακί στρώνουν στη δουλειά έναν επισκέπτη, ενώ Σέριλ και Σάιμον αναζητούν ανταλλακτικά για να συνεχίσουν την εξόρυξη.</desc>
@@ -8155,14 +7992,6 @@
 		<desc lang="el">Επεισόδιο: Ο Πυρετός του Χρυσού! Κεν και Γκιγιόμ αντιμετωπίζουν βλάβες και ένα μέλος της ομάδας γίνεται άφαντο. Η μετακίνηση του Μπέρνι στο Σνόου Κρικ αποδίδει, ίσως πείσει και τους γιους του να βοηθήσουν, η τύχη του Αλ κινδυνεύει.</desc>
 		<category lang="el">Ριάλιτι</category>
 	</programme>
-	<programme start="20260412091500 +0300" stop="20260412101500 +0300" channel="XTV100002565">
-		<title lang="el">Πόλεμοι Χρυσού στην Αυστραλία Κ1 Ε4</title>
-		<desc lang="el">Ο ηλεκτρικός ανεμιστήρας αξίας 50.000 δολ στο ορυχείο 1870 αποδίδει πολυπόθητο χρυσό. Στο Γκολντ Κόουστ ο Ρίτσι θέλει να πουλήσει εξαιρετικό ψήγμα χρυσού έναντι 30.000 σε έναν πλούσιο επώνυμο φίλο.</desc>
-		<category lang="el">Ριάλιτι</category>
-	</programme>
-	<channel id="XTV100002584">
-		<display-name lang="el">Crime and Investigation</display-name>
-	</channel>
 	<programme start="20260411084000 +0300" stop="20260411093000 +0300" channel="XTV100002584">
 		<title lang="el">Ζηλότυποι Δολοφόνοι Κ2 Ε2</title>
 		<desc lang="el">Επεισόδιο: Άλις Ραγκλς. Η 24χρονη Άλις Ραγκλς δολοφονήθηκε από τον ζηλιάρη φίλο της, που τρύπωσε στο σπίτι σκαρφαλώνοντας από ένα ανοιχτό παράθυρο και κατόπιν της έκοψε έξι φορές τον λαιμό, φτάνοντας σχεδόν μέχρι τον αυχένα της.</desc>
@@ -8338,14 +8167,6 @@
 		<desc lang="el">Επεισόδιο: Ο Φόνος του Ρις Τζόουνς. Οι γονείς του αθώου 11χρονου Ρις Τζόουνς, που έπεσε νεκρός από πυροβολισμό επιστρέφοντας στο σπίτι του στο Λίβερπουλ το 2007, μιλούν για τη φρικτή ημέρα που έχασαν τον γιο τους.</desc>
 		<category lang="el">Εγκληματολογία</category>
 	</programme>
-	<programme start="20260412093000 +0300" stop="20260412101500 +0300" channel="XTV100002584">
-		<title lang="el">Εγκλήματα που Συντάραξαν τη Βρετανία Κ2 Ε6</title>
-		<desc lang="el">Επεισόδιο: Ο Φόνος του Στίβεν Κάμερον. Ένα καθηλωτικό επεισόδιο που εξετάζει τη δολοφονία του 21χρονου μοτοσικλετιστή Στίβεν Κάμερον από μαχαιριές κατά τη διάρκεια ενός τσακωμού το 1996.</desc>
-		<category lang="el">Εγκληματολογία</category>
-	</programme>
-	<channel id="XTV100003327">
-		<display-name lang="el">Museum TV</display-name>
-	</channel>
 	<programme start="20260411085500 +0300" stop="20260411092000 +0300" channel="XTV100003327">
 		<title lang="el">Εντός Πλαισίου Κ1 Ε78</title>
 		<desc lang="el">Επεισόδιο: Ζωρζ Σερά. Μία παρουσίαση 10 διαφορετικών αριστουργημάτων που έχουν επιλεγεί με γνώμονα τον καλλιτέχνη, τη θεματολογία ή κάποια συγκεκριμένη συλλογή.</desc>
@@ -8536,24 +8357,6 @@
 		<desc lang="el">Επεισόδιο: Τεοντόρ Ζερικώ. Μία παρουσίαση 10 διαφορετικών αριστουργημάτων που έχουν επιλεγεί με γνώμονα τον καλλιτέχνη, τη θεματολογία ή κάποια συγκεκριμένη συλλογή.</desc>
 		<category lang="el">Τέχνες - Πολιτισμός</category>
 	</programme>
-	<programme start="20260412092000 +0300" stop="20260412095000 +0300" channel="XTV100003327">
-		<title lang="el">Αρχιτεκτονήματα Κ1 Ε37</title>
-		<desc lang="el">Επεισόδιο: Αββαείο της Σεντ-Φουά στην Κονκ. To 1050 χτίστηκε η πρώτη μεγάλη εκκλησία προσκυνήματος στον δυτικό κόσμο, στην Κονκ, καταμεσής της γαλλικής επαρχίας της Αβεϊρόν. Πρόκειται για τη γέννεση του λεγόμενου ρομανικού ρυθμού.</desc>
-		<category lang="el">Τέχνες - Πολιτισμός</category>
-	</programme>
-	<programme start="20260412095000 +0300" stop="20260412095500 +0300" channel="XTV100003327">
-		<title lang="el">Μικρά Σκίτσα</title>
-		<desc lang="el">Μέσα σε 64 διασκεδαστικά και επιμορφωτικά επεισόδια θα σχεδιάσετε ένα αεροπλάνο, έναν πυροσβέστη, μια στοιχειωμένη έπαυλη, έναν ποδοσφαιριστή, ένα ηλιοβασίλεμα, ένα λιοντάρι, τον πύργο του Άιφελ, όστρακα, μια νεράιδα... Η κορυφαία σκιτσογράφος μας, Τζία Χάι Φαν, θα σας μάθει τα βασικά.</desc>
-		<category lang="el">Ψυχαγωγική Εκπομπή</category>
-	</programme>
-	<programme start="20260412095500 +0300" stop="20260412102000 +0300" channel="XTV100003327">
-		<title lang="el">Μπλοκ Ζωγραφικής Κ3 Ε21</title>
-		<desc lang="el">Επεισόδιο: Οι Πρώτες Τέχνες. Εκπομπή τέχνης που αποκαλύπτει τις καλύτερες τεχνικές ζωγραφικής.</desc>
-		<category lang="el">Ψυχαγωγική Εκπομπή</category>
-	</programme>
-	<channel id="XTV100003384">
-		<display-name lang="el">MyZen TV</display-name>
-	</channel>
 	<programme start="20260411085000 +0300" stop="20260411093000 +0300" channel="XTV100003384">
 		<title lang="el">Πιλάτες</title>
 		<desc lang="el">Παρακολουθήστε τις οδηγίες, τις συμβουλές και τις ασκήσεις που θα σας βοηθήσουν να βελτιώσετε τη ζωή σας.</desc>
@@ -8719,14 +8522,6 @@
 		<desc lang="el">Παρακολουθήστε τις οδηγίες, τις συμβουλές και τις ασκήσεις που θα σας βοηθήσουν να βελτιώσετε τη ζωή σας.</desc>
 		<category lang="el">Υγεία - Wellbeing</category>
 	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100003384">
-		<title lang="el">Namaste Yoga Ε9</title>
-		<desc lang="el">Επεισόδιο: Ανοιχτά στο Έδαφος. Ανανεώστε το σώμα, το μυαλό και το πνεύμα σας με μαθήματα γιόγκα και απολαύστε ένα ολιστικό ταξίδι προς την ευζωία!</desc>
-		<category lang="el">Υγεία - Wellbeing</category>
-	</programme>
-	<channel id="XTV100000957">
-		<display-name lang="el">Luxe TV HD</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411100000 +0300" channel="XTV100000957">
 		<title lang="el">Προορισμός Βέλγιο</title>
 		<desc lang="el">Ποιότητα, δημιουργία και δυναμισμός είναι τα χαρακτηριστικά αυτού του μικρού βασιλείου, ειδικά όσον αφορά στην πολυτέλεια.</desc>
@@ -8847,14 +8642,6 @@
 		<desc lang="el">Όλα τα νέα της εβδομάδας από τον κόσμο της πολυτέλειας και της τέχνης του καλού lifestyle.</desc>
 		<category lang="el">Ψυχαγωγική Εκπομπή</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412100000 +0300" channel="XTV100000957">
-		<title lang="el">Luxe.Spotlight</title>
-		<desc lang="el">Κάθε μέρα, από Δευτέρα ώς Πέμπτη, η εκπομπή παρουσιάζει θέματα από τον κόσμο της πολυτέλειας.</desc>
-		<category lang="el">Τηλεπαιχνίδι</category>
-	</programme>
-	<channel id="XTV100000958">
-		<display-name lang="el">FTV HD</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411093000 +0300" channel="XTV100000958">
 		<title lang="el">Μόδα από την Αμερική</title>
 		<desc lang="el">Τι σημαίνει πραγματικός πατριωτισμός; Παρουσιάζουμε ποιοτικά κομμάτια κειμηλίων που παράγονται στην Αμερική και επιλέγει την ποικιλία διαχρονικών κλασικών στιλ.</desc>
@@ -9095,19 +8882,6 @@
 		<desc lang="el">Δείτε τις τελευταίες τάσεις στα μαλλιά, απολαύστε τρικ των κορυφαίων μακιγιέρ και μάθετε τα πάντα για τον κόσμο των προϊόντων για την περιποίηση του δέρματος.</desc>
 		<category lang="el">Παρουσίαση - Ανασκόπηση</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412093000 +0300" channel="XTV100000958">
-		<title lang="el">Μόδα από την Ιταλία</title>
-		<desc lang="el">Δείτε τις πρόσφατες ενημερώσεις της διάσημης ιταλικής εμφάνισης - εμβληματική casual αριστοκρατική κομψότητα σε όλες τις σύγχρονες εκδόσεις της που δημιουργήθηκαν από τους παγκοσμίου φήμης και αναδυόμενους Ιταλούς σχεδιαστές.</desc>
-		<category lang="el">Παρουσίαση - Ανασκόπηση</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100000958">
-		<title lang="el">Μόδα από την Ιταλία</title>
-		<desc lang="el">Δείτε τις πρόσφατες ενημερώσεις της διάσημης ιταλικής εμφάνισης - εμβληματική casual αριστοκρατική κομψότητα σε όλες τις σύγχρονες εκδόσεις της που δημιουργήθηκαν από τους παγκοσμίου φήμης και αναδυόμενους Ιταλούς σχεδιαστές.</desc>
-		<category lang="el">Παρουσίαση - Ανασκόπηση</category>
-	</programme>
-	<channel id="XTV100001075">
-		<display-name lang="el">Disney Channel</display-name>
-	</channel>
 	<programme start="20260411084500 +0300" stop="20260411091000 +0300" channel="XTV100001075">
 		<title lang="el">Oι Φανταστικές Ιστορίες της Λέιντι Μπαγκ και του Κατ Νουάρ Κ6 Ε147</title>
 		<desc lang="el">Η Λέιντιμπαγκ προσπαθεί να κάνει έναν κακό να μιλήσει.</desc>
@@ -9423,19 +9197,6 @@
 		<desc lang="el">Η Λέιντιμπαγκ αντιμετωπίζει παράξενα γεγονότα στο Παρίσι.</desc>
 		<category lang="el">Παιδική</category>
 	</programme>
-	<programme start="20260412091000 +0300" stop="20260412093500 +0300" channel="XTV100001075">
-		<title lang="el">Oι Φανταστικές Ιστορίες της Λέιντι Μπαγκ και του Κατ Νουάρ Κ6 Ε147</title>
-		<desc lang="el">Η Λέιντιμπαγκ προσπαθεί να κάνει έναν κακό να μιλήσει.</desc>
-		<category lang="el">Παιδική</category>
-	</programme>
-	<programme start="20260412093500 +0300" stop="20260412100000 +0300" channel="XTV100001075">
-		<title lang="el">Βαμπιρίνα: Βαμπίρ στην Εφηβεία Κ1 Ε12</title>
-		<desc lang="el">Η Βι δέχεται μια απρόσμενη επίσκεψη.</desc>
-		<category lang="el">Παιδική</category>
-	</programme>
-	<channel id="XTV100001068">
-		<display-name lang="el">Disney Junior</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411095000 +0300" channel="XTV100001068">
 		<title lang="el">Η Λέσχη του Μίκυ</title>
 		<desc lang="el">Επεισόδιο: Mickey's Great Clubhouse Hunt. Ο Μίκι, η Μίνι, ο Ντόναλντ, η Ντέζι, ο Γκούφι και ο Πλούτο έρχονται σε επαφή με τα παιδιά και τα βοηθούν στην επίλυση προβλημάτων, κατάλληλων για την ηλικία τους, χρησιμοποιώντας βασικές ικανότητες, όπως το μέτρημα ως το δέκα.</desc>
@@ -9921,19 +9682,6 @@
 		<desc lang="el">Ο Μίκυ και οι φίλοι του καλωσορίζουν τους φίλους τους ξανά στο κλαμπ για να ζήσουν νέες περιπέτειες γεμάτες παιχνίδια, τραγούδια και πολύ γέλιο.</desc>
 		<category lang="el">Κιν. Σχεδίων</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412095000 +0300" channel="XTV100001068">
-		<title lang="el">Η Λέσχη του Μίκυ</title>
-		<desc lang="el">Space Adventure. Παιδική σειρά κινουμένων σχεδίων αμερικανικής παραγωγής. Ο Μίκι, η Μίνι, ο Ντόναλντ, η Ντέζι, ο Γκούφι και ο Πλούτο έρχονται σε επαφή με τα παιδιά και τα βοηθούν στην επίλυση προβλημάτων, κατάλληλων για την ηλικία τους, χρησιμοποιώντας βασικές ικανότητες, όπως το μέτρημα ως το δέκα.</desc>
-		<category lang="el">Παιδική</category>
-	</programme>
-	<programme start="20260412095000 +0300" stop="20260412100000 +0300" channel="XTV100001068">
-		<title lang="el">Μπλούι Κ1 Ε32</title>
-		<desc lang="el">Απολαύστε τις περιπέτειες ενός υπέροχου 6χρονου κουταβιού που ζει με τον μπαμπά, τη μαμά του και την 4χρονη αδελφή του, την Bingo. Η Bluey παίζει παιχνίδια που εξελίσσονται με απρόβλεπτο και ξεκαρδιστικό τρόπο.</desc>
-		<category lang="el">Παιδική</category>
-	</programme>
-	<channel id="XTV100000789">
-		<display-name lang="el">Keedoo</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411093000 +0300" channel="XTV100000789">
 		<title lang="el">LOL Surprise/ Beep Boop</title>
 		<desc lang="el">Ελάτε να ζήσουμε μαγικές στιγμές στο σύμπαν του LOL.</desc>
@@ -10174,19 +9922,6 @@
 		<desc lang="el">Ο Νικ κι ο Τόμπι ανακαλύπτουν ότι μπορούν να μεταμορφωθούν σε πανίσχυρα πλάσματα, τους Gormiti. Οι φίλοι τους Τζέσικα και Λούκας ενώνονται μαζί τους. Τιθασεύουν τη δύναμη των τεσσάρων στοιχείων της φύσης για να σώσουν τον κόσμο από την καταστροφή.</desc>
 		<category lang="el">Παιδική</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412093000 +0300" channel="XTV100000789">
-		<title lang="el">LOL Surprise/ Beep Boop</title>
-		<desc lang="el">Ελάτε να ζήσουμε μαγικές στιγμές στο σύμπαν του LOL.</desc>
-		<category lang="el">Κιν. Σχεδίων</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100000789">
-		<title lang="el">Gormiti: The New Era</title>
-		<desc lang="el">Ο Zane, ο Glen, ο Carter και η Skye είναι οι 4 Εκλεκτοί-Scions που εκπροσωπούν τα 4 στοιχεία της Φύσης: Νερό, Φωτιά, Αέρας, Γη. Με τη δύναμη των Gormiti θα κληθούν να προστατέψουν το Γκορμ και τη Γη από τον Άρχοντα του Σκότους Graven.</desc>
-		<category lang="el">Κιν. Σχεδίων</category>
-	</programme>
-	<channel id="XTV100000788">
-		<display-name lang="el">Baby TV</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411093000 +0300" channel="XTV100000788">
 		<title lang="el">Καλημέρα με τους Φίλους του BabyTV</title>
 		<desc lang="el">Μια συλλογή επεισοδίων με αγαπημένους χαρακτήρες που προσφέρουν ήρεμη, εκπαιδευτική διασκέδαση για μωρά και νήπια, ώστε να ξεκινήσουν τη μέρα τους με μάθηση και γέλιο. Το ΕΣΡ προειδοποιεί ότι η παρακολούθηση τηλεόρασης από παιδιά κάτω των 3 ετών, ακόμα και όταν πρόκειται για σταθμούς που απευθύνονται αποκλειστικά σε παιδιά αυτών των ηλικιών, μπορεί να προκαλέσει προβλήματα στην ανάπτυξη των παιδιών όπως παθητικότητα, καθυστερήσεις στην ομιλία, εκνευρισμό, διαταραχές κατά τον ύπνο, προβλήματα συγκέντρωσης και εξάρτηση από την τηλεοπτική οθόνη.</desc>
@@ -10427,19 +10162,6 @@
 		<desc lang="el">Ένα σύντομο πρόγραμμα κινουμένων σχεδίων με χαρακτήρες κατάλληλους για νήπια, που εστιάζει στην παιχνιδιάρικη κίνηση, τους αριθμούς και τα τραγούδια για να ξεκινήσει η μέρα. Το ΕΣΡ προειδοποιεί ότι η παρακολούθηση τηλεόρασης από παιδιά κάτω των 3 ετών, ακόμα και όταν πρόκειται για σταθμούς που απευθύνονται αποκλειστικά σε παιδιά αυτών των ηλικιών, μπορεί να προκαλέσει προβλήματα στην ανάπτυξη των παιδιών όπως παθητικότητα, καθυστερήσεις στην ομιλία, εκνευρισμό, διαταραχές κατά τον ύπνο, προβλήματα συγκέντρωσης και εξάρτηση από την τηλεοπτική οθόνη.</desc>
 		<category lang="el">Κιν. Σχεδίων</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412093000 +0300" channel="XTV100000788">
-		<title lang="el">Καλημέρα με τους Φίλους του BabyTV</title>
-		<desc lang="el">Μια συλλογή επεισοδίων με αγαπημένους χαρακτήρες που προσφέρουν ήρεμη, εκπαιδευτική διασκέδαση για μωρά και νήπια, ώστε να ξεκινήσουν τη μέρα τους με μάθηση και γέλιο. Το ΕΣΡ προειδοποιεί ότι η παρακολούθηση τηλεόρασης από παιδιά κάτω των 3 ετών, ακόμα και όταν πρόκειται για σταθμούς που απευθύνονται αποκλειστικά σε παιδιά αυτών των ηλικιών, μπορεί να προκαλέσει προβλήματα στην ανάπτυξη των παιδιών όπως παθητικότητα, καθυστερήσεις στην ομιλία, εκνευρισμό, διαταραχές κατά τον ύπνο, προβλήματα συγκέντρωσης και εξάρτηση από την τηλεοπτική οθόνη.</desc>
-		<category lang="el">Κιν. Σχεδίων</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100000788">
-		<title lang="el">Παίζω και Μαθαίνω με τον Όλιβερ</title>
-		<desc lang="el">Περιλαμβάνει τα προγράμματα: Τα πρώτα Τραγούδια του Μωρού, Όλιβερ, Μιτς Ματς, Το Θέατρο της Έμμα, Τα πρώτα Τραγούδια του Μωρού, Ποιος είναι;. Το ΕΣΡ προειδοποιεί ότι η παρακολούθηση τηλεόρασης από παιδιά κάτω των 3 ετών, ακόμα και όταν πρόκειται για σταθμούς που απευθύνονται αποκλειστικά σε παιδιά αυτών των ηλικιών, μπορεί να προκαλέσει προβλήματα στην ανάπτυξη των παιδιών όπως παθητικότητα, καθυστερήσεις στην ομιλία, εκνευρισμό, διαταραχές κατά τον ύπνο, προβλήματα συγκέντρωσης και εξάρτηση από την τηλεοπτική οθόνη.</desc>
-		<category lang="el">Κιν. Σχεδίων</category>
-	</programme>
-	<channel id="XTV100002204">
-		<display-name lang="el">Smile TV</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411093000 +0300" channel="XTV100002204">
 		<title lang="el">Playmobil Super 4</title>
 		<desc lang="el">Παιδική σειρά κινουμένων σχεδίων. Αφού αγαπήθηκε από τα παιδιά, η Playmobil κάνει την πρώτη της εμφάνιση στην τηλεόραση με το Super 4 που συνδυάζει αγαπημένους παιδικούς ήρωες, όπως ιππότες, πειρατές, νεράιδες και φουτουριστικοί χαρακτήρες, έτοιμοι να τους οδηγήσουν στις πιο απίστευτες περιπέτειες.</desc>
@@ -10680,19 +10402,6 @@
 		<desc lang="el">Ελάτε να γνωρίσετε τα PET PALS, τα πανέξυπνα ζωάκια που κατοικούν στην ΠΑΦ, μια πόλη όπου τα πάντα λειτουργούν χάρη στη δύναμη του ανέμου. H κακιά Κορακο-μάγισσα είναι αποφασισμένη να ταράξει την ειρήνη και να πάρει στα χέρια της τον 'Ανεμόμυλο' για να αποκτήσει τον έλεγχο ολόκληρης της πόλης.</desc>
 		<category lang="el">Κιν. Σχεδίων</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412093000 +0300" channel="XTV100002204">
-		<title lang="el">Playmobil Super 4</title>
-		<desc lang="el">Παιδική σειρά κινουμένων σχεδίων. Αφού αγαπήθηκε από τα παιδιά, η Playmobil κάνει την πρώτη της εμφάνιση στην τηλεόραση με το Super 4 που συνδυάζει αγαπημένους παιδικούς ήρωες, όπως ιππότες, πειρατές, νεράιδες και φουτουριστικοί χαρακτήρες, έτοιμοι να τους οδηγήσουν στις πιο απίστευτες περιπέτειες.</desc>
-		<category lang="el">Παιδική</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100002204">
-		<title lang="el">Pac Man</title>
-		<desc lang="el">Ο έφηβος Πακ-μαν προστατεύει τον κόσμο-Πακ από τον κακό Διοικητή Μπιτρέιους. Όταν δεν προστατεύει τον κόσμο, πάει στο σχολείο και τρώει ό,τι βρει. Ο Μπιτρέιους και ο στρατός φαντασμάτων συνεχίζουν να προσπαθούν να καταστρέψουν τον κόσμο.</desc>
-		<category lang="el">Παιδική</category>
-	</programme>
-	<channel id="XTV100003485">
-		<display-name lang="el">ducktv</display-name>
-	</channel>
 	<programme start="20260411082000 +0300" stop="20260411092000 +0300" channel="XTV100003485">
 		<title lang="el">Ας Αθληθούμε!</title>
 		<desc lang="el">Το πρόγραμμα παρουσιάζει διάφορες αθλητικές δραστηριότητες και περιπέτειες στη φύση. Αυτή η ενότητα βοηθά στην ανάπτυξη κινητικών δεξιοτήτων, συντονισμού και αίσθησης ρυθμού μέσω ασκήσεων.</desc>
@@ -10803,14 +10512,6 @@
 		<desc lang="el">Το πρόγραμμα παρουσιάζει διάφορες αθλητικές δραστηριότητες και περιπέτειες στη φύση. Αυτή η ενότητα βοηθά στην ανάπτυξη κινητικών δεξιοτήτων, συντονισμού και αίσθησης ρυθμού μέσω ασκήσεων.</desc>
 		<category lang="el">Εκπομπή</category>
 	</programme>
-	<programme start="20260412092000 +0300" stop="20260412112500 +0300" channel="XTV100003485">
-		<title lang="el">Μαθαίνουμε με το ducktv</title>
-		<desc lang="el">Αυτή η ενότητα επικεντρώνεται στην εκπαίδευση και την ανάπτυξη των γνωστικών ικανοτήτων των παιδιών. Μέσα από την ιστορία, τη μουσική και την τέχνη, διεγείρει τη φαντασία και τη δημιουργικότητα των παιδιών.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<channel id="XTV100000912">
-		<display-name lang="el">Βεργίνα TV</display-name>
-	</channel>
 	<programme start="20260411084500 +0300" stop="20260411091500 +0300" channel="XTV100000912">
 		<title lang="el">Tobot</title>
 		<desc lang="el">Εξετάζοντας μια σειρά μυστηριωδών ατυχημάτων, ο Δρ Franklin Char απαγάγεται. Αυτό το περιστατικό ενεργοποιεί τα 'Tobots', αυτοκίνητα που μετατρέπονται σε ρομπότ. Ο Dr. Char εμπιστεύτηκε τα δύο πρώτα Tobots στους δίδυμους γιους του, για να καταπολεμήσουν την εγκληματικότητα.</desc>
@@ -10916,19 +10617,6 @@
 		<desc lang="el">Εξετάζοντας μια σειρά μυστηριωδών ατυχημάτων, ο Δρ Franklin Char απαγάγεται. Αυτό το περιστατικό ενεργοποιεί τα 'Tobots', αυτοκίνητα που μετατρέπονται σε ρομπότ. Ο Dr. Char εμπιστεύτηκε τα δύο πρώτα Tobots στους δίδυμους γιους του, για να καταπολεμήσουν την εγκληματικότητα.</desc>
 		<category lang="el">Κιν. Σχεδίων</category>
 	</programme>
-	<programme start="20260412091500 +0300" stop="20260412094500 +0300" channel="XTV100000912">
-		<title lang="el">Super Wings</title>
-		<desc lang="el">Ο Τζετ, ένα αξιολάτρευτο αεροπλάνο, καθημερινά ταξιδεύει σε όλο τον κόσμο και παραδίδει πακέτα αποκλειστικά σε παιδιά. Στο Παγκόσμιο Αεροδρόμιο είναι φίλος με όλους και λατρεύει τη δουλειά του! (Μεταγλ.)</desc>
-		<category lang="el">Παιδική</category>
-	</programme>
-	<programme start="20260412094500 +0300" stop="20260412100000 +0300" channel="XTV100000912">
-		<title lang="el">Pincode</title>
-		<desc lang="el">Ποιος είπε ότι η επιστήμη είναι βαρετή; Μέσα από πειράματα και επιστημονικές ανακαλύψεις ο Κρας και οι φίλοι του μαθαίνουν να αγαπούν την τεχνολογία και τις νέες επιστήμες.</desc>
-		<category lang="el">Κιν. Σχεδίων</category>
-	</programme>
-	<channel id="XTV100000913">
-		<display-name lang="el">CENTER TV</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411100000 +0300" channel="XTV100000913">
 		<title lang="el">Παιδική Σειρά</title>
 		<desc lang="el">Δείτε επιλεγμένες παιδικές σειρές από το Center TV.</desc>
@@ -11024,14 +10712,6 @@
 		<desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
 		<category lang="el">Τηλεαγορές</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412100000 +0300" channel="XTV100000913">
-		<title lang="el">Παιδική Σειρά</title>
-		<desc lang="el">Δείτε επιλεγμένες παιδικές σειρές από το Center TV.</desc>
-		<category lang="el">Παιδική</category>
-	</programme>
-	<channel id="XTV100000908">
-		<display-name lang="el">ENA Channel</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411120000 +0300" channel="XTV100000908">
 		<title lang="el">Smart Shop</title>
 		<desc lang="el">Η καθημερινή ζώνη τηλεπωλήσεων, με προϊόντα που συνδυάζουν πρακτικότητα, καινοτομία και έξυπνες λύσεις για το σπίτι και την καθημερινότητα.</desc>
@@ -11127,14 +10807,6 @@
 		<desc lang="el">Παρακολουθήστε σε απευθείας μετάδοση τη Θεία Λειτουργία.</desc>
 		<category lang="el">Θρησκευτικό</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412120000 +0300" channel="XTV100000908">
-		<title lang="el">Smart Shop</title>
-		<desc lang="el">Η καθημερινή ζώνη τηλεπωλήσεων, με προϊόντα που συνδυάζουν πρακτικότητα, καινοτομία και έξυπνες λύσεις για το σπίτι και την καθημερινότητα.</desc>
-		<category lang="el">Τηλεαγορές</category>
-	</programme>
-	<channel id="XTV100000911">
-		<display-name lang="el">4Ε</display-name>
-	</channel>
 	<programme start="20260411073000 +0300" stop="20260411103000 +0300" channel="XTV100000911">
 		<title lang="el">Εσπερινός και Θεία Λειτουργία Μ. Βασιλείου</title>
 		<desc lang="el">Απευθείας σύνδεση με τον Ιερό Ναό Αγίου Παντελεήμονος - Αμπελόκηποι Θεσσαλονίκης.</desc>
@@ -11235,9 +10907,6 @@
 		<desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης.</desc>
 		<category lang="el">Special</category>
 	</programme>
-	<channel id="XTV100002326">
-		<display-name lang="el">Κρήτη Νέα Τηλεόραση</display-name>
-	</channel>
 	<programme start="20260411083000 +0300" stop="20260411093000 +0300" channel="XTV100002326">
 		<title lang="el">Παιδικό Πρόγραμμα</title>
 		<desc lang="el">Sealook. Γνωστοί τηλεοπτικοί ήρωες, φίλοι των μικρών τηλεθεατών.</desc>
@@ -11358,14 +11027,6 @@
 		<desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
 		<category lang="el">Άλλο</category>
 	</programme>
-	<programme start="20260412090500 +0300" stop="20260412104500 +0300" channel="XTV100002326">
-		<title lang="el">Παιδικό Πρόγραμμα</title>
-		<desc lang="el">Sealook. Γνωστοί τηλεοπτικοί ήρωες, φίλοι των μικρών τηλεθεατών.</desc>
-		<category lang="el">Κιν. Σχεδίων</category>
-	</programme>
-	<channel id="XTV100000909">
-		<display-name lang="el">Κρήτη TV</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411103500 +0300" channel="XTV100000909">
 		<title lang="el">Θεία Λειτουργία του Μεγάλου Βασιλείου</title>
 		<desc lang="el">Απευθείας σύνδεση με τον Ι.Ν. Αγίου Μηνά.</desc>
@@ -11496,9 +11157,6 @@
 		<desc lang="el">Κάθε μέρα η ΚΡΗΤΗ ΤV θυμάται το αρχείο της. Κλασικές - Κρητικές - Παραδοσιακές - Μουσικές - Ιστορικές σειρές τώρα επανέρχονται στις οθόνες σας.</desc>
 		<category lang="el">Ψυχαγωγική Εκπομπή</category>
 	</programme>
-	<channel id="XTV100000910">
-		<display-name lang="el">Star Κεντρικής Ελλάδας</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411103000 +0300" channel="XTV100000910">
 		<title lang="el">Θεία Λειτουργία</title>
 		<desc lang="el">Μέγας Αρχιερατικός Εσπερινός της Αποκαθηλώσεως στον Ιερό Μητροπολιτικό και Καθεδρικό Ναό Ευαγγελισμού της Θεοτόκου Λαμίας.</desc>
@@ -11629,9 +11287,6 @@
 		<desc lang="el">Απευθείας μετάδοση της Θείας Λειτουργίας από το Μητροπολιτικό ναό της Λαμίας.</desc>
 		<category lang="el">Θρησκευτικό</category>
 	</programme>
-	<channel id="XTV100002045">
-		<display-name lang="el">TV100</display-name>
-	</channel>
 	<programme start="20260411084500 +0300" stop="20260411093000 +0300" channel="XTV100002045">
 		<title lang="el">Σάρα, Περιπέτειες στο Άβονλι Κ2 Ε5</title>
 		<desc lang="el">Επεισόδιο: Παλιές διαφωνίες, παλιά αγάπη. H Χέτι, η Ολίβια, η Σάρα και η Ρέιτσελ προσκαλούνται στο γάμο της Άλις Χάρντι. Περιμένοντας να απολαύσουν ένα ευχάριστο κοινωνικό γεγονός, καμία δεν είναι προετοιμασμένη για την απρόσμενη εμφάνιση του Ρόμνι Πενχάλοου, του παλιού και μοναδικού θαυμαστή της Χέτι από τα νιάτα της.</desc>
@@ -11762,24 +11417,6 @@
 		<desc lang="el">Παιδική σειρά κινουμένων σχεδίων βρετανικής παραγωγής. Ο Μπομπ είναι ο καλύτερος μάστορας του κόσμου. Και αυτό δεν οφείλεται μόνο στις μοναδικές χειρονακτικές του ικανότητες, αλλά και στους πολύ καλούς του φίλους που δεν είναι άλλοι από τις αγαπημένες του μηχανές.</desc>
 		<category lang="el">Παιδική</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412091000 +0300" channel="XTV100002045">
-		<title lang="el">Τελετάμπις Ε1</title>
-		<desc lang="el">Παιδική σειρά κινουμένων σχεδίων για παιδιά προσχολικής ηλικίας, Βρετανικής παραγωγής 1997.</desc>
-		<category lang="el">Παιδική</category>
-	</programme>
-	<programme start="20260412091000 +0300" stop="20260412093000 +0300" channel="XTV100002045">
-		<title lang="el">Τελετάμπις Ε2</title>
-		<desc lang="el">Παιδική σειρά κινουμένων σχεδίων για παιδιά προσχολικής ηλικίας, Βρετανικής παραγωγής 1997.</desc>
-		<category lang="el">Παιδική</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412103000 +0300" channel="XTV100002045">
-		<title lang="el">Πας Μαγειρεύοντας</title>
-		<desc lang="el">Ο Βασίλης Πατσής συνεχίζει και φέτος το οδοιπορικό του σε μαγικούς προορισμούς και μας οδηγεί με το δικό του μαγευτικό τρόπο να γευτούμε παραδοσιακές και όχι μόνο συνταγές με εκλεκτές πρώτες ύλες!</desc>
-		<category lang="el">Ψυχαγωγική Εκπομπή</category>
-	</programme>
-	<channel id="XTV100002906">
-		<display-name lang="el">CNN</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411093000 +0300" channel="XTV100002906">
 		<title lang="el">CNN Newsroom</title>
 		<desc lang="el">Δείτε τις ειδήσεις της ημέρας από το CNN, καθώς αυτές διαδραματίζονται.</desc>
@@ -11965,24 +11602,6 @@
 		<desc lang="el">Η εκπομπή ξεκινά ένα ταξίδι κατά μήκος της Αφρικής, εξερευνά την ποικιλομορφία της και διηγείται διασκεδαστικές ιστορίες που εμπνέουν τον τηλεθεατή με θέμα τις διαφορετικές κουλτούρες, χώρες και περιοχές της.</desc>
 		<category lang="el">Εκπομπή</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412093000 +0300" channel="XTV100002906">
-		<title lang="el">CNN Newsroom</title>
-		<desc lang="el">Δείτε τις ειδήσεις της ημέρας από το CNN, καθώς αυτές διαδραματίζονται.</desc>
-		<category lang="el">Ειδήσεις</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412094500 +0300" channel="XTV100002906">
-		<title lang="el">Marketplace Asia</title>
-		<desc lang="el">Η εκπομπή προσφέρει μια μοναδική πρόσβαση στις πρόσφατες οικονομικές εξελίξεις της Ασιατικής αγοράς και στα γεγονότα που επηρεάζουν τον επιχειρηματικό κόσμο.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<programme start="20260412094500 +0300" stop="20260412100000 +0300" channel="XTV100002906">
-		<title lang="el">CNN Ευρωπαϊκή Αγορά</title>
-		<desc lang="el">Ο βραβευμένος παρουσιαστής Ρίτσαρντ Κουέστ παρουσιάζει ευρωπαϊκά πρωτοσέλιδα, ειδήσεις και εξελίξεις από το κόσμο των επιχειρήσεων.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<channel id="XTV100000924">
-		<display-name lang="el">BBC News</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411093000 +0300" channel="XTV100000924">
 		<title lang="el">Τα Νέα του BBC</title>
 		<desc lang="el">Τα τελευταία νέα από το BBC.</desc>
@@ -12208,19 +11827,6 @@
 		<desc lang="el">Θέλετε να μάθετε τι κάνει τις επιχειρήσεις να αναπτύσσονται; Τι συμβαίνει στην παγκόσμια οικονομία;</desc>
 		<category lang="el">Εκπομπή</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412093000 +0300" channel="XTV100000924">
-		<title lang="el">Τα Νέα του BBC</title>
-		<desc lang="el">Τα τελευταία νέα από το BBC.</desc>
-		<category lang="el">Ειδήσεις</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100000924">
-		<title lang="el">Ταξιδεύοντας (Ε)</title>
-		<desc lang="el">Ακολουθήστε την ομάδα καθώς εξερευνά νέους προορισμούς και αποκαλύπτει κρυφές πλευρές μερικών από τα πιο δημοφιλή θέρετρα του κόσμου.</desc>
-		<category lang="el">Τουριστικά - Ταξίδια</category>
-	</programme>
-	<channel id="XTV100003404">
-		<display-name lang="el">Sky News</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411093000 +0300" channel="XTV100003404">
 		<title lang="el">Πρωινά με Τζόουνς και Μέλμπουρν</title>
 		<desc lang="el">Όλες οι σημαντικές πρωινές ιστορίες, καθώς και ειδήσεις, συνεντεύξεις, αναλύσεις και αναφορές αυτοπτών μαρτύρων σε όλο τον κόσμο.</desc>
@@ -12431,19 +12037,6 @@
 		<desc lang="el">Όλες οι σημαντικές πρωινές ιστορίες, καθώς και ειδήσεις, συνεντεύξεις, αναλύσεις και αναφορές αυτοπτών μαρτύρων σε όλο τον κόσμο.</desc>
 		<category lang="el">Εκπομπή</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412093000 +0300" channel="XTV100003404">
-		<title lang="el">Πρωινά με Τζόουνς και Μέλμπουρν</title>
-		<desc lang="el">Όλες οι σημαντικές πρωινές ιστορίες, καθώς και ειδήσεις, συνεντεύξεις, αναλύσεις και αναφορές αυτοπτών μαρτύρων σε όλο τον κόσμο.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100003404">
-		<title lang="el">Πρωινά με Τζόουνς και Μέλμπουρν</title>
-		<desc lang="el">Όλες οι σημαντικές πρωινές ιστορίες, καθώς και ειδήσεις, συνεντεύξεις, αναλύσεις και αναφορές αυτοπτών μαρτύρων σε όλο τον κόσμο.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<channel id="XTV100000926">
-		<display-name lang="el">Deutsche Welle</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411090500 +0300" channel="XTV100000926">
 		<title lang="el">Ειδήσεις στην DW</title>
 		<desc lang="el">Ενημερωτικό πρόγραμμα.</desc>
@@ -12824,29 +12417,6 @@
 		<desc lang="el">Συναρπαστικές ιστορίες, μεγάλη ποικιλία θεμάτων, συναρπαστικές εικόνες.</desc>
 		<category lang="el">Αληθινές Ιστορίες</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412090500 +0300" channel="XTV100000926">
-		<title lang="el">Ειδήσεις στην DW</title>
-		<desc lang="el">Ενημερωτικό πρόγραμμα.</desc>
-		<category lang="el">Ειδήσεις</category>
-	</programme>
-	<programme start="20260412090500 +0300" stop="20260412091500 +0300" channel="XTV100000926">
-		<title lang="el">DW News Focus</title>
-		<desc lang="el">Ενημέρωση από την DW.</desc>
-		<category lang="el">Ειδήσεις</category>
-	</programme>
-	<programme start="20260412091500 +0300" stop="20260412093000 +0300" channel="XTV100000926">
-		<title lang="el">Δημοσιογράφοι Εν Δράσει</title>
-		<desc lang="el">Βίντεο από δημοσιογράφους επί τω έργω.</desc>
-		<category lang="el">Κοινωνικό - Πολιτικό</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100000926">
-		<title lang="el">Euromaxx - Η Ζωή στην Ευρώπη</title>
-		<desc lang="el">Καθημερινή lifestyle εκπομπή, 365 μέρες το χρόνο. Σας φέρνει τα τελευταία νέα της showbiz και όλα τα πολιτιστικά γεγονότα από την Ευρώπη.</desc>
-		<category lang="el">Ψυχαγωγική Εκπομπή</category>
-	</programme>
-	<channel id="XTV100000927">
-		<display-name lang="el">France 24 En</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411093000 +0300" channel="XTV100000927">
 		<title lang="el">Νέα</title>
 		<desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
@@ -13367,19 +12937,6 @@
 		<desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
 		<category lang="el">Ειδήσεις</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412093000 +0300" channel="XTV100000927">
-		<title lang="el">Νέα</title>
-		<desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
-		<category lang="el">Ειδήσεις</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100000927">
-		<title lang="el">Νέα</title>
-		<desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
-		<category lang="el">Ειδήσεις</category>
-	</programme>
-	<channel id="XTV100000928">
-		<display-name lang="el">France 24 Fr</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411091500 +0300" channel="XTV100000928">
 		<title lang="el">Τα Πρωτοσέλιδα της Ημέρας</title>
 		<desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
@@ -13855,29 +13412,6 @@
 		<desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
 		<category lang="el">Εκπομπή</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412091500 +0300" channel="XTV100000928">
-		<title lang="el">Τα Πρωτοσέλιδα της Ημέρας</title>
-		<desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<programme start="20260412091500 +0300" stop="20260412093000 +0300" channel="XTV100000928">
-		<title lang="el">Ο Καλεσμένος της Ημέρας</title>
-		<desc lang="el">Ένας ειδικός αναλύει τις εξελίξεις αναφορικά με ένα σημαντικό γεγονός της επικαιρότητας.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412095500 +0300" channel="XTV100000928">
-		<title lang="el">Στις Πρώτες Γραμμές</title>
-		<desc lang="el">Ενημερωτική εκπομπή.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<programme start="20260412095500 +0300" stop="20260412100000 +0300" channel="XTV100000928">
-		<title lang="el">Η Στιγμή του Κινητού</title>
-		<desc lang="el">Ενημερωτική εκπομπή.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<channel id="XTV100003246">
-		<display-name lang="el">Al Arabiya</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411120000 +0300" channel="XTV100003246">
 		<title lang="el">Al Arabiya</title>
 		<desc lang="el">Παρακολουθήστε ειδήσεις από τον Αραβικό κόσμο, τη Μέση Ανατολή και όλη την επικαιρότητα μέσα από την δημοσιογραφική ματιά του Al Arabiya.</desc>
@@ -13913,9 +13447,6 @@
 		<desc lang="el">Παρακολουθήστε ειδήσεις από τον Αραβικό κόσμο, τη Μέση Ανατολή και όλη την επικαιρότητα μέσα από την δημοσιογραφική ματιά του Al Arabiya.</desc>
 		<category lang="el">Ειδήσεις</category>
 	</programme>
-	<channel id="XTV100000929">
-		<display-name lang="el">Al Jazeera</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411093000 +0300" channel="XTV100000929">
 		<title lang="el">Ειδήσεις Ζωντανά</title>
 		<desc lang="el">Ενημερωθείτε για τα νέα από τον Αραβικό και το διεθνή κόσμο ζωντανά.</desc>
@@ -14111,19 +13642,6 @@
 		<desc lang="el">Πέρα από τα πρωτοσέλιδα, στην καρδιά των γεγονότων της ημέρας. Το Al Jazeera παρουσιάζει την ιστορία από μέσα, με τους μεγαλύτερους στοχαστές της Μέσης Ανατολής και πέρα από αυτήν.</desc>
 		<category lang="el">Εκπομπή</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412093000 +0300" channel="XTV100000929">
-		<title lang="el">Ειδήσεις Ζωντανά</title>
-		<desc lang="el">Ενημερωθείτε για τα νέα από τον Αραβικό και το διεθνή κόσμο ζωντανά.</desc>
-		<category lang="el">Ειδήσεις</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100000929">
-		<title lang="el">Η Παγκόσμια Πληθυσμιακή Πτώση</title>
-		<desc lang="el">Καθώς οι ρυθμοί γεννήσεων καταρρέουν παγκοσμίως, διερευνώνται οι κρυφές δυνάμεις που αναδιαμορφώνουν την οικογένεια, τη γονιμότητα και το μέλλον της ανθρωπότητας.</desc>
-		<category lang="el">Κοινωνικό - Πολιτικό</category>
-	</programme>
-	<channel id="XTV100003545">
-		<display-name lang="el">Asharq News</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411100000 +0300" channel="XTV100003545">
 		<title lang="el">Akhbar Asharq</title>
 		<desc lang="el">Περιληπτικό δελτίο ειδήσεων που παρουσιάζει όλο το πλαίσιο των εξελίξεων, εξηγώντας το παρασκήνιο από διάφορες πλευρές με στόχο να προσφέρει στους θεατές μία ολοκληρωμένη εικόνα της επικαιρότητας.</desc>
@@ -14244,14 +13762,6 @@
 		<desc lang="el">Περιληπτικό δελτίο ειδήσεων που παρουσιάζει όλο το πλαίσιο των εξελίξεων, εξηγώντας το παρασκήνιο από διάφορες πλευρές με στόχο να προσφέρει στους θεατές μία ολοκληρωμένη εικόνα της επικαιρότητας.</desc>
 		<category lang="el">Ειδήσεις</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412100000 +0300" channel="XTV100003545">
-		<title lang="el">Akhbar Asharq</title>
-		<desc lang="el">Περιληπτικό δελτίο ειδήσεων που παρουσιάζει όλο το πλαίσιο των εξελίξεων, εξηγώντας το παρασκήνιο από διάφορες πλευρές με στόχο να προσφέρει στους θεατές μία ολοκληρωμένη εικόνα της επικαιρότητας.</desc>
-		<category lang="el">Ειδήσεις</category>
-	</programme>
-	<channel id="XTV100000931">
-		<display-name lang="el">Bloomberg</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411093000 +0300" channel="XTV100000931">
 		<title lang="el">Η Εκπομπή της Μισάλ Χουσέιν</title>
 		<desc lang="el">Η Μισάλ Χουσέιν, μία από τις καλύτερες Βρετανίδες δημοσιογράφους, φέρνει το χαρακτηριστικό της μίγμα περιέργειας και επιμονής σε εβδομαδιαίες συζητήσεις με παγκόσμιους ηγέτες, κορυφαίους επιχειρηματίες και θρύλους από τον χώρο του πολιτισμού.</desc>
@@ -14422,19 +13932,6 @@
 		<desc lang="el">Μια Συζήτηση με τους Νιούσομ. Η Έμιλι συναντά το Πρώτο Ζευγάρι της Καλιφόρνιας, τον Γκάβιν και την Τζένιφερ Σίμπελ Νιούσομ. Ο κυβερνήτης θεωρείται φαβορί για την ηγεσία των Δημοκρατικών.</desc>
 		<category lang="el">Εκπομπή</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412093000 +0300" channel="XTV100000931">
-		<title lang="el">Το Bloomberg Ερευνά</title>
-		<desc lang="el">MACC. Η Επιτροπή για την Πάταξη της Διαφθοράς στη Μαλαισία υποτίθεται ότι έχει ως αποστολή την εξάλειψη της διαφθοράς. Αντί γι’ αυτό, ορισμένα από τα μέλη της έχουν κατηγορηθεί ότι διαιωνίζουν τις ίδιες τις παρανομίες που είχαν αναλάβει να σταματήσουν.</desc>
-		<category lang="el">Έρευνα</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100000931">
-		<title lang="el">Η Εκπομπή της Μισάλ Χουσέιν</title>
-		<desc lang="el">Η Μισάλ Χουσέιν, μία από τις καλύτερες Βρετανίδες δημοσιογράφους, φέρνει το χαρακτηριστικό της μίγμα περιέργειας και επιμονής σε εβδομαδιαίες συζητήσεις με παγκόσμιους ηγέτες, κορυφαίους επιχειρηματίες και θρύλους από τον χώρο του πολιτισμού.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<channel id="XTV100000932">
-		<display-name lang="el">CNBC</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411093000 +0300" channel="XTV100000932">
 		<title lang="el">Συγκλίσεις</title>
 		<desc lang="el">Μία ματιά στο μέλλον για να διερευνήσουμε νέες ευκαιρίες στους τομείς της καινοτομίας, των επενδύσεων και της βιωσιμότητας. Συζητάμε με ηγέτες και ειδικούς, αναζητάμε νέες τάσεις και ανακαλύπτουμε πώς η συνέργειες μεταξύ διαφόρων κλάδων και οι τεχνολογίες αιχμής μεταμορφώνουν τη βιομηχανία.</desc>
@@ -14610,19 +14107,6 @@
 		<desc lang="el">Επεισόδιο: Γιατί οι Μεγάλες Ευκαιρίες Αποτυγχάνουν. Η εκπομπή εξηγεί τα σημαντικότερα θέματα στον επιχειρηματικό και οικονομικό κόσμο, χωρίς περίπλοκη ορολογία.</desc>
 		<category lang="el">Κοινωνικό - Πολιτικό</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412093000 +0300" channel="XTV100000932">
-		<title lang="el">Το Εγχειρίδιο των Ηγετών</title>
-		<desc lang="el">Επεισόδιο: Uber. Η σειρά μας παρουσιάζει συζητήσεις με μερικούς από τους πιο σημαντικούς διευθύνοντες συμβούλους και ηγέτες επιχειρήσεων στον κόσμο.</desc>
-		<category lang="el">Κοινωνικό - Πολιτικό</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412100000 +0300" channel="XTV100000932">
-		<title lang="el">Απαντήσεις με τον Μπέιλες Κόνλεϊ</title>
-		<desc lang="el">Μια θρησκευτική εκπομπή με τον Μπέιλες, έναν ιερέα που φημίζεται για τον καθαρό και πρακτικό τρόπο που εξηγεί το Ευαγγέλιο, φέρνοντας την αλήθεια του Θεού στην καθημερινότητα των ανθρώπων.</desc>
-		<category lang="el">Special</category>
-	</programme>
-	<channel id="XTV100002407">
-		<display-name lang="el">Euronews English</display-name>
-	</channel>
 	<programme start="20260411090000 +0300" stop="20260411090500 +0300" channel="XTV100002407">
 		<title lang="el">5 Λεπτά</title>
 		<desc lang="el">Οι πιο σημαντικές ειδήσεις της επικαιρότητας.</desc>
@@ -15178,29 +14662,6 @@
 		<desc lang="el">Οι πιο σημαντικές ειδήσεις της επικαιρότητας.</desc>
 		<category lang="el">Ειδήσεις</category>
 	</programme>
-	<programme start="20260412090000 +0300" stop="20260412090500 +0300" channel="XTV100002407">
-		<title lang="el">5 Λεπτά</title>
-		<desc lang="el">Οι πιο σημαντικές ειδήσεις της επικαιρότητας.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<programme start="20260412090500 +0300" stop="20260412093000 +0300" channel="XTV100002407">
-		<title lang="el">Ειδήσεις</title>
-		<desc lang="el">Οι πιο σημαντικές ειδήσεις της επικαιρότητας.</desc>
-		<category lang="el">Ειδήσεις</category>
-	</programme>
-	<programme start="20260412093000 +0300" stop="20260412093500 +0300" channel="XTV100002407">
-		<title lang="el">5 Λεπτά</title>
-		<desc lang="el">Οι πιο σημαντικές ειδήσεις της επικαιρότητας.</desc>
-		<category lang="el">Εκπομπή</category>
-	</programme>
-	<programme start="20260412093500 +0300" stop="20260412100000 +0300" channel="XTV100002407">
-		<title lang="el">Ειδήσεις</title>
-		<desc lang="el">Οι πιο σημαντικές ειδήσεις της επικαιρότητας.</desc>
-		<category lang="el">Ειδήσεις</category>
-	</programme>
-	<channel id="TST000000001">
-		<display-name lang="el">TEST01</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="TST000000001">
 		<title lang="el">Διαφημιστικό Πρόγραμμα</title>
 		<category lang="el">Διαφημιστικό Πρόγραμμα</category>
@@ -15253,9 +14714,6 @@
 		<title lang="el">Διαφημιστικό Πρόγραμμα</title>
 		<category lang="el">Διαφημιστικό Πρόγραμμα</category>
 	</programme>
-	<channel id="TST000000002">
-		<display-name lang="el">TEST02</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="TST000000002">
 		<title lang="el">Διαφημιστικό Πρόγραμμα</title>
 		<category lang="el">Διαφημιστικό Πρόγραμμα</category>
@@ -15308,9 +14766,6 @@
 		<title lang="el">Διαφημιστικό Πρόγραμμα</title>
 		<category lang="el">Διαφημιστικό Πρόγραμμα</category>
 	</programme>
-	<channel id="TST000000004">
-		<display-name lang="el">TESTDR</display-name>
-	</channel>
 	<programme start="20260411080000 +0300" stop="20260411100000 +0300" channel="TST000000004">
 		<title lang="el">Διαφημιστικό Πρόγραμμα</title>
 		<category lang="el">Διαφημιστικό Πρόγραμμα</category>
