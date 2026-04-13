@@ -6,28 +6,23 @@ import re
 
 
 # ----------------------------
-# TIME FIX (ROBUST)
+# TIME FIX
 # ----------------------------
 def to_xmltv_time(value):
     if not value:
         return ""
 
     try:
-        value = str(value)
-
-        # ISO Z fix
-        value = value.replace("Z", "+00:00")
-
+        value = str(value).replace("Z", "+00:00")
         dt = datetime.fromisoformat(value)
         dt = dt.astimezone(ZoneInfo("Europe/Athens"))
-
         return dt.strftime("%Y%m%d%H%M%S %z")
     except:
         return ""
 
 
 # ----------------------------
-# CLEAN DESCRIPTION (NO DUPLICATES)
+# CLEAN DESCRIPTION
 # ----------------------------
 def clean_desc(desc):
     if not desc:
@@ -35,13 +30,11 @@ def clean_desc(desc):
 
     subtitle = None
 
-    # episode extraction
     m = re.search(r"Επεισόδιο:\s*(.+?)(?:\n|$)", desc)
     if m:
         subtitle = m.group(1).strip()
         desc = desc.replace(m.group(0), "")
 
-    # remove ALL duration variants (safe)
     desc = re.sub(r"Διάρκεια:\s*\d{1,2}:\d{2}(:\d{2})?", "", desc)
     desc = re.sub(r"\s{2,}", " ", desc)
 
@@ -71,26 +64,24 @@ with open("epg.json", "r", encoding="utf-8") as f:
 
 
 # ----------------------------
-# BUILD MAP
+# MAP
 # ----------------------------
 epg_map = {}
 
 for ch in epg:
     key = cid(ch)
-    if not key:
-        continue
-
-    epg_map[key] = ch.get("items") or ch.get("programs") or []
+    if key:
+        epg_map[key] = ch.get("items") or ch.get("programs") or []
 
 
 # ----------------------------
-# XML ROOT (Kodi-safe)
+# XML ROOT
 # ----------------------------
 tv = ET.Element("tv", {"generator-info-name": "Cosmote EPG FIXED"})
 
 
 # ----------------------------
-# CHANNELS (MUST FIRST)
+# CHANNELS
 # ----------------------------
 for ch in channels:
     key = cid(ch)
@@ -117,11 +108,9 @@ for ch in channels:
         start = to_xmltv_time(p.get("startTime"))
         stop = to_xmltv_time(p.get("endTime"))
 
-        # ONLY skip if no start
         if not start:
             continue
 
-        # fallback (IMPORTANT for Kodi timeline continuity)
         if not stop:
             stop = start
 
@@ -131,11 +120,10 @@ for ch in channels:
             "channel": key
         })
 
-        # title always safe string
-        title = p.get("title") or "No title"
-        ET.SubElement(prog, "title").text = str(title)
+        # TITLE
+        ET.SubElement(prog, "title").text = str(p.get("title") or "No title")
 
-        # description
+        # DESCRIPTION
         desc, sub = clean_desc(p.get("description") or "")
 
         if sub:
@@ -143,6 +131,19 @@ for ch in channels:
 
         if desc:
             ET.SubElement(prog, "desc").text = desc
+
+        # ----------------------------
+        # GENRE / CATEGORY FIX
+        # ----------------------------
+        genre = p.get("genres") or p.get("genre")
+
+        if genre:
+            if isinstance(genre, list):
+                for g in genre:
+                    if g:
+                        ET.SubElement(prog, "category", lang="el").text = str(g)
+            else:
+                ET.SubElement(prog, "category", lang="el").text = str(genre)
 
         total += 1
 
