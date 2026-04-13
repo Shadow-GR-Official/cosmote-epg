@@ -6,7 +6,7 @@ import os
 
 
 # ----------------------------
-# FORCE BASE DIRECTORY (CRITICAL FIX)
+# FORCE BASE DIRECTORY (LOCKED)
 # ----------------------------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_FILE = os.path.join(BASE_DIR, "epg.json")
@@ -37,16 +37,16 @@ def clean_program(p):
 
 
 # ----------------------------
-# FETCH
+# FETCH (SAFE)
 # ----------------------------
 def fetch(session, url, headers):
     try:
         r = session.get(url, headers=headers, timeout=25)
         if r.status_code == 200:
             return r
-        print("HTTP Error:", r.status_code)
+        print("HTTP ERROR:", r.status_code)
     except Exception as e:
-        print("Request error:", e)
+        print("REQUEST ERROR:", e)
 
     return None
 
@@ -55,9 +55,8 @@ def fetch(session, url, headers):
 # EXTRACT CHANNELS
 # ----------------------------
 def extract_channels(data):
-    channels = []
-
     stripes = data.get("stripes", [])
+    channels = []
 
     if isinstance(stripes, list):
         for stripe in stripes:
@@ -71,10 +70,14 @@ def extract_channels(data):
 
 
 # ----------------------------
-# ATOMIC SAVE (NO CORRUPTION EVER)
+# ATOMIC SAVE (GUARANTEED SAFE WRITE)
 # ----------------------------
 def atomic_save_json(data, filename):
     tmp_file = filename + ".tmp"
+
+    # NEVER write empty file
+    if not data:
+        raise Exception("REFUSING TO WRITE EMPTY DATA")
 
     with open(tmp_file, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
@@ -83,10 +86,9 @@ def atomic_save_json(data, filename):
 
     os.replace(tmp_file, filename)
 
-    # DEBUG (VERY IMPORTANT)
-    print("WRITTEN FILE:", filename)
-    print("ABS PATH:", os.path.abspath(filename))
-    print("SIZE:", os.path.getsize(filename), "bytes")
+    print("✔ SAVED:", filename)
+    print("✔ PATH :", os.path.abspath(filename))
+    print("✔ SIZE :", os.path.getsize(filename), "bytes")
 
 
 # ----------------------------
@@ -103,38 +105,40 @@ def run_fetch():
 
     session = requests.Session()
 
+    # warm-up
     session.get("https://cosmotetv.gr", timeout=20)
 
     url = "https://www.cosmotetv.gr/api/channels/schedule?locale=el"
 
-    print("[EPG 24H] Fetching...")
+    print("[EPG] FETCHING...")
 
     r = fetch(session, url, headers)
 
     if not r:
-        print("Failed fetch")
+        print("FAILED FETCH")
         return
 
     data = r.json()
     all_channels = extract_channels(data)
 
     if not all_channels:
-        print("No channels found")
+        print("NO CHANNELS FOUND (ABORT)")
         return
 
+    # clean
     for ch in all_channels:
         programs = ch.get("items") or ch.get("programs") or []
-        cleaned = [clean_program(p) for p in programs]
+        ch_clean = [clean_program(p) for p in programs]
 
         if "items" in ch:
-            ch["items"] = cleaned
+            ch["items"] = ch_clean
         else:
-            ch["programs"] = cleaned
+            ch["programs"] = ch_clean
 
+    # save safely
     atomic_save_json(all_channels, OUTPUT_FILE)
 
-    print(f"SUCCESS: {len(all_channels)} channels saved")
-    print("DONE. EXITING.")
+    print(f"✔ DONE: {len(all_channels)} channels")
 
 
 # ----------------------------
