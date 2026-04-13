@@ -71,13 +71,16 @@ for ch in epg:
 
 
 # ----------------------------
-# XML ROOT
+# XML ROOT (🔥 FORCE CHANGE EVERY RUN)
 # ----------------------------
-tv = ET.Element("tv", {"generator-info-name": "Cosmote EPG FIXED"})
+tv = ET.Element("tv", {
+    "generator-info-name": "Cosmote EPG FIXED",
+    "generated-ts": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+})
 
 
 # ----------------------------
-# CHANNELS (ALWAYS FIRST)
+# CHANNELS
 # ----------------------------
 for ch in channels:
     key = cid(ch)
@@ -127,7 +130,7 @@ for ch in channels:
         if desc:
             ET.SubElement(prog, "desc").text = desc
 
-        # ✅ GENRES FIX (THIS WAS MISSING)
+        # GENRES
         genres = p.get("genres")
 
         if genres:
@@ -142,7 +145,7 @@ for ch in channels:
 
 
 # ----------------------------
-# SAVE XML
+# SAVE XML (OVERWRITE SAFE)
 # ----------------------------
 tree = ET.ElementTree(tv)
 ET.indent(tree, space="  ")
