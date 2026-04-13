@@ -6,7 +6,7 @@ import re
 
 
 # ----------------------------
-# TIME FIX
+# TIME FIX (ROBUST)
 # ----------------------------
 def to_xmltv_time(value):
     if not value:
@@ -45,16 +45,11 @@ def clean_desc(desc):
 # CHANNEL ID
 # ----------------------------
 def cid(ch):
-    return str(
-        ch.get("id")
-        or ch.get("guid")
-        or ch.get("channel_id")
-        or ""
-    )
+    return str(ch.get("id") or ch.get("guid") or ch.get("channel_id") or "")
 
 
 # ----------------------------
-# LOAD FILES
+# LOAD
 # ----------------------------
 with open("channels.json", "r", encoding="utf-8") as f:
     channels = json.load(f)
@@ -70,8 +65,9 @@ epg_map = {}
 
 for ch in epg:
     key = cid(ch)
-    if key:
-        epg_map[key] = ch.get("items") or ch.get("programs") or []
+    if not key:
+        continue
+    epg_map[key] = ch.get("items") or ch.get("programs") or []
 
 
 # ----------------------------
@@ -81,7 +77,7 @@ tv = ET.Element("tv", {"generator-info-name": "Cosmote EPG FIXED"})
 
 
 # ----------------------------
-# CHANNELS
+# CHANNELS (ALWAYS FIRST)
 # ----------------------------
 for ch in channels:
     key = cid(ch)
@@ -105,12 +101,11 @@ for ch in channels:
 
     for p in epg_map[key]:
 
-        start = to_xmltv_time(p.get("startTime"))
-        stop = to_xmltv_time(p.get("endTime"))
+        start = to_xmltv_time(p.get("startTime") or p.get("start"))
+        stop = to_xmltv_time(p.get("endTime") or p.get("end"))
 
         if not start:
             continue
-
         if not stop:
             stop = start
 
@@ -132,24 +127,22 @@ for ch in channels:
         if desc:
             ET.SubElement(prog, "desc").text = desc
 
-        # ----------------------------
-        # GENRE / CATEGORY FIX
-        # ----------------------------
-        genre = p.get("genres") or p.get("genre")
+        # ✅ GENRES FIX (THIS WAS MISSING)
+        genres = p.get("genres")
 
-        if genre:
-            if isinstance(genre, list):
-                for g in genre:
+        if genres:
+            if isinstance(genres, list):
+                for g in genres:
                     if g:
-                        ET.SubElement(prog, "category", lang="el").text = str(g)
+                        ET.SubElement(prog, "category").text = str(g)
             else:
-                ET.SubElement(prog, "category", lang="el").text = str(genre)
+                ET.SubElement(prog, "category").text = str(genres)
 
         total += 1
 
 
 # ----------------------------
-# SAVE
+# SAVE XML
 # ----------------------------
 tree = ET.ElementTree(tv)
 ET.indent(tree, space="  ")
@@ -157,7 +150,6 @@ ET.indent(tree, space="  ")
 with open("epg.xml", "wb") as f:
     tree.write(f, encoding="utf-8", xml_declaration=True)
 
-
-print("✔ epg.xml UPDATED SUCCESSFULLY")
+print("✔ epg.xml UPDATED")
 print("✔ channels:", len(channels))
 print("✔ programs:", total)
