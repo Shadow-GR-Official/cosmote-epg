@@ -2,7 +2,7 @@ name: IPTV EPG Builder
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
