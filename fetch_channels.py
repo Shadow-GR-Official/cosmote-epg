@@ -9,7 +9,7 @@ import os
 # FORCE BASE DIRECTORY (CRITICAL FIX)
 # ----------------------------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-OUTPUT_FILE = os.path.join(BASE_DIR, "epg.json")
+OUTPUT_FILE = os.path.join(BASE_DIR, "epg.xml")
 
 
 # ----------------------------
