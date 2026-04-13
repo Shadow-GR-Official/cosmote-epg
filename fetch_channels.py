@@ -65,9 +65,9 @@ def extract_channels(data):
 
 
 # ----------------------------
-# RUN ONE FETCH CYCLE
+# RUN FETCH
 # ----------------------------
-def run_fetch():
+def run_fetch(session):
     headers = {
         "User-Agent": "Mozilla/5.0",
         "Accept": "application/json, text/plain, */*",
@@ -75,11 +75,6 @@ def run_fetch():
         "Referer": "https://cosmotetv.gr",
         "X-Requested-With": "XMLHttpRequest"
     }
-
-    session = requests.Session()
-
-    # warm-up
-    session.get("https://cosmotetv.gr", headers=headers, timeout=20)
 
     url = "https://www.cosmotetv.gr/api/channels/schedule?locale=el"
 
@@ -92,7 +87,6 @@ def run_fetch():
         return
 
     data = r.json()
-
     all_channels = extract_channels(data)
 
     if not all_channels:
@@ -117,14 +111,29 @@ def run_fetch():
 
 
 # ----------------------------
-# MAIN LOOP (EVERY 1 HOUR)
+# MAIN LOOP (1 HOUR FIXED)
 # ----------------------------
 if __name__ == "__main__":
+    session = requests.Session()
+
+    # warm-up once
+    session.get("https://cosmotetv.gr", timeout=20)
+
+    interval = 60 * 60  # 1 hour
+
     while True:
+        start = time.time()
+
         try:
-            run_fetch()
+            run_fetch(session)
         except Exception as e:
             print("CRITICAL ERROR:", e)
 
-        print("Sleeping 1 hour...\n")
-        time.sleep(60 * 60)
+        elapsed = time.time() - start
+        sleep_time = interval - elapsed
+
+        if sleep_time < 0:
+            sleep_time = 0
+
+        print(f"Sleeping {int(sleep_time)} seconds...\n")
+        time.sleep(sleep_time)
