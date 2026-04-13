@@ -65,9 +65,9 @@ def extract_channels(data):
 
 
 # ----------------------------
-# MAIN
+# RUN ONE FETCH CYCLE
 # ----------------------------
-def main():
+def run_fetch():
     headers = {
         "User-Agent": "Mozilla/5.0",
         "Accept": "application/json, text/plain, */*",
@@ -78,12 +78,9 @@ def main():
 
     session = requests.Session()
 
-    # warm-up (important for cookies/session)
+    # warm-up
     session.get("https://cosmotetv.gr", headers=headers, timeout=20)
 
-    # ----------------------------
-    # IMPORTANT: NO from/to (API is 24h rolling)
-    # ----------------------------
     url = "https://www.cosmotetv.gr/api/channels/schedule?locale=el"
 
     print("[EPG 24H] Fetching:", url)
@@ -92,7 +89,7 @@ def main():
 
     if not r:
         print("Failed to fetch EPG")
-        sys.exit(1)
+        return
 
     data = r.json()
 
@@ -100,11 +97,9 @@ def main():
 
     if not all_channels:
         print("No channels found")
-        sys.exit(1)
+        return
 
-    # ----------------------------
-    # CLEAN PROGRAMS
-    # ----------------------------
+    # clean programs
     for ch in all_channels:
         programs = ch.get("items") or ch.get("programs") or []
         cleaned = [clean_program(p) for p in programs]
@@ -114,14 +109,22 @@ def main():
         else:
             ch["programs"] = cleaned
 
-    # ----------------------------
-    # SAVE
-    # ----------------------------
+    # save
     with open("epg.json", "w", encoding="utf-8") as f:
         json.dump(all_channels, f, ensure_ascii=False, indent=2)
 
     print(f"SUCCESS: Saved {len(all_channels)} channels (24h EPG)")
 
 
+# ----------------------------
+# MAIN LOOP (EVERY 1 HOUR)
+# ----------------------------
 if __name__ == "__main__":
-    main()
+    while True:
+        try:
+            run_fetch()
+        except Exception as e:
+            print("CRITICAL ERROR:", e)
+
+        print("Sleeping 1 hour...\n")
+        time.sleep(60 * 60)
