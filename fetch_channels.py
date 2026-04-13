@@ -3,13 +3,16 @@ import json
 import sys
 import re
 import os
+import xml.etree.ElementTree as ET
 
 
 # ----------------------------
 # FORCE BASE DIRECTORY (LOCKED)
 # ----------------------------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-OUTPUT_FILE = os.path.join(BASE_DIR, "epg.json")
+
+JSON_FILE = os.path.join(BASE_DIR, "epg.json")
+XML_FILE = os.path.join(BASE_DIR, "epg.xml")
 
 
 # ----------------------------
@@ -37,7 +40,7 @@ def clean_program(p):
 
 
 # ----------------------------
-# FETCH (SAFE)
+# FETCH
 # ----------------------------
 def fetch(session, url, headers):
     try:
@@ -70,25 +73,66 @@ def extract_channels(data):
 
 
 # ----------------------------
-# ATOMIC SAVE (GUARANTEED SAFE WRITE)
+# SAVE JSON (TEMP)
 # ----------------------------
-def atomic_save_json(data, filename):
-    tmp_file = filename + ".tmp"
-
-    # NEVER write empty file
+def save_json(data):
     if not data:
-        raise Exception("REFUSING TO WRITE EMPTY DATA")
+        raise Exception("EMPTY DATA - ABORT")
 
-    with open(tmp_file, "w", encoding="utf-8") as f:
+    tmp = JSON_FILE + ".tmp"
+
+    with open(tmp, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         f.flush()
         os.fsync(f.fileno())
 
-    os.replace(tmp_file, filename)
+    os.replace(tmp, JSON_FILE)
 
-    print("✔ SAVED:", filename)
-    print("✔ PATH :", os.path.abspath(filename))
-    print("✔ SIZE :", os.path.getsize(filename), "bytes")
+    print("✔ JSON SAVED:", JSON_FILE)
+
+
+# ----------------------------
+# BUILD XMLTV
+# ----------------------------
+def build_xml(data):
+    tv = ET.Element("tv")
+
+    for ch in data:
+        channel_id = str(ch.get("id") or ch.get("channel_id") or "unknown")
+
+        channel_el = ET.SubElement(tv, "channel", id=channel_id)
+        ET.SubElement(channel_el, "display-name").text = channel_id
+
+        programs = ch.get("items") or ch.get("programs") or []
+
+        for p in programs:
+            start = str(p.get("start") or "")
+            stop = str(p.get("end") or "")
+
+            prog = ET.SubElement(tv, "programme", {
+                "start": start,
+                "stop": stop,
+                "channel": channel_id
+            })
+
+            ET.SubElement(prog, "title").text = p.get("title") or "No title"
+
+            desc = p.get("description") or ""
+            if desc:
+                ET.SubElement(prog, "desc").text = desc
+
+    return tv
+
+
+def save_xml(data):
+    tv = build_xml(data)
+
+    tree = ET.ElementTree(tv)
+    ET.indent(tree, space="  ")
+
+    tree.write(XML_FILE, encoding="utf-8", xml_declaration=True)
+
+    print("✔ XML SAVED:", XML_FILE)
 
 
 # ----------------------------
@@ -104,8 +148,6 @@ def run_fetch():
     }
 
     session = requests.Session()
-
-    # warm-up
     session.get("https://cosmotetv.gr", timeout=20)
 
     url = "https://www.cosmotetv.gr/api/channels/schedule?locale=el"
@@ -122,21 +164,22 @@ def run_fetch():
     all_channels = extract_channels(data)
 
     if not all_channels:
-        print("NO CHANNELS FOUND (ABORT)")
+        print("NO CHANNELS FOUND")
         return
 
     # clean
     for ch in all_channels:
         programs = ch.get("items") or ch.get("programs") or []
-        ch_clean = [clean_program(p) for p in programs]
+        cleaned = [clean_program(p) for p in programs]
 
         if "items" in ch:
-            ch["items"] = ch_clean
+            ch["items"] = cleaned
         else:
-            ch["programs"] = ch_clean
+            ch["programs"] = cleaned
 
-    # save safely
-    atomic_save_json(all_channels, OUTPUT_FILE)
+    # SAVE BOTH
+    save_json(all_channels)
+    save_xml(all_channels)
 
     print(f"✔ DONE: {len(all_channels)} channels")
 
