@@ -2,7 +2,7 @@ name: IPTV EPG Builder
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 * * * *"   # κάθε 1 ώρα
   workflow_dispatch:
 
 permissions:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -21,94 +21,31 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: |
-          pip install requests
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Install deps
+        run: pip install requests
 
-      - name: Fetch channels
+      # 1. FETCH JSON
+      - name: Fetch EPG
         run: python fetch_channels.py
 
-      # ✅ FIXED VALIDATION (Handles both id and guid)
-      - name: Validate channels.json
-        run: |
-          python - << 'EOF'
-          import json
-          import os
-
-          if not os.path.exists("channels.json"):
-              raise Exception("channels.json NOT FOUND")
-
-          with open("channels.json", "r", encoding="utf-8") as f:
-              data = json.load(f)
-
-          def is_valid(ch):
-              # Η Cosmote χρησιμοποιεί guid ή id ή channel_id
-              cid = ch.get("id") or ch.get("guid") or ch.get("channel_id")
-              name = ch.get("name") or ch.get("title")
-              return bool(cid and name)
-
-          valid = [c for c in data if is_valid(c)]
-
-          print(f"TOTAL channels: {len(data)}")
-          print(f"VALID channels: {len(valid)}")
-
-          if len(valid) == 0:
-              if len(data) > 0:
-                  print("\nSAMPLE JSON STRUCTURE:")
-                  print(json.dumps(data[0], indent=2, ensure_ascii=False))
-              raise Exception("NO VALID CHANNELS FOUND - Check JSON keys")
-
-          print("VALIDATION OK")
-          EOF
-
-      - name: Generate EPG XML
+      # 2. BUILD XML
+      - name: Generate XML
         run: python generate_epg.py
 
-      # ✅ FIXED EPG VALIDATION (Checks both 'programs' and 'items')
-      - name: Validate EPG Output
-        run: |
-          python - << 'EOF'
-          import json
-          import os
-
-          if not os.path.exists("epg.json"):
-              raise Exception("epg.json NOT FOUND")
-
-          with open("epg.json", "r", encoding="utf-8") as f:
-              data = json.load(f)
-
-          # Η Cosmote χρησιμοποιεί το 'items' στο νέο API
-          total_programs = sum(len(c.get("programs", []) or c.get("items", [])) for c in data)
-
-          print(f"EPG channels: {len(data)}")
-          print(f"TOTAL programs: {total_programs}")
-
-          if total_programs == 0:
-              print("\nSAMPLE CHANNEL DATA:")
-              print(json.dumps(data[0] if data else {}, indent=2, ensure_ascii=False))
-              raise Exception("EPG EMPTY - No programs found in 'programs' or 'items'")
-
-          print("EPG VALIDATION OK")
-          EOF
-
-      - name: Generate M3U
-        run: python generate_m3u.py || echo "Skipping M3U generation"
-
+      # 3. DEBUG
       - name: Show files
         run: ls -lah
 
-      - name: Commit changes
+      # 4. COMMIT
+      - name: Commit
         run: |
           git config user.name "EPG Bot"
           git config user.email "bot@github.com"
-          
-          # Προσθήκη όλων των παραχθέντων αρχείων
-          git add epg.xml epg.json channels.json channels.m3u || true
-          
-          # Commit μόνο αν υπάρχουν αλλαγές
+
+          git add epg.json epg.xml || true
+
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes"
           else
             git commit -m "Update EPG: $(date +'%Y-%m-%d %H:%M')"
             git push
