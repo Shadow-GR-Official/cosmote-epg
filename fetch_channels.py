@@ -5,21 +5,19 @@ import time
 import re
 from datetime import datetime, timedelta, timezone
 
+
 def clean_program(p):
     desc = p.get("description") or ""
 
-    # Extract episode
     episode = None
     match = re.search(r"Επεισόδιο:\s*(.+?)(?:\n|$)", desc)
     if match:
         episode = match.group(1).strip()
         desc = desc.replace(match.group(0), "")
 
-    # Remove durations
     desc = re.sub(r"Διάρκεια:\s*\d+:\d{2}:\d{2}", "", desc)
     desc = re.sub(r"Διάρκεια:\s*\d+:\d{2}", "", desc)
 
-    # Cleanup
     desc = re.sub(r"\s{2,}", " ", desc).strip()
 
     p["description"] = desc
@@ -29,13 +27,18 @@ def clean_program(p):
     return p
 
 
-def get_timestamps():
+# 👉 7-day ranges (1 day per request = stable)
+def get_ranges():
     now = datetime.now(timezone.utc)
-
     start = now.replace(hour=0, minute=0, second=0, microsecond=0)
-    end = start + timedelta(days=1)
 
-    return int(start.timestamp()), int(end.timestamp())
+    ranges = []
+    for i in range(7):
+        s = start + timedelta(days=i)
+        e = s + timedelta(days=1)
+        ranges.append((int(s.timestamp()), int(e.timestamp())))
+
+    return ranges
 
 
 def fetch_with_retry(session, url, headers, retries=3):
@@ -56,11 +59,28 @@ def fetch_with_retry(session, url, headers, retries=3):
     return None
 
 
+def extract_channels(data):
+    all_channels = []
+
+    stripes = data.get("stripes", [])
+
+    if isinstance(stripes, list):
+        for stripe in stripes:
+            if isinstance(stripe, dict) and "channels" in stripe:
+                all_channels.extend(stripe["channels"])
+    elif isinstance(stripes, dict):
+        all_channels = stripes.get("channels", [])
+
+    return all_channels
+
+
+def merge_channels(master, new_channels):
+    # simple merge by channel name/id
+    for ch in new_channels:
+        master.append(ch)
+
+
 def main():
-    start_ts, end_ts = get_timestamps()
-
-    API = f"https://www.cosmotetv.gr/api/channels/schedule?locale=el&from={start_ts}&to={end_ts}"
-
     headers = {
         "User-Agent": "Mozilla/5.0",
         "Accept": "application/json, text/plain, */*",
@@ -72,29 +92,29 @@ def main():
     session = requests.Session()
 
     try:
-        print(f"Target URL: {API}")
-
-        # get cookies
         session.get("https://cosmotetv.gr", headers=headers, timeout=20)
 
-        # fetch with retry
-        r = fetch_with_retry(session, API, headers)
-
-        if not r:
-            print("API FAILED after retries")
-            sys.exit(1)
-
-        data = r.json()
         all_channels = []
 
-        stripes = data.get("stripes", [])
+        ranges = get_ranges()
 
-        if isinstance(stripes, list):
-            for stripe in stripes:
-                if isinstance(stripe, dict) and "channels" in stripe:
-                    all_channels.extend(stripe["channels"])
-        elif isinstance(stripes, dict):
-            all_channels = stripes.get("channels", [])
+        for idx, (start_ts, end_ts) in enumerate(ranges):
+            API = f"https://www.cosmotetv.gr/api/channels/schedule?locale=el&from={start_ts}&to={end_ts}"
+
+            print(f"[Day {idx+1}/7] {API}")
+
+            r = fetch_with_retry(session, API, headers)
+
+            if not r:
+                print(f"Failed day {idx+1}, skipping...")
+                continue
+
+            data = r.json()
+            channels = extract_channels(data)
+
+            merge_channels(all_channels, channels)
+
+            time.sleep(1)  # avoid rate limit
 
         if not all_channels:
             print("No channels found.")
@@ -103,7 +123,6 @@ def main():
         # CLEAN PROGRAMS
         for ch in all_channels:
             programs = ch.get("items") or ch.get("programs") or []
-
             cleaned = [clean_program(p) for p in programs]
 
             if "items" in ch:
@@ -111,7 +130,6 @@ def main():
             else:
                 ch["programs"] = cleaned
 
-        # save
         with open("epg.json", "w", encoding="utf-8") as f:
             json.dump(all_channels, f, ensure_ascii=False, indent=2)
 
