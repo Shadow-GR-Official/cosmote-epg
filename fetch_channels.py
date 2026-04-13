@@ -6,6 +6,13 @@ import os
 
 
 # ----------------------------
+# FORCE BASE DIRECTORY (CRITICAL FIX)
+# ----------------------------
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_FILE = os.path.join(BASE_DIR, "epg.json")
+
+
+# ----------------------------
 # CLEAN PROGRAM
 # ----------------------------
 def clean_program(p):
@@ -64,7 +71,7 @@ def extract_channels(data):
 
 
 # ----------------------------
-# ATOMIC SAVE
+# ATOMIC SAVE (NO CORRUPTION EVER)
 # ----------------------------
 def atomic_save_json(data, filename):
     tmp_file = filename + ".tmp"
@@ -76,9 +83,14 @@ def atomic_save_json(data, filename):
 
     os.replace(tmp_file, filename)
 
+    # DEBUG (VERY IMPORTANT)
+    print("WRITTEN FILE:", filename)
+    print("ABS PATH:", os.path.abspath(filename))
+    print("SIZE:", os.path.getsize(filename), "bytes")
+
 
 # ----------------------------
-# RUN ONCE (NO LOOP)
+# RUN ONCE
 # ----------------------------
 def run_fetch():
     headers = {
@@ -119,14 +131,14 @@ def run_fetch():
         else:
             ch["programs"] = cleaned
 
-    atomic_save_json(all_channels, "epg.json")
+    atomic_save_json(all_channels, OUTPUT_FILE)
 
     print(f"SUCCESS: {len(all_channels)} channels saved")
     print("DONE. EXITING.")
 
 
 # ----------------------------
-# MAIN (RUN ONCE)
+# MAIN
 # ----------------------------
 if __name__ == "__main__":
     try:
