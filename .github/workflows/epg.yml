@@ -24,28 +24,44 @@ jobs:
       - name: Install deps
         run: pip install requests
 
+      # 🔥 IMPORTANT: sync repo state (fixes silent overwrite issues)
+      - name: Sync repo
+        run: |
+          git pull origin main || true
+
       # 1. FETCH JSON
       - name: Fetch EPG
         run: python fetch_channels.py
 
-      # 2. BUILD XML
+      # 2. GENERATE XML
       - name: Generate XML
         run: python generate_epg.py
 
-      # 3. DEBUG
+      # 3. DEBUG (very important for cron)
       - name: Show files
-        run: ls -lah
+        run: |
+          ls -lah
+          echo "---- epg.xml preview ----"
+          head -n 20 epg.xml || true
+          echo "---- epg.json preview ----"
+          head -n 20 epg.json || true
 
-      # 4. COMMIT
+      # 4. COMMIT CHANGES SAFELY
       - name: Commit
         run: |
           git config user.name "EPG Bot"
           git config user.email "bot@github.com"
 
-          git add epg.json epg.xml || true
+          # ensure files exist before adding
+          if [ -f epg.xml ] && [ -f epg.json ]; then
+            git add epg.xml epg.json
+          else
+            echo "Missing output files!"
+            exit 1
+          fi
 
           if git diff --staged --quiet; then
-            echo "No changes"
+            echo "No changes to commit"
           else
             git commit -m "Update EPG: $(date +'%Y-%m-%d %H:%M')"
             git push
