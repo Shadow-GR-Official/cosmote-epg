@@ -3,7 +3,7 @@ import json
 import sys
 import time
 import re
-from datetime import datetime, timezone
+from datetime import datetime
 
 
 # ----------------------------
@@ -31,7 +31,7 @@ def clean_program(p):
 
 
 # ----------------------------
-# SAFE REQUEST
+# FETCH
 # ----------------------------
 def fetch(session, url, headers):
     try:
@@ -46,7 +46,7 @@ def fetch(session, url, headers):
 
 
 # ----------------------------
-# EXTRACT CHANNELS
+# EXTRACT
 # ----------------------------
 def extract_channels(data):
     channels = []
@@ -65,7 +65,7 @@ def extract_channels(data):
 
 
 # ----------------------------
-# RUN FETCH
+# FETCH + SAVE
 # ----------------------------
 def run_fetch(session):
     headers = {
@@ -78,12 +78,12 @@ def run_fetch(session):
 
     url = "https://www.cosmotetv.gr/api/channels/schedule?locale=el"
 
-    print("[EPG 24H] Fetching:", url)
+    print("[EPG 24H] Fetching...")
 
     r = fetch(session, url, headers)
 
     if not r:
-        print("Failed to fetch EPG")
+        print("Failed fetch")
         return
 
     data = r.json()
@@ -93,7 +93,6 @@ def run_fetch(session):
         print("No channels found")
         return
 
-    # clean programs
     for ch in all_channels:
         programs = ch.get("items") or ch.get("programs") or []
         cleaned = [clean_program(p) for p in programs]
@@ -103,37 +102,38 @@ def run_fetch(session):
         else:
             ch["programs"] = cleaned
 
-    # save
     with open("epg.json", "w", encoding="utf-8") as f:
         json.dump(all_channels, f, ensure_ascii=False, indent=2)
 
-    print(f"SUCCESS: Saved {len(all_channels)} channels (24h EPG)")
+    print(f"SUCCESS: {len(all_channels)} channels saved")
 
 
 # ----------------------------
-# MAIN LOOP (1 HOUR FIXED)
+# MAIN LOOP (FIXED HOURLY SCHEDULER)
 # ----------------------------
 if __name__ == "__main__":
     session = requests.Session()
 
-    # warm-up once
+    # warm-up
     session.get("https://cosmotetv.gr", timeout=20)
 
     interval = 60 * 60  # 1 hour
 
-    while True:
-        start = time.time()
+    next_run = time.time()  # START NOW immediately
 
+    while True:
         try:
             run_fetch(session)
         except Exception as e:
             print("CRITICAL ERROR:", e)
 
-        elapsed = time.time() - start
-        sleep_time = interval - elapsed
+        # schedule next run EXACTLY +1 hour
+        next_run += interval
+
+        sleep_time = next_run - time.time()
 
         if sleep_time < 0:
             sleep_time = 0
 
-        print(f"Sleeping {int(sleep_time)} seconds...\n")
+        print(f"Sleeping {int(sleep_time)} seconds until next run...\n")
         time.sleep(sleep_time)
