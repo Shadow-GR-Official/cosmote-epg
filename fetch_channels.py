@@ -3,6 +3,7 @@ import json
 import sys
 import time
 import re
+import os
 from datetime import datetime
 
 
@@ -46,7 +47,7 @@ def fetch(session, url, headers):
 
 
 # ----------------------------
-# EXTRACT
+# EXTRACT CHANNELS
 # ----------------------------
 def extract_channels(data):
     channels = []
@@ -62,6 +63,20 @@ def extract_channels(data):
         channels = stripes.get("channels", [])
 
     return channels
+
+
+# ----------------------------
+# ATOMIC SAVE (FIX FOR EMPTY RAW FILES)
+# ----------------------------
+def atomic_save_json(data, filename):
+    tmp_file = filename + ".tmp"
+
+    with open(tmp_file, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+        f.flush()
+        os.fsync(f.fileno())
+
+    os.replace(tmp_file, filename)
 
 
 # ----------------------------
@@ -93,6 +108,7 @@ def run_fetch(session):
         print("No channels found")
         return
 
+    # clean programs
     for ch in all_channels:
         programs = ch.get("items") or ch.get("programs") or []
         cleaned = [clean_program(p) for p in programs]
@@ -102,14 +118,14 @@ def run_fetch(session):
         else:
             ch["programs"] = cleaned
 
-    with open("epg.json", "w", encoding="utf-8") as f:
-        json.dump(all_channels, f, ensure_ascii=False, indent=2)
+    # 🔥 ATOMIC SAVE (IMPORTANT FIX)
+    atomic_save_json(all_channels, "epg.json")
 
     print(f"SUCCESS: {len(all_channels)} channels saved")
 
 
 # ----------------------------
-# MAIN LOOP (FIXED HOURLY SCHEDULER)
+# MAIN LOOP (1 HOUR FIXED)
 # ----------------------------
 if __name__ == "__main__":
     session = requests.Session()
@@ -118,8 +134,7 @@ if __name__ == "__main__":
     session.get("https://cosmotetv.gr", timeout=20)
 
     interval = 60 * 60  # 1 hour
-
-    next_run = time.time()  # START NOW immediately
+    next_run = time.time()
 
     while True:
         try:
@@ -127,9 +142,7 @@ if __name__ == "__main__":
         except Exception as e:
             print("CRITICAL ERROR:", e)
 
-        # schedule next run EXACTLY +1 hour
         next_run += interval
-
         sleep_time = next_run - time.time()
 
         if sleep_time < 0:
