@@ -1,10 +1,8 @@
 import requests
 import json
 import sys
-import time
 import re
 import os
-from datetime import datetime
 
 
 # ----------------------------
@@ -66,7 +64,7 @@ def extract_channels(data):
 
 
 # ----------------------------
-# ATOMIC SAVE (FIX FOR EMPTY RAW FILES)
+# ATOMIC SAVE
 # ----------------------------
 def atomic_save_json(data, filename):
     tmp_file = filename + ".tmp"
@@ -80,9 +78,9 @@ def atomic_save_json(data, filename):
 
 
 # ----------------------------
-# FETCH + SAVE
+# RUN ONCE (NO LOOP)
 # ----------------------------
-def run_fetch(session):
+def run_fetch():
     headers = {
         "User-Agent": "Mozilla/5.0",
         "Accept": "application/json, text/plain, */*",
@@ -90,6 +88,10 @@ def run_fetch(session):
         "Referer": "https://cosmotetv.gr",
         "X-Requested-With": "XMLHttpRequest"
     }
+
+    session = requests.Session()
+
+    session.get("https://cosmotetv.gr", timeout=20)
 
     url = "https://www.cosmotetv.gr/api/channels/schedule?locale=el"
 
@@ -108,7 +110,6 @@ def run_fetch(session):
         print("No channels found")
         return
 
-    # clean programs
     for ch in all_channels:
         programs = ch.get("items") or ch.get("programs") or []
         cleaned = [clean_program(p) for p in programs]
@@ -118,35 +119,19 @@ def run_fetch(session):
         else:
             ch["programs"] = cleaned
 
-    # 🔥 ATOMIC SAVE (IMPORTANT FIX)
     atomic_save_json(all_channels, "epg.json")
 
     print(f"SUCCESS: {len(all_channels)} channels saved")
+    print("DONE. EXITING.")
 
 
 # ----------------------------
-# MAIN LOOP (1 HOUR FIXED)
+# MAIN (RUN ONCE)
 # ----------------------------
 if __name__ == "__main__":
-    session = requests.Session()
+    try:
+        run_fetch()
+    except Exception as e:
+        print("CRITICAL ERROR:", e)
 
-    # warm-up
-    session.get("https://cosmotetv.gr", timeout=20)
-
-    interval = 60 * 60  # 1 hour
-    next_run = time.time()
-
-    while True:
-        try:
-            run_fetch(session)
-        except Exception as e:
-            print("CRITICAL ERROR:", e)
-
-        next_run += interval
-        sleep_time = next_run - time.time()
-
-        if sleep_time < 0:
-            sleep_time = 0
-
-        print(f"Sleeping {int(sleep_time)} seconds until next run...\n")
-        time.sleep(sleep_time)
+    sys.exit(0)
