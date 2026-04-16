@@ -74,7 +74,7 @@ for ch in epg:
 # XML ROOT (🔥 FORCE CHANGE EVERY RUN)
 # ----------------------------
 tv = ET.Element("tv", {
-    "generator-info-name": "Cosmote EPG FIXED",
+    
     "generated-ts": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 })
 
