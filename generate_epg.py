@@ -73,11 +73,8 @@ for ch in epg:
 # ----------------------------
 # XML ROOT (🔥 FORCE CHANGE EVERY RUN)
 # ----------------------------
-tv = ET.Element("tv", {
-    
-    "generated-ts": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-})
 
+tv = ET.Element("tv")
 
 # ----------------------------
 # CHANNELS
