@@ -10,7 +10,7 @@ JSON_FILE = os.path.join(BASE_DIR, "epg.json")
 
 def fetch(session, url, headers):
     try:
-        r = session.get(url, headers=headers, timeout=20)
+        r = session.get(url, headers=headers, timeout=10)
         if r.status_code == 200:
             return r
         print("HTTP ERROR:", r.status_code)
@@ -75,7 +75,7 @@ def run():
     }
 
     session = requests.Session()
-    session.get("https://cosmotetv.gr", timeout=20)
+    session.get("https://cosmotetv.gr", timeout=10)
 
     url = "https://www.cosmotetv.gr/api/channels/schedule?locale=el"
 
