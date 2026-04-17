@@ -6,7 +6,7 @@ import re
 
 
 # ----------------------------
-# TIME FIX (ROBUST)
+# TIME FIX (ROBUST + XMLTV SAFE)
 # ----------------------------
 def to_xmltv_time(value):
     if not value:
@@ -14,10 +14,20 @@ def to_xmltv_time(value):
 
     try:
         value = str(value).replace("Z", "+00:00")
+
         dt = datetime.fromisoformat(value)
+
+        # If naive datetime, assume UTC
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=ZoneInfo("UTC"))
+
+        # Convert to Greece time (DST auto)
         dt = dt.astimezone(ZoneInfo("Europe/Athens"))
-        return dt.strftime("%Y%m%d%H%M%S %z")
-    except:
+
+        # XMLTV format (NO SPACE BEFORE OFFSET)
+        return dt.strftime("%Y%m%d%H%M%S%z")
+
+    except Exception:
         return ""
 
 
@@ -49,7 +59,7 @@ def cid(ch):
 
 
 # ----------------------------
-# LOAD
+# LOAD FILES
 # ----------------------------
 with open("channels.json", "r", encoding="utf-8") as f:
     channels = json.load(f)
@@ -59,7 +69,7 @@ with open("epg.json", "r", encoding="utf-8") as f:
 
 
 # ----------------------------
-# MAP
+# MAP CHANNELS -> PROGRAMS
 # ----------------------------
 epg_map = {}
 
@@ -71,10 +81,10 @@ for ch in epg:
 
 
 # ----------------------------
-# XML ROOT (🔥 FORCE CHANGE EVERY RUN)
+# XML ROOT
 # ----------------------------
-
 tv = ET.Element("tv")
+
 
 # ----------------------------
 # CHANNELS
@@ -106,6 +116,7 @@ for ch in channels:
 
         if not start:
             continue
+
         if not stop:
             stop = start
 
@@ -142,13 +153,14 @@ for ch in channels:
 
 
 # ----------------------------
-# SAVE XML (OVERWRITE SAFE)
+# SAVE XML (SAFE WRITE)
 # ----------------------------
 tree = ET.ElementTree(tv)
 ET.indent(tree, space="  ")
 
 with open("epg.xml", "wb") as f:
     tree.write(f, encoding="utf-8", xml_declaration=True)
+
 
 print("✔ epg.xml UPDATED")
 print("✔ channels:", len(channels))
