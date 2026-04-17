@@ -10,7 +10,7 @@ JSON_FILE = os.path.join(BASE_DIR, "epg.json")
 
 def fetch(session, url, headers):
     try:
-        r = session.get(url, headers=headers, timeout=55)
+        r = session.get(url, headers=headers, timeout=15)
         if r.status_code == 200:
             return r
         print("HTTP ERROR:", r.status_code)
