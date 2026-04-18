@@ -160,7 +160,7 @@ ET.indent(tree, space="  ")
 
 with open("epg.xml", "w", encoding="utf-8") as f:
     # Χειροκίνητο declaration για έλεγχο στα εισαγωγικά και το Case
-    f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+    f.write('<?xml version="1.0" encoding="UTF-8"?>)
     f.write(xml_str)
 
 
