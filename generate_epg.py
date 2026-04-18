@@ -150,7 +150,7 @@ if not os.path.exists("data"):
     os.makedirs("data")
 
 # Μορφοποίηση με 4 κενά για indent
-ET.indent(tv, space="    ")
+ET.indent(tv, space="  ")
 xml_str = ET.tostring(tv, encoding="utf-8").decode("utf-8")
 
 # Αφαίρεση κενών γραμμών για συνεχή αρίθμηση στο GitHub
