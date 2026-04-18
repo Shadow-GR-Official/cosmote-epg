@@ -136,9 +136,9 @@ for ch in channels:
             if isinstance(genres, list):
                 for g in genres:
                     if g:
-                        ET.SubElement(prog, "category" "el").text = str(g)
+                        ET.SubElement(prog, "category", {"lang": "el"}).text = str(g)
             else:
-                ET.SubElement(prog, "category" "el").text = str(genres)
+                ET.SubElement(prog, "category", {"lang": "el"}).text = str(genres)
 
         total += 1
 
