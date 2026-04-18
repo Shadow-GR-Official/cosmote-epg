@@ -153,16 +153,19 @@ for ch in channels:
 
 
 # ----------------------------
-# SAVE XML (SAFE WRITE)
+# SAVE XML (EXACT FORMATTING)
 # ----------------------------
-tree = ET.ElementTree(tv)
-ET.indent(tree, space="  ")
+# Μετατροπή σε string με indent
+ET.indent(tv, space="  ")
+xml_str = ET.tostring(tv, encoding="utf-8").decode("utf-8")
+
+# Διόρθωση για να μην υπάρχουν κενές γραμμές ανάμεσα στα blocks
+xml_str = xml_str.replace("\n\n", "\n")
 
 with open("epg.xml", "w", encoding="utf-8") as f:
     # Χειροκίνητο declaration για έλεγχο στα εισαγωγικά και το Case
-    f.write('<?xml version="1.0" encoding="UTF-8"?>)
+    f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
     f.write(xml_str)
-
 
 print("✔ epg.xml UPDATED")
 print("✔ channels:", len(channels))
