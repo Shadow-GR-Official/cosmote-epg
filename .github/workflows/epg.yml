@@ -50,7 +50,7 @@ jobs:
           git config user.name "EPG Bot"
           git config user.email "bot@github.com"
 
-          git add epg.xml epg.json
+          git add data/epg.xml epg.json
 
           if git diff --cached --quiet; then
             echo "No changes"
