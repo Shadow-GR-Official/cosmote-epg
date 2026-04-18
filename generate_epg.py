@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 from zoneinfo import ZoneInfo
 import re
-
+import os
 
 # ----------------------------
 # TIME FIX (ROBUST + XMLTV SAFE)
@@ -14,7 +14,6 @@ def to_xmltv_time(value):
 
     try:
         value = str(value).replace("Z", "+00:00")
-
         dt = datetime.fromisoformat(value)
 
         # If naive datetime, assume UTC
@@ -24,12 +23,11 @@ def to_xmltv_time(value):
         # Convert to Greece time (DST auto)
         dt = dt.astimezone(ZoneInfo("Europe/Athens"))
 
-        # XMLTV format (NO SPACE BEFORE OFFSET)
+        # XMLTV format (WITH SPACE BEFORE OFFSET)
         return dt.strftime("%Y%m%d%H%M%S %z")
 
     except Exception:
         return ""
-
 
 # ----------------------------
 # CLEAN DESCRIPTION
@@ -50,13 +48,11 @@ def clean_desc(desc):
 
     return desc.strip(), subtitle
 
-
 # ----------------------------
 # CHANNEL ID
 # ----------------------------
 def cid(ch):
     return str(ch.get("id") or ch.get("guid") or ch.get("channel_id") or "")
-
 
 # ----------------------------
 # LOAD FILES
@@ -66,7 +62,6 @@ with open("channels.json", "r", encoding="utf-8") as f:
 
 with open("epg.json", "r", encoding="utf-8") as f:
     epg = json.load(f)
-
 
 # ----------------------------
 # MAP CHANNELS -> PROGRAMS
@@ -79,12 +74,10 @@ for ch in epg:
         continue
     epg_map[key] = ch.get("items") or ch.get("programs") or []
 
-
 # ----------------------------
 # XML ROOT
 # ----------------------------
 tv = ET.Element("tv")
-
 
 # ----------------------------
 # CHANNELS
@@ -96,7 +89,6 @@ for ch in channels:
 
     c = ET.SubElement(tv, "channel", id=key)
     ET.SubElement(c, "display-name").text = ch.get("name") or key
-
 
 # ----------------------------
 # PROGRAMS
@@ -127,20 +119,19 @@ for ch in channels:
         })
 
         # TITLE
-        ET.SubElement(prog, "title").text = str(p.get("title") or "No title")
+        ET.SubElement(prog, "title", {"lang": "el"}).text = str(p.get("title") or "No title")
 
         # DESCRIPTION
         desc, sub = clean_desc(p.get("description") or "")
 
         if sub:
-            ET.SubElement(prog, "sub-title").text = sub
+            ET.SubElement(prog, "sub-title", {"lang": "el"}).text = sub
 
         if desc:
-            ET.SubElement(prog, "desc").text = desc
+            ET.SubElement(prog, "desc", {"lang": "el"}).text = desc
 
         # GENRES
         genres = p.get("genres")
-
         if genres:
             if isinstance(genres, list):
                 for g in genres:
@@ -151,22 +142,27 @@ for ch in channels:
 
         total += 1
 
+# ----------------------------
+# SAVE XML (VODAFONE/COSMOTE GITHUB STYLE)
+# ----------------------------
+# Δημιουργία φακέλου data
+if not os.path.exists("data"):
+    os.makedirs("data")
 
-# ----------------------------
-# SAVE XML (EXACT FORMATTING)
-# ----------------------------
-# Μετατροπή σε string με indent
-ET.indent(tv, space="  ")
+# Μορφοποίηση με 4 κενά για indent
+ET.indent(tv, space="    ")
 xml_str = ET.tostring(tv, encoding="utf-8").decode("utf-8")
 
-# Διόρθωση για να μην υπάρχουν κενές γραμμές ανάμεσα στα blocks
-xml_str = xml_str.replace("\n\n", "\n")
+# Αφαίρεση κενών γραμμών για συνεχή αρίθμηση στο GitHub
+lines = [line for line in xml_str.splitlines() if line.strip()]
+xml_content = "\n".join(lines)
 
-with open("epg.xml", "w", encoding="utf-8") as f:
-    # Χειροκίνητο declaration για έλεγχο στα εισαγωγικά και το Case
+file_path = os.path.join("data", "epg.xml")
+
+with open(file_path, "w", encoding="utf-8") as f:
+    # Header ακριβώς όπως στις εικόνες
     f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-    f.write(xml_str)
+    f.write(xml_content)
 
-print("✔ epg.xml UPDATED")
-print("✔ channels:", len(channels))
-print("✔ programs:", total)
+print(f"✔ Επιτυχία! Το αρχείο δημιουργήθηκε: {file_path}")
+print(f"✔ Κανάλια: {len(channels)}, Προγράμματα: {total}")
