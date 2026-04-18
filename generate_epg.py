@@ -25,7 +25,7 @@ def to_xmltv_time(value):
         dt = dt.astimezone(ZoneInfo("Europe/Athens"))
 
         # XMLTV format (NO SPACE BEFORE OFFSET)
-        return dt.strftime("%Y%m%d%H%M%S%z")
+        return dt.strftime("%Y%m%d%H%M%S %z")
 
     except Exception:
         return ""
