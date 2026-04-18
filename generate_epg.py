@@ -158,8 +158,10 @@ for ch in channels:
 tree = ET.ElementTree(tv)
 ET.indent(tree, space="  ")
 
-with open("epg.xml", "wb") as f:
-    tree.write(f, encoding="utf-8", xml_declaration=True)
+with open("epg.xml", "w", encoding="utf-8") as f:
+    # Χειροκίνητο declaration για έλεγχο στα εισαγωγικά και το Case
+    f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+    f.write(xml_str)
 
 
 print("✔ epg.xml UPDATED")
