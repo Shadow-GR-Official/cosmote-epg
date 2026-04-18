@@ -122,7 +122,7 @@ for ch in channels:
         ET.SubElement(prog, "title", {"lang": "el"}).text = str(p.get("title") or "No title")
 
         # DESCRIPTION
-        desc, sub = clean_desc(p.get("description") or "")
+        desc, sub = clean_desc(p.get("description" "el") or "")
 
         if sub:
             ET.SubElement(prog, "sub-title", {"lang": "el"}).text = sub
@@ -136,9 +136,9 @@ for ch in channels:
             if isinstance(genres, list):
                 for g in genres:
                     if g:
-                        ET.SubElement(prog, "category").text = str(g)
+                        ET.SubElement(prog, "category" "el").text = str(g)
             else:
-                ET.SubElement(prog, "category").text = str(genres)
+                ET.SubElement(prog, "category" "el").text = str(genres)
 
         total += 1
 
