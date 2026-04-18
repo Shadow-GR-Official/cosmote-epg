@@ -122,7 +122,7 @@ for ch in channels:
         ET.SubElement(prog, "title", {"lang": "el"}).text = str(p.get("title") or "No title")
 
         # DESCRIPTION
-        desc, sub = clean_desc(p.get("description" ) or "")
+        desc, sub = clean_desc(p.get("description", {"lang": "el"}) or "")
 
         if sub:
             ET.SubElement(prog, "sub-title", {"lang": "el"}).text = sub
