@@ -27,17 +27,35 @@ def safe_get(session, url):
         return None
 
 
+def extract_channels(data):
+    """
+    FIX: Cosmote stripes can be dict OR list OR nested structure
+    """
+    stripes = data.get("stripes")
+
+    channels = []
+
+    if isinstance(stripes, dict):
+        channels.extend(stripes.get("channels", []))
+
+    elif isinstance(stripes, list):
+        for s in stripes:
+            if isinstance(s, dict):
+                channels.extend(s.get("channels", []))
+
+    return channels
+
+
 def run():
     session = requests.Session()
 
-    # warm-up session (important for Cosmote API stability)
+    # warm-up (important for Cosmote session behavior)
     session.get("https://www.cosmotetv.gr", timeout=20)
 
     channels_by_id = {}
 
-    print("[FETCH] Cosmote multi-day EPG")
+    print("[FETCH] Cosmote EPG")
 
-    # limited range = more stable (Cosmote API constraint)
     for i in range(0, 3):
         day = datetime.now() + timedelta(days=i)
 
@@ -54,15 +72,15 @@ def run():
             print("skip")
             continue
 
-        stripes = data.get("stripes", {})
-        channels = stripes.get("channels", []) if isinstance(stripes, dict) else []
+        channels = extract_channels(data)
+
+        print("  channels found:", len(channels))
 
         for ch in channels:
             guid = ch.get("guid")
             if not guid:
                 continue
 
-            # create channel if not exists
             if guid not in channels_by_id:
                 channels_by_id[guid] = {
                     "id": guid,
@@ -71,27 +89,24 @@ def run():
                     "items": []
                 }
 
-            # merge programs safely
             for p in ch.get("items", []):
                 channels_by_id[guid]["items"].append({
                     "title": p.get("title"),
                     "startTime": p.get("startTime"),
                     "endTime": p.get("endTime"),
                     "description": p.get("description"),
-                    "genres": p.get("genres"),
-                    "channelGuid": guid
+                    "genres": p.get("genres")
                 })
 
-        time.sleep(1.5)  # avoid API throttling
+        time.sleep(1.2)
 
-    # save final dataset
     epg_list = list(channels_by_id.values())
 
     with open("data/epg.json", "w", encoding="utf-8") as f:
         json.dump(epg_list, f, ensure_ascii=False, indent=2)
 
     print("✔ epg.json saved")
-    print("✔ channels:", len(epg_list))
+    print("✔ TOTAL channels:", len(epg_list))
 
 
 if __name__ == "__main__":
