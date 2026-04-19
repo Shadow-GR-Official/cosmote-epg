@@ -1,8 +1,8 @@
-name: Cosmote EPG Builder v16.04 2026
+name: Cosmote EPG Builder v20.04 2026
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,13 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      TZ: Europe/Athens   # ✅ ΚΡΙΣΙΜΟ: σωστή Ελλάδα ώρα παντού
+      TZ: Europe/Athens
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -29,33 +27,31 @@ jobs:
       - name: Install deps
         run: pip install requests
 
-      # 1. FETCH JSON
-      - name: Fetch EPG
-        run: python fetch_channels.py
+      - name: Create data folder
+        run: mkdir -p data
 
-      # 2. GENERATE XML
+      - name: Fetch Cosmote EPG
+        run: python fetch_cosmote.py
+
       - name: Generate XML
         run: python generate_epg.py
 
-      # 3. DEBUG
-      - name: Show files
+      - name: Debug
         run: |
-          ls -lah
-          echo "---- epg.xml preview ----"
-          head -n 10 epg.xml || true
+          ls -lah data/
+          head -n 20 data/epg.xml || true
 
-      # 4. COMMIT
       - name: Commit & Push
         run: |
           git config user.name "EPG Bot"
           git config user.email "bot@github.com"
 
-          git add data/epg.xml epg.json
+          git add data/
 
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
 
-          git commit -m "EPG Update $(date +'%Y-%m-%d %H:%M')"
+          git commit -m "Cosmote EPG $(date +'%Y-%m-%d %H:%M')"
           git push
