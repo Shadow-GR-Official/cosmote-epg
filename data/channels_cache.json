@@ -1,1 +1,552 @@
-{}
+{
+  "XTV100000953": {
+    "id": "XTV100000953",
+    "name": "Promo HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTEPROMOCHANNEL_2_normal.png"
+  },
+  "XTV100000954": {
+    "id": "XTV100000954",
+    "name": "ΒΟΥΛΗ HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/vouli1-normal.png"
+  },
+  "XTV100003524": {
+    "id": "XTV100003524",
+    "name": "ΕΡΤ NEWS",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/ertnews-normal2a.png"
+  },
+  "XTV100000952": {
+    "id": "XTV100000952",
+    "name": "ΕΡΤ1 HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/ert1-normal_blue.png"
+  },
+  "XTV100000955": {
+    "id": "XTV100000955",
+    "name": "ΕΡΤ2 ΣΠΟΡ",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/ert2-sport-normal.png"
+  },
+  "XTV100001664": {
+    "id": "XTV100001664",
+    "name": "ΕΡΤ3 HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/ert3-normal_green.png"
+  },
+  "XTV100003344": {
+    "id": "XTV100003344",
+    "name": "ERT WORLD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/ertworld-normal.png"
+  },
+  "XTV100001026": {
+    "id": "XTV100001026",
+    "name": "ANT1",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/ant1hd_new-normal.png"
+  },
+  "XTV100001262": {
+    "id": "XTV100001262",
+    "name": "ALPHA",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/alphahd-normal.png"
+  },
+  "XTV100001040": {
+    "id": "XTV100001040",
+    "name": "STAR",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/starhd2-normal.png"
+  },
+  "XTV100001064": {
+    "id": "XTV100001064",
+    "name": "ΣΚΑΪ",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/skaihd-normal.png"
+  },
+  "XTV100001464": {
+    "id": "XTV100001464",
+    "name": "OPEN BEYOND",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/openbeyondhd2-normal.png"
+  },
+  "XTV100003184": {
+    "id": "XTV100003184",
+    "name": "ONE Channel HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/onechannelhd-normal.png"
+  },
+  "XTV100003227": {
+    "id": "XTV100003227",
+    "name": "MEGA HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/megahd-normal.png"
+  },
+  "XTV100000963": {
+    "id": "XTV100000963",
+    "name": "Μακεδονία TV HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/makedoniatv_new-normal.png"
+  },
+  "XTV100003511": {
+    "id": "XTV100003511",
+    "name": "Naftemporiki",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/naftemporhd-normal.png"
+  },
+  "XTV100002365": {
+    "id": "XTV100002365",
+    "name": "Action 24",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/action24_new1-normal.png"
+  },
+  "XTV100003510": {
+    "id": "XTV100003510",
+    "name": "Kontra",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/kontra_new2-normal.png"
+  },
+  "XTV900000001": {
+    "id": "XTV900000001",
+    "name": "ATTICA TV",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/atticatv_2_normal.png"
+  },
+  "XTV100003228": {
+    "id": "XTV100003228",
+    "name": "MEGA News",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/meganews_new1-normal.png"
+  },
+  "XTV100000925": {
+    "id": "XTV100000925",
+    "name": "Euronews Greek",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/euronewsgreek_new-normal.png"
+  },
+  "XTV100001866": {
+    "id": "XTV100001866",
+    "name": "COSMOTE History HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTEHISTORYHDSTACKED_2_normal.png"
+  },
+  "XTV100001106": {
+    "id": "XTV100001106",
+    "name": "COSMOTE Cinema 1 HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTECINEMA1HDSTACKED_2_normal.png"
+  },
+  "XTV100001060": {
+    "id": "XTV100001060",
+    "name": "COSMOTE Cinema 2 HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTECINEMA2HDSTACKED_2_normal.png"
+  },
+  "XTV100001073": {
+    "id": "XTV100001073",
+    "name": "COSMOTE Cinema 3 HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTECINEMA3HDSTACKED_2_normal.png"
+  },
+  "XTV100001622": {
+    "id": "XTV100001622",
+    "name": "COSMOTE Series HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESERIESHDSTACKED_2_normal.png"
+  },
+  "XTV100003264": {
+    "id": "XTV100003264",
+    "name": "COSMOTE Series Marathon",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESERIESMARATHONHDSTACKED_2_normal.png"
+  },
+  "XTV100000782": {
+    "id": "XTV100000782",
+    "name": "Village Cinema HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/villagehd_new-normal.png"
+  },
+  "XTV100002885": {
+    "id": "XTV100002885",
+    "name": "TCM",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/tcmhd-normal_new.png"
+  },
+  "XTV100002107": {
+    "id": "XTV100002107",
+    "name": "FX Life",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/fxlife_new-normal.png"
+  },
+  "XTV100002164": {
+    "id": "XTV100002164",
+    "name": "FX",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/fx_new-normal.png"
+  },
+  "XTV100001107": {
+    "id": "XTV100001107",
+    "name": "E! HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/ehd-normal.png"
+  },
+  "XTV100001400": {
+    "id": "XTV100001400",
+    "name": "COSMOTE Sport Highlights HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTEHIGHLIGHTSHDSTACKED_2_normal.png"
+  },
+  "XTV100001071": {
+    "id": "XTV100001071",
+    "name": "COSMOTE Sport 1 HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HDSTACKED_2_normal.png"
+  },
+  "XTV100001080": {
+    "id": "XTV100001080",
+    "name": "COSMOTE Sport 2 HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT2HDSTACKED_2_normal.png"
+  },
+  "XTV100001072": {
+    "id": "XTV100001072",
+    "name": "COSMOTE Sport 3 HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT3HDSTACKED_2_normal.png"
+  },
+  "XTV100001109": {
+    "id": "XTV100001109",
+    "name": "COSMOTE Sport 4 HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT4HDSTACKED_2_normal.png"
+  },
+  "XTV100001063": {
+    "id": "XTV100001063",
+    "name": "COSMOTE Sport 5 HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT5HDSTACKED_2_normal.png"
+  },
+  "XTV100001360": {
+    "id": "XTV100001360",
+    "name": "COSMOTE Sport 6 HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT6HDSTACKED_2_normal.png"
+  },
+  "XTV100001708": {
+    "id": "XTV100001708",
+    "name": "COSMOTE Sport 7 HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT7HDSTACKED_2_normal.png"
+  },
+  "XTV100001725": {
+    "id": "XTV100001725",
+    "name": "COSMOTE Sport 8 HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT8HDSTACKED_2_normal.png"
+  },
+  "XTV100002945": {
+    "id": "XTV100002945",
+    "name": "COSMOTE Sport 9 HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT9HDSTACKED_2_normal.png"
+  },
+  "XTV100011401": {
+    "id": "XTV100011401",
+    "name": "COSMOTE Sport 4K",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT4KSTACKED_2_normal.png"
+  },
+  "XTV900000002": {
+    "id": "XTV900000002",
+    "name": "COSMOTE Sport Start HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/sportstarthd-normal.png"
+  },
+  "XTV100003506": {
+    "id": "XTV100003506",
+    "name": "ΑΕΚ SL Pass",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORTSUPERLEAGUEPASSAEK_2_normal.png"
+  },
+  "XTV100003505": {
+    "id": "XTV100003505",
+    "name": "ΟΛΥΜΠΙΑΚΟΣ SL Pass",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORTSUPERLEAGUEPASSOSFP_2_normal.png"
+  },
+  "XTV100003508": {
+    "id": "XTV100003508",
+    "name": "ΠΑΝΑΘΗΝΑΪΚΟΣ SL Pass",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORTSUPERLEAGUEPASSPAO_2_normal.png"
+  },
+  "XTV600000607": {
+    "id": "XTV600000607",
+    "name": "Novasports News HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novanews-normal.png"
+  },
+  "XTV600000608": {
+    "id": "XTV600000608",
+    "name": "Novasports Start HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novastart-normal.png"
+  },
+  "XTV600000609": {
+    "id": "XTV600000609",
+    "name": "Novasports Prime HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaprime-normal.png"
+  },
+  "XTV600000601": {
+    "id": "XTV600000601",
+    "name": "Novasports1HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova1-normal.png"
+  },
+  "XTV600000602": {
+    "id": "XTV600000602",
+    "name": "Novasports2HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova2-normal.png"
+  },
+  "XTV600000603": {
+    "id": "XTV600000603",
+    "name": "Novasports3HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova3-normal.png"
+  },
+  "XTV600000604": {
+    "id": "XTV600000604",
+    "name": "Novasports4HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova4-normal.png"
+  },
+  "XTV600000605": {
+    "id": "XTV600000605",
+    "name": "Novasports5HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova5-normal.png"
+  },
+  "XTV600000606": {
+    "id": "XTV600000606",
+    "name": "Novasports6HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova6-normal.png"
+  },
+  "XTV600000614": {
+    "id": "XTV600000614",
+    "name": "Novasports Premier League HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaplg-normal.png"
+  },
+  "XTV600000610": {
+    "id": "XTV600000610",
+    "name": "Novasportsextra1HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaextra1-normal.png"
+  },
+  "XTV600000611": {
+    "id": "XTV600000611",
+    "name": "Novasportsextra2HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaextra2-normal.png"
+  },
+  "XTV600000612": {
+    "id": "XTV600000612",
+    "name": "Novasportsextra3HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaextra3-normal.png"
+  },
+  "XTV600000613": {
+    "id": "XTV600000613",
+    "name": "Novasportsextra4HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaextra4-normal.png"
+  },
+  "XTV100002606": {
+    "id": "XTV100002606",
+    "name": "Nautical Channel HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nauticalhd-normal.png"
+  },
+  "XTV100000803": {
+    "id": "XTV100000803",
+    "name": "Motorvision+",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/motorvisionplus-normal.png"
+  },
+  "XTV100002724": {
+    "id": "XTV100002724",
+    "name": "GINX eSports",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/ginxesports-normal.png"
+  },
+  "XTV100003424": {
+    "id": "XTV100003424",
+    "name": "MAD HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/madhd-normal.png"
+  },
+  "XTV100000905": {
+    "id": "XTV100000905",
+    "name": "MAD Viral HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/madviralhd_new-normal.png"
+  },
+  "XTV100003365": {
+    "id": "XTV100003365",
+    "name": "Panik TV",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/panikhdnew_2_normal.png"
+  },
+  "XTV100001425": {
+    "id": "XTV100001425",
+    "name": "MEZZO LIVE HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/mezzolivehd_new-normal.png"
+  },
+  "XTV100000791": {
+    "id": "XTV100000791",
+    "name": "Stingray CMusic",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/stingraycmusic-normal.png"
+  },
+  "XTV100001105": {
+    "id": "XTV100001105",
+    "name": "Stingray iConcerts",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/stingrayiconc-normal.png"
+  },
+  "XTV100001076": {
+    "id": "XTV100001076",
+    "name": "National Geographic HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nationalgeo-normal.png"
+  },
+  "XTV100001103": {
+    "id": "XTV100001103",
+    "name": "Nat Geo Wild HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/natgeowildhd2-normal.png"
+  },
+  "XTV100002484": {
+    "id": "XTV100002484",
+    "name": "BBC Earth HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/bbcearthhd-normal.png"
+  },
+  "XTV100001926": {
+    "id": "XTV100001926",
+    "name": "Viasat History HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/viasathistory-normal.png"
+  },
+  "XTV100002564": {
+    "id": "XTV100002564",
+    "name": "Viasat Nature HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/viasatnature-normal.png"
+  },
+  "XTV100002565": {
+    "id": "XTV100002565",
+    "name": "Viasat Explore HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/viasatexplore-normal.png"
+  },
+  "XTV100002584": {
+    "id": "XTV100002584",
+    "name": "Crime and Investigation",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/crimeinvestig-normal.png"
+  },
+  "XTV100003327": {
+    "id": "XTV100003327",
+    "name": "Museum TV",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/museumtv-normal.png"
+  },
+  "XTV100003384": {
+    "id": "XTV100003384",
+    "name": "MyZen TV",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/MyZen_TV-normal.png"
+  },
+  "XTV100000957": {
+    "id": "XTV100000957",
+    "name": "Luxe TV HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/luxetvhd-normal.png"
+  },
+  "XTV100000958": {
+    "id": "XTV100000958",
+    "name": "FTV HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/fashiontv-normal.png"
+  },
+  "XTV100001075": {
+    "id": "XTV100001075",
+    "name": "Disney Channel",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/disneychannel-normal.png"
+  },
+  "XTV100001068": {
+    "id": "XTV100001068",
+    "name": "Disney Junior",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/disneyjunior3-normal.png"
+  },
+  "XTV100000789": {
+    "id": "XTV100000789",
+    "name": "Keedoo",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/keedoo-normal.png"
+  },
+  "XTV100000788": {
+    "id": "XTV100000788",
+    "name": "Baby TV",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/babytv-normal.png"
+  },
+  "XTV100002204": {
+    "id": "XTV100002204",
+    "name": "Smile TV",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/smiletv-normal.png"
+  },
+  "XTV100003485": {
+    "id": "XTV100003485",
+    "name": "ducktv",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/ducktv-normal.png"
+  },
+  "XTV100000912": {
+    "id": "XTV100000912",
+    "name": "Βεργίνα TV",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/verginatv-normal.png"
+  },
+  "XTV100000913": {
+    "id": "XTV100000913",
+    "name": "CENTER TV",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/centertvt-normal.png"
+  },
+  "XTV100000908": {
+    "id": "XTV100000908",
+    "name": "ENA Channel",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/enachannel-normal.png"
+  },
+  "XTV100000911": {
+    "id": "XTV100000911",
+    "name": "4Ε",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/channel4e-normal.png"
+  },
+  "XTV100002326": {
+    "id": "XTV100002326",
+    "name": "Κρήτη Νέα Τηλεόραση",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/kritineatv-normal.png"
+  },
+  "XTV100000909": {
+    "id": "XTV100000909",
+    "name": "Κρήτη TV",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/krititv-normal.png"
+  },
+  "XTV100000910": {
+    "id": "XTV100000910",
+    "name": "Star Κεντρικής Ελλάδας",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/starkentriki_1-normal.png"
+  },
+  "XTV100002045": {
+    "id": "XTV100002045",
+    "name": "TV100",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/tv100-normal.png"
+  },
+  "XTV100002906": {
+    "id": "XTV100002906",
+    "name": "CNN",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/cnn-normal.png"
+  },
+  "XTV100000924": {
+    "id": "XTV100000924",
+    "name": "BBC News",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/bbcnews_new-normal.png"
+  },
+  "XTV100003404": {
+    "id": "XTV100003404",
+    "name": "Sky News",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/skynews-normal.png"
+  },
+  "XTV100000926": {
+    "id": "XTV100000926",
+    "name": "Deutsche Welle",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/deutschewelle-normal.png"
+  },
+  "XTV100000927": {
+    "id": "XTV100000927",
+    "name": "France 24 En",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/france24en-normal-new.png"
+  },
+  "XTV100000928": {
+    "id": "XTV100000928",
+    "name": "France 24 Fr",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/france24fr-normal.png"
+  },
+  "XTV100003246": {
+    "id": "XTV100003246",
+    "name": "Al Arabiya",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/alarabiya-normal.png"
+  },
+  "XTV100000929": {
+    "id": "XTV100000929",
+    "name": "Al Jazeera",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/aljazeera-normal.png"
+  },
+  "XTV100003545": {
+    "id": "XTV100003545",
+    "name": "Asharq News",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/asharq-normal.png"
+  },
+  "XTV100000931": {
+    "id": "XTV100000931",
+    "name": "Bloomberg",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/bloomberg-normal.png"
+  },
+  "XTV100000932": {
+    "id": "XTV100000932",
+    "name": "CNBC",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/cnbc_2_normal.png"
+  },
+  "XTV100002407": {
+    "id": "XTV100002407",
+    "name": "Euronews English",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/euronewseng_new-normal.png"
+  },
+  "TST000000001": {
+    "id": "TST000000001",
+    "name": "TEST01",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/test01_new4-normal.png"
+  },
+  "TST000000002": {
+    "id": "TST000000002",
+    "name": "TEST02",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/test02-normal.png"
+  },
+  "TST000000004": {
+    "id": "TST000000004",
+    "name": "TESTDR",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/testdr-normal.png"
+  }
+}
