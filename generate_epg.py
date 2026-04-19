@@ -2,173 +2,72 @@ import json
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from zoneinfo import ZoneInfo
-import re
-import os
 import html
+import os
 
-# ----------------------------
-# SAFE XML TIME (Vodafone + Cosmote compatible)
-# ----------------------------
 def to_xmltv_time(value):
     if not value:
         return ""
 
     try:
-        value = str(value)
-
-        # Unix timestamp support (Cosmote)
-        if value.isdigit():
-            value = int(value)
-            dt = datetime.fromtimestamp(value, tz=ZoneInfo("Europe/Athens"))
-        else:
-            value = value.replace("Z", "+00:00")
-            dt = datetime.fromisoformat(value)
-
-            if dt.tzinfo is None:
-                dt = dt.replace(tzinfo=ZoneInfo("UTC"))
-
-            dt = dt.astimezone(ZoneInfo("Europe/Athens"))
-
+        dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        dt = dt.astimezone(ZoneInfo("Europe/Athens"))
         return dt.strftime("%Y%m%d%H%M%S %z")
-
-    except Exception:
+    except:
         return ""
 
-# ----------------------------
-# CLEAN DESCRIPTION
-# ----------------------------
-def clean_desc(desc):
-    if not desc:
-        return "", None
-
-    desc = str(desc)
-    subtitle = None
-
-    m = re.search(r"Επεισόδιο:\s*(.+?)(?:\n|$)", desc)
-    if m:
-        subtitle = m.group(1).strip()
-        desc = desc.replace(m.group(0), "")
-
-    desc = re.sub(r"Διάρκεια:\s*\d{1,2}:\d{2}(:\d{2})?", "", desc)
-    desc = re.sub(r"\s{2,}", " ", desc)
-
-    return desc.strip(), subtitle
-
-# ----------------------------
-# CHANNEL ID SAFE
-# ----------------------------
 def cid(ch):
-    return str(ch.get("id") or ch.get("uuid") or ch.get("channel_id") or "")
+    return str(ch.get("id") or "")
 
-# ----------------------------
-# LOAD DATA
-# ----------------------------
-with open("channels.json", "r", encoding="utf-8") as f:
+def clean_text(t):
+    return html.escape(str(t)) if t else ""
+
+with open("data/epg.json", "r", encoding="utf-8") as f:
     channels = json.load(f)
 
-with open("epg.json", "r", encoding="utf-8") as f:
-    epg = json.load(f)
-
-# ----------------------------
-# MAP
-# ----------------------------
-epg_map = {}
-
-for ch in epg:
-    key = cid(ch)
-    if not key:
-        continue
-
-    items = ch.get("items") or ch.get("programs") or []
-    epg_map[key] = items
-
-# ----------------------------
-# XML ROOT
-# ----------------------------
 tv = ET.Element("tv")
 
-# ----------------------------
-# CHANNELS
-# ----------------------------
+total = 0
+
 for ch in channels:
     key = cid(ch)
     if not key:
         continue
 
     c = ET.SubElement(tv, "channel", id=key)
-    ET.SubElement(c, "display-name").text = html.escape(ch.get("name") or key)
+    ET.SubElement(c, "display-name").text = clean_text(ch.get("name"))
 
-# ----------------------------
-# PROGRAMS
-# ----------------------------
-total = 0
-
-for ch in channels:
-    key = cid(ch)
-
-    if key not in epg_map:
-        continue
-
-    seen = set()
-
-    for p in epg_map[key]:
-
-        start = to_xmltv_time(p.get("startTime") or p.get("start"))
-        stop = to_xmltv_time(p.get("endTime") or p.get("end"))
+    for p in ch.get("items", []):
+        start = to_xmltv_time(p.get("startTime"))
+        end = to_xmltv_time(p.get("endTime"))
 
         if not start:
             continue
 
-        if not stop:
-            stop = start
-
-        # dedupe
-        dedupe_key = f"{start}-{stop}-{p.get('title')}"
-        if dedupe_key in seen:
-            continue
-        seen.add(dedupe_key)
-
         prog = ET.SubElement(tv, "programme", {
             "start": start,
-            "stop": stop,
+            "stop": end or start,
             "channel": key
         })
 
-        ET.SubElement(prog, "title", {"lang": "el"}).text = html.escape(str(p.get("title") or "No title"))
+        ET.SubElement(prog, "title", {"lang": "el"}).text = clean_text(p.get("title"))
 
-        desc, sub = clean_desc(p.get("description"))
+        if p.get("description"):
+            ET.SubElement(prog, "desc", {"lang": "el"}).text = clean_text(p.get("description"))
 
-        if sub:
-            ET.SubElement(prog, "sub-title", {"lang": "el"}).text = html.escape(sub)
-
-        if desc:
-            ET.SubElement(prog, "desc", {"lang": "el"}).text = html.escape(desc)
-
-        # GENRES (dedupe)
-        genres = p.get("genres")
-        if genres:
-            if isinstance(genres, list):
-                for g in set(genres):
-                    if g:
-                        ET.SubElement(prog, "category", {"lang": "el"}).text = html.escape(str(g))
-            else:
-                ET.SubElement(prog, "category", {"lang": "el"}).text = html.escape(str(genres))
+        if p.get("genres"):
+            for g in p["genres"]:
+                ET.SubElement(prog, "category", {"lang": "el"}).text = clean_text(g)
 
         total += 1
 
-# ----------------------------
-# SAVE
-# ----------------------------
 os.makedirs("data", exist_ok=True)
 
 ET.indent(tv, space="  ")
-xml_str = ET.tostring(tv, encoding="utf-8").decode("utf-8")
+xml = ET.tostring(tv, encoding="utf-8").decode()
 
-file_path = os.path.join("data", "epg.xml")
-
-with open(file_path, "w", encoding="utf-8") as f:
+with open("data/epg.xml", "w", encoding="utf-8") as f:
     f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-    f.write(xml_str)
+    f.write(xml)
 
-print(f"✔ EPG created: {file_path}")
-print(f"✔ Channels: {len(channels)}, Programs: {total}")
+print(f"✔ XML generated: {total} programs")
