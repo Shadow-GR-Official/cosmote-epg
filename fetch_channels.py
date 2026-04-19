@@ -1,120 +1,37 @@
 import requests
 import json
 import os
-import sys
-import re
+import time
 from datetime import datetime, timedelta
-
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-OUT_FILE = os.path.join(BASE_DIR, "epg.json")
 
 BASE_URL = "https://www.cosmotetv.gr/api/channels/schedule?locale=el"
 
+os.makedirs("data", exist_ok=True)
 
-def get_range(date):
-    start = datetime.strptime(date, "%Y-%m-%d")
+def get_range(date_str):
+    start = datetime.strptime(date_str, "%Y-%m-%d")
     end = start.replace(hour=23, minute=59, second=59)
     return int(start.timestamp()), int(end.timestamp())
 
-
-def fetch(session, url, headers):
+def safe_get(session, url):
     try:
-        r = session.get(url, headers=headers, timeout=30)
-        if r.status_code == 200:
+        r = session.get(url, timeout=30)
+        if r.status_code == 200 and r.text.strip():
             return r.json()
         print("HTTP ERROR:", r.status_code)
     except Exception as e:
         print("REQUEST ERROR:", e)
     return None
 
-
-def extract_channels(data):
-    stripes = data.get("stripes", [])
-    channels = []
-
-    if isinstance(stripes, list):
-        for s in stripes:
-            if isinstance(s, dict) and "channels" in s:
-                channels.extend(s["channels"])
-    elif isinstance(stripes, dict):
-        channels = stripes.get("channels", [])
-
-    return channels
-
-
-def clean_program(p):
-    if not isinstance(p, dict):
-        return p
-
-    desc = p.get("description") or ""
-
-    match = re.search(r"Επεισόδιο:\s*(.+?)(?:\n|$)", desc)
-    if match:
-        p["episode"] = match.group(1).strip()
-        desc = desc.replace(match.group(0), "")
-
-    desc = re.sub(r"Διάρκεια:\s*\d+:\d{2}:\d{2}", "", desc)
-    desc = re.sub(r"Διάρκεια:\s*\d+:\d{2}", "", desc)
-
-    p["description"] = re.sub(r"\s{2,}", " ", desc).strip()
-
-    return p
-
-
-def merge_channels(all_days):
-    merged = {}
-    seen = set()
-
-    for channels in all_days:
-        for ch in channels:
-            cid = ch.get("id") or ch.get("uuid") or ch.get("channelId")
-            if not cid:
-                continue
-
-            if cid not in merged:
-                merged[cid] = ch
-                merged[cid]["items"] = []
-
-            for p in ch.get("items", []):
-                key = f"{cid}-{p.get('startTime')}-{p.get('endTime')}"
-
-                if key not in seen:
-                    seen.add(key)
-                    merged[cid]["items"].append(p)
-
-    return list(merged.values())
-
-
-def save_json(data):
-    tmp = OUT_FILE + ".tmp"
-
-    with open(tmp, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-        f.flush()
-        os.fsync(f.fileno())
-
-    os.replace(tmp, OUT_FILE)
-
-    print("✔ epg.json saved:", OUT_FILE)
-    print("✔ channels:", len(data))
-
-
 def run():
-    headers = {
-        "User-Agent": "Mozilla/5.0",
-        "Accept": "application/json",
-        "Accept-Language": "el-GR,el;q=0.9",
-        "Referer": "https://cosmotetv.gr"
-    }
-
     session = requests.Session()
-    session.get("https://cosmotetv.gr", timeout=20)
+    session.get("https://www.cosmotetv.gr", timeout=20)
 
     all_days = []
 
-    print("[FETCH] multi-day Cosmote EPG...")
+    print("[FETCH] Cosmote multi-day EPG")
 
-    for i in range(0, 7):
+    for i in range(0, 3):  # safe range (Cosmote unstable for long range)
         d = datetime.now() + timedelta(days=i)
         date_str = d.strftime("%Y-%m-%d")
 
@@ -123,27 +40,44 @@ def run():
 
         print("→", date_str)
 
-        data = fetch(session, url, headers)
+        data = safe_get(session, url)
         if not data:
-            print("  skip")
+            print("skip")
             continue
 
-        channels = extract_channels(data)
+        stripes = data.get("stripes", {})
+        channels = stripes.get("channels", []) if isinstance(stripes, dict) else []
+
+        normalized = []
 
         for ch in channels:
-            prog = ch.get("items") or ch.get("programs") or []
-            ch["items"] = [clean_program(p) for p in prog]
+            programs = []
 
-        all_days.append(channels)
+            for p in ch.get("items", []):
+                programs.append({
+                    "title": p.get("title"),
+                    "startTime": p.get("startTime"),
+                    "endTime": p.get("endTime"),
+                    "description": p.get("description"),
+                    "genres": p.get("genres"),
+                    "channelGuid": p.get("channelGuid")
+                })
 
-    if not all_days:
-        print("NO DATA AT ALL")
-        sys.exit(1)
+            normalized.append({
+                "id": ch.get("guid"),
+                "name": ch.get("title"),
+                "logo": (ch.get("logos") or {}).get("square"),
+                "items": programs
+            })
 
-    merged = merge_channels(all_days)
+        all_days.extend(normalized)
 
-    save_json(merged)
+        time.sleep(1)
 
+    with open("data/epg.json", "w", encoding="utf-8") as f:
+        json.dump(all_days, f, ensure_ascii=False, indent=2)
+
+    print("✔ epg.json saved")
 
 if __name__ == "__main__":
     run()
