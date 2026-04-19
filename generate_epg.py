@@ -2,9 +2,11 @@ import json
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from zoneinfo import ZoneInfo
-import html
 import os
 
+# ----------------------------
+# TIME FORMAT FIX
+# ----------------------------
 def to_xmltv_time(value):
     if not value:
         return ""
@@ -16,58 +18,93 @@ def to_xmltv_time(value):
     except:
         return ""
 
-def cid(ch):
-    return str(ch.get("id") or "")
-
-def clean_text(t):
-    return html.escape(str(t)) if t else ""
-
+# ----------------------------
+# LOAD DATA
+# ----------------------------
 with open("data/epg.json", "r", encoding="utf-8") as f:
-    channels = json.load(f)
+    epg = json.load(f)
 
-tv = ET.Element("tv")
+# ----------------------------
+# LOAD EXISTING CHANNELS (IMPORTANT FIX)
+# ----------------------------
+channels_cache_file = "data/channels_cache.json"
 
-total = 0
+if os.path.exists(channels_cache_file):
+    with open(channels_cache_file, "r", encoding="utf-8") as f:
+        channels_cache = json.load(f)
+else:
+    channels_cache = {}
 
-for ch in channels:
-    key = cid(ch)
-    if not key:
+# ----------------------------
+# MERGE CHANNELS (DO NOT DELETE OLD ONES)
+# ----------------------------
+for ch in epg:
+    cid = ch.get("id")
+    if not cid:
         continue
 
-    c = ET.SubElement(tv, "channel", id=key)
-    ET.SubElement(c, "display-name").text = clean_text(ch.get("name"))
+    if cid not in channels_cache:
+        channels_cache[cid] = {
+            "id": cid,
+            "name": ch.get("name"),
+            "logo": ch.get("logo")
+        }
+
+# save updated cache
+with open(channels_cache_file, "w", encoding="utf-8") as f:
+    json.dump(channels_cache, f, ensure_ascii=False, indent=2)
+
+# ----------------------------
+# BUILD XML
+# ----------------------------
+tv = ET.Element("tv")
+
+# channels (from persistent cache)
+for cid, ch in channels_cache.items():
+    c = ET.SubElement(tv, "channel", id=cid)
+    ET.SubElement(c, "display-name").text = ch.get("name") or cid
+
+# programmes
+total = 0
+
+for ch in epg:
+    cid = ch.get("id")
+    if not cid:
+        continue
 
     for p in ch.get("items", []):
+
         start = to_xmltv_time(p.get("startTime"))
-        end = to_xmltv_time(p.get("endTime"))
+        stop = to_xmltv_time(p.get("endTime"))
 
         if not start:
             continue
 
         prog = ET.SubElement(tv, "programme", {
             "start": start,
-            "stop": end or start,
-            "channel": key
+            "stop": stop or start,
+            "channel": cid
         })
 
-        ET.SubElement(prog, "title", {"lang": "el"}).text = clean_text(p.get("title"))
+        ET.SubElement(prog, "title", {"lang": "el"}).text = p.get("title") or "No title"
 
         if p.get("description"):
-            ET.SubElement(prog, "desc", {"lang": "el"}).text = clean_text(p.get("description"))
-
-        if p.get("genres"):
-            for g in p["genres"]:
-                ET.SubElement(prog, "category", {"lang": "el"}).text = clean_text(g)
+            ET.SubElement(prog, "desc", {"lang": "el"}).text = p["description"]
 
         total += 1
 
+# ----------------------------
+# SAVE XML
+# ----------------------------
 os.makedirs("data", exist_ok=True)
 
 ET.indent(tv, space="  ")
-xml = ET.tostring(tv, encoding="utf-8").decode()
+xml_str = ET.tostring(tv, encoding="utf-8").decode()
 
 with open("data/epg.xml", "w", encoding="utf-8") as f:
     f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-    f.write(xml)
+    f.write(xml_str)
 
-print(f"✔ XML generated: {total} programs")
+print("✔ XML generated")
+print("✔ channels cached:", len(channels_cache))
+print("✔ programmes:", total)
