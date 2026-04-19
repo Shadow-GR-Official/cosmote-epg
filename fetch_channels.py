@@ -11,7 +11,7 @@ os.makedirs("data", exist_ok=True)
 
 def safe_get(session, url):
     try:
-        r = session.get(url, timeout=30)
+        r = session.get(url, timeout=50)
 
         if r.status_code != 200:
             print("HTTP ERROR:", r.status_code)
@@ -56,7 +56,7 @@ def run():
 
     print("[FETCH] Cosmote EPG")
 
-    for i in range(0, 7):
+    for i in range(0, 6):
         day = datetime.now() + timedelta(days=i)
 
         from_ts = int(day.replace(hour=0, minute=0, second=0).timestamp())
