@@ -9,22 +9,30 @@ BASE_URL = "https://www.cosmotetv.gr/api/channels/schedule?locale=el"
 os.makedirs("data", exist_ok=True)
 
 
-def safe_get(session, url):
-    try:
-        r = session.get(url, timeout=5000)
+def safe_get(session, url, retries=10, delay=50):
+    for attempt in range(retries):
+        try:
+            r = session.get(
+                url,
+                timeout=(1000, 3000)  # (connect timeout, read timeout)
+            )
 
-        if r.status_code != 200:
-            print("HTTP ERROR:", r.status_code)
-            return None
+            if r.status_code != 200:
+                print("HTTP ERROR:", r.status_code)
+            elif not r.text.strip():
+                print("EMPTY RESPONSE")
+            else:
+                return r.json()
 
-        if not r.text.strip():
-            return None
+        except Exception as e:
+            print("REQUEST ERROR:", e)
 
-        return r.json()
+        # retry logic
+        if attempt < retries - 1:
+            print(f"Retrying in {delay}s... ({attempt+1}/{retries})")
+            time.sleep(delay)
 
-    except Exception as e:
-        print("REQUEST ERROR:", e)
-        return None
+    return None
 
 
 def extract_channels(data):
