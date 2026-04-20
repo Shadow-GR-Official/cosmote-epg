@@ -25,7 +25,7 @@ with open("data/epg.json", "r", encoding="utf-8") as f:
     epg = json.load(f)
 
 # ----------------------------
-# LOAD EXISTING CHANNELS (IMPORTANT FIX)
+# LOAD EXISTING CHANNELS
 # ----------------------------
 channels_cache_file = "data/channels_cache.json"
 
@@ -36,7 +36,7 @@ else:
     channels_cache = {}
 
 # ----------------------------
-# MERGE CHANNELS (DO NOT DELETE OLD ONES)
+# MERGE CHANNELS
 # ----------------------------
 for ch in epg:
     cid = ch.get("id")
@@ -50,7 +50,7 @@ for ch in epg:
             "logo": ch.get("logo")
         }
 
-# save updated cache
+# save cache
 with open(channels_cache_file, "w", encoding="utf-8") as f:
     json.dump(channels_cache, f, ensure_ascii=False, indent=2)
 
@@ -59,12 +59,14 @@ with open(channels_cache_file, "w", encoding="utf-8") as f:
 # ----------------------------
 tv = ET.Element("tv")
 
-# channels (from persistent cache)
+# channels
 for cid, ch in channels_cache.items():
     c = ET.SubElement(tv, "channel", id=cid)
     ET.SubElement(c, "display-name").text = ch.get("name") or cid
 
-# programmes
+# ----------------------------
+# PROGRAMMES
+# ----------------------------
 total = 0
 
 for ch in epg:
@@ -77,19 +79,35 @@ for ch in epg:
         start = to_xmltv_time(p.get("startTime"))
         stop = to_xmltv_time(p.get("endTime"))
 
-        if not start:
+        if not start or not stop:
             continue
 
         prog = ET.SubElement(tv, "programme", {
             "start": start,
-            "stop": stop or start,
+            "stop": stop,
             "channel": cid
         })
 
+        # title
         ET.SubElement(prog, "title", {"lang": "el"}).text = p.get("title") or "No title"
 
+        # description
         if p.get("description"):
             ET.SubElement(prog, "desc", {"lang": "el"}).text = p["description"]
+
+        # ----------------------------
+        # CATEGORY / GENRE FIX
+        # ----------------------------
+        cats = p.get("genres") or []
+
+        if isinstance(cats, str):
+            cats = [cats]
+
+        cats = [c for c in cats if c]
+        cats = list(dict.fromkeys(cats))
+
+        for c in cats:
+            ET.SubElement(prog, "category", {"lang": "el"}).text = c
 
         total += 1
 
