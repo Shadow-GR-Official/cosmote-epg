@@ -11,9 +11,9 @@ os.makedirs("data", exist_ok=True)
 
 def safe_get(session, url):
     try:
-        r = session.get(url, timeout=43)
+        r = session.get(url, timeout=50)
 
-        if r.status_code != 200:
+        if r.status_code != 500:
             print("HTTP ERROR:", r.status_code)
             return None
 
