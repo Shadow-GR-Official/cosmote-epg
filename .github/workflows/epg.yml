@@ -2,7 +2,7 @@ name: Cosmote.gr EPG Builder v20.04 2026
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
