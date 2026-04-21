@@ -9,7 +9,7 @@ BASE_URL = "https://www.cosmotetv.gr/api/channels/schedule?locale=el"
 os.makedirs("data", exist_ok=True)
 
 
-def safe_get(session, url, retries=10, delay=50):
+def safe_get(session, url, retries=20, delay=50):
     for attempt in range(retries):
         try:
             r = session.get(
