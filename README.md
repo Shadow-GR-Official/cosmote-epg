@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github.com/Shadow-GR-Official/cosmote-epg/blob/main/cosmote-epg.png" alt="cosmote-epg" width="1000">
 </p>
+<p align="center">
+  <img src="https://github.com/Shadow-GR-Official/cosmote-epg/blob/main/main.png" alt="cosmote-epg" width="1000">
+</p>
 
 ΠΡΟΣΟΧΉ! Ο οδηγός ηλεκτρονικού προγράμματος περιλαμβάνει όλα τα κανάλια της λίστας COSMOTE TV μόνο!
 
