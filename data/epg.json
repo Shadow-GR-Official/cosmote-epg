@@ -894,12 +894,12 @@
         ]
       },
       {
-        "title": "Ταινία",
+        "title": "Κβάι (Ε)",
         "startTime": "2026-05-08T18:00:00Z",
         "endTime": "2026-05-08T19:00:00Z",
-        "description": "Ταινία. (60')",
+        "description": "Η αληθινή ιστορία πίσω από την ταινία 'Η Γέφυρα του ποταμό Κβάι', μέσα από μαρτυρίες αυτοπτών μαρτύρων και αρχειακό υλικό.",
         "genres": [
-          "Ταινία"
+          "Τέχνες - Πολιτισμός"
         ]
       },
       {
@@ -6235,8 +6235,8 @@
   },
   {
     "id": "XTV100003344",
-    "name": "ERT WORLD",
-    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/ertworld_new-normal.png",
+    "name": "ERT COSMOS",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/ert_cosmos-normal.png",
     "items": [
       {
         "title": "Ηλέκτρα Κ3 Ε127 (Ε)",
