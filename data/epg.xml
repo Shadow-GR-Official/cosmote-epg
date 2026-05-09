@@ -7730,7 +7730,7 @@
   </programme>
   <programme start="20260510041000 +0300" stop="20260510050000 +0300" channel="XTV100003227">
     <title lang="el">Βέρα στο Δεξί Ε162</title>
-    <desc lang="el">Ο Τάκης αναστατώνεται από την εμφάνιση του πρώην της Ναταλίας ο οποίος την διεκδικεί ακόμα. Ο Τάκης πάει στο σπίτι των φίλων του και τους ξυπνάει μέσ τη νύχτα ζητώντας την βοήθεια τους. Ο Αχιλλέας προσπαθεί να μεταπείσει την Όλια απ' το να παραδοθεί.</desc>
+    <desc lang="el">Ο Τάκης αναστατώνεται από την εμφάνιση του πρώην της Ναταλίας ο οποίος την διεκδικεί ακόμα. Ο Τάκης πάει στο σπίτι των φίλων του και τους ξυπνάει μες στη νύχτα ζητώντας την βοήθεια τους. Ο Αχιλλέας προσπαθεί να μεταπείσει την Όλια απ' το να παραδοθεί.</desc>
     <category lang="el">Ψυχολογικό Δράμα</category>
   </programme>
   <programme start="20260510050000 +0300" stop="20260510054000 +0300" channel="XTV100003227">
@@ -25124,8 +25124,8 @@
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260510160000 +0300" stop="20260510180000 +0300" channel="XTV100001708">
-    <title lang="el">Ποδόσφαιρο Σάλας: UEFA Futsal Champions League 2025-26 (Ζ)</title>
-    <desc lang="el">Τελικός 3ης Θέσης. Δείτε τους αγώνες του UEFA Futsal Champions League. Περιγραφή: Χρήστος Κυριαζής.</desc>
+    <title lang="el">Ποδόσφαιρο Σάλας: Καρταχένα - Ετουάλ (Ζ)</title>
+    <desc lang="el">UEFA Futsal Champions League 2025-26. Τελικός 3ης Θέσης. Δείτε τους αγώνες του UEFA Futsal Champions League. Περιγραφή: Χρήστος Κυριαζής.</desc>
     <category lang="el">Ποδόσφαιρο Σάλας</category>
   </programme>
   <programme start="20260510180000 +0300" stop="20260510183000 +0300" channel="XTV100001708">
@@ -25139,8 +25139,8 @@
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260510190000 +0300" stop="20260510213000 +0300" channel="XTV100001708">
-    <title lang="el">Ποδόσφαιρο Σάλας: UEFA Futsal Champions League 2025-26 (Ζ)</title>
-    <desc lang="el">Τελικός. Δείτε τους αγώνες του UEFA Futsal Champions League. Περιγραφή: Παύλος Παλαιστής.</desc>
+    <title lang="el">Ποδόσφαιρο Σάλας: Σπόρτινγκ Λισαβόνας - Πάλμα (Ζ)</title>
+    <desc lang="el">UEFA Futsal Champions League 2025-26. Τελικός. Δείτε τους αγώνες του UEFA Futsal Champions League. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Ποδόσφαιρο Σάλας</category>
   </programme>
   <programme start="20260510213000 +0300" stop="20260510220000 +0300" channel="XTV100001708">
@@ -26728,12 +26728,17 @@
     <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η COSMΟΤΕ TV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260509130000 +0300" stop="20260509143000 +0300" channel="XTV900000002">
-    <title lang="el">Topspin</title>
-    <desc lang="el">Η μοναδική εκπομπή για το τένις, φιλοξενεί πλούσια αγωνιστική επικαιρότητα και θεματολογία από το χώρο του τένις, στην Ελλάδα και το εξωτερικό.</desc>
+  <programme start="20260509130000 +0300" stop="20260509135500 +0300" channel="XTV900000002">
+    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2025-26 Ε19</title>
+    <desc lang="el">Επεισόδιο: Ανασκόπηση. Εβδομαδιαίο μαγκαζίνο με φάσεις και γκολ από τις κορυφαίες διασυλλογικές διοργανώσεις της UEFA.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260509143000 +0300" stop="20260509163000 +0300" channel="XTV900000002">
+  <programme start="20260509135500 +0300" stop="20260509141500 +0300" channel="XTV900000002">
+    <title lang="el">William Hill Scottish Premiership - Στιγμιότυπα</title>
+    <desc lang="el">35η Αγωνιστική. Δείτε τις καλύτερες στιγμές από την 1η κατηγορία του σκωτσέζικου ποδοσφαίρου, της δεύτερης παλαιότερης λίγκας στην Ευρώπη.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260509141500 +0300" stop="20260509163000 +0300" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο Σάλας: Πάλμα - Ετουάλ</title>
     <desc lang="el">UEFA Futsal Champions League 2025-26. 2ος Ημιτελικός.  Περιγραφή: Χρήστος Κυριαζής.</desc>
     <category lang="el">Ποδόσφαιρο Σάλας</category>
@@ -30823,12 +30828,12 @@
     <desc lang="el">Eurocup 2025-26. Παρακολουθήστε τους αγώνες του EuroCup 2025/26, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 20 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260509003000 +0300" stop="20260509043000 +0300" channel="XTV600000605">
+  <programme start="20260509003000 +0300" stop="20260509040000 +0300" channel="XTV600000605">
     <title lang="el">Novasports 5 HD</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
-  <programme start="20260509043000 +0300" stop="20260509060000 +0300" channel="XTV600000605">
+  <programme start="20260509040000 +0300" stop="20260509060000 +0300" channel="XTV600000605">
     <title lang="el">Novasports 5 HD</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <category lang="el">Διάφορα Σπορ</category>
