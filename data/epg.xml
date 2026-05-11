@@ -2380,7 +2380,7 @@
   </programme>
   <programme start="20260511163000 +0300" stop="20260511183000 +0300" channel="XTV100000955">
     <title lang="el">Χάντμπολ: ΠΑΟΚ - ΟΦ Νέας Ιωνίας (Ζ)</title>
-    <desc lang="el">Πρωτάθλημα Α1 Γυναικών. 3ος Ημιτελικός. Η Handball Premier γυναικών για τη σεζόν 2025-26 περιλαμβάνει 18 αγωνιστικές και 10 ομάδες. Η Νέα Ιωνία θα προσπαθήσει να υπερασπιστεί τον τίτλο της.</desc>
+    <desc lang="el">Πρωτάθλημα Α1 Γυναικών. 3ος Ημιτελικός. Ο ΠΑΟΚ επικράτησε 26-25 του ΟΦΝΙ και έφερε στα ίσια την ημιτελική σειρά (1-1) κι έτσι οι δύο ομάδες θα μονομαχήσουν σε τρίτο παιχνίδι για την πρόκριση στους τελικούς της Α1 Χάντμπολ γυναικών.</desc>
     <category lang="el">Χάντμπολ</category>
   </programme>
   <programme start="20260511183000 +0300" stop="20260511190000 +0300" channel="XTV100000955">
@@ -2390,7 +2390,7 @@
   </programme>
   <programme start="20260511190000 +0300" stop="20260511203000 +0300" channel="XTV100000955">
     <title lang="el">Ποδόσφαιρο Σάλας: ΑΕΚ - Δούκας (Ζ)</title>
-    <desc lang="el">Futsal Super League. 1ος Τελικός.</desc>
+    <desc lang="el">Futsal Super League. 1ος Τελικός. Ξεκινούν οι Τελικοί της Futsal Super League, με την ΑΕΚ να φιλοξενεί τον ΑΣΕ Δούκα στο ΕΑΚ Ολυμπιακού Χωριού, με στόχο να πραγματοποιήσει το πρώτο από τα τρία βήματα που απαιτούνται για την κατάκτηση του τίτλου.</desc>
     <category lang="el">Ποδόσφαιρο Σάλας</category>
   </programme>
   <programme start="20260511203000 +0300" stop="20260511213000 +0300" channel="XTV100000955">
@@ -2589,8 +2589,8 @@
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260513170000 +0300" stop="20260513190000 +0300" channel="XTV100000955">
-    <title lang="el">Μπάσκετ: Basket League 2025-26 (Ζ)</title>
-    <desc lang="el">Play Off. 1η Αγωνιστική. Παράλληλη μετάδοση: Παναθηναϊκός-Μύκονος &amp; Ολυμπιακός-Κολοσσός.</desc>
+    <title lang="el">Μπάσκετ: Ολυμπιακός - Κολοσσός (Ζ)</title>
+    <desc lang="el">Basket League 2025-26. Play Off. 1η Αγωνιστική. O πρώτος αγώνας της σειράς Ολυμπιακός - Κολοσσός για τα προημιτελικά της GBL αποτελεί το ένα από τα δύο ματς που θα δώσουν οι Πειραιώτες πριν από το Final Four της Euroleague.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260513190000 +0300" stop="20260513193000 +0300" channel="XTV100000955">
@@ -2600,12 +2600,12 @@
   </programme>
   <programme start="20260513193000 +0300" stop="20260513213000 +0300" channel="XTV100000955">
     <title lang="el">Χάντμπολ: Ελλάδα - Ολλανδία (Ζ)</title>
-    <desc lang="el">Παγκόσμιο Πρωτάθλημα IHF. Προκριματικά. Από το Κλειστό Γυμναστήριο Κανήθου 'Τάσος Καμπούρης' στη Χαλκίδα.</desc>
+    <desc lang="el">Παγκόσμιο Πρωτάθλημα IHF. Προκριματικά. Την Ολλανδία υποδέχεται στη Χαλκίδα η εθνική ομάδα χάντμπολ σε ένα παιχνίδι που κρίνει σε μεγάλο βαθμό την πρόκριση στο παγκόσμιο πρωτάθλημα του 2027.</desc>
     <category lang="el">Χάντμπολ</category>
   </programme>
   <programme start="20260513213000 +0300" stop="20260513230000 +0300" channel="XTV100000955">
     <title lang="el">Πόλο: Μπρέσια - Ολυμπιακός (Ζ)</title>
-    <desc lang="el">Champions League Ανδρών. Παρακολουθήστε τους αγώνες της κορυφαίας διοργάνωσης πόλο σε επίπεδο συλλόγων, στη οποία αγωνίζονται ομάδες από 18 διαφορετικές χώρες.</desc>
+    <desc lang="el">Champions League Ανδρών. Ο Ολυμπιακός αντιμετωπίζει την Μπρέσια εκτός έδρας, σε μία κρίσιμη μάχη για την 5η αγωνιστική των προημιτελικών ομίλων.</desc>
     <category lang="el">Πόλο</category>
   </programme>
   <programme start="20260513230000 +0300" stop="20260514003000 +0300" channel="XTV100000955">
@@ -2695,7 +2695,7 @@
   </programme>
   <programme start="20260514181500 +0300" stop="20260514203000 +0300" channel="XTV100000955">
     <title lang="el">Μπάσκετ: ΑΕΚ - Άρης (Ζ)</title>
-    <desc lang="el">Basket League 2025-26. Play Off. 1η Αγωνιστική. Με 13 ομάδες και 26 αγωνιστικές στην κανονική περίοδο διεξάγεται η Basket League 2025-26. Οι 8 πρώτοι της τελικής κατάταξης προκρίνονται απευθείας στα playoffs. Η τελευταία θέση οδηγεί στην Elite league.</desc>
+    <desc lang="el">Basket League 2025-26. Play Off. 1η Αγωνιστική. Μετά την ήττα στον τελικό του BCL από τη Ρίτας Βίλνιους, η ΑΕΚ υποδέχεται στη Sunel Arena τον Άρη, που προέρχεται από αγωνιστική απραξία 3 εβδομάδων.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260514203000 +0300" stop="20260514223000 +0300" channel="XTV100000955">
@@ -3904,8 +3904,8 @@
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260513170000 +0300" stop="20260513190000 +0300" channel="XTV100003344">
-    <title lang="el">Μπάσκετ: Παναθηναϊκός - ΑΟ Μυκόνου (Ζ)</title>
-    <desc lang="el">Basket League 2025-26. Play Off. 1η Αγωνιστική. Με 13 ομάδες και 26 αγωνιστικές στην κανονική περίοδο διεξάγεται η Basket League 2025-26. Οι 8 πρώτοι της τελικής κατάταξης προκρίνονται απευθείας στα playoffs. Η τελευταία θέση οδηγεί στην Elite league.</desc>
+    <title lang="el">Μπάσκετ: Ολυμπιακός - Κολοσσός (Ζ)</title>
+    <desc lang="el">Basket League 2025-26. Play Off. 1η Αγωνιστική. O πρώτος αγώνας της σειράς Ολυμπιακός - Κολοσσός για τα προημιτελικά της GBL αποτελεί το ένα από τα δύο ματς που θα δώσουν οι Πειραιώτες πριν από το Final Four της Euroleague.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260513190000 +0300" stop="20260513203000 +0300" channel="XTV100003344">
@@ -21508,27 +21508,27 @@
     <desc lang="el">UEFA Futsal Champions League 2025-26. 1ος Ημιτελικός.  Περιγραφή: Χρήστος Κυριαζής.</desc>
     <category lang="el">Ποδόσφαιρο Σάλας</category>
   </programme>
-  <programme start="20260511113000 +0300" stop="20260511133000 +0300" channel="XTV100001071">
+  <programme start="20260511113000 +0300" stop="20260511124000 +0300" channel="XTV100001071">
+    <title lang="el">Ποδόσφαιρο Σάλας: Καρταχένα - Σπόρτινγκ Λισαβόνας</title>
+    <desc lang="el">UEFA Futsal Champions League 2025-26. 1ος Ημιτελικός. Δείτε τους αγώνες του UEFA Futsal Champions League. Περιγραφή: Χρήστος Κυριαζής.</desc>
+    <category lang="el">Ποδόσφαιρο Σάλας</category>
+  </programme>
+  <programme start="20260511124000 +0300" stop="20260511144000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Άστον Βίλα - Νότιγχαμ Φόρεστ</title>
     <desc lang="el">UEFA Europa League 2025-26. Ημιτελική Φάση, 2η Αγωνιστική.  Περιγραφή: Δημήτρης Σπηλιόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260511133000 +0300" stop="20260511153000 +0300" channel="XTV100001071">
-    <title lang="el">Ποδόσφαιρο: Φράιμπουργκ - Μπράγκα</title>
-    <desc lang="el">UEFA Europa League 2025-26. Ημιτελική Φάση, 2η Αγωνιστική.  Περιγραφή: Κώστας Γιαλιτάκης.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
+  <programme start="20260511144000 +0300" stop="20260511151000 +0300" channel="XTV100001071">
+    <title lang="el">Στιγμιότυπα: UEFA Youth League 2025-26</title>
+    <desc lang="el">Ανασκόπηση.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260511153000 +0300" stop="20260511160000 +0300" channel="XTV100001071">
-    <title lang="el">UEFA Youth League Show</title>
-    <desc lang="el">Δείτε όλη τη δράση των αγώνων του UEFA Youth League.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
-  </programme>
-  <programme start="20260511160000 +0300" stop="20260511183000 +0300" channel="XTV100001071">
+  <programme start="20260511151000 +0300" stop="20260511183500 +0300" channel="XTV100001071">
     <title lang="el">Sportshow</title>
     <desc lang="el">Η εκπομπή SPORTSHOW σάς προσφέρει μια διαφορετική οπτική γωνία με κύριο άξονα την αγωνιστική δράση της εβδομάδας. Η εκπομπή περιλαμβάνει θέματα από όλα τα αθλητικά γεγονότα που έχουν θέση στο τηλεοπτικό πρόγραμμα της COSMOTE TV.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260511183000 +0300" stop="20260511190500 +0300" channel="XTV100001071">
+  <programme start="20260511183500 +0300" stop="20260511190500 +0300" channel="XTV100001071">
     <title lang="el">Στιγμιότυπα: UEL &amp; UECL 2025-26</title>
     <desc lang="el">Ημιτελική Φάση, 2η Αγωνιστική. Πριν από τη σέντρα στους αγώνες του Europa και του Conference League, παρακολουθήστε την ειδική εκπομπή που παρουσιάζει όλα τα τελευταία νέα των ομάδων που συμμετέχουν στις δύο διοργανώσεις.</desc>
     <category lang="el">Στιγμιότυπα</category>
@@ -28108,20 +28108,25 @@
     <desc lang="el">Bundesliga 2 2025/26. Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 18 σύλλογοι, ενώ πέρσι πρωταθλήτρια αναδείχθηκε η Κολωνία.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260514100000 +0300" stop="20260514114500 +0300" channel="XTV600000608">
-    <title lang="el">Τένις: Μαρία Σάκκαρη - Βαρβάρα Γκράτσεβα</title>
-    <desc lang="el">WTA 1000 2026. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Qatar TotalEnergies Open της σειράς WTA 1000, που διεξάγεται στην Ντόχα του Κατάρ το διάστημα από 8 μέχρι 14 Φεβρουαρίου.</desc>
-    <category lang="el">Τένις</category>
+  <programme start="20260514100000 +0300" stop="20260514111500 +0300" channel="XTV600000608">
+    <title lang="el">Playmakers</title>
+    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ του Novasports που παρουσιάζουν οι Γ. Παπαβασιλείου και Δ. Παντέλη! Pre &amp; post game show με ρεπορτάζ, σχόλια και ανάλυση από τον expert Δημήτρη Μαυροειδή για τα ματς Παναθηναϊκού και Ολυμπιακού στη EuroLeague.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260514114500 +0300" stop="20260514124500 +0300" channel="XTV600000608">
-    <title lang="el">Ανασκόπηση Eredivisie 2025/26</title>
-    <desc lang="el">Ανασκόπηση 33ης Αγωνιστικής. Τα κανάλια Novasports εξασφάλισαν για τους λάτρεις του ποδοσφαίρου αγώνες του ολλανδικού πρωταθλήματος. Μείνετε συντονισμένοι για τα καλύτερα στιγμιότυπα, τις πιο εντυπωσιακές φάσεις και όλα τα γκολ της αγωνιστικής που προηγήθηκε.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
+  <programme start="20260514111500 +0300" stop="20260514131500 +0300" channel="XTV600000608">
+    <title lang="el">Μπάσκετ: Βαλένθια - Παναθηναϊκός</title>
+    <desc lang="el">Euroleague Playoffs. Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'.</desc>
+    <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260514124500 +0300" stop="20260514144500 +0300" channel="XTV600000608">
-    <title lang="el">Ποδόσφαιρο: Κάδιθ - Ντεπορτίβο λα Κορούνια</title>
-    <desc lang="el">Ισπανικό Πρωτάθλημα Β' Κατηγορίας 2025/26. Παρακολουθείτε αγώνες της La Liga 2 Hypermotion, της δεύτερης κατηγορίας του ισπανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 22 σύλλογοι και η Μούρθια κατέχει το ρεκόρ τίτλων με 8 κατακτήσεις.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
+  <programme start="20260514131500 +0300" stop="20260514141500 +0300" channel="XTV600000608">
+    <title lang="el">Playmakers</title>
+    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ του Novasports που παρουσιάζουν οι Γ. Παπαβασιλείου και Δ. Παντέλη! Pre &amp; post game show με ρεπορτάζ, σχόλια και ανάλυση από τον expert Δημήτρη Μαυροειδή για τα ματς Παναθηναϊκού και Ολυμπιακού στη EuroLeague.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260514141500 +0300" stop="20260514144500 +0300" channel="XTV600000608">
+    <title lang="el">Ο Κόσμος των Freesports</title>
+    <desc lang="el">Από το σέρφινγκ και το kitesurfing, το σκι και την χιονοσανίδα, ως τους αγώνες εντούρο και κανόε-καγιάκ, ο κόσμος των freestyle-extreme σπορ είναι κάθε εβδομάδα κοντά σας, γεμάτος ένταση και εκτοξεύοντας την αδρεναλίνη στα ύψη!</desc>
+    <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260514144500 +0300" stop="20260514164500 +0300" channel="XTV600000608">
     <title lang="el">Ποδόσφαιρο: Βιγιαρεάλ - Σεβίλλη</title>
@@ -28214,8 +28219,8 @@
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260515213000 +0300" stop="20260515233000 +0300" channel="XTV600000608">
-    <title lang="el">Ισπανικό Πρωτάθλημα Β' Κατηγορίας (Ζ)</title>
-    <desc lang="el">40ή Αγωνιστική. Παρακολουθείτε αγώνες της La Liga 2 Hypermotion, της δεύτερης κατηγορίας του ισπανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 22 σύλλογοι και η Μούρθια κατέχει το ρεκόρ τίτλων με 8 κατακτήσεις.</desc>
+    <title lang="el">Ποδόσφαιρο: Καστεγιόν - Κάδιθ (Ζ)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Β' Κατηγορίας 2025/26. Παρακολουθείτε αγώνες της La Liga 2 Hypermotion, της δεύτερης κατηγορίας του ισπανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 22 σύλλογοι και η Μούρθια κατέχει το ρεκόρ τίτλων με 8 κατακτήσεις.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260515233000 +0300" stop="20260516000000 +0300" channel="XTV600000608">
@@ -28503,17 +28508,12 @@
     <desc lang="el">4η Αγων. Πλέι Οφ/7η Αγων. Πλέι Άουτ. Παρακολουθείστε την ανασκόπηση όλων των αναμετρήσεων της περασμένης αγωνιστικής της Super League.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260514001500 +0300" stop="20260514014500 +0300" channel="XTV600000609">
-    <title lang="el">Novasports Prime</title>
-    <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Super League και EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, οι τελικοί του Wimbledon, το Final Four της EuroLeague και οι εκπομπές 'Ωρα των Πρωταθλητών', 'Playmakers' και 'Monday FC'.</desc>
-    <category lang="el">Άλλο Άθλημα</category>
+  <programme start="20260514001500 +0300" stop="20260514021500 +0300" channel="XTV600000609">
+    <title lang="el">Μπάσκετ: Βαλένθια - Παναθηναϊκός</title>
+    <desc lang="el">Euroleague Playoffs. Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'.</desc>
+    <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260514014500 +0300" stop="20260514054500 +0300" channel="XTV600000609">
-    <title lang="el">Novasports Prime</title>
-    <desc lang="el">Στιγμές από τον Κόσμο των Σπορ. Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Super League και EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, οι τελικοί του Wimbledon, το Final Four της EuroLeague και οι εκπομπές 'Ωρα των Πρωταθλητών', 'Playmakers' και 'Monday FC'.</desc>
-    <category lang="el">Άλλο Άθλημα</category>
-  </programme>
-  <programme start="20260514054500 +0300" stop="20260514060000 +0300" channel="XTV600000609">
+  <programme start="20260514021500 +0300" stop="20260514060000 +0300" channel="XTV600000609">
     <title lang="el">Novasports Prime</title>
     <desc lang="el">Στιγμές από τον Κόσμο των Σπορ. Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Super League και EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, οι τελικοί του Wimbledon, το Final Four της EuroLeague και οι εκπομπές 'Ωρα των Πρωταθλητών', 'Playmakers' και 'Monday FC'.</desc>
     <category lang="el">Άλλο Άθλημα</category>
@@ -28728,9 +28728,9 @@
     <desc lang="el">Η μακροβιότερη εκπομπή του Novasports κλείνει την ποδοσφαιρική βραδιά με ρεπορτάζ, συνεντεύξεις και αναλύσεις όσων συνέβησαν στον αγωνιστικό χώρο! Παρουσιάζουν οι Γ. Δούσκας και Απ. Λάμπος.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
-  <programme start="20260516224500 +0300" stop="20260517005000 +0300" channel="XTV600000609">
-    <title lang="el">Μπάσκετ: Euroleague Playoffs</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'.</desc>
+  <programme start="20260516224500 +0300" stop="20260517004500 +0300" channel="XTV600000609">
+    <title lang="el">Μπάσκετ: Βαλένθια - Παναθηναϊκός</title>
+    <desc lang="el">Euroleague Playoffs. Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260511000000 +0300" stop="20260511020000 +0300" channel="XTV600000601">
@@ -29943,17 +29943,17 @@
     <desc lang="el">Euroleague Playoffs. Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260514000000 +0300" stop="20260514003000 +0300" channel="XTV600000604">
-    <title lang="el">Novasports 4 HD</title>
-    <desc lang="el">Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, αγώνες του EuroCup και των διοργανώσεων της FIBA.</desc>
-    <category lang="el">Promo - Trailer</category>
+  <programme start="20260514000000 +0300" stop="20260514010000 +0300" channel="XTV600000604">
+    <title lang="el">Playmakers (Ζ)</title>
+    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ του Novasports που παρουσιάζουν οι Γ. Παπαβασιλείου και Δ. Παντέλη! Pre &amp; post game show με ρεπορτάζ, σχόλια και ανάλυση από τον expert Δημήτρη Μαυροειδή για τα ματς Παναθηναϊκού και Ολυμπιακού στη EuroLeague.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260514003000 +0300" stop="20260514043000 +0300" channel="XTV600000604">
+  <programme start="20260514010000 +0300" stop="20260514050000 +0300" channel="XTV600000604">
     <title lang="el">Novasports 4 HD</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <category lang="el">Promo - Trailer</category>
   </programme>
-  <programme start="20260514043000 +0300" stop="20260514060000 +0300" channel="XTV600000604">
+  <programme start="20260514050000 +0300" stop="20260514060000 +0300" channel="XTV600000604">
     <title lang="el">Novasports 4 HD</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <category lang="el">Promo - Trailer</category>
@@ -29968,22 +29968,22 @@
     <desc lang="el">Ξανά κοντά σας στις 12:00. Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <category lang="el">Promo - Trailer</category>
   </programme>
-  <programme start="20260514120000 +0300" stop="20260514124000 +0300" channel="XTV600000604">
+  <programme start="20260514120000 +0300" stop="20260514123000 +0300" channel="XTV600000604">
     <title lang="el">Final Four Classics</title>
     <desc lang="el">2019: Αναντολού Εφές - ΤΣΣΚΑ Μόσχας. Χρ. Καούρης,  Γ. Παπαβασιλείου και Ν. Αυγουλής αναλύουν τους δέκα πιο εμβληματικούς αγώνες στην ιστορία των Final Four της EuroLeague. Παιχνίδια που καθόρισαν την πορεία του ευρωπαϊκού μπάσκετ με τους πρωταγωνιστές σε πρώτο πλάνο.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260514124000 +0300" stop="20260514152000 +0300" channel="XTV600000604">
+  <programme start="20260514123000 +0300" stop="20260514151500 +0300" channel="XTV600000604">
     <title lang="el">Final Four Classic Matches</title>
     <desc lang="el">Τελικός 2018/19: Αναντολού - ΤΣΣΚΑ Μ. Μέσα από το πολύτιμο αρχείο του Novasports, θυμόμαστε τους εμβληματικούς τελικούς της EuroLeague των τελευταίων ετών και ξαναζούμε την ένταση, τις ανατροπές και τη δικαίωση των πρωταγωνιστών.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260514152000 +0300" stop="20260514174000 +0300" channel="XTV600000604">
+  <programme start="20260514151500 +0300" stop="20260514173000 +0300" channel="XTV600000604">
     <title lang="el">Final Four Classic Matches</title>
     <desc lang="el">Τελικός 2020/21: Μπαρτσελόνα-Αναντολού. Μέσα από το πολύτιμο αρχείο του Novasports, θυμόμαστε τους εμβληματικούς τελικούς της EuroLeague των τελευταίων ετών και ξαναζούμε την ένταση, τις ανατροπές και τη δικαίωση των πρωταγωνιστών.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260514174000 +0300" stop="20260514193000 +0300" channel="XTV600000604">
+  <programme start="20260514173000 +0300" stop="20260514193000 +0300" channel="XTV600000604">
     <title lang="el">Final Four Classic Matches</title>
     <desc lang="el">Τελικός 2021/22: Ρεάλ Μ.-Αναντολού Εφές. Μέσα από το πολύτιμο αρχείο του Novasports, θυμόμαστε τους εμβληματικούς τελικούς της EuroLeague των τελευταίων ετών και ξαναζούμε την ένταση, τις ανατροπές και τη δικαίωση των πρωταγωνιστών.</desc>
     <category lang="el">Μπάσκετ</category>
@@ -30028,35 +30028,40 @@
     <desc lang="el">Τελικός 2022/23: Ολυμπιακός - Ρεάλ Μ. Μέσα από το πολύτιμο αρχείο του Novasports, θυμόμαστε τους εμβληματικούς τελικούς της EuroLeague των τελευταίων ετών και ξαναζούμε την ένταση, τις ανατροπές και τη δικαίωση των πρωταγωνιστών.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260515140000 +0300" stop="20260515162000 +0300" channel="XTV600000604">
+  <programme start="20260515140000 +0300" stop="20260515160000 +0300" channel="XTV600000604">
     <title lang="el">Final Four Classic Matches</title>
     <desc lang="el">Τελικός 2023/24: Ρεάλ Μ. - Παναθηναϊκός. Μέσα από το πολύτιμο αρχείο του Novasports, θυμόμαστε τους εμβληματικούς τελικούς της EuroLeague των τελευταίων ετών και ξαναζούμε την ένταση, τις ανατροπές και τη δικαίωση των πρωταγωνιστών.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260515162000 +0300" stop="20260515172000 +0300" channel="XTV600000604">
+  <programme start="20260515160000 +0300" stop="20260515170000 +0300" channel="XTV600000604">
     <title lang="el">Final Four Classic Matches</title>
     <desc lang="el">Ανασκόπηση Σεζόν 2009/10. Μέσα από το πολύτιμο αρχείο του Novasports, θυμόμαστε τους εμβληματικούς τελικούς της EuroLeague των τελευταίων ετών και ξαναζούμε την ένταση, τις ανατροπές και τη δικαίωση των πρωταγωνιστών.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260515172000 +0300" stop="20260515193000 +0300" channel="XTV600000604">
+  <programme start="20260515170000 +0300" stop="20260515190000 +0300" channel="XTV600000604">
     <title lang="el">Final Four Classic Matches</title>
     <desc lang="el">Τελικός 2024/25: Μονακό-Φενέρμπαχτσε. Μέσα από το πολύτιμο αρχείο του Novasports, θυμόμαστε τους εμβληματικούς τελικούς της EuroLeague των τελευταίων ετών και ξαναζούμε την ένταση, τις ανατροπές και τη δικαίωση των πρωταγωνιστών.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260515193000 +0300" stop="20260515200000 +0300" channel="XTV600000604">
+  <programme start="20260515190000 +0300" stop="20260515193000 +0300" channel="XTV600000604">
     <title lang="el">Final Four Classics</title>
     <desc lang="el">Man to Man : Θοδωρής Παπαλουκάς. Κορυφαίοι Έλληνες παίκτες έγραψαν ιστορία κατακτώντας την κορυφή της Ευρώπης με τη φανέλα ξένων συλλόγων. Οι ίδιοι αφηγούνται τις αξέχαστες στιγμές που έζησαν.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260515200000 +0300" stop="20260515220000 +0300" channel="XTV600000604">
+  <programme start="20260515193000 +0300" stop="20260515210000 +0300" channel="XTV600000604">
     <title lang="el">Μπάσκετ: Μονακό - Ολυμπιακός</title>
     <desc lang="el">Euroleague Playoffs. Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260515220000 +0300" stop="20260516000000 +0300" channel="XTV600000604">
+  <programme start="20260515210000 +0300" stop="20260515230000 +0300" channel="XTV600000604">
     <title lang="el">Μπάσκετ: Χάποελ Τελ Αβίβ - Ρεάλ Μαδρίτης</title>
     <desc lang="el">Euroleague Playoffs. Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'.</desc>
     <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260515230000 +0300" stop="20260516000000 +0300" channel="XTV600000604">
+    <title lang="el">Novasports 4 HD</title>
+    <desc lang="el">Ξανά κοντά σας αύριο στις 12:00. Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
+    <category lang="el">Promo - Trailer</category>
   </programme>
   <programme start="20260516000000 +0300" stop="20260516040000 +0300" channel="XTV600000604">
     <title lang="el">Novasports 4 HD</title>
@@ -31114,26 +31119,26 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260515210000 +0300" stop="20260515213000 +0300" channel="XTV600000614">
-    <title lang="el">Προεπισκόπηση Premier League</title>
-    <desc lang="el">37η Αγωνιστική. Η εκπομπή σας προσφέρει μία προεπισκόπηση των αγώνων της ερχόμενης αγωνιστικής, συνεντεύξεις παικτών και προπονητών και επιλεγμένα θέματα.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
-  </programme>
-  <programme start="20260515213000 +0300" stop="20260515233000 +0300" channel="XTV600000614">
-    <title lang="el">Ποδόσφαιρο: Μάντσεστερ Σίτι - Κρίσταλ Πάλας</title>
-    <desc lang="el">Premier League 2025/26. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports! Απολαύστε τη συναρπαστική δράση του δημοφιλέστερου πρωταθλήματος ποδοσφαίρου παγκοσμίως.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
-  </programme>
-  <programme start="20260515233000 +0300" stop="20260516000000 +0300" channel="XTV600000614">
     <title lang="el">Classic Match</title>
     <desc lang="el">Τσέλσι - Τότεναμ (2003/04). Δείτε έναν κλασικό αγώνα από προηγούμενη σεζόν της Premier League επιλεγμένο από το πλούσιο αρχείο της κορυφαίας αγγλικής κατηγορίας.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260516000000 +0300" stop="20260516030000 +0300" channel="XTV600000614">
+  <programme start="20260515213000 +0300" stop="20260515220000 +0300" channel="XTV600000614">
+    <title lang="el">Προεπισκόπηση Premier League</title>
+    <desc lang="el">37η Αγωνιστική. Η εκπομπή σας προσφέρει μία προεπισκόπηση των αγώνων της ερχόμενης αγωνιστικής, συνεντεύξεις παικτών και προπονητών και επιλεγμένα θέματα.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260515220000 +0300" stop="20260516000000 +0300" channel="XTV600000614">
+    <title lang="el">Ποδόσφαιρο: Άστον Βίλα - Λίβερπουλ (Ζ)</title>
+    <desc lang="el">Premier League 2025/26. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports! Απολαύστε τη συναρπαστική δράση του δημοφιλέστερου πρωταθλήματος ποδοσφαίρου παγκοσμίως.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260516000000 +0300" stop="20260516020000 +0300" channel="XTV600000614">
     <title lang="el">Ποδόσφαιρο: Μάντσεστερ Σίτι - Μπέρνλι</title>
     <desc lang="el">Premier League 2024-25. Το δημοφιλέστερο πρωτάθλημα ποδοσφαίρου στον κόσμο αποκλειστικά στο Novasports! Απολαύστε τη μοναδική δράση της κορυφαίας κατηγορίας του αγγλικού ποδοσφαίρου, της ακριβότερης λίγκας της υφηλίου, της συναρπαστικής Premier League!</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260516030000 +0300" stop="20260516060000 +0300" channel="XTV600000614">
+  <programme start="20260516020000 +0300" stop="20260516060000 +0300" channel="XTV600000614">
     <title lang="el">Novasports Premier League</title>
     <desc lang="el">Ένα κανάλι αποκλειστικά αφιερωμένο στη διοργάνωση της Premier League! Το ΚΟΡΥΦΑΙΟ πρωτάθλημα στον κόσμο με ζωντανούς αγώνες και ειδικές εκπομπές, αφιερώματα, ντοκιμαντέρ και συνεντεύξεις από το 1992 μέχρι σήμερα.</desc>
     <category lang="el">Ποδόσφαιρο</category>
@@ -31184,7 +31189,7 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260516220000 +0300" stop="20260517000000 +0300" channel="XTV600000614">
-    <title lang="el">Ποδόσφαιρο: Φούλαμ - Μπόρνμουθ</title>
+    <title lang="el">Ποδόσφαιρο: Μάντσεστερ Σίτι - Κρίσταλ Πάλας</title>
     <desc lang="el">Premier League 2025/26. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports! Απολαύστε τη συναρπαστική δράση του δημοφιλέστερου πρωταθλήματος ποδοσφαίρου παγκοσμίως.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
@@ -31915,12 +31920,12 @@
   </programme>
   <programme start="20260516183000 +0300" stop="20260516223000 +0300" channel="XTV600000612">
     <title lang="el">Novasports extra3 HD</title>
-    <desc lang="el">Σύντομα κοντά σας. Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <desc lang="el">Επεισόδιο: Ξανά κοντά σας αύριο στις 21:00. Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260516223000 +0300" stop="20260517000000 +0300" channel="XTV600000612">
     <title lang="el">Novasports extra3 HD</title>
-    <desc lang="el">Σύντομα κοντά σας. Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <desc lang="el">Επεισόδιο: Ξανά κοντά σας αύριο στις 21:00. Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260511000000 +0300" stop="20260511040000 +0300" channel="XTV600000613">
