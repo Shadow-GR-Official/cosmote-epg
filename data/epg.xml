@@ -23343,45 +23343,45 @@
     <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της κάθε αγωνιστικής στο ισπανικό πρωτάθλημα μπάσκετ. Οι κορυφαίες φάσεις, τα νικητήρια καλάθια και αρκετά παραλειπόμενα από την ποιοτικότερη εθνική λίγκα της Ευρώπης.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260514130000 +0300" stop="20260514153000 +0300" channel="XTV100001109">
+  <programme start="20260514130000 +0300" stop="20260514160000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Ντιτρόιτ Πίστονς - Κλίβελαντ Καβαλίερς</title>
     <desc lang="el">NBA Playoffs 2026. Ανατολική Περιφέρεια, Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260514153000 +0300" stop="20260514173000 +0300" channel="XTV100001109">
+  <programme start="20260514160000 +0300" stop="20260514174000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Αναντολού Εφές - Μπουγιούκτσεκμετσε</title>
     <desc lang="el">Turkish Basketball Super League 2025-26. 30η Αγωνιστική.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260514173000 +0300" stop="20260514193000 +0300" channel="XTV100001109">
+  <programme start="20260514174000 +0300" stop="20260514194000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Φενέρμπαχτσε - Μπεσίκτας</title>
     <desc lang="el">Turkish Basketball Super League 2025-26. 29η Αγωνιστική.  Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260514193000 +0300" stop="20260514213000 +0300" channel="XTV100001109">
+  <programme start="20260514194000 +0300" stop="20260514214000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Βίρτους Μπολόνια - Βαρέζε</title>
     <desc lang="el">Lega Basket Serie A 2025-26. 30η Αγωνιστική.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260514213000 +0300" stop="20260515000000 +0300" channel="XTV100001109">
+  <programme start="20260514214000 +0300" stop="20260515004000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Ντιτρόιτ Πίστονς - Κλίβελαντ Καβαλίερς</title>
     <desc lang="el">NBA Playoffs 2026. Ανατολική Περιφέρεια, Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260515000000 +0300" stop="20260515020000 +0300" channel="XTV100001109">
+  <programme start="20260514214000 +0300" stop="20260515004000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Ντιτρόιτ Πίστονς - Κλίβελαντ Καβαλίερς</title>
+    <desc lang="el">NBA Playoffs 2026. Ανατολική Περιφέρεια, Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260515004000 +0300" stop="20260515010000 +0300" channel="XTV100001109">
+    <title lang="el">Ισπανικό Πρωτάθλημα 2025-26 - 5η Περίοδος Ε30</title>
+    <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της κάθε αγωνιστικής στο ισπανικό πρωτάθλημα μπάσκετ. Οι κορυφαίες φάσεις, τα νικητήρια καλάθια και αρκετά παραλειπόμενα από την ποιοτικότερη εθνική λίγκα της Ευρώπης.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260515010000 +0300" stop="20260515030000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπιλμπάο - Ρεάλ Μαδρίτης</title>
     <desc lang="el">ACB Liga Endesa 2025-26. 31η Αγωνιστική.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
-  </programme>
-  <programme start="20260515020000 +0300" stop="20260515023000 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials</title>
-    <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260515023000 +0300" stop="20260515030000 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials: Basketball Stories</title>
-    <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
-    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260515030000 +0300" stop="20260515050000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Φενέρμπαχτσε - Μπεσίκτας</title>
@@ -24584,8 +24584,8 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260514140000 +0300" stop="20260514163000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP Masters 1000 2026 (Ζ)</title>
-    <desc lang="el">Ρώμη (Προημιτελικός). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Χρήστος Βασιλείου.</desc>
+    <title lang="el">Τένις: Γιανίκ Σίνερ - Αντρέι Ρούμπλεφ (Ζ)</title>
+    <desc lang="el">ATP Masters 1000 2026. Ρώμη (Προημιτελικός). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260514163000 +0300" stop="20260514173000 +0300" channel="XTV100001360">
@@ -24604,8 +24604,8 @@
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260514200000 +0300" stop="20260514223000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP Masters 1000 2026 (Ζ)</title>
-    <desc lang="el">Ρώμη (Προημιτελικός). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Αντρέα Παλομπαρίνι.</desc>
+    <title lang="el">Τένις: Μαρτίν Λανταλούθε - Ντανιίλ Μεντβέντεφ (Ζ)</title>
+    <desc lang="el">ATP Masters 1000 2026. Ρώμη (Προημιτελικός). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Αντρέα Παλομπαρίνι.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260514223000 +0300" stop="20260514225000 +0300" channel="XTV100001360">
@@ -65173,14 +65173,9 @@
     <desc lang="el">Σε τέσσερα συναρπαστικά επεισόδια, η σειρά 'K-Everything' ακολουθεί τον Ντάνιελ Ντέ Κιμ στην προσπάθειά του να ανακαλύψει πώς η Νότια Κορέα πυροδότησε ένα παγκόσμιο κίνημα ποπ κουλτούρας, καθορίζοντας τις τάσεις στη μουσική, τη γαστρονομία, την τηλεόραση, τον κινηματογράφο και σε πολλά άλλα.</desc>
     <category lang="el">Τέχνες - Πολιτισμός</category>
   </programme>
-  <programme start="20260517040000 +0300" stop="20260517043000 +0300" channel="XTV100002906">
-    <title lang="el">Παγκόσμια Αθλητικά Νέα</title>
-    <desc lang="el">Μια περιεκτική ανασκόπηση των αθλητικών ειδήσεων απ' όλο το κόσμο, που συμπεριλαμβάνει τα πιο σημαντικά στιγμιότυπα, αλλά και συνεντεύξεις των προσώπων που βρίσκονται στο επίκεντρο των αθλητικών εξελίξεων.</desc>
-    <category lang="el">Ειδήσεις</category>
-  </programme>
-  <programme start="20260517043000 +0300" stop="20260517050000 +0300" channel="XTV100002906">
-    <title lang="el">Ο Θαυμαστός Κόσμος του Κουέστ</title>
-    <desc lang="el">Ο Ρίτσαρντ Κουέστ ταξιδεύει σε μια καινούρια πόλη κάθε φορά αναζητώντας το DNA της, την ουσία της. Κάτοικοί της μας συνοδεύουν σε ένα ταξίδι για να νιώσουμε το πνεύμα της πόλης, με τρόπο που δεν μπορούν οι τουρίστες.</desc>
+  <programme start="20260517040000 +0300" stop="20260517050000 +0300" channel="XTV100002906">
+    <title lang="el">A Fareed Zakaria Special</title>
+    <desc lang="el">Επεισόδιο: Η Αυτοκρατορική Προεδρία. Ο Φαρίντ Ζακάρια εξετάζει την επέκταση της προεδρικής εξουσίας στις Ηνωμένες Πολιτείες και τους λόγους για τους οποίους η προεδρία έχει αναπτυχθεί πολύ πέρα από αυτό που είχαν οραματιστεί οι ιδρυτές της χώρας.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260517050000 +0300" stop="20260517053000 +0300" channel="XTV100002906">
@@ -65194,8 +65189,8 @@
     <category lang="el">Συνέντευξη</category>
   </programme>
   <programme start="20260517060000 +0300" stop="20260517063000 +0300" channel="XTV100002906">
-    <title lang="el">The Link (2026)</title>
-    <desc lang="el">Εκπομπή.</desc>
+    <title lang="el">Ο Θαυμαστός Κόσμος του Κουέστ</title>
+    <desc lang="el">Ο Ρίτσαρντ Κουέστ ταξιδεύει σε μια καινούρια πόλη κάθε φορά αναζητώντας το DNA της, την ουσία της. Κάτοικοί της μας συνοδεύουν σε ένα ταξίδι για να νιώσουμε το πνεύμα της πόλης, με τρόπο που δεν μπορούν οι τουρίστες.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260517063000 +0300" stop="20260517064500 +0300" channel="XTV100002906">
@@ -65214,9 +65209,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260517073000 +0300" stop="20260517080000 +0300" channel="XTV100002906">
-    <title lang="el">Παγκόσμια Αθλητικά Νέα</title>
-    <desc lang="el">Μια περιεκτική ανασκόπηση των αθλητικών ειδήσεων απ' όλο το κόσμο, που συμπεριλαμβάνει τα πιο σημαντικά στιγμιότυπα, αλλά και συνεντεύξεις των προσώπων που βρίσκονται στο επίκεντρο των αθλητικών εξελίξεων.</desc>
-    <category lang="el">Ειδήσεις</category>
+    <title lang="el">The Link (2026)</title>
+    <desc lang="el">Εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260517080000 +0300" stop="20260517083000 +0300" channel="XTV100002906">
     <title lang="el">CNN Newsroom</title>
