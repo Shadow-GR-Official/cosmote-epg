@@ -23268,15 +23268,25 @@
     <desc lang="el">Ανασκόπηση. Δείτε όλη τη δράση των αγώνων του UEFA Youth League.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260518060000 +0300" stop="20260518080000 +0300" channel="XTV100001072">
+  <programme start="20260518060000 +0300" stop="20260518084000 +0300" channel="XTV100001072">
     <title lang="el">Ποδόσφαιρο: Σάλφορντ - Γκρίμσμπι</title>
     <desc lang="el">Sky Bet EFL League Two 2025-26. Πλέι-οφ, Ημιτελική Φάση, 2η Αγωνιστική.  Περιγραφή: Ανδρέας Σερεβέτας.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260518080000 +0300" stop="20260518100000 +0300" channel="XTV100001072">
-    <title lang="el">Ποδόσφαιρο: Μπράγκα - Εστρέλα</title>
-    <desc lang="el">Liga Portugal Betclic 2025-26. 34η Αγωνιστική.  Περιγραφή: Δημήτρης Ξαρλής.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
+  <programme start="20260518084000 +0300" stop="20260518091000 +0300" channel="XTV100001072">
+    <title lang="el">Sports Classics: Temples of Sport</title>
+    <desc lang="el">St. Andrews. Το Temples of Sport είναι μια σειρά ντοκιμαντέρ που αποκαλύπτει τις ιστορίες πίσω από μερικά από τα πιο θρυλικά γήπεδα του πλανήτη. Με συνεντεύξεις προσώπων που συνδέονται στενά με το εκάστοτε γήπεδο, κάθε επεισόδιο αποκαλύπτει τα στοιχεία που καθιστούν συτούς τους χώρους τόσο μαγικούς.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260518091000 +0300" stop="20260518094000 +0300" channel="XTV100001072">
+    <title lang="el">Sports Classics: Temples of Sport</title>
+    <desc lang="el">Maracana. Το Temples of Sport είναι μια σειρά ντοκιμαντέρ που αποκαλύπτει τις ιστορίες πίσω από μερικά από τα πιο θρυλικά γήπεδα του πλανήτη. Με συνεντεύξεις προσώπων που συνδέονται στενά με το εκάστοτε γήπεδο, κάθε επεισόδιο αποκαλύπτει τα στοιχεία που καθιστούν συτούς τους χώρους τόσο μαγικούς.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260518094000 +0300" stop="20260518100000 +0300" channel="XTV100001072">
+    <title lang="el">Sports Classics: Worldies Ε3</title>
+    <desc lang="el">Στιγμιότυπα. Από τη F1 έως την υψηλή κατάδυση και ένα σωρό άλλα extreme sports, κάθε εκπομπή παρουσιάζει και αναδεικνύει μέσα από 5 βίντεο μερικές από τις πιο απίστευτες στιγμές, διοργανώσεις και αθλητές σε όλα τα σπορ δράσης.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260518100000 +0300" stop="20260518120000 +0300" channel="XTV100001072">
     <title lang="el">Ποδόσφαιρο: Μίλγουολ - Χαλ</title>
@@ -23718,10 +23728,20 @@
     <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260518030000 +0300" stop="20260518060000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: NBA Playoffs 2026</title>
-    <desc lang="el">Ημιτελικοί Conference.</desc>
+  <programme start="20260518030000 +0300" stop="20260518050000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Ρέτζιο Εμίλια</title>
+    <desc lang="el">Lega Basket Serie A 2025-26. Προημιτελική Φάση, 1ος Αγώνας. Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260518050000 +0300" stop="20260518053000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Larry Bird's Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260518053000 +0300" stop="20260518060000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials: Basketball Stories</title>
+    <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260518060000 +0300" stop="20260518080000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Βίρτους Μπολόνια - Τρέντο</title>
@@ -23743,9 +23763,14 @@
     <desc lang="el">Indiana Glory. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260518130000 +0300" stop="20260518153000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: NBA Playoffs 2026</title>
-    <desc lang="el">Ημιτελικοί Conference..</desc>
+  <programme start="20260518130000 +0300" stop="20260518133000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Larry Bird's Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260518133000 +0300" stop="20260518153000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Ρεάλ Μαδρίτης - Μπανταλόνα</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. 32η Αγωνιστική. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260518153000 +0300" stop="20260518173000 +0300" channel="XTV100001109">
@@ -23768,10 +23793,15 @@
     <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260518205500 +0300" stop="20260518232500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: NBA Playoffs 2026</title>
-    <desc lang="el">Ημιτελικοί Conference..</desc>
+  <programme start="20260518205500 +0300" stop="20260518225500 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Ρέτζιο Εμίλια</title>
+    <desc lang="el">Lega Basket Serie A 2025-26. Προημιτελική Φάση, 1ος Αγώνας. Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260518225500 +0300" stop="20260518232500 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Larry Bird's Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260518232500 +0300" stop="20260519010000 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials: Basketball Stories</title>
@@ -23864,13 +23894,13 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260519234500 +0300" stop="20260520001500 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials: Basketball Stories</title>
-    <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Larry Bird's Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260519234500 +0300" stop="20260520001500 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials: Basketball Stories</title>
-    <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Larry Bird's Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260520001500 +0300" stop="20260520020000 +0300" channel="XTV100001109">
@@ -24793,10 +24823,35 @@
     <desc lang="el">Μπουένος 'Αιρες (Προημιτελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260516150000 +0300" stop="20260516190500 +0300" channel="XTV100001360">
+  <programme start="20260516150000 +0300" stop="20260516160000 +0300" channel="XTV100001360">
     <title lang="el">Τένις: ATP Masters 1000 2026</title>
     <desc lang="el">Ρώμη (Hμιτελικοί). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
     <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260516160000 +0300" stop="20260516170000 +0300" channel="XTV100001360">
+    <title lang="el">Τένις: Γιανίκ Σίνερ - Ντανιίλ Μεντβέντεφ (Ζ)</title>
+    <desc lang="el">ATP Masters 1000 2026. Ρώμη (2ος ημιτελικός). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
+    <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260516170000 +0300" stop="20260516173000 +0300" channel="XTV100001360">
+    <title lang="el">Sports Classics: 2025 Outdoor Specials</title>
+    <desc lang="el">Games of the Future 2025. Το Outdoor Specials σας φέρνει τα πιο συναρπαστικά γεγονότα στον κόσμο των extreme sports. Από το windsurfing μέχρι την ορειβασία και από την οδήγηση αγώνων μέχρι τις καταδύσεις σπηλαίων, αυτή είναι μια σειρά που θα σας δώσει μια γενναιόδωρη δόση αδρεναλίνης.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260516173000 +0300" stop="20260516180000 +0300" channel="XTV100001360">
+    <title lang="el">Sports Classics: 2025 Outdoor Specials</title>
+    <desc lang="el">Games of the Future 2025. Το Outdoor Specials σας φέρνει τα πιο συναρπαστικά γεγονότα στον κόσμο των extreme sports. Από το windsurfing μέχρι την ορειβασία και από την οδήγηση αγώνων μέχρι τις καταδύσεις σπηλαίων, αυτή είναι μια σειρά που θα σας δώσει μια γενναιόδωρη δόση αδρεναλίνης.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260516180000 +0300" stop="20260516183000 +0300" channel="XTV100001360">
+    <title lang="el">Sports Classics: The Outdoor Sports Show 2026 Ε4</title>
+    <desc lang="el">Αυτή η σειρά παρουσιάζει ένα ευρύ φάσμα υπαίθριων σπορ καθώς και τους αθλητές που αγωνίζονται σε αυτά. Η εκπομπή καλύπτει από επαγγελματικά και ψυχαγωγικά έως και extreme sports, όπως αγώνες μαραθωνίου, αναρρίχηση, σκι, σέρφινγκ, πεζοπορία, τρίαθλο, ιστιοπλοΐα και ποδηλασία.</desc>
+    <category lang="el">Άλλο Άθλημα</category>
+  </programme>
+  <programme start="20260516183000 +0300" stop="20260516190500 +0300" channel="XTV100001360">
+    <title lang="el">Sports Classics: 2026 Outdoor Specials</title>
+    <desc lang="el">Mediterranean Games επ.01. Η εκπομπή σας φέρνει τα πιο συναρπαστικά γεγονότα των extreme sports. Από το windsurfing μέχρι την ορειβασία και από την οδήγηση αγώνων μέχρι τις καταδύσεις σπηλαίων, αυτή είναι μια σειρά που θα σας δώσει μια γενναιόδωρη δόση αδρεναλίνης.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260516190500 +0300" stop="20260516210500 +0300" channel="XTV100001360">
     <title lang="el">Ποδόσφαιρο: Αλ Χιλάλ - Νέομ (Ζ)</title>
