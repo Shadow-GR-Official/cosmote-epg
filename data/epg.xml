@@ -2410,7 +2410,7 @@
   </programme>
   <programme start="20260517151500 +0300" stop="20260517173000 +0300" channel="XTV100000955">
     <title lang="el">Μπάσκετ: ΑΟ Μυκόνου - Παναθηναϊκός (Ζ)</title>
-    <desc lang="el">Basket League 2025-26. Play Off. 2η Αγωνιστική. Με 13 ομάδες και 26 αγωνιστικές στην κανονική περίοδο διεξάγεται η Basket League 2025-26. Οι 8 πρώτοι της τελικής κατάταξης προκρίνονται απευθείας στα playoffs. Η τελευταία θέση οδηγεί στην Elite league.</desc>
+    <desc lang="el">Basket League 2025-26. Play Off. 2η Αγωνιστική. Το επιβλητικό 99-75 του πρώτου αγώνα έδωσε στον Παναθηναϊκό προβάδισμα πρόκρισης απέναντι στη Μύκονο, η οποία θα επιδιώξει αυτός να μην είναι ο τελευταίος αγώνας της χρονιάς.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260517173000 +0300" stop="20260517193000 +0300" channel="XTV100000955">
@@ -23083,10 +23083,20 @@
     <desc lang="el">FIBA Basketball Champions League 2025-26. Τελικός.  Περιγραφή: Γιάννης Φιλέρης, Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260517060000 +0300" stop="20260517080000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Μπαχτσεσεχίρ - Φενέρμπαχτσε</title>
-    <desc lang="el">Turkish Basketball Super League 2025-26. 30η Αγωνιστική.  Περιγραφή: Γιάννης Φιλέρης.</desc>
-    <category lang="el">Μπάσκετ</category>
+  <programme start="20260517060000 +0300" stop="20260517063000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260517063000 +0300" stop="20260517070000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Larry Bird's Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260517070000 +0300" stop="20260517080000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials: Basketball Stories</title>
+    <desc lang="el">The Mailman. Στιγμιότυπα από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260517080000 +0300" stop="20260517100000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Ρέτζιο Εμίλια</title>
@@ -23189,8 +23199,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260518100000 +0300" stop="20260518120000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Μπαχτσεσεχίρ - Φενέρμπαχτσε</title>
-    <desc lang="el">Turkish Basketball Super League 2025-26. 30η Αγωνιστική.  Περιγραφή: Γιάννης Φιλέρης.</desc>
+    <title lang="el">Μπάσκετ: Τενερίφη - Μπαρτσελόνα</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. 32η Αγωνιστική. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260518120000 +0300" stop="20260518130000 +0300" channel="XTV100001109">
@@ -24328,14 +24338,19 @@
     <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260517093000 +0300" stop="20260517110000 +0300" channel="XTV100001360">
+  <programme start="20260517093000 +0300" stop="20260517105000 +0300" channel="XTV100001360">
     <title lang="el">Topspin</title>
     <desc lang="el">Η μοναδική εκπομπή για το τένις, φιλοξενεί πλούσια αγωνιστική επικαιρότητα και θεματολογία από το χώρο του τένις, στην Ελλάδα και το εξωτερικό.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260517110000 +0300" stop="20260517150000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP Masters 1000 2026</title>
-    <desc lang="el">Ρώμη (Hμιτελικοί). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
+  <programme start="20260517105000 +0300" stop="20260517121000 +0300" channel="XTV100001360">
+    <title lang="el">Τένις: Κάσπερ Ρουντ - Λουτσιάνο Νταρντέρι</title>
+    <desc lang="el">ATP Masters 1000 2026. Ρώμη (1ος ημιτελικός). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
+    <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260517121000 +0300" stop="20260517150000 +0300" channel="XTV100001360">
+    <title lang="el">Τένις: Γιανίκ Σίνερ - Ντανιίλ Μεντβέντεφ</title>
+    <desc lang="el">ATP Masters 1000 2026. Ρώμη (2ος ημιτελικός). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Γιάννης Κυφωνίδης.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260517150000 +0300" stop="20260517173000 +0300" channel="XTV100001360">
