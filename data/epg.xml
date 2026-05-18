@@ -2430,7 +2430,7 @@
   </programme>
   <programme start="20260518201500 +0300" stop="20260518220000 +0300" channel="XTV100000955">
     <title lang="el">Ποδόσφαιρο Σάλας: Δούκας - ΑΕΚ (Ζ)</title>
-    <desc lang="el">Futsal Super League. 2ος Τελικός.</desc>
+    <desc lang="el">Futsal Super League. 2ος Τελικός. Στο Δαΐς, ο Δούκας, που προηγείται 1-0 νίκες μετά το 6-3 επί της ΑΕΚ στον 1ο τελικό, στοχεύει πλέον στο 2-0 που θα του χαρίσει τεράστιο προβάδισμα τίτλου. Η σειρά κρίνεται στις 3 νίκες.</desc>
     <category lang="el">Ποδόσφαιρο Σάλας</category>
   </programme>
   <programme start="20260518220000 +0300" stop="20260519000000 +0300" channel="XTV100000955">
@@ -2520,7 +2520,7 @@
   </programme>
   <programme start="20260519180000 +0300" stop="20260519194500 +0300" channel="XTV100000955">
     <title lang="el">Χάντμπολ: ΠΑΟΚ - ΑΕΚ (Ζ)</title>
-    <desc lang="el">Πρωτάθλημα Α1 Γυναικών. 2ος Τελικός. Η Handball Premier γυναικών για τη σεζόν 2025-26 περιλαμβάνει 18 αγωνιστικές και 10 ομάδες. Η Νέα Ιωνία θα προσπαθήσει να υπερασπιστεί τον τίτλο της.</desc>
+    <desc lang="el">Πρωτάθλημα Α1 Γυναικών. 2ος Τελικός. Η ΑΕΚ επικράτησε 37-36 του ΠΑΟΚ στο κλειστό του Καματερού, στον 1ο τελικό των πλέι οφ, και πανηγύρισε τη μία από τις 3 νίκες που απαιτούνται για την κατάκτηση του τίτλου. Ο 2ος τελικός γίνεται στη Θεσσαλονίκη.</desc>
     <category lang="el">Χάντμπολ</category>
   </programme>
   <programme start="20260519194500 +0300" stop="20260519200000 +0300" channel="XTV100000955">
@@ -24244,8 +24244,8 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260520033000 +0300" stop="20260520060000 +0300" channel="XTV100001360">
-    <title lang="el">Βόλεϊ: CEV Champions League 2026</title>
-    <desc lang="el">Τελικός 3ης Θέσης Ανδρών. Παρακολουθήστε τους αγώνες του CEV Champions League. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
+    <title lang="el">Βόλεϊ: Πρότζεκτ Βαρσοβίας - Ζιράτ</title>
+    <desc lang="el">CEV Champions League 2026. Τελικός 3ης Θέσης Ανδρών. Παρακολουθήστε τους αγώνες του CEV Champions League. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
     <category lang="el">Βόλεϊ</category>
   </programme>
   <programme start="20260520060000 +0300" stop="20260520081000 +0300" channel="XTV100001360">
@@ -24314,13 +24314,13 @@
     <category lang="el">Ιστιοπλοΐα</category>
   </programme>
   <programme start="20260521033000 +0300" stop="20260521060000 +0300" channel="XTV100001360">
-    <title lang="el">Βόλεϊ: CEV Champions League 2026</title>
-    <desc lang="el">Τελικός Ανδρών. Παρακολουθήστε τους αγώνες του CEV Champions League. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
+    <title lang="el">Βόλεϊ: Περούτζια - Βάρτα Ζαβιέρτσιε</title>
+    <desc lang="el">CEV Champions League 2026. Τελικός Ανδρών. Παρακολουθήστε τους αγώνες του CEV Champions League. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
     <category lang="el">Βόλεϊ</category>
   </programme>
   <programme start="20260521060000 +0300" stop="20260521083000 +0300" channel="XTV100001360">
-    <title lang="el">Βόλεϊ: CEV Champions League 2026</title>
-    <desc lang="el">Τελικός 3ης Θέσης Ανδρών. Παρακολουθήστε τους αγώνες του CEV Champions League. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
+    <title lang="el">Βόλεϊ: Πρότζεκτ Βαρσοβίας - Ζιράτ</title>
+    <desc lang="el">CEV Champions League 2026. Τελικός 3ης Θέσης Ανδρών. Παρακολουθήστε τους αγώνες του CEV Champions League. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
     <category lang="el">Βόλεϊ</category>
   </programme>
   <programme start="20260521083000 +0300" stop="20260521090000 +0300" channel="XTV100001360">
@@ -24394,8 +24394,8 @@
     <category lang="el">Beach Volley</category>
   </programme>
   <programme start="20260522060000 +0300" stop="20260522083000 +0300" channel="XTV100001360">
-    <title lang="el">Βόλεϊ: CEV Champions League 2026</title>
-    <desc lang="el">Τελικός Ανδρών. Παρακολουθήστε τους αγώνες του CEV Champions League. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
+    <title lang="el">Βόλεϊ: Περούτζια - Βάρτα Ζαβιέρτσιε</title>
+    <desc lang="el">CEV Champions League 2026. Τελικός Ανδρών. Παρακολουθήστε τους αγώνες του CEV Champions League. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
     <category lang="el">Βόλεϊ</category>
   </programme>
   <programme start="20260522083000 +0300" stop="20260522123000 +0300" channel="XTV100001360">
@@ -29184,7 +29184,7 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260523180000 +0300" stop="20260523200000 +0300" channel="XTV600000601">
-    <title lang="el">Ποδόσφαιρο: Μπιλμπάο - Θέλτα</title>
+    <title lang="el">Ποδόσφαιρο: Οβιέδο - Βιγιαρεάλ</title>
     <desc lang="el">La Liga EA Sports 2025/26. Απολαύστε όλους τους αγώνες της ισπανικής La Liga, ενός από τα κορυφαία πρωταθλήματα σε όλο τον πλανήτη, με εμβληματικούς συλλόγους, μεγάλους αστέρες, σπουδαίους προπονητές και τις πιο γεμάτες κερκίδες στην Ευρώπη!</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
@@ -29645,7 +29645,7 @@
   </programme>
   <programme start="20260519230000 +0300" stop="20260519233000 +0300" channel="XTV600000603">
     <title lang="el">Road to the Americas Ε1</title>
-    <desc lang="el">Επεισόδιο: Bundesliga. Ακολουθούμε τους πέντε αστέρες της Bundesliga Ντάβιντ Ράουμ, Νίκο Σλότερμπεκ, Μάλικ Τίλμαν, Ρίτσου Ντόαν και Τζάκσον Ίρβαϊν, καθώς κυνηγούν το όνειρο της συμμετοχής στο Παγκόσμιο Κύπελλο κατά τη διάρκεια της σεζόν 2025/26.</desc>
+    <desc lang="el">Ακολουθούμε τους πέντε αστέρες της Bundesliga Ντάβιντ Ράουμ, Νίκο Σλότερμπεκ, Μάλικ Τίλμαν, Ρίτσου Ντόαν και Τζάκσον Ίρβαϊν, καθώς κυνηγούν το όνειρο της συμμετοχής στο Παγκόσμιο Κύπελλο κατά τη διάρκεια της σεζόν 2025/26.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260519233000 +0300" stop="20260520000000 +0300" channel="XTV600000603">
@@ -29750,7 +29750,7 @@
   </programme>
   <programme start="20260521210000 +0300" stop="20260521213000 +0300" channel="XTV600000603">
     <title lang="el">Road to the Americas Ε2</title>
-    <desc lang="el">Επεισόδιο: Bundesliga. Road to the Americas, Επεισόδιο 2</desc>
+    <desc lang="el">Road to the Americas, Επεισόδιο 2</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260521213000 +0300" stop="20260521233000 +0300" channel="XTV600000603">
@@ -29805,12 +29805,12 @@
   </programme>
   <programme start="20260522200000 +0300" stop="20260522203000 +0300" channel="XTV600000603">
     <title lang="el">Road to the Americas Ε1</title>
-    <desc lang="el">Επεισόδιο: Bundesliga. Ακολουθούμε τους πέντε αστέρες της Bundesliga Ντάβιντ Ράουμ, Νίκο Σλότερμπεκ, Μάλικ Τίλμαν, Ρίτσου Ντόαν και Τζάκσον Ίρβαϊν, καθώς κυνηγούν το όνειρο της συμμετοχής στο Παγκόσμιο Κύπελλο κατά τη διάρκεια της σεζόν 2025/26.</desc>
+    <desc lang="el">Ακολουθούμε τους πέντε αστέρες της Bundesliga Ντάβιντ Ράουμ, Νίκο Σλότερμπεκ, Μάλικ Τίλμαν, Ρίτσου Ντόαν και Τζάκσον Ίρβαϊν, καθώς κυνηγούν το όνειρο της συμμετοχής στο Παγκόσμιο Κύπελλο κατά τη διάρκεια της σεζόν 2025/26.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260522203000 +0300" stop="20260522210000 +0300" channel="XTV600000603">
     <title lang="el">Road to the Americas Ε2</title>
-    <desc lang="el">Επεισόδιο: Bundesliga. Road to the Americas, Επεισόδιο 2</desc>
+    <desc lang="el">Road to the Americas, Επεισόδιο 2</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260522210000 +0300" stop="20260522213000 +0300" channel="XTV600000603">
@@ -61698,170 +61698,655 @@
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
     <category lang="el">Special</category>
   </programme>
-  <programme start="20260518120000 +0300" stop="20260518160000 +0300" channel="XTV100002326">
+  <programme start="20260518120000 +0300" stop="20260518124000 +0300" channel="XTV100002326">
     <title lang="el">Nea TV Crete</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
     <category lang="el">Special</category>
   </programme>
-  <programme start="20260518160000 +0300" stop="20260518200000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260518124000 +0300" stop="20260518141000 +0300" channel="XTV100002326">
+    <title lang="el">Παρέα Με Την Αριστέα</title>
+    <desc lang="el">Η εκπομπή επισκέπτεται χωριά της Κρήτης, μας μαθαίνει τους ανθρώπους και την ιστορία τους. Παρέα γνωρίζουμε την παράδοση και την μουσική τους.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260518200000 +0300" stop="20260519000000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260518141000 +0300" stop="20260518150000 +0300" channel="XTV100002326">
+    <title lang="el">Food Story</title>
+    <desc lang="el">Ακολουθήστε τον σεφ Βασίλη Καλλιμούκο στις μαγειρικές του αναζητήσεις μέσα από την εκπομπή Food Story. Όλοι θα μάθουμε κάτι καινούργιο.</desc>
+    <category lang="el">Μαγειρική</category>
   </programme>
-  <programme start="20260519000000 +0300" stop="20260519040000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260518150000 +0300" stop="20260518160000 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260519040000 +0300" stop="20260519080000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260518160000 +0300" stop="20260518180000 +0300" channel="XTV100002326">
+    <title lang="el">The Amazing Wiplala</title>
+    <desc lang="el">Ένα μοναχικό 9χρονο αγόρι κάνει έναν νέο φίλο όταν ανακαλύπτει ένα μαγικό ανθρωπάκι μέσα σε ένα ντουλάπι, αλλά όταν ένα από τα ξόρκια του άντρα πάει στραβά, ολόκληρη η οικογένεια του αγοριού συρρικνώνεται στα 10 εκατοστά σε ύψος. (120')</desc>
+    <category lang="el">Φαντασίας</category>
   </programme>
-  <programme start="20260519080000 +0300" stop="20260519120000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260518180000 +0300" stop="20260518183500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260519120000 +0300" stop="20260519160000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260518183500 +0300" stop="20260518193500 +0300" channel="XTV100002326">
+    <title lang="el">Με Άλλη Ματιά</title>
+    <desc lang="el">Μικρά και μεγάλα ντοκιμαντέρ από εξαιρετικούς Έλληνες σκηνοθέτες και κινηματογραφιστές.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260519160000 +0300" stop="20260519200000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260518193500 +0300" stop="20260518200000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
   </programme>
-  <programme start="20260519200000 +0300" stop="20260520000000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260518200000 +0300" stop="20260518210000 +0300" channel="XTV100002326">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τα τελευταία γεγονότα από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260520000000 +0300" stop="20260520040000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260518210000 +0300" stop="20260518224000 +0300" channel="XTV100002326">
+    <title lang="el">Nea Sport Live</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260520040000 +0300" stop="20260520080000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260518224000 +0300" stop="20260518231000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
   </programme>
-  <programme start="20260520080000 +0300" stop="20260520120000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260518231000 +0300" stop="20260519000000 +0300" channel="XTV100002326">
+    <title lang="el">Αυτοκράτειρες στο Παλάτι</title>
+    <desc lang="el">Μια νεαρή της οικογένειας των Οκτώ Λάβαρων παντρεύεται τον αυτοκράτορα της δυναστείας Τσινγκ. Αφού επιβιώνει πολλά δολοφονικά σκάνδαλα και προδοσίες, επικρατεί ως η πιο ισχυρή γυναίκα στο χαρέμι του αυτοκράτορα, η χήρα αυτοκράτειρα.</desc>
+    <category lang="el">Δραματική</category>
   </programme>
-  <programme start="20260520120000 +0300" stop="20260520160000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519000000 +0300" stop="20260519002500 +0300" channel="XTV100002326">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες ειδήσεις από τη Nea TV Crete.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260520160000 +0300" stop="20260520200000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519002500 +0300" stop="20260519013000 +0300" channel="XTV100002326">
+    <title lang="el">A Good Day to Be a Dog</title>
+    <desc lang="el">Η Han Hae Na είναι μια ανύπαντρη δασκάλα γυμνασίου με ένα οικογενειακό μυστικό. Λόγω ενός προγόνου, η οικογένειά της είναι καταραμένη. Όταν κάποιος στην οικογένειά της φιλάει κάποιον, μετατρέπεται σε σκύλο τα μεσάνυχτα για έξι ώρες.</desc>
+    <category lang="el">Κομεντί</category>
   </programme>
-  <programme start="20260520200000 +0300" stop="20260521000000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519013000 +0300" stop="20260519034000 +0300" channel="XTV100002326">
+    <title lang="el">Σιρανό ντε Μπερζεράκ</title>
+    <desc lang="el">Στη Γαλλία του 1640 ο Σιρανό, ο χαρισματικός ξιφομάχος ποιητής με την απίστευτη μύτη, αγαπάει απεγνωσμένα την όμορφη Ρωξάνη. Εκείνη όμως είναι ερωτευμένη με τον όμορφο, αλλά λακωνικό Κριστιάν. Ο Σιρανό στήνει μία αθώα απάτη με τραγικά αποτελέσματα. Η κλασσικότερη μεταφορά του έργου του Ροστάν. (130')</desc>
+    <category lang="el">Δραματική</category>
   </programme>
-  <programme start="20260521000000 +0300" stop="20260521040000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519034000 +0300" stop="20260519052000 +0300" channel="XTV100002326">
+    <title lang="el">Ο Φάκελος της Θέλμα Τζόρντον</title>
+    <desc lang="el">Ένας παντρεμένος άνδρας, βοηθός εισαγγελέα, ερωτεύεται την ωραία και μοιραία Θέλμα Τζόρντον, όταν αυτή επισκέπτεται το γραφείο του ένα βράδυ για να καταγγείλει μια απόπειρα διάρρηξης. (100')</desc>
+    <category lang="el">Αστυνομική</category>
   </programme>
-  <programme start="20260521040000 +0300" stop="20260521080000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519052000 +0300" stop="20260519053000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
   </programme>
-  <programme start="20260521080000 +0300" stop="20260521120000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519053000 +0300" stop="20260519063000 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260521120000 +0300" stop="20260521160000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519063000 +0300" stop="20260519075000 +0300" channel="XTV100002326">
+    <title lang="el">Ενορία εν Δράσει</title>
+    <desc lang="el">Επεισόδιο: Ενοριακό Αρχονταρίκι. Ο ρόλος των γονέων στην ανάπτυξη της υγιούς και της ναρκισιστικής αγάπης.</desc>
+    <category lang="el">Θρησκευτικό</category>
   </programme>
-  <programme start="20260521160000 +0300" stop="20260521200000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519075000 +0300" stop="20260519081500 +0300" channel="XTV100002326">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+    <desc lang="el">Sealook. Γνωστοί τηλεοπτικοί ήρωες, φίλοι των μικρών τηλεθεατών.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
   </programme>
-  <programme start="20260521200000 +0300" stop="20260522000000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519081500 +0300" stop="20260519084000 +0300" channel="XTV100002326">
+    <title lang="el">Τα Στρουμφάκια</title>
+    <desc lang="el">Παιδική σειρά κινουμένων σχεδίων. Πρόκειται για μια φανταστική κοινότητα από μικρά, γαλάζια πλασματάκια, που ζουν σε όμορφα μανιταρόσπιτα μέσα στο δάσος, στο Στρουμφοχωριό.</desc>
+    <category lang="el">Παιδική</category>
   </programme>
-  <programme start="20260522000000 +0300" stop="20260522040000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519084000 +0300" stop="20260519094000 +0300" channel="XTV100002326">
+    <title lang="el">Nea Sport Live</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260522040000 +0300" stop="20260522080000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519094000 +0300" stop="20260519114000 +0300" channel="XTV100002326">
+    <title lang="el">Στο Κόκκινο</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τη Γωγώ Καλληδονάκη. Παρουσιάζει θέματα από την καθημερινότητα με χιούμορ και φιλοξενεί πολλές εκπλήξεις. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260522080000 +0300" stop="20260522120000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519114000 +0300" stop="20260519125000 +0300" channel="XTV100002326">
+    <title lang="el">Κρητών Έργα</title>
+    <desc lang="el">Θρύλοι, παραδόσεις, ιστορία, πολιτισμός, λαογραφία αλλά και οι φυσικές ομορφιές της Κρήτης συναντώνται σε αυτή την εκπομπή του καναλιού. Γνώστες της ιστορίας του νησιού μας αποκαλύπτουν μια Κρήτη που συναρπάζει.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
   </programme>
-  <programme start="20260522120000 +0300" stop="20260522160000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519125000 +0300" stop="20260519141000 +0300" channel="XTV100002326">
+    <title lang="el">Παρέα Με Την Αριστέα</title>
+    <desc lang="el">Η εκπομπή επισκέπτεται χωριά της Κρήτης, μας μαθαίνει τους ανθρώπους και την ιστορία τους. Παρέα γνωρίζουμε την παράδοση και την μουσική τους.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260522160000 +0300" stop="20260522200000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519141000 +0300" stop="20260519143000 +0300" channel="XTV100002326">
+    <title lang="el">Food Story</title>
+    <desc lang="el">Ακολουθήστε τον σεφ Βασίλη Καλλιμούκο στις μαγειρικές του αναζητήσεις μέσα από την εκπομπή Food Story. Όλοι θα μάθουμε κάτι καινούργιο.</desc>
+    <category lang="el">Μαγειρική</category>
   </programme>
-  <programme start="20260522200000 +0300" stop="20260523000000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519143000 +0300" stop="20260519160000 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260523000000 +0300" stop="20260523040000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519160000 +0300" stop="20260519180000 +0300" channel="XTV100002326">
+    <title lang="el">Στο Κόκκινο</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τη Γωγώ Καλληδονάκη. Παρουσιάζει θέματα από την καθημερινότητα με χιούμορ και φιλοξενεί πολλές εκπλήξεις. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260523040000 +0300" stop="20260523080000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519180000 +0300" stop="20260519183000 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260523080000 +0300" stop="20260523120000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519183000 +0300" stop="20260519195000 +0300" channel="XTV100002326">
+    <title lang="el">Με Άλλη Ματιά</title>
+    <desc lang="el">Μικρά και μεγάλα ντοκιμαντέρ από εξαιρετικούς Έλληνες σκηνοθέτες και κινηματογραφιστές.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260523120000 +0300" stop="20260523160000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519195000 +0300" stop="20260519200000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
   </programme>
-  <programme start="20260523160000 +0300" stop="20260523200000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519200000 +0300" stop="20260519210000 +0300" channel="XTV100002326">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τα τελευταία γεγονότα από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260523200000 +0300" stop="20260524000000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260519210000 +0300" stop="20260519220000 +0300" channel="XTV100002326">
+    <title lang="el">Στο Επίκεντρο</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260519220000 +0300" stop="20260519231000 +0300" channel="XTV100002326">
+    <title lang="el">Ρεπορτάζ</title>
+    <desc lang="el">Μια ειδησεογραφική εκπομπή που φωτίζει θέματα τα οποία δεν βγαίνουν συχνά στην δημοσιότητα. Με την Ευτυχία Πενταράκη.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260519231000 +0300" stop="20260519234000 +0300" channel="XTV100002326">
+    <title lang="el">Αυτοκράτειρες στο Παλάτι</title>
+    <desc lang="el">Μια νεαρή της οικογένειας των Οκτώ Λάβαρων παντρεύεται τον αυτοκράτορα της δυναστείας Τσινγκ. Αφού επιβιώνει πολλά δολοφονικά σκάνδαλα και προδοσίες, επικρατεί ως η πιο ισχυρή γυναίκα στο χαρέμι του αυτοκράτορα, η χήρα αυτοκράτειρα.</desc>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20260519234000 +0300" stop="20260520000000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260520000000 +0300" stop="20260520002500 +0300" channel="XTV100002326">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες ειδήσεις από τη Nea TV Crete.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260520002500 +0300" stop="20260520011500 +0300" channel="XTV100002326">
+    <title lang="el">Below Deck</title>
+    <desc lang="el">Το νεαρό πλήρωμα ενός πολυτελούς γιοτ βιώνει τη ζωή στη θάλασσα, αντιμετωπίζοντας τα φλερτ στη δουλειά, απαιτητικούς πελάτες και δράματα που φέρνουν φουρτούνες.</desc>
+    <category lang="el">Ριάλιτι</category>
+  </programme>
+  <programme start="20260520011500 +0300" stop="20260520030000 +0300" channel="XTV100002326">
+    <title lang="el">Μάμπο στο Μπαλί</title>
+    <desc lang="el">Δύο άνεργοι φίλοι που ασχολούνται με τη show-biz δέχονται να δουλέψουν σαν δύτες που ψάχνουν θησαυρούς στο Μπαλί για μια πριγκίπισσα στην περιοχή. Έτσι, βρίσκουν θησαυρούς, αγάπη και πολλά προβλήματα... (105')</desc>
+    <category lang="el">Περιπέτεια</category>
+  </programme>
+  <programme start="20260520030000 +0300" stop="20260520050000 +0300" channel="XTV100002326">
+    <title lang="el">Στο Κόκκινο</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τη Γωγώ Καλληδονάκη. Παρουσιάζει θέματα από την καθημερινότητα με χιούμορ και φιλοξενεί πολλές εκπλήξεις. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260520050000 +0300" stop="20260520053000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260520053000 +0300" stop="20260520063000 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260520063000 +0300" stop="20260520074500 +0300" channel="XTV100002326">
+    <title lang="el">Ενορία εν Δράσει</title>
+    <desc lang="el">Επεισόδιο: Ενοριακό Αρχονταρίκι. Ο ρόλος των γονέων στην ανάπτυξη της υγιούς και της ναρκισιστικής αγάπης.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260520074500 +0300" stop="20260520081000 +0300" channel="XTV100002326">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+    <desc lang="el">Sealook. Γνωστοί τηλεοπτικοί ήρωες, φίλοι των μικρών τηλεθεατών.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260520081000 +0300" stop="20260520083500 +0300" channel="XTV100002326">
+    <title lang="el">Τα Στρουμφάκια</title>
+    <desc lang="el">Παιδική σειρά κινουμένων σχεδίων. Πρόκειται για μια φανταστική κοινότητα από μικρά, γαλάζια πλασματάκια, που ζουν σε όμορφα μανιταρόσπιτα μέσα στο δάσος, στο Στρουμφοχωριό.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260520083500 +0300" stop="20260520094000 +0300" channel="XTV100002326">
+    <title lang="el">Καρέ Καρέ: Μαθήματα Σκίτσου</title>
+    <desc lang="el">Ο σκιτσογράφος Δημήτρης Νικολαΐδης παρουσιάζει με απλές γραμμές τα αντικείμενα στο σαλόνι και στην κρεβατοκάμαρα, τη γυναίκα, μέσα μεταφορών, παραλία και αμμουδιά και άλλα σκίτσα καθημερινής ασχολίας. Σκίτσα δίνουν στους επίδοξους σκιτσογράφους την απλότητα και την σκέψη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260520094000 +0300" stop="20260520102000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Travel Man. Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260520102000 +0300" stop="20260520122000 +0300" channel="XTV100002326">
+    <title lang="el">Στο Κόκκινο</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τη Γωγώ Καλληδονάκη. Παρουσιάζει θέματα από την καθημερινότητα με χιούμορ και φιλοξενεί πολλές εκπλήξεις. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260520122000 +0300" stop="20260520132500 +0300" channel="XTV100002326">
+    <title lang="el">Κρητών Έργα</title>
+    <desc lang="el">Θρύλοι, παραδόσεις, ιστορία, πολιτισμός, λαογραφία αλλά και οι φυσικές ομορφιές της Κρήτης συναντώνται σε αυτή την εκπομπή του καναλιού. Γνώστες της ιστορίας του νησιού μας αποκαλύπτουν μια Κρήτη που συναρπάζει.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260520132500 +0300" stop="20260520144000 +0300" channel="XTV100002326">
+    <title lang="el">Παρέα Με Την Αριστέα</title>
+    <desc lang="el">Η εκπομπή επισκέπτεται χωριά της Κρήτης, μας μαθαίνει τους ανθρώπους και την ιστορία τους. Παρέα γνωρίζουμε την παράδοση και την μουσική τους.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260520144000 +0300" stop="20260520150000 +0300" channel="XTV100002326">
+    <title lang="el">Food Story</title>
+    <desc lang="el">Ακολουθήστε τον σεφ Βασίλη Καλλιμούκο στις μαγειρικές του αναζητήσεις μέσα από την εκπομπή Food Story. Όλοι θα μάθουμε κάτι καινούργιο.</desc>
+    <category lang="el">Μαγειρική</category>
+  </programme>
+  <programme start="20260520150000 +0300" stop="20260520160000 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260520160000 +0300" stop="20260520180000 +0300" channel="XTV100002326">
+    <title lang="el">Στο Κόκκινο</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τη Γωγώ Καλληδονάκη. Παρουσιάζει θέματα από την καθημερινότητα με χιούμορ και φιλοξενεί πολλές εκπλήξεις. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260520180000 +0300" stop="20260520183500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260520183500 +0300" stop="20260520195000 +0300" channel="XTV100002326">
+    <title lang="el">Με Άλλη Ματιά</title>
+    <desc lang="el">Μικρά και μεγάλα ντοκιμαντέρ από εξαιρετικούς Έλληνες σκηνοθέτες και κινηματογραφιστές.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260520195000 +0300" stop="20260520200000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260520200000 +0300" stop="20260520210000 +0300" channel="XTV100002326">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τα τελευταία γεγονότα από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260520210000 +0300" stop="20260520222000 +0300" channel="XTV100002326">
+    <title lang="el">Προορισμοί</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή.</desc>
+    <category lang="el">Ψυχολογικό Δράμα</category>
+  </programme>
+  <programme start="20260520222000 +0300" stop="20260520230000 +0300" channel="XTV100002326">
+    <title lang="el">The Summer I Turned Pretty</title>
+    <desc lang="el">Ένα ερωτικό τρίγωνο ανάμεσα σε ένα κορίτσι και δύο αδέρφια. Μια ιστορία για τον πρώτο έρωτα, την πρώτη απογοήτευση και τη μαγεία εκείνου του τέλειου καλοκαιριού.</desc>
+    <category lang="el">Αισθηματική</category>
+  </programme>
+  <programme start="20260520230000 +0300" stop="20260520234000 +0300" channel="XTV100002326">
+    <title lang="el">Αυτοκράτειρες στο Παλάτι</title>
+    <desc lang="el">Μια νεαρή της οικογένειας των Οκτώ Λάβαρων παντρεύεται τον αυτοκράτορα της δυναστείας Τσινγκ. Αφού επιβιώνει πολλά δολοφονικά σκάνδαλα και προδοσίες, επικρατεί ως η πιο ισχυρή γυναίκα στο χαρέμι του αυτοκράτορα, η χήρα αυτοκράτειρα.</desc>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20260520234000 +0300" stop="20260521000000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260521000000 +0300" stop="20260521002500 +0300" channel="XTV100002326">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες ειδήσεις από τη Nea TV Crete.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260521002500 +0300" stop="20260521013500 +0300" channel="XTV100002326">
+    <title lang="el">A Good Day to Be a Dog Ε1</title>
+    <desc lang="el">Η Han Hae Na είναι μια ανύπαντρη δασκάλα γυμνασίου με ένα οικογενειακό μυστικό. Λόγω ενός προγόνου, η οικογένειά της είναι καταραμένη. Όταν κάποιος στην οικογένειά της φιλάει κάποιον, μετατρέπεται σε σκύλο τα μεσάνυχτα για έξι ώρες.</desc>
+    <category lang="el">Κομεντί</category>
+  </programme>
+  <programme start="20260521013500 +0300" stop="20260521031500 +0300" channel="XTV100002326">
+    <title lang="el">Απόσπασμα Αυτοκτονίας</title>
+    <desc lang="el">Ένας καθόλου δημοφιλής στρατηγός οδηγεί τα ιππικά στρατεύματα του σε ένα ορεινό πέρασμα με σκοπό να αντισταθεί στους Απάτσι. (100')</desc>
+    <category lang="el">Γουέστερν</category>
+  </programme>
+  <programme start="20260521031500 +0300" stop="20260521050500 +0300" channel="XTV100002326">
+    <title lang="el">Στο Κόκκινο</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τη Γωγώ Καλληδονάκη. Παρουσιάζει θέματα από την καθημερινότητα με χιούμορ και φιλοξενεί πολλές εκπλήξεις. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260521050500 +0300" stop="20260521053000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260521053000 +0300" stop="20260521063000 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260521063000 +0300" stop="20260521074000 +0300" channel="XTV100002326">
+    <title lang="el">Ενορία εν Δράσει</title>
+    <desc lang="el">Επεισόδιο: Εκ βαθέων. Διοργάνωση: Ι. Ναός Ευαγγελιστρίας Πειραιώς.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260521074000 +0300" stop="20260521081000 +0300" channel="XTV100002326">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+    <desc lang="el">Sealook. Γνωστοί τηλεοπτικοί ήρωες, φίλοι των μικρών τηλεθεατών.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260521081000 +0300" stop="20260521083000 +0300" channel="XTV100002326">
+    <title lang="el">Τα Στρουμφάκια</title>
+    <desc lang="el">Παιδική σειρά κινουμένων σχεδίων. Πρόκειται για μια φανταστική κοινότητα από μικρά, γαλάζια πλασματάκια, που ζουν σε όμορφα μανιταρόσπιτα μέσα στο δάσος, στο Στρουμφοχωριό.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260521083000 +0300" stop="20260521093000 +0300" channel="XTV100002326">
+    <title lang="el">Καρέ Καρέ: Μαθήματα Σκίτσου</title>
+    <desc lang="el">Ο σκιτσογράφος Δημήτρης Νικολαΐδης παρουσιάζει με απλές γραμμές τα αντικείμενα στο σαλόνι και στην κρεβατοκάμαρα, τη γυναίκα, μέσα μεταφορών, παραλία και αμμουδιά και άλλα σκίτσα καθημερινής ασχολίας. Σκίτσα δίνουν στους επίδοξους σκιτσογράφους την απλότητα και την σκέψη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260521093000 +0300" stop="20260521100000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Travel Man. Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260521100000 +0300" stop="20260521120000 +0300" channel="XTV100002326">
+    <title lang="el">Στο Κόκκινο</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τη Γωγώ Καλληδονάκη. Παρουσιάζει θέματα από την καθημερινότητα με χιούμορ και φιλοξενεί πολλές εκπλήξεις. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260521120000 +0300" stop="20260521125000 +0300" channel="XTV100002326">
+    <title lang="el">Κρητών Έργα</title>
+    <desc lang="el">Θρύλοι, παραδόσεις, ιστορία, πολιτισμός, λαογραφία αλλά και οι φυσικές ομορφιές της Κρήτης συναντώνται σε αυτή την εκπομπή του καναλιού. Γνώστες της ιστορίας του νησιού μας αποκαλύπτουν μια Κρήτη που συναρπάζει.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260521125000 +0300" stop="20260521140000 +0300" channel="XTV100002326">
+    <title lang="el">Παρέα Με Την Αριστέα</title>
+    <desc lang="el">Η εκπομπή επισκέπτεται χωριά της Κρήτης, μας μαθαίνει τους ανθρώπους και την ιστορία τους. Παρέα γνωρίζουμε την παράδοση και την μουσική τους.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260521140000 +0300" stop="20260521150000 +0300" channel="XTV100002326">
+    <title lang="el">Food Story</title>
+    <desc lang="el">Ακολουθήστε τον σεφ Βασίλη Καλλιμούκο στις μαγειρικές του αναζητήσεις μέσα από την εκπομπή Food Story. Όλοι θα μάθουμε κάτι καινούργιο.</desc>
+    <category lang="el">Μαγειρική</category>
+  </programme>
+  <programme start="20260521150000 +0300" stop="20260521160000 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260521160000 +0300" stop="20260521180000 +0300" channel="XTV100002326">
+    <title lang="el">Στο Κόκκινο</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τη Γωγώ Καλληδονάκη. Παρουσιάζει θέματα από την καθημερινότητα με χιούμορ και φιλοξενεί πολλές εκπλήξεις. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260521180000 +0300" stop="20260521183500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260521183500 +0300" stop="20260521195000 +0300" channel="XTV100002326">
+    <title lang="el">Με Άλλη Ματιά</title>
+    <desc lang="el">Μικρά και μεγάλα ντοκιμαντέρ από εξαιρετικούς Έλληνες σκηνοθέτες και κινηματογραφιστές.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260521195000 +0300" stop="20260521200000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260521200000 +0300" stop="20260521210000 +0300" channel="XTV100002326">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τα τελευταία γεγονότα από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260521210000 +0300" stop="20260521214000 +0300" channel="XTV100002326">
+    <title lang="el">24 Ώρες Ευρώπη</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260521214000 +0300" stop="20260521223500 +0300" channel="XTV100002326">
+    <title lang="el">The Escapers</title>
+    <desc lang="el">Η Πόπη Μαλλιωτάκη και ο Βασίλης Λαζαρίδης ξεδιπλώνουν για πρώτη φορά την καθημερινότητα τους σε ένα ταξιδιωτικό ριάλιτι γεμάτο στιγμές γέλιου, χαράς και απροσδόκητων καταστάσεων ταξιδεύοντας μας στα πιο hot spots του κόσμου.</desc>
+    <category lang="el">Ριάλιτι</category>
+  </programme>
+  <programme start="20260521223500 +0300" stop="20260521231000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260521231000 +0300" stop="20260522000000 +0300" channel="XTV100002326">
+    <title lang="el">Αυτοκράτειρες στο Παλάτι</title>
+    <desc lang="el">Μια νεαρή της οικογένειας των Οκτώ Λάβαρων παντρεύεται τον αυτοκράτορα της δυναστείας Τσινγκ. Αφού επιβιώνει πολλά δολοφονικά σκάνδαλα και προδοσίες, επικρατεί ως η πιο ισχυρή γυναίκα στο χαρέμι του αυτοκράτορα, η χήρα αυτοκράτειρα.</desc>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20260522000000 +0300" stop="20260522002500 +0300" channel="XTV100002326">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες ειδήσεις από τη Nea TV Crete.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260522002500 +0300" stop="20260522011000 +0300" channel="XTV100002326">
+    <title lang="el">Below Deck</title>
+    <desc lang="el">Το νεαρό πλήρωμα ενός πολυτελούς γιοτ βιώνει τη ζωή στη θάλασσα, αντιμετωπίζοντας τα φλερτ στη δουλειά, απαιτητικούς πελάτες και δράματα που φέρνουν φουρτούνες.</desc>
+    <category lang="el">Ριάλιτι</category>
+  </programme>
+  <programme start="20260522011000 +0300" stop="20260522024500 +0300" channel="XTV100002326">
+    <title lang="el">Σχέδιο 9 από το Διάστημα</title>
+    <desc lang="el">Ίσως η διασημότερη ταινία όλων των εποχών, με τον τίτλο της χειρότερης παραγωγής που έφτασε ποτέ στη μεγάλη οθόνη, είναι το πάντρεμα των ζόμπι, των βαμπίρ και των εξωγήινων,κάτω από της σκηνοθετικές οδηγίες του διαβόητου Ed Wood. (95')</desc>
+    <category lang="el">Τρόμου</category>
+  </programme>
+  <programme start="20260522024500 +0300" stop="20260522033000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260522033000 +0300" stop="20260522053000 +0300" channel="XTV100002326">
+    <title lang="el">Στο Κόκκινο</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τη Γωγώ Καλληδονάκη. Παρουσιάζει θέματα από την καθημερινότητα με χιούμορ και φιλοξενεί πολλές εκπλήξεις. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260522053000 +0300" stop="20260522063000 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260522063000 +0300" stop="20260522083000 +0300" channel="XTV100002326">
+    <title lang="el">Ενορία εν Δράσει</title>
+    <desc lang="el">Επεισόδιο: Ελεύθεροι διάλογοι. Ελεύθεροι διάλογοι - συζήτηση για την διακονία στα νοσοκομεία.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260522083000 +0300" stop="20260522090000 +0300" channel="XTV100002326">
+    <title lang="el">Τα Στρουμφάκια</title>
+    <desc lang="el">Παιδική σειρά κινουμένων σχεδίων. Πρόκειται για μια φανταστική κοινότητα από μικρά, γαλάζια πλασματάκια, που ζουν σε όμορφα μανιταρόσπιτα μέσα στο δάσος, στο Στρουμφοχωριό.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260522090000 +0300" stop="20260522100000 +0300" channel="XTV100002326">
+    <title lang="el">Καρέ Καρέ: Μαθήματα Σκίτσου</title>
+    <desc lang="el">Ο σκιτσογράφος Δημήτρης Νικολαΐδης παρουσιάζει με απλές γραμμές τα αντικείμενα στο σαλόνι και στην κρεβατοκάμαρα, τη γυναίκα, μέσα μεταφορών, παραλία και αμμουδιά και άλλα σκίτσα καθημερινής ασχολίας. Σκίτσα δίνουν στους επίδοξους σκιτσογράφους την απλότητα και την σκέψη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260522100000 +0300" stop="20260522101500 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Travel Man. Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260522101500 +0300" stop="20260522122000 +0300" channel="XTV100002326">
+    <title lang="el">Στο Κόκκινο</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τη Γωγώ Καλληδονάκη. Παρουσιάζει θέματα από την καθημερινότητα με χιούμορ και φιλοξενεί πολλές εκπλήξεις. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260522122000 +0300" stop="20260522130000 +0300" channel="XTV100002326">
+    <title lang="el">Κρητών Έργα</title>
+    <desc lang="el">Θρύλοι, παραδόσεις, ιστορία, πολιτισμός, λαογραφία αλλά και οι φυσικές ομορφιές της Κρήτης συναντώνται σε αυτή την εκπομπή του καναλιού. Γνώστες της ιστορίας του νησιού μας αποκαλύπτουν μια Κρήτη που συναρπάζει.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260522130000 +0300" stop="20260522141500 +0300" channel="XTV100002326">
+    <title lang="el">Παρέα Με Την Αριστέα</title>
+    <desc lang="el">Η εκπομπή επισκέπτεται χωριά της Κρήτης, μας μαθαίνει τους ανθρώπους και την ιστορία τους. Παρέα γνωρίζουμε την παράδοση και την μουσική τους.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260522141500 +0300" stop="20260522150000 +0300" channel="XTV100002326">
+    <title lang="el">Food Story</title>
+    <desc lang="el">Ακολουθήστε τον σεφ Βασίλη Καλλιμούκο στις μαγειρικές του αναζητήσεις μέσα από την εκπομπή Food Story. Όλοι θα μάθουμε κάτι καινούργιο.</desc>
+    <category lang="el">Μαγειρική</category>
+  </programme>
+  <programme start="20260522150000 +0300" stop="20260522160000 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260522160000 +0300" stop="20260522180000 +0300" channel="XTV100002326">
+    <title lang="el">Στο Κόκκινο</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τη Γωγώ Καλληδονάκη. Παρουσιάζει θέματα από την καθημερινότητα με χιούμορ και φιλοξενεί πολλές εκπλήξεις. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260522180000 +0300" stop="20260522183000 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260522183000 +0300" stop="20260522200000 +0300" channel="XTV100002326">
+    <title lang="el">Nea Sport Magazine</title>
+    <desc lang="el">Εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260522200000 +0300" stop="20260522210500 +0300" channel="XTV100002326">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τα τελευταία γεγονότα από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260522210500 +0300" stop="20260522230000 +0300" channel="XTV100002326">
+    <title lang="el">Παρέα Με Την Αριστέα</title>
+    <desc lang="el">Η εκπομπή επισκέπτεται χωριά της Κρήτης, μας μαθαίνει τους ανθρώπους και την ιστορία τους. Παρέα γνωρίζουμε την παράδοση και την μουσική τους.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260522230000 +0300" stop="20260523000000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260523000000 +0300" stop="20260523003000 +0300" channel="XTV100002326">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες ειδήσεις από τη Nea TV Crete.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260523003000 +0300" stop="20260523015000 +0300" channel="XTV100002326">
+    <title lang="el">Nea Sport Magazine</title>
+    <desc lang="el">Εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260523015000 +0300" stop="20260523040000 +0300" channel="XTV100002326">
+    <title lang="el">Ο Κύριος Επιθεωρητής</title>
+    <desc lang="el">Ένας αγράμματος άνδρας περιπλανιέται σε μία πόλη όπου συστήνεται ως γιατρός. Θα αποκαλυφθεί η πλεκτάνη του ή όχι; (130')</desc>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20260523040000 +0300" stop="20260523053000 +0300" channel="XTV100002326">
+    <title lang="el">Στο Κόκκινο</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με τη Γωγώ Καλληδονάκη. Παρουσιάζει θέματα από την καθημερινότητα με χιούμορ και φιλοξενεί πολλές εκπλήξεις. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260523053000 +0300" stop="20260523062500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260523062500 +0300" stop="20260523082500 +0300" channel="XTV100002326">
+    <title lang="el">Ενορία εν Δράσει</title>
+    <desc lang="el">Επεισόδιο: Ελεύθεροι διάλογοι. Η υγεία ως δικαίωμα: Στήριξη των φτωχών στην Αφρική.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260523082500 +0300" stop="20260523093000 +0300" channel="XTV100002326">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+    <desc lang="el">Sealook. Γνωστοί τηλεοπτικοί ήρωες, φίλοι των μικρών τηλεθεατών.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260523093000 +0300" stop="20260523103000 +0300" channel="XTV100002326">
+    <title lang="el">Τα Στρουμφάκια</title>
+    <desc lang="el">Παιδική σειρά κινουμένων σχεδίων. Πρόκειται για μια φανταστική κοινότητα από μικρά, γαλάζια πλασματάκια, που ζουν σε όμορφα μανιταρόσπιτα μέσα στο δάσος, στο Στρουμφοχωριό.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260523103000 +0300" stop="20260523112000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Travel Man. Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260523112000 +0300" stop="20260523113000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260523113000 +0300" stop="20260523120000 +0300" channel="XTV100002326">
+    <title lang="el">Γκρεμνά Είναι Εμάς οι Τόποι μας</title>
+    <desc lang="el">Η Ευτυχία Πενταράκη, με την κάμερα της εκπομπής, επισκέπτεται τα ομορφότερα μέρη της Κρήτης.</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+  </programme>
+  <programme start="20260523120000 +0300" stop="20260523131000 +0300" channel="XTV100002326">
+    <title lang="el">Κρητών Έργα</title>
+    <desc lang="el">Θρύλοι, παραδόσεις, ιστορία, πολιτισμός, λαογραφία αλλά και οι φυσικές ομορφιές της Κρήτης συναντώνται σε αυτή την εκπομπή του καναλιού. Γνώστες της ιστορίας του νησιού μας αποκαλύπτουν μια Κρήτη που συναρπάζει.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260523131000 +0300" stop="20260523140000 +0300" channel="XTV100002326">
+    <title lang="el">Καρέ Καρέ: Μαθήματα Σκίτσου</title>
+    <desc lang="el">Ο σκιτσογράφος Δημήτρης Νικολαΐδης παρουσιάζει με απλές γραμμές τα αντικείμενα στο σαλόνι και στην κρεβατοκάμαρα, τη γυναίκα, μέσα μεταφορών, παραλία και αμμουδιά και άλλα σκίτσα καθημερινής ασχολίας. Σκίτσα δίνουν στους επίδοξους σκιτσογράφους την απλότητα και την σκέψη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260523140000 +0300" stop="20260523150000 +0300" channel="XTV100002326">
+    <title lang="el">Food Story</title>
+    <desc lang="el">Ακολουθήστε τον σεφ Βασίλη Καλλιμούκο στις μαγειρικές του αναζητήσεις μέσα από την εκπομπή Food Story. Όλοι θα μάθουμε κάτι καινούργιο.</desc>
+    <category lang="el">Μαγειρική</category>
+  </programme>
+  <programme start="20260523150000 +0300" stop="20260523153500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260523153500 +0300" stop="20260523173000 +0300" channel="XTV100002326">
+    <title lang="el">Χρονοταξιδιώτες: Ο Θησαυρός της Σπηλιάς του Πειρατή</title>
+    <desc lang="el">Σε αναζήτηση ενός χαμένου θησαυρού, κάποιοι πειρατές που ταξιδεύουν στον χρόνο καταλήγουν στη σύγχρονη εποχή. Εκεί, όμως, θα βρεθούν αντιμέτωποι με έναν απρόσμενο εχθρό: μια παρέα παιδιών με εξοπλισμό τελευταίας τεχνολογίας. (90')</desc>
+    <category lang="el">Περιπέτεια</category>
+  </programme>
+  <programme start="20260523173000 +0300" stop="20260523180000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260523180000 +0300" stop="20260523183000 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260523183000 +0300" stop="20260523192000 +0300" channel="XTV100002326">
+    <title lang="el">Πόλεις - Κράτη</title>
+    <desc lang="el">H Νίνα Μαλανδράκη, μας συστήνει ξανά τους Δήμους της σύγχρονης Ελλάδας.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260523192000 +0300" stop="20260523200000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260523200000 +0300" stop="20260523203500 +0300" channel="XTV100002326">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τα τελευταία γεγονότα από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260523203500 +0300" stop="20260523223500 +0300" channel="XTV100002326">
+    <title lang="el">Παρέα Με Την Αριστέα</title>
+    <desc lang="el">Η εκπομπή επισκέπτεται χωριά της Κρήτης, μας μαθαίνει τους ανθρώπους και την ιστορία τους. Παρέα γνωρίζουμε την παράδοση και την μουσική τους.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260523223500 +0300" stop="20260524000000 +0300" channel="XTV100002326">
+    <title lang="el">Η Έμιλυ και το Μαγικό Ταξίδι</title>
+    <desc lang="el">Η Έμιλυ και η μητέρα της ζουν μόνες, καθώς έχει χάσει τον πατέρα της. Θα προσπαθήσει να βοηθήσει τη μαμά της να βρει την ευτυχία και να μάθει για τον πατέρα που ποτέ δεν γνώρισε. (85')</desc>
+    <category lang="el">Οικογενειακή</category>
   </programme>
   <programme start="20260517224500 +0300" stop="20260518004500 +0300" channel="XTV100000909">
     <title lang="el">Movie Time</title>
