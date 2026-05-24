@@ -24273,27 +24273,17 @@
     <desc lang="el">Ιαπωνία, SS4 Asuke 2. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260523230000 +0300" stop="20260524023000 +0300" channel="XTV100001360">
+  <programme start="20260523230000 +0300" stop="20260524041000 +0300" channel="XTV100001360">
     <title lang="el">Πολεμικές Τέχνες: UFC Fight Night 2026</title>
     <desc lang="el">Άρνολντ Άλεν - Μελκιζαέλ Κόστα. Λας Βέγκας, ΗΠΑ. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια COSMOTE SPORT.</desc>
     <category lang="el">Πολεμικές Τέχνες</category>
   </programme>
-  <programme start="20260524023000 +0300" stop="20260524033000 +0300" channel="XTV100001360">
-    <title lang="el">ATP Masters 1000 2026 - Στιγμιότυπα</title>
-    <desc lang="el">Ρώμη. Παρακολουθήστε τα στιγμιότυπα των κυριότερων αγώνων των τουρνουά ATP 1000, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260524033000 +0300" stop="20260524053000 +0300" channel="XTV100001360">
+  <programme start="20260524041000 +0300" stop="20260524061000 +0300" channel="XTV100001360">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Μπουένος 'Αιρες (Τελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260524053000 +0300" stop="20260524060000 +0300" channel="XTV100001360">
-    <title lang="el">Sports Classics: 2026 Sports Rundown Ε3</title>
-    <desc lang="el">Ένα συναρπαστικό ταξίδι σε αρένες, γήπεδα, γυμναστήρια και χώρους σε όλο τον κόσμο, όπου αντηχούν οι παλμοί της καρδιάς των αθλημάτων. Οι αθλητές βάζουν τα πάντα σε κάθε άθλημα, αλλά έχετε αναρωτηθεί ποτέ για το άτομο που κρύβεται πίσω από τον αθλητή;</desc>
-    <category lang="el">Εκπομπή</category>
-  </programme>
-  <programme start="20260524060000 +0300" stop="20260524070000 +0300" channel="XTV100001360">
+  <programme start="20260524061000 +0300" stop="20260524070000 +0300" channel="XTV100001360">
     <title lang="el">Beach Volley: Pro Tour Elite 16 2026</title>
     <desc lang="el">Μπραζίλια (Τελικός 3ης Θέσης Ανδρών). Το 2026 Volleyball World Beach Pro Tour είναι η τέταρτη έκδοση του παγκόσμιου πρωταθλήματος beach volley που διοργανώνεται από την FIVB για το 2026. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Beach Volley</category>
@@ -24318,22 +24308,12 @@
     <desc lang="el">Στιγμιότυπα.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260524101500 +0300" stop="20260524104500 +0300" channel="XTV100001360">
+  <programme start="20260524101500 +0300" stop="20260524105000 +0300" channel="XTV100001360">
     <title lang="el">Sports Classics: The Outdoor Sports Show 2026 Ε5</title>
     <desc lang="el">Αυτή η σειρά παρουσιάζει ένα ευρύ φάσμα υπαίθριων σπορ καθώς και τους αθλητές που αγωνίζονται σε αυτά. Η εκπομπή καλύπτει από επαγγελματικά και ψυχαγωγικά έως και extreme sports, όπως αγώνες μαραθωνίου, αναρρίχηση, σκι, σέρφινγκ, πεζοπορία, τρίαθλο, ιστιοπλοΐα και ποδηλασία.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
-  <programme start="20260524104500 +0300" stop="20260524110500 +0300" channel="XTV100001360">
-    <title lang="el">Sports Classics: Worldies Ε5</title>
-    <desc lang="el">Στιγμιότυπα. Από τη F1 έως την υψηλή κατάδυση και ένα σωρό άλλα extreme sports, κάθε εκπομπή παρουσιάζει και αναδεικνύει μέσα από 5 βίντεο μερικές από τις πιο απίστευτες στιγμές, διοργανώσεις και αθλητές σε όλα τα σπορ δράσης.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260524110500 +0300" stop="20260524112500 +0300" channel="XTV100001360">
-    <title lang="el">Sports Classics: Worldies Ε6</title>
-    <desc lang="el">Στιγμιότυπα. Από τη F1 έως την υψηλή κατάδυση και ένα σωρό άλλα extreme sports, κάθε εκπομπή παρουσιάζει και αναδεικνύει μέσα από 5 βίντεο μερικές από τις πιο απίστευτες στιγμές, διοργανώσεις και αθλητές σε όλα τα σπορ δράσης.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260524112500 +0300" stop="20260524135500 +0300" channel="XTV100001360">
+  <programme start="20260524105000 +0300" stop="20260524135500 +0300" channel="XTV100001360">
     <title lang="el">Τένις: Μαριάνο Ναβόνε - Λέρνερ Τιέν</title>
     <desc lang="el">ATP 250 2026. Γενεύη (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Τένις</category>
@@ -24348,20 +24328,15 @@
     <desc lang="el">DAIKIN Bundesliga 2025-26. 32η Αγωνιστική.  Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Χάντμπολ</category>
   </programme>
-  <programme start="20260524174500 +0300" stop="20260524180000 +0300" channel="XTV100001360">
-    <title lang="el">Αθλητικά Στιγμιότυπα</title>
-    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260524180000 +0300" stop="20260524203000 +0300" channel="XTV100001360">
+  <programme start="20260524174500 +0300" stop="20260524204500 +0300" channel="XTV100001360">
     <title lang="el">Τένις: Ιγκνάσιο Μπούζε - Τόμι Πολ</title>
     <desc lang="el">ATP 500 2026. Αμβούργο (Τελικός). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Λάμπρος Μπαλάφας.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260524203000 +0300" stop="20260524210000 +0300" channel="XTV100001360">
-    <title lang="el">Sports Classics: The Outdoor Sports Show 2026 Ε5</title>
-    <desc lang="el">Αυτή η σειρά παρουσιάζει ένα ευρύ φάσμα υπαίθριων σπορ καθώς και τους αθλητές που αγωνίζονται σε αυτά. Η εκπομπή καλύπτει από επαγγελματικά και ψυχαγωγικά έως και extreme sports, όπως αγώνες μαραθωνίου, αναρρίχηση, σκι, σέρφινγκ, πεζοπορία, τρίαθλο, ιστιοπλοΐα και ποδηλασία.</desc>
-    <category lang="el">Άλλο Άθλημα</category>
+  <programme start="20260524204500 +0300" stop="20260524210000 +0300" channel="XTV100001360">
+    <title lang="el">Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260524210000 +0300" stop="20260524223000 +0300" channel="XTV100001360">
     <title lang="el">Ποδόσφαιρο: Socca Euro 2026 (Ζ)</title>
