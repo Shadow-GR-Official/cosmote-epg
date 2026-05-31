@@ -2508,15 +2508,10 @@
     <desc lang="el">H εκπομπή μας μεταφέρει τον παλμό της αθλητικής επικαιρότητας με τις πιο φρέσκες ειδήσεις, σχολιασμό της ειδησεογραφίας, αναλύσεις, καλεσμένους στο στούντιο και απευθείας συνδέσεις.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
-  <programme start="20260602170000 +0300" stop="20260602180000 +0300" channel="XTV100000955">
-    <title lang="el">Auto Moto ΕΡΤ (Ε)</title>
-    <desc lang="el">Εκπομπή για τον μηχανοκίνητο αθλητισμό, με παρουσιαστές τους Νίκο Κορόβηλα, Νίκο Παγιωτέλη και Άγγελο Σταθακόπουλο.</desc>
-    <category lang="el">Μηχανοκίνητα</category>
-  </programme>
-  <programme start="20260602180000 +0300" stop="20260602183000 +0300" channel="XTV100000955">
-    <title lang="el">The Evolution of Sport (Ε)</title>
-    <desc lang="el">Επεισόδιο: Ολυμπιακοί Αγώνες: λίκνο της ενότητας. Η εξέλιξη του Ολυμπιακού κινήματος έχει διαμορφώσει τον παγκόσμιο αθλητισμό, μετατρέποντάς τον σε φάρο της ενότητας των ανθρώπων και της αθλητικής υπεροχής.</desc>
-    <category lang="el">Αθλητισμός - Αθλητές</category>
+  <programme start="20260602170000 +0300" stop="20260602183000 +0300" channel="XTV100000955">
+    <title lang="el">Πόλο: Βουλιαγμένη - Ολυμπιακός (Ζ)</title>
+    <desc lang="el">Ελληνικό Πρωτάθλημα Πόλο Α1 Γυναικών 2025-26. 4ος τελικός play-off. 13 Ελληνίδες πολίστριες που αναδείχθηκαν παγκόσμιες πρωταθλήτριες το 2025 κοσμούν το νέο πρωτάθλημα. Μετά από 11 χρόνια αδιάλειπτης κυριαρχίας του Ολυμπιακού, η Βουλιαγμένη κατέκτησε πέρσι τον τίτλο.</desc>
+    <category lang="el">Πόλο</category>
   </programme>
   <programme start="20260602183000 +0300" stop="20260602190000 +0300" channel="XTV100000955">
     <title lang="el">Αστέρια στον Πάγο</title>
@@ -22218,15 +22213,20 @@
     <desc lang="el">UEFA Conference League 2025-26. Τελικός. Στη Λειψία, Κρίσταλ Πάλας και Ράγιο Βαγεκάνο θα τεθούν αντιμέτωπες στον τελικό του UEFA Conference League, με στόχο να διαδεχθούν την Τσέλσι. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260531183000 +0300" stop="20260531210000 +0300" channel="XTV100001071">
+  <programme start="20260531183000 +0300" stop="20260531220000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Παρί Σεν Ζερμέν - Άρσεναλ</title>
     <desc lang="el">UEFA Champions League 2025-26. Τελικός. Με στόχο το δεύτερο σερί τρόπαιο του UEFA Champions League η Παρί ταξιδεύει στη Βουδαπέστη για να αντιμετωπίσει στον τελικό την Άρσεναλ, η οποία ψάχνει το βήμα παραπάνω σε σχέση με τον χαμένο τελικό του 2006. Περιγραφή: Μιχάλης Τσόχος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260531210000 +0300" stop="20260531233000 +0300" channel="XTV100001071">
-    <title lang="el">Ποδόσφαιρο: Κρίσταλ Πάλας - Ράγιο Βαγιεκάνο</title>
-    <desc lang="el">UEFA Conference League 2025-26. Τελικός. Στη Λειψία, Κρίσταλ Πάλας και Ράγιο Βαγεκάνο θα τεθούν αντιμέτωπες στον τελικό του UEFA Conference League, με στόχο να διαδεχθούν την Τσέλσι. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
+  <programme start="20260531220000 +0300" stop="20260531225500 +0300" channel="XTV100001071">
+    <title lang="el">UEFA Champions League - Στιγμιότυπα 2025-26</title>
+    <desc lang="el">Τελικός. Τα καλύτερα στιγμιότυπα της αγωνιστικής του UEFA Champions League. Στιγμές γεμάτες πάθος, δυνατές μάχες και τα καλύτερα γκολ που ξεχώρισαν ανά αγωνιστική ημέρα αφιερωμένα στην κορυφαία διοργάνωση.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260531225500 +0300" stop="20260531233000 +0300" channel="XTV100001071">
+    <title lang="el">Game R1</title>
+    <desc lang="el">Οι οικοδεσπότες του Game R1 Παύλος Παπαπαύλου και Κορίνα Ντιλενιάν 'συνοδεύουν' το gaming κοινό σε παρουσιάσεις παιχνιδιών και προϊόντων hardware, ενώ αποκαλύπτουν τα τελευταία νέα από τον χώρο των videogames, των eSports και των μεγαλύτερων events σε Ελλάδα και εξωτερικό.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
   <programme start="20260531233000 +0300" stop="20260601003000 +0300" channel="XTV100001071">
     <title lang="el">UEFA Champions League - Στιγμιότυπα 2025-26</title>
@@ -22263,15 +22263,10 @@
     <desc lang="el">UEFA Conference League 2025-26. Τελικός. Στη Λειψία, Κρίσταλ Πάλας και Ράγιο Βαγεκάνο θα τεθούν αντιμέτωπες στον τελικό του UEFA Conference League, με στόχο να διαδεχθούν την Τσέλσι. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260601083000 +0300" stop="20260601110000 +0300" channel="XTV100001071">
+  <programme start="20260601083000 +0300" stop="20260601120000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Παρί Σεν Ζερμέν - Άρσεναλ</title>
     <desc lang="el">UEFA Champions League 2025-26. Τελικός. Με στόχο το δεύτερο σερί τρόπαιο του UEFA Champions League η Παρί ταξιδεύει στη Βουδαπέστη για να αντιμετωπίσει στον τελικό την Άρσεναλ, η οποία ψάχνει το βήμα παραπάνω σε σχέση με τον χαμένο τελικό του 2006. Περιγραφή: Μιχάλης Τσόχος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
-  </programme>
-  <programme start="20260601110000 +0300" stop="20260601120000 +0300" channel="XTV100001071">
-    <title lang="el">UEFA Champions League - Στιγμιότυπα 2025-26</title>
-    <desc lang="el">Τελικός. Τα καλύτερα στιγμιότυπα της αγωνιστικής του UEFA Champions League. Στιγμές γεμάτες πάθος, δυνατές μάχες και τα καλύτερα γκολ που ξεχώρισαν ανά αγωνιστική ημέρα αφιερωμένα στην κορυφαία διοργάνωση.</desc>
-    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260601120000 +0300" stop="20260601121500 +0300" channel="XTV100001071">
     <title lang="el">Αθλητικά Στιγμιότυπα</title>
@@ -22293,29 +22288,34 @@
     <desc lang="el">UEFA Conference League 2025-26. Τελικός. Στη Λειψία, Κρίσταλ Πάλας και Ράγιο Βαγεκάνο θα τεθούν αντιμέτωπες στον τελικό του UEFA Conference League, με στόχο να διαδεχθούν την Τσέλσι. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260601193000 +0300" stop="20260601220000 +0300" channel="XTV100001071">
+  <programme start="20260601193000 +0300" stop="20260601230000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Παρί Σεν Ζερμέν - Άρσεναλ</title>
     <desc lang="el">UEFA Champions League 2025-26. Τελικός. Με στόχο το δεύτερο σερί τρόπαιο του UEFA Champions League η Παρί ταξιδεύει στη Βουδαπέστη για να αντιμετωπίσει στον τελικό την Άρσεναλ, η οποία ψάχνει το βήμα παραπάνω σε σχέση με τον χαμένο τελικό του 2006. Περιγραφή: Μιχάλης Τσόχος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260601220000 +0300" stop="20260601223000 +0300" channel="XTV100001071">
+  <programme start="20260601230000 +0300" stop="20260601233000 +0300" channel="XTV100001071">
     <title lang="el">UEFA Champions League Μαγκαζίνο 2024-25 Ε35</title>
     <desc lang="el">Μια σειρά εκπομπών αφιερωμένη στο UEFA Champions League με συνεντεύξεις παικτών και προπονητών, παρουσίαση προφίλ των ομάδων και αποκλειστικά πλάνα από την κορυφαία διοργάνωση.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260601223000 +0300" stop="20260602010000 +0300" channel="XTV100001071">
-    <title lang="el">Ποδόσφαιρο: Φράιμπουργκ - Άστον Βίλα</title>
-    <desc lang="el">UEFA Europa League 2025-26. Τελικός. Φράιμπουργκ και Άστον Βίλα θα αναμετρηθούν στον τελικό του UEFA Europa League, με στόχο το τρόπαιο και μία θέση στο UCL της σεζόν 2026-27. Περιγραφή: Στέφανος Αβραμίδης.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
+  <programme start="20260601233000 +0300" stop="20260602003000 +0300" channel="XTV100001071">
+    <title lang="el">UEFA Champions League - Στιγμιότυπα 2025-26</title>
+    <desc lang="el">Τελικός. Τα καλύτερα στιγμιότυπα της αγωνιστικής του UEFA Champions League. Στιγμές γεμάτες πάθος, δυνατές μάχες και τα καλύτερα γκολ που ξεχώρισαν ανά αγωνιστική ημέρα αφιερωμένα στην κορυφαία διοργάνωση.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260601223000 +0300" stop="20260602010000 +0300" channel="XTV100001071">
-    <title lang="el">Ποδόσφαιρο: Φράιμπουργκ - Άστον Βίλα</title>
-    <desc lang="el">UEFA Europa League 2025-26. Τελικός. Φράιμπουργκ και Άστον Βίλα θα αναμετρηθούν στον τελικό του UEFA Europa League, με στόχο το τρόπαιο και μία θέση στο UCL της σεζόν 2026-27. Περιγραφή: Στέφανος Αβραμίδης.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
+  <programme start="20260601233000 +0300" stop="20260602003000 +0300" channel="XTV100001071">
+    <title lang="el">UEFA Champions League - Στιγμιότυπα 2025-26</title>
+    <desc lang="el">Τελικός. Τα καλύτερα στιγμιότυπα της αγωνιστικής του UEFA Champions League. Στιγμές γεμάτες πάθος, δυνατές μάχες και τα καλύτερα γκολ που ξεχώρισαν ανά αγωνιστική ημέρα αφιερωμένα στην κορυφαία διοργάνωση.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260602010000 +0300" stop="20260602030000 +0300" channel="XTV100001071">
+  <programme start="20260602003000 +0300" stop="20260602023000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Ρέιντζερς - Παναθηναϊκός</title>
     <desc lang="el">UEFA Champions League 2025-26. 2ος Προκριματικός Γύρος, 1η Αγωνιστική.  Περιγραφή: Στέφανος Αβραμίδης.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260602023000 +0300" stop="20260602030000 +0300" channel="XTV100001071">
+    <title lang="el">UEFA Champions League Μαγκαζίνο 2024-25 Ε35</title>
+    <desc lang="el">Μια σειρά εκπομπών αφιερωμένη στο UEFA Champions League με συνεντεύξεις παικτών και προπονητών, παρουσίαση προφίλ των ομάδων και αποκλειστικά πλάνα από την κορυφαία διοργάνωση.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260602030000 +0300" stop="20260602050500 +0300" channel="XTV100001071">
@@ -23553,12 +23553,12 @@
     <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 2ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260601100000 +0300" stop="20260601120000 +0300" channel="XTV100001109">
+  <programme start="20260601100000 +0300" stop="20260601121000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπεσίκτας - Γαλατασαράι</title>
     <desc lang="el">Turkish Basketball Super League 2025-26. Προημιτελική Φάση, 3ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260601120000 +0300" stop="20260601130000 +0300" channel="XTV100001109">
+  <programme start="20260601121000 +0300" stop="20260601130000 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials: Basketball Stories</title>
     <desc lang="el">The Mailman. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
@@ -23589,8 +23589,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260601190000 +0300" stop="20260601210000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: ACB Liga Endesa 2026-27</title>
-    <desc lang="el">Playoffs (34η αγωνιστική).</desc>
+    <title lang="el">Μπάσκετ: Μπαρτσελόνα - Βαλένθια</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. 33η Αγωνιστική.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260601210000 +0300" stop="20260601230000 +0300" channel="XTV100001109">
@@ -23603,29 +23603,29 @@
     <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της κάθε αγωνιστικής στο ισπανικό πρωτάθλημα μπάσκετ. Οι κορυφαίες φάσεις, τα νικητήρια καλάθια και αρκετά παραλειπόμενα από την ποιοτικότερη εθνική λίγκα της Ευρώπης.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260601233000 +0300" stop="20260602000000 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials: Basketball Stories</title>
-    <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260602000000 +0300" stop="20260602020000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Μπεσίκτας - Γαλατασαράι</title>
-    <desc lang="el">Turkish Basketball Super League 2025-26. Προημιτελική Φάση, 3ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
+  <programme start="20260601233000 +0300" stop="20260602014000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Φενέρμπαχτσε - Αναντολού Εφές</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 1ος Αγώνας.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260602020000 +0300" stop="20260602040000 +0300" channel="XTV100001109">
+  <programme start="20260601233000 +0300" stop="20260602014000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Φενέρμπαχτσε - Αναντολού Εφές</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 1ος Αγώνας.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260602014000 +0300" stop="20260602035000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπαρτσελόνα - Βαλένθια</title>
     <desc lang="el">ACB Liga Endesa 2025-26. 33η Αγωνιστική. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260602040000 +0300" stop="20260602060000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Lega Basket Serie A 2025-26</title>
-    <desc lang="el">Hμιτελική Φάση.</desc>
+  <programme start="20260602035000 +0300" stop="20260602060000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Γαλατασαράι</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Προημιτελική Φάση, 3ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260602060000 +0300" stop="20260602080000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Μπεσίκτας - Γαλατασαράι</title>
-    <desc lang="el">Turkish Basketball Super League 2025-26. Προημιτελική Φάση, 3ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
+    <title lang="el">Μπάσκετ: Μπρέσια - Αρμάνι Μιλάνο</title>
+    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 2ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260602080000 +0300" stop="20260602100000 +0300" channel="XTV100001109">
@@ -23634,13 +23634,13 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260602100000 +0300" stop="20260602120000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Βίρτους Μπολόνια - Βενέτσια</title>
-    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 2ος Αγώνας.  Περιγραφή: Βασίλης Σκουντής.</desc>
+    <title lang="el">Μπάσκετ: Φενέρμπαχτσε - Αναντολού Εφές</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 1ος Αγώνας.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260602120000 +0300" stop="20260602140000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Μπεσίκτας - Γαλατασαράι</title>
-    <desc lang="el">Turkish Basketball Super League 2025-26. Προημιτελική Φάση, 3ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
+    <title lang="el">Μπάσκετ: Βίρτους Μπολόνια - Βενέτσια</title>
+    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 2ος Αγώνας.  Περιγραφή: Βασίλης Σκουντής.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260602140000 +0300" stop="20260602160000 +0300" channel="XTV100001109">
@@ -23654,8 +23654,8 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260602163000 +0300" stop="20260602183000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Βίρτους Μπολόνια - Βενέτσια</title>
-    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 2ος Αγώνας.  Περιγραφή: Βασίλης Σκουντής.</desc>
+    <title lang="el">Μπάσκετ: Φενέρμπαχτσε - Αναντολού Εφές</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 1ος Αγώνας.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260602183000 +0300" stop="20260602190000 +0300" channel="XTV100001109">
@@ -23664,8 +23664,8 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260602190000 +0300" stop="20260602205500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2026-27</title>
-    <desc lang="el">Playoffs.</desc>
+    <title lang="el">Μπάσκετ: Βίρτους Μπολόνια - Βενέτσια</title>
+    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 2ος Αγώνας.  Περιγραφή: Βασίλης Σκουντής.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260602205500 +0300" stop="20260602213000 +0300" channel="XTV100001109">
@@ -23679,13 +23679,13 @@
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260602231500 +0300" stop="20260603011500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: ACB Liga Endesa 2026-27</title>
-    <desc lang="el">Πλέι-οφ, 34η Αγωνιστική.</desc>
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 1ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260602231500 +0300" stop="20260603011500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: ACB Liga Endesa 2026-27</title>
-    <desc lang="el">Πλέι-οφ, 34η Αγωνιστική.</desc>
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 1ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260603011500 +0300" stop="20260603014500 +0300" channel="XTV100001109">
@@ -23704,8 +23704,8 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260603040000 +0300" stop="20260603060000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: ACB Liga Endesa 2026-27</title>
-    <desc lang="el">Πλέι-οφ, 34η Αγωνιστική.</desc>
+    <title lang="el">Μπάσκετ: ACB Liga Endesa 2025-26</title>
+    <desc lang="el">Προημιτελική Φάση, 1ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260603060000 +0300" stop="20260603080000 +0300" channel="XTV100001109">
@@ -23714,13 +23714,13 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260603080000 +0300" stop="20260603100000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2026-27</title>
-    <desc lang="el">Playoffs.</desc>
+    <title lang="el">Μπάσκετ: Ρεάλ Μαδρίτης - Τενερίφη</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Προημιτελική Φάση, 1ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260603100000 +0300" stop="20260603120000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: ACB Liga Endesa 2026-27</title>
-    <desc lang="el">Πλέι-οφ, Προημιτελική Φάση.</desc>
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 1ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260603120000 +0300" stop="20260603122000 +0300" channel="XTV100001109">
@@ -23733,59 +23733,49 @@
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260603140500 +0300" stop="20260603143000 +0300" channel="XTV100001109">
-    <title lang="el">Ισπανικό Πρωτάθλημα 2025-26 - 5η Περίοδος Ε33</title>
-    <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της κάθε αγωνιστικής στο ισπανικό πρωτάθλημα μπάσκετ. Οι κορυφαίες φάσεις, τα νικητήρια καλάθια και αρκετά παραλειπόμενα από την ποιοτικότερη εθνική λίγκα της Ευρώπης.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260603143000 +0300" stop="20260603163000 +0300" channel="XTV100001109">
+  <programme start="20260603140500 +0300" stop="20260603161000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπρέσια - Αρμάνι Μιλάνο</title>
     <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 2ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260603163000 +0300" stop="20260603170000 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials: Basketball Stories</title>
-    <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260603170000 +0300" stop="20260603190000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2026-27</title>
-    <desc lang="el">Playoffs.</desc>
+  <programme start="20260603161000 +0300" stop="20260603181000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Ρεάλ Μαδρίτης - Τενερίφη</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Προημιτελική Φάση, 1ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260603190000 +0300" stop="20260603193000 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials</title>
-    <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260603193000 +0300" stop="20260603211500 +0300" channel="XTV100001109">
+  <programme start="20260603181000 +0300" stop="20260603200000 +0300" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260603211500 +0300" stop="20260604000000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: ΑΕΚ - Ρίτας Βίλνιους</title>
-    <desc lang="el">FIBA Basketball Champions League 2025-26. Τελικός. Παρακολουθήστε τους αγώνες της 10ης σεζόν του FIBA Basketball Champions League. 32 ομάδες μπαίνουν στην αφετηρία από τη φάση των ομίλων, μέχρι το Φάιναλ Φορ που θα αναδείξει τον πρωταθλητή. Περιγραφή: Γιάννης Φιλέρης, Άρης Μπάρκας.</desc>
+  <programme start="20260603200000 +0300" stop="20260603220000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: ACB Liga Endesa 2025-26 (Ζ)</title>
+    <desc lang="el">Προημιτελική Φάση, 1ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: ACB Liga Endesa 2026-27</title>
-    <desc lang="el">Πλέι-οφ, Προημιτελική Φάση.</desc>
-    <category lang="el">Μπάσκετ</category>
-  </programme>
-  <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="XTV100001109">
+  <programme start="20260603220000 +0300" stop="20260604000000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Μπρέσια</title>
     <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 3ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
+  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: ACB Liga Endesa 2025-26</title>
+    <desc lang="el">Προημιτελική Φάση, 1ος Αγώνας.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Φενέρμπαχτσε - Αναντολού Εφές</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 2ος Αγώνας.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
   <programme start="20260604040000 +0300" stop="20260604060000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2026-27</title>
-    <desc lang="el">Playoffs.</desc>
+    <title lang="el">Μπάσκετ: ACB Liga Endesa 2025-26</title>
+    <desc lang="el">Προημιτελική Φάση, 1ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260604060000 +0300" stop="20260604080000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: ACB Liga Endesa 2026-27</title>
-    <desc lang="el">Πλέι-οφ, Προημιτελική Φάση.</desc>
+    <title lang="el">Μπάσκετ: ACB Liga Endesa 2025-26</title>
+    <desc lang="el">Προημιτελική Φάση, 1ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260604080000 +0300" stop="20260604100000 +0300" channel="XTV100001109">
@@ -23794,8 +23784,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260604100000 +0300" stop="20260604120000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2026-27</title>
-    <desc lang="el">Playoffs.</desc>
+    <title lang="el">Μπάσκετ: Φενέρμπαχτσε - Αναντολού Εφές</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 2ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260604120000 +0300" stop="20260604123000 +0300" channel="XTV100001109">
@@ -23809,13 +23799,13 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260604130000 +0300" stop="20260604160000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: NBA Finals 2026</title>
-    <desc lang="el">1ος Αγώνας.</desc>
+    <title lang="el">Μπάσκετ: Σαν Αντόνιο Σπερς - Νιου Γιορκ Νικς</title>
+    <desc lang="el">NBA Finals 2026. 1ος Αγώνας.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260604160000 +0300" stop="20260604180000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: ACB Liga Endesa 2026-27</title>
-    <desc lang="el">Πλέι-οφ, Προημιτελική Φάση.</desc>
+    <title lang="el">Μπάσκετ: ACB Liga Endesa 2025-26</title>
+    <desc lang="el">Προημιτελική Φάση, 1ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="XTV100001109">
@@ -23839,13 +23829,13 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260604213000 +0300" stop="20260605003000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: NBA Finals 2026</title>
-    <desc lang="el">1ος Αγώνας.</desc>
+    <title lang="el">Μπάσκετ: Σαν Αντόνιο Σπερς - Νιου Γιορκ Νικς</title>
+    <desc lang="el">NBA Finals 2026. 1ος Αγώνας.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260604213000 +0300" stop="20260605003000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: NBA Finals 2026</title>
-    <desc lang="el">1ος Αγώνας.</desc>
+    <title lang="el">Μπάσκετ: Σαν Αντόνιο Σπερς - Νιου Γιορκ Νικς</title>
+    <desc lang="el">NBA Finals 2026. 1ος Αγώνας.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260605003000 +0300" stop="20260605013000 +0300" channel="XTV100001109">
@@ -23859,8 +23849,8 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260605020000 +0300" stop="20260605040000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: ACB Liga Endesa 2026-27</title>
-    <desc lang="el">Πλέι-οφ, Προημιτελική Φάση.</desc>
+    <title lang="el">Μπάσκετ: ACB Liga Endesa 2025-26</title>
+    <desc lang="el">Προημιτελική Φάση, 2ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260605040000 +0300" stop="20260605060000 +0300" channel="XTV100001109">
@@ -23869,13 +23859,13 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260605060000 +0300" stop="20260605080000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2026-27</title>
-    <desc lang="el">Playoffs.</desc>
+    <title lang="el">Μπάσκετ: ACB Liga Endesa 2025-26</title>
+    <desc lang="el">Προημιτελική Φάση, 2ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260605080000 +0300" stop="20260605100000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: ACB Liga Endesa 2026-27</title>
-    <desc lang="el">Πλέι-οφ, Προημιτελική Φάση.</desc>
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 2ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260605100000 +0300" stop="20260605120000 +0300" channel="XTV100001109">
@@ -23888,45 +23878,30 @@
     <desc lang="el">FIBA Basketball Champions League 2025-26. Τελικός. Παρακολουθήστε τους αγώνες της 10ης σεζόν του FIBA Basketball Champions League. 32 ομάδες μπαίνουν στην αφετηρία από τη φάση των ομίλων, μέχρι το Φάιναλ Φορ που θα αναδείξει τον πρωταθλητή. Περιγραφή: Γιάννης Φιλέρης, Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260605144500 +0300" stop="20260605150000 +0300" channel="XTV100001109">
-    <title lang="el">Αθλητικά Στιγμιότυπα</title>
-    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260605150000 +0300" stop="20260605170000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: ACB Liga Endesa 2026-27</title>
-    <desc lang="el">Πλέι-οφ, Προημιτελική Φάση.</desc>
+  <programme start="20260605144500 +0300" stop="20260605164500 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Τενερίφη - Ρεάλ Μαδρίτης</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Προημιτελική Φάση, 2ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260605170000 +0300" stop="20260605200000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: NBA Finals 2026</title>
-    <desc lang="el">1ος Αγώνας.</desc>
+  <programme start="20260605164500 +0300" stop="20260605194500 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Σαν Αντόνιο Σπερς - Νιου Γιορκ Νικς</title>
+    <desc lang="el">NBA Finals 2026. 1ος Αγώνας.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260605200000 +0300" stop="20260605214500 +0300" channel="XTV100001109">
+  <programme start="20260605194500 +0300" stop="20260605212500 +0300" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260605214500 +0300" stop="20260605222000 +0300" channel="XTV100001109">
+  <programme start="20260605212500 +0300" stop="20260605220000 +0300" channel="XTV100001109">
     <title lang="el">NBA Action 2025-26 Ε3533 (Ζ)</title>
     <desc lang="el">H αθλητική εκπομπή μεταφέρει στους Έλληνες φιλάθλους όλα τα νέα για το μαγικό κόσμο του ΝΒΑ, με συνεντεύξεις και αφιερώματα.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260605222000 +0300" stop="20260605231500 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials: Basketball Stories</title>
-    <desc lang="el">The Mailman. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260605231500 +0300" stop="20260605234500 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials: Basketball Stories</title>
-    <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260605234500 +0300" stop="20260606000000 +0300" channel="XTV100001109">
-    <title lang="el">Αθλητικά Στιγμιότυπα</title>
-    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
-    <category lang="el">Στιγμιότυπα</category>
+  <programme start="20260605220000 +0300" stop="20260606000000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: ACB Liga Endesa 2025-26 (Ζ)</title>
+    <desc lang="el">Προημιτελική Φάση, 2ος Αγώνας.</desc>
+    <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260530232000 +0300" stop="20260531002000 +0300" channel="XTV100001063">
     <title lang="el">Motorsports: Moto2 2026</title>
@@ -24268,35 +24243,30 @@
     <desc lang="el">Ιαπωνία, SS14 Fujioka 2. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260602155500 +0300" stop="20260602172500 +0300" channel="XTV100001063">
+  <programme start="20260602155500 +0300" stop="20260602173000 +0300" channel="XTV100001063">
     <title lang="el">WRC 2026</title>
     <desc lang="el">Ιαπωνία, SS 20 Lake Mikawako 2 Wolf Power Stage. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260602172500 +0300" stop="20260602182500 +0300" channel="XTV100001063">
-    <title lang="el">WRC</title>
-    <desc lang="el">Ιαπωνία, Ανασκόπηση. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι.</desc>
-    <category lang="el">Μηχανοκίνητα</category>
-  </programme>
-  <programme start="20260602182500 +0300" stop="20260602194000 +0300" channel="XTV100001063">
-    <title lang="el">Grand Prix Show 2026</title>
-    <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η COSMΟΤΕ TV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
-    <category lang="el">Εκπομπή</category>
-  </programme>
-  <programme start="20260602194000 +0300" stop="20260602210000 +0300" channel="XTV100001063">
+  <programme start="20260602173000 +0300" stop="20260602185000 +0300" channel="XTV100001063">
     <title lang="el">Motorsports: Moto3 2026</title>
     <desc lang="el">Γκραν Πρι Ιταλίας (Αγώνας). Το Παγκόσμιο Πρωτάθλημα FIM Moto3 συγκεντρώνει 13 ομάδες από 2 κατασκευαστές, αλλά και 27 αναβάτες, οι οποίοι διαγωνίζονται σε 22 Γκραν Πρι. Περιγραφή: Δήμητρα Λαδά, Χριστόφορος Ζουλινάκης.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260602210000 +0300" stop="20260602222000 +0300" channel="XTV100001063">
+  <programme start="20260602185000 +0300" stop="20260602201500 +0300" channel="XTV100001063">
     <title lang="el">Motorsports: Moto2 2026</title>
     <desc lang="el">Γκραν Πρι Ιταλίας (Αγώνας). Το Παγκόσμιο Πρωτάθλημα FIM Moto2 περιλαμβάνει 15 ομάδες από 3 κατασκευαστές και συνολικά 30 αναβάτες. Ο τελικός νικητής θα κριθεί μέσα από 22 συναρπαστικά Γκραν Πρι. Περιγραφή: Δήμητρα Λαδά, Χριστόφορος Ζουλινάκης.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260602222000 +0300" stop="20260603000000 +0300" channel="XTV100001063">
+  <programme start="20260602201500 +0300" stop="20260602220000 +0300" channel="XTV100001063">
     <title lang="el">Motorsports: MotoGP 2026</title>
     <desc lang="el">Γκραν Πρι Ιταλίας (Αγώνας). Το Παγκόσμιο Πρωτάθλημα FIM MotoGP περιλαμβάνει 11 ομάδες και συνολικά 22 αναβάτες, που διεκδικούν τον τίτλο μέσα από 22 Γκραν Πρι. Περιγραφή: Δημήτρης Διατσίδης.</desc>
     <category lang="el">Μηχανοκίνητα</category>
+  </programme>
+  <programme start="20260602220000 +0300" stop="20260603000000 +0300" channel="XTV100001063">
+    <title lang="el">Μπάσκετ: Ρεάλ Μαδρίτης - Τενερίφη (Ζ)</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Προημιτελική φάση, 1ος αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
+    <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260603000000 +0300" stop="20260603010000 +0300" channel="XTV100001063">
     <title lang="el">DTM 2026 - Στιγμιότυπα</title>
@@ -24798,12 +24768,12 @@
     <desc lang="el">Ακολουθήστε ιστιοπλόους από όλο τον κόσμο καθώς προετοιμάζονται να αγωνιστούν στη μεγαλύτερη αθλητική σκηνή του κόσμου.</desc>
     <category lang="el">Υδάτινα Σπορ</category>
   </programme>
-  <programme start="20260601060000 +0300" stop="20260601080000 +0300" channel="XTV100001360">
+  <programme start="20260601060000 +0300" stop="20260601082500 +0300" channel="XTV100001360">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Τίρανα (Ημιτελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260601080000 +0300" stop="20260601100000 +0300" channel="XTV100001360">
+  <programme start="20260601082500 +0300" stop="20260601100000 +0300" channel="XTV100001360">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Τίρανα (Ημιτελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Πάντελ</category>
@@ -24893,20 +24863,20 @@
     <desc lang="el">Κάιρο, Αίγυπτος - 1η Ημέρα. Από το Κάιρο ξεκινά το φετινό καλεντάρι των Παγκοσμίων Κυπέλλων της Ενόργανης Γυμναστικής. Στην πρωτεύουσα της Αιγύπτου έχουν ταξιδέψει 7 Έλληνες αθλητές, διεκδικώντας την παρουσία τους στους τελικούς των αγωνισμάτων τους. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
-  <programme start="20260602060000 +0300" stop="20260602080000 +0300" channel="XTV100001360">
+  <programme start="20260602060000 +0300" stop="20260602082500 +0300" channel="XTV100001360">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Τίρανα (Ημιτελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260602080000 +0300" stop="20260602100000 +0300" channel="XTV100001360">
+  <programme start="20260602082500 +0300" stop="20260602101000 +0300" channel="XTV100001360">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Τίρανα (Ημιτελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260602100000 +0300" stop="20260602103000 +0300" channel="XTV100001360">
-    <title lang="el">Υδάτινα Σπορ: Ο Κόσμος της Ιστιοπλοΐας 2026 Ε5</title>
-    <desc lang="el">Η ιστιοπλοΐα είναι ένα πολύ ξεχωριστό άθλημα. Η εκπομπή παρουσιάζει την καρδιά της ιστιοπλοΐας, από την κομψότητα των εκπληκτικών γιοτ μέχρι την αντοχή που χρειάζεται στους αγώνες και τον σκληρό κόσμο των αγώνων dinghy.</desc>
-    <category lang="el">Ιστιοπλοΐα</category>
+  <programme start="20260602101000 +0300" stop="20260602103000 +0300" channel="XTV100001360">
+    <title lang="el">Αθλητικά Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260602103000 +0300" stop="20260602120000 +0300" channel="XTV100001360">
     <title lang="el">Topspin</title>
@@ -24928,15 +24898,20 @@
     <desc lang="el">Η μοναδική εκπομπή για το τένις, φιλοξενεί πλούσια αγωνιστική επικαιρότητα και θεματολογία από το χώρο του τένις, στην Ελλάδα και το εξωτερικό.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260602183000 +0300" stop="20260602210000 +0300" channel="XTV100001360">
-    <title lang="el">Premier Padel Tour 2026</title>
-    <desc lang="el">Τίρανα (Τελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
-    <category lang="el">Πάντελ</category>
-  </programme>
-  <programme start="20260602210000 +0300" stop="20260602220000 +0300" channel="XTV100001360">
+  <programme start="20260602183000 +0300" stop="20260602193000 +0300" channel="XTV100001360">
     <title lang="el">Beach Volley: Pro Tour Elite 16 2026</title>
     <desc lang="el">Οστράβα (Τελικός 3ης Θέσης Ανδρών). Το 2026 Volleyball World Beach Pro Tour είναι η τέταρτη έκδοση του παγκόσμιου πρωταθλήματος beach volley που διοργανώνεται από την FIVB για το 2026. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
     <category lang="el">Beach Volley</category>
+  </programme>
+  <programme start="20260602193000 +0300" stop="20260602200000 +0300" channel="XTV100001360">
+    <title lang="el">Υδάτινα Σπορ: Ο Κόσμος της Ιστιοπλοΐας 2026 Ε5</title>
+    <desc lang="el">Η ιστιοπλοΐα είναι ένα πολύ ξεχωριστό άθλημα. Η εκπομπή παρουσιάζει την καρδιά της ιστιοπλοΐας, από την κομψότητα των εκπληκτικών γιοτ μέχρι την αντοχή που χρειάζεται στους αγώνες και τον σκληρό κόσμο των αγώνων dinghy.</desc>
+    <category lang="el">Ιστιοπλοΐα</category>
+  </programme>
+  <programme start="20260602200000 +0300" stop="20260602220000 +0300" channel="XTV100001360">
+    <title lang="el">Μπάσκετ: ACB Liga Endesa 2025-26 (Ζ)</title>
+    <desc lang="el">Προημιτελική φάση, 1ος αγώνας. Περιγραφή: Ρήγας Δάρδαλης.</desc>
+    <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260602220000 +0300" stop="20260602233000 +0300" channel="XTV100001360">
     <title lang="el">Beach Volley: Pro Tour Elite 16 2026</title>
@@ -25288,15 +25263,20 @@
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
-  <programme start="20260601180000 +0300" stop="20260601200000 +0300" channel="XTV100001708">
+  <programme start="20260601180000 +0300" stop="20260601193000 +0300" channel="XTV100001708">
+    <title lang="el">COSMOTESport7HD</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260601193000 +0300" stop="20260601200000 +0300" channel="XTV100001708">
     <title lang="el">COSMOTESport7HD</title>
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260601200000 +0300" stop="20260601220000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
-    <category lang="el">Promo Card</category>
+    <title lang="el">Μπάσκετ: Φενέρμπαχτσε - Αναντολού Εφές (Ζ)</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική φάση, 1ος αγώνας. Περιγραφή: Ρήγας Δάρδαλης.</desc>
+    <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260601220000 +0300" stop="20260602000000 +0300" channel="XTV100001708">
     <title lang="el">COSMOTESport7HD</title>
@@ -25348,15 +25328,20 @@
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
-  <programme start="20260602180000 +0300" stop="20260602200000 +0300" channel="XTV100001708">
+  <programme start="20260602180000 +0300" stop="20260602193000 +0300" channel="XTV100001708">
+    <title lang="el">COSMOTESport7HD</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260602193000 +0300" stop="20260602200000 +0300" channel="XTV100001708">
     <title lang="el">COSMOTESport7HD</title>
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260602200000 +0300" stop="20260602220000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
-    <category lang="el">Promo Card</category>
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ (Ζ)</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική φάση, 1ος αγώνας.</desc>
+    <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260602220000 +0300" stop="20260603000000 +0300" channel="XTV100001708">
     <title lang="el">COSMOTESport7HD</title>
@@ -26723,47 +26708,42 @@
     <desc lang="el">UEFA Europa League 2025-26. Τελικός. Φράιμπουργκ και Άστον Βίλα θα αναμετρηθούν στον τελικό του UEFA Europa League, με στόχο το τρόπαιο και μία θέση στο UCL της σεζόν 2026-27. Περιγραφή: Στέφανος Αβραμίδης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260531220000 +0300" stop="20260601003000 +0300" channel="XTV900000002">
+  <programme start="20260531220000 +0300" stop="20260601013000 +0300" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο: Παρί Σεν Ζερμέν - Άρσεναλ</title>
     <desc lang="el">UEFA Champions League 2025-26. Τελικός. Με στόχο το δεύτερο σερί τρόπαιο του UEFA Champions League η Παρί ταξιδεύει στη Βουδαπέστη για να αντιμετωπίσει στον τελικό την Άρσεναλ, η οποία ψάχνει το βήμα παραπάνω σε σχέση με τον χαμένο τελικό του 2006. Περιγραφή: Μιχάλης Τσόχος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260531220000 +0300" stop="20260601003000 +0300" channel="XTV900000002">
+  <programme start="20260531220000 +0300" stop="20260601013000 +0300" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο: Παρί Σεν Ζερμέν - Άρσεναλ</title>
     <desc lang="el">UEFA Champions League 2025-26. Τελικός. Με στόχο το δεύτερο σερί τρόπαιο του UEFA Champions League η Παρί ταξιδεύει στη Βουδαπέστη για να αντιμετωπίσει στον τελικό την Άρσεναλ, η οποία ψάχνει το βήμα παραπάνω σε σχέση με τον χαμένο τελικό του 2006. Περιγραφή: Μιχάλης Τσόχος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260601003000 +0300" stop="20260601030000 +0300" channel="XTV900000002">
+  <programme start="20260601013000 +0300" stop="20260601040000 +0300" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο: Κρίσταλ Πάλας - Ράγιο Βαγιεκάνο</title>
     <desc lang="el">UEFA Conference League 2025-26. Τελικός. Στη Λειψία, Κρίσταλ Πάλας και Ράγιο Βαγεκάνο θα τεθούν αντιμέτωπες στον τελικό του UEFA Conference League, με στόχο να διαδεχθούν την Τσέλσι. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
     <category lang="el">Ποδόσφαιρο</category>
-  </programme>
-  <programme start="20260601030000 +0300" stop="20260601040000 +0300" channel="XTV900000002">
-    <title lang="el">Emirates FA Cup 2025-26 - Στιγμιότυπα</title>
-    <desc lang="el">Ανασκόπηση Σεζόν. Παρακολουθήστε τις καλύτερες στιγμές του Κυπέλλου Αγγλίας.</desc>
-    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260601040000 +0300" stop="20260601060000 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2025</title>
     <desc lang="el">Μπουένος 'Αιρες (Τελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260601060000 +0300" stop="20260601080000 +0300" channel="XTV900000002">
+  <programme start="20260601060000 +0300" stop="20260601073500 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Τίρανα (Ημιτελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260601080000 +0300" stop="20260601081500 +0300" channel="XTV900000002">
-    <title lang="el">Αθλητικά Στιγμιότυπα</title>
-    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
-    <category lang="el">Στιγμιότυπα</category>
+  <programme start="20260601073500 +0300" stop="20260601080500 +0300" channel="XTV900000002">
+    <title lang="el">UEFA Youth League Show</title>
+    <desc lang="el">Δείτε όλη τη δράση των αγώνων του UEFA Youth League.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260601081500 +0300" stop="20260601084500 +0300" channel="XTV900000002">
+  <programme start="20260601080500 +0300" stop="20260601084000 +0300" channel="XTV900000002">
     <title lang="el">ERC 2025</title>
     <desc lang="el">Σκανδιναβία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260601084500 +0300" stop="20260601091500 +0300" channel="XTV900000002">
+  <programme start="20260601084000 +0300" stop="20260601091500 +0300" channel="XTV900000002">
     <title lang="el">Serie A Full Impact 2025-26 Ε38</title>
     <desc lang="el">Στιγμιότυπα. Ένα μαγκαζίνο αφιερωμένο στο ιταλικό πρωτάθλημα. Παρουσιάζει συνεντεύξεις με παίκτες, στιγμιότυπα και προεπισκοπήσεις από τα επερχόμενα παιχνίδια.</desc>
     <category lang="el">Στιγμιότυπα</category>
@@ -26808,12 +26788,12 @@
     <desc lang="el">Ολλανδία, Ζάντβοορτ. Το γερμανικό πρωτάθλημα αυτοκίνητων τουρισμού DTM φέρνει στους φίλους του μηχανοκίνητου αθλητισμού δράση, ταχύτητα και δεξιοτεχνία από κορυφαίους διεθνείς οδηγούς.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260601160000 +0300" stop="20260601170000 +0300" channel="XTV900000002">
-    <title lang="el">ATP 500 2026 - Στιγμιότυπα</title>
-    <desc lang="el">Αμβούργο. Παρακολουθήστε τα στιγμιότυπα των κυριότερων αγώνων των τουρνουά ATP 500, που ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών.</desc>
-    <category lang="el">Στιγμιότυπα</category>
+  <programme start="20260601160000 +0300" stop="20260601163000 +0300" channel="XTV900000002">
+    <title lang="el">UEFA Youth League Show</title>
+    <desc lang="el">Δείτε όλη τη δράση των αγώνων του UEFA Youth League.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260601170000 +0300" stop="20260601190000 +0300" channel="XTV900000002">
+  <programme start="20260601163000 +0300" stop="20260601190000 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Τίρανα (Ημιτελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
@@ -26858,15 +26838,10 @@
     <desc lang="el">CEV Champions League 2026. Τελικός Γυναικών.  Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
     <category lang="el">Βόλεϊ</category>
   </programme>
-  <programme start="20260602060000 +0300" stop="20260602080000 +0300" channel="XTV900000002">
+  <programme start="20260602060000 +0300" stop="20260602083000 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Τίρανα (Ημιτελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
-  </programme>
-  <programme start="20260602080000 +0300" stop="20260602083000 +0300" channel="XTV900000002">
-    <title lang="el">Serie A Full Impact 2025-26 Ε38</title>
-    <desc lang="el">Στιγμιότυπα. Ένα μαγκαζίνο αφιερωμένο στο ιταλικό πρωτάθλημα. Παρουσιάζει συνεντεύξεις με παίκτες, στιγμιότυπα και προεπισκοπήσεις από τα επερχόμενα παιχνίδια.</desc>
-    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260602083000 +0300" stop="20260602125500 +0300" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο: ΑΕΚ - Ολυμπιακός</title>
@@ -26888,34 +26863,24 @@
     <desc lang="el">Stoiximan Super League 2025-26. Playoffs, Θέσεις 1-4, 6η Αγωνιστική. Η πρωταθλήτρια ΑΕΚ φιλοξενεί τον Ολυμπιακό, με τους 'ερυθρόλευκους' να χρειάζονται τη νίκη για να είναι σίγουρα στη δεύτερη θέση. Περιγραφή: Στέφανος Αβραμίδης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260602195000 +0300" stop="20260602205000 +0300" channel="XTV900000002">
-    <title lang="el">ATP 500 2026 - Στιγμιότυπα</title>
-    <desc lang="el">Αμβούργο. Παρακολουθήστε τα στιγμιότυπα των κυριότερων αγώνων των τουρνουά ATP 500, που ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260602205000 +0300" stop="20260602230500 +0300" channel="XTV900000002">
+  <programme start="20260602195000 +0300" stop="20260602220000 +0300" channel="XTV900000002">
     <title lang="el">Στίβος: World Athletics Continental Tour Gold 2026</title>
     <desc lang="el">Μπίντγκοστς. Η ετήσια σειρά μίτινγκ στίβου αποτελεί τη δεύτερη τη τάξει διοργάνωση μετά το Diamond League και το πρώτο 'μονοπάτι' για τους αθλητές προς τις μεγάλες διοργανώσεις του κλασικού αθλητισμού, με συνολικά 12 events σε 4 ηπείρους. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Στίβος</category>
   </programme>
-  <programme start="20260602230500 +0300" stop="20260603013500 +0300" channel="XTV900000002">
+  <programme start="20260602220000 +0300" stop="20260603000000 +0300" channel="XTV900000002">
+    <title lang="el">Μπάσκετ: Ρεάλ Μαδρίτης - Τενερίφη (Ζ)</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Προημιτελική Φάση, 1ος Αγώνας.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260603000000 +0300" stop="20260603023000 +0300" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο: Κρίσταλ Πάλας - Ράγιο Βαγιεκάνο</title>
     <desc lang="el">UEFA Conference League 2025-26. Τελικός. Στη Λειψία, Κρίσταλ Πάλας και Ράγιο Βαγεκάνο θα τεθούν αντιμέτωπες στον τελικό του UEFA Conference League, με στόχο να διαδεχθούν την Τσέλσι. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260602230500 +0300" stop="20260603013500 +0300" channel="XTV900000002">
-    <title lang="el">Ποδόσφαιρο: Κρίσταλ Πάλας - Ράγιο Βαγιεκάνο</title>
-    <desc lang="el">UEFA Conference League 2025-26. Τελικός. Στη Λειψία, Κρίσταλ Πάλας και Ράγιο Βαγεκάνο θα τεθούν αντιμέτωπες στον τελικό του UEFA Conference League, με στόχο να διαδεχθούν την Τσέλσι. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
-  </programme>
-  <programme start="20260603013500 +0300" stop="20260603020000 +0300" channel="XTV900000002">
+  <programme start="20260603023000 +0300" stop="20260603030000 +0300" channel="XTV900000002">
     <title lang="el">Ισπανικό Πρωτάθλημα 2025-26 - 5η Περίοδος Ε33</title>
     <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της κάθε αγωνιστικής στο ισπανικό πρωτάθλημα μπάσκετ. Οι κορυφαίες φάσεις, τα νικητήρια καλάθια και αρκετά παραλειπόμενα από την ποιοτικότερη εθνική λίγκα της Ευρώπης.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260603020000 +0300" stop="20260603030000 +0300" channel="XTV900000002">
-    <title lang="el">Emirates FA Cup 2025-26 - Στιγμιότυπα</title>
-    <desc lang="el">Ανασκόπηση Σεζόν. Παρακολουθήστε τις καλύτερες στιγμές του Κυπέλλου Αγγλίας.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260603030000 +0300" stop="20260603050500 +0300" channel="XTV900000002">
@@ -26928,10 +26893,15 @@
     <desc lang="el">Ολλανδία, Ζάντβοορτ. Το γερμανικό πρωτάθλημα αυτοκίνητων τουρισμού DTM φέρνει στους φίλους του μηχανοκίνητου αθλητισμού δράση, ταχύτητα και δεξιοτεχνία από κορυφαίους διεθνείς οδηγούς.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260603060000 +0300" stop="20260603080000 +0300" channel="XTV900000002">
+  <programme start="20260603060000 +0300" stop="20260603074500 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Τίρανα (Ημιτελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
+  </programme>
+  <programme start="20260603074500 +0300" stop="20260603080000 +0300" channel="XTV900000002">
+    <title lang="el">Αθλητικά Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260603080000 +0300" stop="20260603093000 +0300" channel="XTV900000002">
     <title lang="el">Topspin</title>
@@ -26978,10 +26948,15 @@
     <desc lang="el">Τούρκου. Η ετήσια σειρά μίτινγκ στίβου αποτελεί τη δεύτερη τη τάξει διοργάνωση μετά το Diamond League και το πρώτο 'μονοπάτι' για τους αθλητές προς τις μεγάλες διοργανώσεις του κλασικού αθλητισμού, με συνολικά 12 events σε 4 ηπείρους.</desc>
     <category lang="el">Στίβος</category>
   </programme>
-  <programme start="20260603210500 +0300" stop="20260603233500 +0300" channel="XTV900000002">
+  <programme start="20260603210500 +0300" stop="20260603230500 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Τίρανα (Τελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
+  </programme>
+  <programme start="20260603230500 +0300" stop="20260603233500 +0300" channel="XTV900000002">
+    <title lang="el">ERC 2025</title>
+    <desc lang="el">Σκανδιναβία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
+    <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260603233500 +0300" stop="20260604020500 +0300" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο: Φράιμπουργκ - Άστον Βίλα</title>
@@ -27013,10 +26988,15 @@
     <desc lang="el">Σκανδιναβία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260604060000 +0300" stop="20260604083000 +0300" channel="XTV900000002">
+  <programme start="20260604060000 +0300" stop="20260604080000 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Τίρανα (Τελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
+  </programme>
+  <programme start="20260604080000 +0300" stop="20260604083000 +0300" channel="XTV900000002">
+    <title lang="el">UEFA Youth League Show</title>
+    <desc lang="el">Δείτε όλη τη δράση των αγώνων του UEFA Youth League.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260604083000 +0300" stop="20260604093000 +0300" channel="XTV900000002">
     <title lang="el">Beach Volley: Pro Tour Elite 16 2026</title>
@@ -27048,27 +27028,32 @@
     <desc lang="el">Τούρκου. Η ετήσια σειρά μίτινγκ στίβου αποτελεί τη δεύτερη τη τάξει διοργάνωση μετά το Diamond League και το πρώτο 'μονοπάτι' για τους αθλητές προς τις μεγάλες διοργανώσεις του κλασικού αθλητισμού, με συνολικά 12 events σε 4 ηπείρους.</desc>
     <category lang="el">Στίβος</category>
   </programme>
-  <programme start="20260604163000 +0300" stop="20260604180000 +0300" channel="XTV900000002">
-    <title lang="el">Topspin</title>
-    <desc lang="el">Η μοναδική εκπομπή για το τένις, φιλοξενεί πλούσια αγωνιστική επικαιρότητα και θεματολογία από το χώρο του τένις, στην Ελλάδα και το εξωτερικό.</desc>
-    <category lang="el">Εκπομπή</category>
+  <programme start="20260604163000 +0300" stop="20260604170000 +0300" channel="XTV900000002">
+    <title lang="el">UEFA Youth League Show</title>
+    <desc lang="el">Δείτε όλη τη δράση των αγώνων του UEFA Youth League.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260604180000 +0300" stop="20260604203000 +0300" channel="XTV900000002">
+  <programme start="20260604170000 +0300" stop="20260604194500 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Τίρανα (Τελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260604203000 +0300" stop="20260604230000 +0300" channel="XTV900000002">
-    <title lang="el">Μπάσκετ: Νιου Γιορκ Λίμπερτι - Ντάλας Γουίνγκς</title>
-    <desc lang="el">WNBA Regular Season 2026. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
+  <programme start="20260604194500 +0300" stop="20260604200000 +0300" channel="XTV900000002">
+    <title lang="el">Αθλητικά Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260604200000 +0300" stop="20260604220000 +0300" channel="XTV900000002">
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ (Ζ)</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 2ος Αγώνας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260604230000 +0300" stop="20260605013000 +0300" channel="XTV900000002">
+  <programme start="20260604220000 +0300" stop="20260605013000 +0300" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο: Παρί Σεν Ζερμέν - Άρσεναλ</title>
     <desc lang="el">UEFA Champions League 2025-26. Τελικός. Με στόχο το δεύτερο σερί τρόπαιο του UEFA Champions League η Παρί ταξιδεύει στη Βουδαπέστη για να αντιμετωπίσει στον τελικό την Άρσεναλ, η οποία ψάχνει το βήμα παραπάνω σε σχέση με τον χαμένο τελικό του 2006. Περιγραφή: Μιχάλης Τσόχος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260604230000 +0300" stop="20260605013000 +0300" channel="XTV900000002">
+  <programme start="20260604220000 +0300" stop="20260605013000 +0300" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο: Παρί Σεν Ζερμέν - Άρσεναλ</title>
     <desc lang="el">UEFA Champions League 2025-26. Τελικός. Με στόχο το δεύτερο σερί τρόπαιο του UEFA Champions League η Παρί ταξιδεύει στη Βουδαπέστη για να αντιμετωπίσει στον τελικό την Άρσεναλ, η οποία ψάχνει το βήμα παραπάνω σε σχέση με τον χαμένο τελικό του 2006. Περιγραφή: Μιχάλης Τσόχος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
@@ -27088,22 +27073,17 @@
     <desc lang="el">Γιαντόνγκ Σονγκ - Ντέιβεσον Φιγκεϊρέδο. Κίνα, Μακάου. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια COSMOTE SPORT.</desc>
     <category lang="el">Πολεμικές Τέχνες</category>
   </programme>
-  <programme start="20260605060000 +0300" stop="20260605083000 +0300" channel="XTV900000002">
+  <programme start="20260605060000 +0300" stop="20260605085000 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Τίρανα (Τελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260605083000 +0300" stop="20260605091500 +0300" channel="XTV900000002">
+  <programme start="20260605085000 +0300" stop="20260605094500 +0300" channel="XTV900000002">
     <title lang="el">WRC 2026</title>
     <desc lang="el">Ιαπωνία, SS12 Obara 2. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260605091500 +0300" stop="20260605094000 +0300" channel="XTV900000002">
-    <title lang="el">WRC 2026</title>
-    <desc lang="el">Ιαπωνία, SS13 Fujioka 1. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
-    <category lang="el">Μηχανοκίνητα</category>
-  </programme>
-  <programme start="20260605094000 +0300" stop="20260605102500 +0300" channel="XTV900000002">
+  <programme start="20260605094500 +0300" stop="20260605102500 +0300" channel="XTV900000002">
     <title lang="el">WRC 2026</title>
     <desc lang="el">Ιαπωνία, SS14 Fujioka 2. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
