@@ -2310,7 +2310,7 @@
   </programme>
   <programme start="20260603210000 +0300" stop="20260603230000 +0300" channel="XTV100000955">
     <title lang="el">Μπάσκετ: Ολυμπιακός - Παναθηναϊκός (Ζ)</title>
-    <desc lang="el">Basket League 2025-26. Play Off. 1ος Τελικός. Με 13 ομάδες και 26 αγωνιστικές στην κανονική περίοδο διεξάγεται η Basket League 2025-26. Οι 8 πρώτοι της τελικής κατάταξης προκρίνονται απευθείας στα playoffs. Η τελευταία θέση οδηγεί στην Elite league. Περιγραφή: Βαγγέλης Ιωάννου.</desc>
+    <desc lang="el">Basket League 2025-26. Play Off. 1ος Τελικός. Οι συναρπαστικές αναμετρήσεις Ολυμπιακού και Παναθηναϊκού για την ανάδειξη του πρωταθλητή της GBL είναι στην ΕΡΤ. Ο πρώτος αγώνας διεξάγεται στο ΣΕΦ με τους πρωταθλητές να έχουν το πλεονέκτημα έδρας. Περιγραφή: Βαγγέλης Ιωάννου.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260603230000 +0300" stop="20260604000000 +0300" channel="XTV100000955">
@@ -2389,8 +2389,8 @@
     <category lang="el">Στίβος</category>
   </programme>
   <programme start="20260604143000 +0300" stop="20260604163000 +0300" channel="XTV100000955">
-    <title lang="el">Ποδόσφαιρο: Euro Κ17 (Ζ)</title>
-    <desc lang="el">Α' Ημιτελικός. Εσθονία. Το Ευρωπαϊκό Πρωτάθλημα Κ17 της UEFA είναι μια ετήσια ποδοσφαιρική διοργάνωση στην οποία συμμετέχουν οι εθνικές ομάδες ανδρών κάτω των 17 ετών των μελών της UEFA.</desc>
+    <title lang="el">Ποδόσφαιρο: Βέλγιο - Γαλλία (Ζ)</title>
+    <desc lang="el">Euro Κ17. Α' Ημιτελικός. Εσθονία. Με 2 νίκες σε 3 ματς στον πρώτο όμιλο, το Βέλγιο πήρε την πρόκριση για τα ημιτελικά, όπου θα συναντήσει τη Γαλλία, που έκανε το 2/3 στον δικό της όμιλο.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260604163000 +0300" stop="20260604170000 +0300" channel="XTV100000955">
@@ -2419,8 +2419,8 @@
     <category lang="el">Αθλητισμός - Αθλητές</category>
   </programme>
   <programme start="20260604200000 +0300" stop="20260604220000 +0300" channel="XTV100000955">
-    <title lang="el">Ποδόσφαιρο: Euro Κ17 (Ζ)</title>
-    <desc lang="el">Β' Ημιτελικός. Εσθονία. Το Ευρωπαϊκό Πρωτάθλημα Κ17 της UEFA είναι μια ετήσια ποδοσφαιρική διοργάνωση στην οποία συμμετέχουν οι εθνικές ομάδες ανδρών κάτω των 17 ετών των μελών της UEFA.</desc>
+    <title lang="el">Ποδόσφαιρο: Ιταλία - Ισπανία (Ζ)</title>
+    <desc lang="el">Euro Κ17. Β' Ημιτελικός. Εσθονία. Παρά την ήττα από την Κροατία την τελευταία αγωνιστική των ομίλων, η Ισπανία προκρίθηκε στα ημιτελικά, όπου αναμετράται με την Ιταλία, αήττητη στην πρώτη φάση.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260604220000 +0300" stop="20260605000000 +0300" channel="XTV100000955">
@@ -3784,8 +3784,8 @@
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260603210000 +0300" stop="20260603230000 +0300" channel="XTV100003344">
-    <title lang="el">Μπάσκετ: Basket League 2025-26 (Ζ)</title>
-    <desc lang="el">Play Off. 1ος Τελικός. Με 13 ομάδες και 26 αγωνιστικές στην κανονική περίοδο διεξάγεται η Basket League 2025-26. Οι 8 πρώτοι της τελικής κατάταξης προκρίνονται απευθείας στα playoffs. Η τελευταία θέση οδηγεί στην Elite league.</desc>
+    <title lang="el">Μπάσκετ: Ολυμπιακός - Παναθηναϊκός</title>
+    <desc lang="el">Basket League 2025-26. Play Off. 1ος Τελικός. Οι συναρπαστικές αναμετρήσεις Ολυμπιακού και Παναθηναϊκού για την ανάδειξη του πρωταθλητή της GBL είναι στην ΕΡΤ. Ο πρώτος αγώνας διεξάγεται στο ΣΕΦ με τους πρωταθλητές να έχουν το πλεονέκτημα έδρας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260603230000 +0300" stop="20260604000000 +0300" channel="XTV100003344">
@@ -3974,8 +3974,8 @@
     <category lang="el">Τέχνες - Πολιτισμός</category>
   </programme>
   <programme start="20260605210000 +0300" stop="20260605230000 +0300" channel="XTV100003344">
-    <title lang="el">Μπάσκετ: Basket League 2025-26 (Ζ)</title>
-    <desc lang="el">Play Off. 2ος Τελικός. Με 13 ομάδες και 26 αγωνιστικές στην κανονική περίοδο διεξάγεται η Basket League 2025-26. Οι 8 πρώτοι της τελικής κατάταξης προκρίνονται απευθείας στα playoffs. Η τελευταία θέση οδηγεί στην Elite league.</desc>
+    <title lang="el">Μπάσκετ: Παναθηναϊκός - Ολυμπιακός</title>
+    <desc lang="el">Basket League 2025-26. Play Off. 2ος Τελικός. Οι συναρπαστικές αναμετρήσεις Ολυμπιακού και Παναθηναϊκού για την ανάδειξη του πρωταθλητή της GBL είναι στην ΕΡΤ. Μετά τη νίκη του Ολυμπιακού στον 1ο αγώνα, οι πράσινοι στοχεύουν στην ισοφάριση στο T-Center.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260605230000 +0300" stop="20260606003000 +0300" channel="XTV100003344">
@@ -5365,7 +5365,7 @@
   </programme>
   <programme start="20260607204500 +0300" stop="20260607220000 +0300" channel="XTV100001262">
     <title lang="el">Akis' Food Tour</title>
-    <desc lang="el">H πιο νόστιμη ταξιδιωτική εκπομπή συνεχίζεται με ακόμη πιο ξεχωριστά επεισόδια. Ο αγαπημένος μας σεφ ταξιδεύει στην Ελλάδα. Αποστολή του; Να εξερευνήσει τις κουζίνες στα πιο απομακρυσμένα σημεία της χώρας.</desc>
+    <desc lang="el">Ο Άκης Πετρετζίκης ταξιδεύει στο Αγρίνιο και γνωρίζει έναν τόπο με έντονη αγροτική παράδοση, δυνατή σχέση με την κτηνοτροφία και γεύσεις που συνδέονται με την καθημερινότητα των ανθρώπων του.</desc>
     <category lang="el">Μαγειρική</category>
   </programme>
   <programme start="20260607220000 +0300" stop="20260608001500 +0300" channel="XTV100001262">
@@ -5465,23 +5465,23 @@
   </programme>
   <programme start="20260608200000 +0300" stop="20260608210000 +0300" channel="XTV100001262">
     <title lang="el">Να Μ' Αγαπάς Ε122</title>
-    <desc lang="el">Θεσσαλονίκη 1998: Η Ζωή γεννά κι εγκαταλείπει τα δίδυμα παιδιά της, αφήνοντας πίσω μια ζωή γεμάτη μυστικά και σιωπές. Ναύπλιο 2025: Τα παιδιά, ο Λευτέρης και η Φωτεινή, τη βρίσκουν και είναι αποφασισμένα να διεκδικήσουν ό,τι τους ανήκει.</desc>
+    <desc lang="el">Η Ζωή συγκρούεται ανοιχτά με τον Μιχάλη, ενώ ο Θεόφιλος προσπαθεί να σταθεροποιήσει τη ζωή του δίπλα στη Βέρα, αποκαλύπτοντάς της το διαζύγιο. Η Σοφία και ο Μιχάλης ετοιμάζουν το σχέδιό τους να φύγουν με τα χρήματα, την ώρα που ο γάμος Άννας-Λευτέρη απειλείται από την πιθανή εμφάνισή τους.</desc>
     <category lang="el">Δραματική</category>
   </programme>
   <programme start="20260608210000 +0300" stop="20260608220000 +0300" channel="XTV100001262">
-    <title lang="el">Μπαμπά, Σ' Αγαπώ Ε45</title>
-    <desc lang="el">Επεισόδιο: Πως γλυκαίνεις μια σκληρή αλήθεια. Ο Ηρακλής έρχεται σε δύσκολη θέση από την πολιορκία της Μαίρης και σε ακόμα δυσκολότερη από την έλλειψη σύνδεσης του Στέλιου με την Τζένη. Ο Νίκος παραδέχεται στη Βιργινία ότι τον πήρε ο ύπνος ενώ εκείνη τον περίμενε σπίτι για το δείπνο στο οποίο θα ανακοίνωναν στα παιδιά την επιστροφή του.</desc>
+    <title lang="el">Μπαμπά, Σ' Αγαπώ Ε48</title>
+    <desc lang="el">Επεισόδιο: Μικρές μάχες που δίνει ο καθένας μας. Ο Δημήτρης βρίσκεται σε τρομερό δίλημμα όταν έχοντας αποφασίσει ότι θα δώσει μια ευκαιρία στη μονογαμία με την Ελένη, όμως για να κλείσει μια τεράστια δουλειά θα πρέπει να απαντήσει στην ανήθικη πρόταση της Αμάντας Παπάγιωργα, μιας εξαιρετικά γοητευτικής γυναίκας που θα κόλαζε και καλόγερο.</desc>
     <category lang="el">Οικογενειακή</category>
   </programme>
   <programme start="20260608220000 +0300" stop="20260608233000 +0300" channel="XTV100001262">
-    <title lang="el">Άγιος Έρωτας Κ2 Ε120</title>
-    <desc lang="el">Ο Νικόλαος μαθαίνει τα νέα της καθαίρεσής του, την ώρα που η Χλόη πείθει τον Αργύρη να αφήσει την Ελευθερία να μείνει μαζί της, αγωνιά όμως για το τι θα γίνει στη συνέχεια. Ο Περικλής βοηθάει την Ελένη και την Άννα να συναντηθούν.</desc>
+    <title lang="el">Άγιος Έρωτας Κ2 Ε123</title>
+    <desc lang="el">Ο Παύλος γλιτώνει τελευταία στιγμή από τα χέρια του Βαζούρα. Για πρώτη φορά όμως, μέσα στο κρατητήριο, νιώθει πως τα πράγματα δεν πάνε τόσο καλά για αυτόν. Η Σοφία φαίνεται να συνειδητοποιεί την αλήθεια για τον πατέρα της.</desc>
     <category lang="el">Εποχής</category>
   </programme>
   <programme start="20260608233000 +0300" stop="20260609010000 +0300" channel="XTV100001262">
-    <title lang="el">Porto Leone: Στη Γειτονιά με τα Κόκκινα Φανάρια Ε59</title>
-    <desc lang="el">Η Άντζελα µε την Βούλα αποχαιρετούν τα κορίτσια λίγο πριν φύγουν για την Αµερική κι η Ντόρα μιλάει πρώτη φορά για το παρελθόν της. Ο Χρόνης πιάνει στα πράσα την Λένα, την ώρα που πάει να συναντήσει τον Αντρέα. Η Γαλήνη σοκάρεται όταν µαθαίνει από τον Σπύρο τι έχει συµβεί µε την αποθήκη.</desc>
-    <category lang="el">Δραματική</category>
+    <title lang="el">Το Σπίτι Δίπλα στο Ποτάμι Ε64</title>
+    <desc lang="el">Η Μελισσάνθη ξεκινά τη μέρα της μέσα σε μια ήρεμη οικογενειακή στιγμή, όμως ένα απρόοπτο με τον Γεράσιμο ξυπνά σκέψεις που την κάνουν να σταθεί πιο προσεκτικά απέναντι στον ρόλο της ως μητέρα. Η Ιουλία επιλέγει να σταθεί δίπλα στον Φωκά σε μια δύσκολη στιγμή.</desc>
+    <category lang="el">Ψυχολογικό Δράμα</category>
   </programme>
   <programme start="20260602210000 +0300" stop="20260603010000 +0300" channel="XTV100001040">
     <title lang="el">MasterChef 10</title>
@@ -18978,232 +18978,227 @@
     <desc lang="el">Επεισόδιο: Trilogy Time. Ο Ted, ο Marshall και ο Barney ετοιμάζονται για μια νέα 'τριλογία', όπου μαζεύονται κάθε τρία χρόνια για να παρακολουθήσουν την τριλογία του Πολέμου των Άστρων και φαντάζονται πώς θα είναι η ζωή τους μετά από τρία χρόνια.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605060000 +0300" stop="20260605061500 +0300" channel="XTV100002107">
+  <programme start="20260605060000 +0300" stop="20260605062500 +0300" channel="XTV100002107">
     <title lang="el">Modern Family Κ6 Ε3</title>
     <desc lang="el">Επεισόδιο: The Cold. Φαίνεται ότι ο Mitch κρύωσε κατά τη διάρκεια του μήνα του μέλιτος και τώρα ένας-ένας στην οικογένεια αρρωσταίνουν.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605061500 +0300" stop="20260605064000 +0300" channel="XTV100002107">
+  <programme start="20260605062500 +0300" stop="20260605065000 +0300" channel="XTV100002107">
     <title lang="el">Modern Family Κ6 Ε4</title>
     <desc lang="el">Επεισόδιο: Marco Polo. Η οικογένεια Dunphy μετακομίζει σε ένα στριμωγμένο δωμάτιο ξενοδοχείου ενώ το σπίτι τους καθαρίζεται από τη μούχλα. Ο Phil βλέπει την προσωρινή μετακόμιση ως μια ευκαιρία να περάσουν ποιοτικό χρόνο μαζί, αλλά η Claire και τα παιδιά δε νιώθουν το ίδιο.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605064000 +0300" stop="20260605072000 +0300" channel="XTV100002107">
+  <programme start="20260605065000 +0300" stop="20260605073500 +0300" channel="XTV100002107">
     <title lang="el">The Mentalist Κ1 Ε8</title>
     <desc lang="el">Επεισόδιο: The Thin Red Line. Ο Πάτρικ Τζέιν βλέπει ένα διαφορετικό κίνητρο από το προφανές, όταν ένας μάρτυρας της Πολιτείας σε μια υπόθεση ναρκωτικών και η κοπέλα του βρίσκονται δολοφονημένοι.</desc>
     <category lang="el">Μυστηρίου</category>
   </programme>
-  <programme start="20260605072000 +0300" stop="20260605080500 +0300" channel="XTV100002107">
+  <programme start="20260605073500 +0300" stop="20260605082000 +0300" channel="XTV100002107">
     <title lang="el">Castle Κ6 Ε20</title>
     <desc lang="el">Επεισόδιο: That '70s Show. Όταν οι εργάτες μιας κατασκευαστικής ανακαλύπτουν το πτώμα ενός διαβόητου μαφιόζου της Νέας Υόρκης που εξαφανίστηκε στα 70s, η Beckett και ο Castle αναλάμβαναν να λύσουν την υπόθεση.</desc>
     <category lang="el">Μυστηρίου</category>
   </programme>
-  <programme start="20260605080500 +0300" stop="20260605085000 +0300" channel="XTV100002107">
+  <programme start="20260605082000 +0300" stop="20260605090500 +0300" channel="XTV100002107">
     <title lang="el">Rizzoli &amp; Isles Κ5 Ε4</title>
     <desc lang="el">Επεισόδιο: Doomsday. Όταν ένας άντρας βρίσκεται δολοφονημένος μέσα στο υποτιθέμενο αδιαπέραστο καταφύγιο που είχε φτιάξει για το τέλος του κόσμου, η ομάδα πρέπει να καταλάβει πώς και γιατί έγινε στόχος.</desc>
     <category lang="el">Μυστηρίου</category>
   </programme>
-  <programme start="20260605085000 +0300" stop="20260605091500 +0300" channel="XTV100002107">
+  <programme start="20260605090500 +0300" stop="20260605092500 +0300" channel="XTV100002107">
     <title lang="el">How I Met Your Mother Κ7 Ε19</title>
     <desc lang="el">Επεισόδιο: The Broath. Η παρέα προσπαθεί να διαλύσει τη σχέση του Barney με την Quinn όταν μαθαίνουν ότι σκοπεύουν να συζήσουν, ενώ η Robin και ο Ted τσακώνονται για το ποιος πρέπει να υπενοικιάσει το διαμέρισμά της.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605091500 +0300" stop="20260605093500 +0300" channel="XTV100002107">
+  <programme start="20260605092500 +0300" stop="20260605095000 +0300" channel="XTV100002107">
     <title lang="el">How I Met Your Mother Κ7 Ε20</title>
     <desc lang="el">Επεισόδιο: Trilogy Time. Ο Ted, ο Marshall και ο Barney ετοιμάζονται για μια νέα 'τριλογία', όπου μαζεύονται κάθε τρία χρόνια για να παρακολουθήσουν την τριλογία του Πολέμου των Άστρων και φαντάζονται πώς θα είναι η ζωή τους μετά από τρία χρόνια.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605093500 +0300" stop="20260605100000 +0300" channel="XTV100002107">
+  <programme start="20260605095000 +0300" stop="20260605101000 +0300" channel="XTV100002107">
     <title lang="el">Not Dead Yet Κ2 Ε6</title>
     <desc lang="el">Επεισόδιο: Not Going Home Yet. Η Νελ αρχίζει να εκνευρίζεται με τη σχέση της Λέξι και του Έντουαρντ.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605100000 +0300" stop="20260605102000 +0300" channel="XTV100002107">
+  <programme start="20260605101000 +0300" stop="20260605103500 +0300" channel="XTV100002107">
     <title lang="el">Not Dead Yet Κ2 Ε7</title>
     <desc lang="el">Επεισόδιο: Not in the Game Yet. Ο Τι Τζέι ζητά από τη Νελ να παίξει στην ομάδα σόφτμπολ της εφημερίδας.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605102000 +0300" stop="20260605104500 +0300" channel="XTV100002107">
+  <programme start="20260605103500 +0300" stop="20260605105500 +0300" channel="XTV100002107">
     <title lang="el">Abbott Elementary Κ2 Ε19</title>
     <desc lang="el">Επεισόδιο: Festival. Το σχολείο συσπειρώνεται για να καταπολεμήσει την απειλή από τα πρότυπα σχολεία.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605104500 +0300" stop="20260605110500 +0300" channel="XTV100002107">
+  <programme start="20260605105500 +0300" stop="20260605112000 +0300" channel="XTV100002107">
     <title lang="el">Abbott Elementary Κ2 Ε20</title>
     <desc lang="el">Επεισόδιο: Educator of the Year. Ο Γκρέγκορι παίρνει τον τίτλο του Εκπαιδευτικού της Χρονιάς και η Τζανίν δυσκολεύεται να τα βγάλει πέρα με έναν μαθητή της. Στο μεταξύ, αποκαλύπτεται ότι η Μπάρμπαρα δεν πληροί τις απαιτούμενες προϋποθέσεις μιας εκπαιδευτικού.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605110500 +0300" stop="20260605115000 +0300" channel="XTV100002107">
+  <programme start="20260605112000 +0300" stop="20260605120500 +0300" channel="XTV100002107">
     <title lang="el">The Mentalist Κ1 Ε9</title>
     <desc lang="el">Επεισόδιο: Flame Red. Ο Πάτρικ Τζέιν υποψιάζεται ότι ο μόνος επιζών μιας μονάδας της Εθνοφρουράς δολοφονεί τους φίλους του - και οργανώνει μυστική αποστολή για να το αποδείξει.</desc>
     <category lang="el">Μυστηρίου</category>
   </programme>
-  <programme start="20260605115000 +0300" stop="20260605123500 +0300" channel="XTV100002107">
+  <programme start="20260605120500 +0300" stop="20260605125000 +0300" channel="XTV100002107">
     <title lang="el">Station 19 Κ5 Ε4</title>
     <desc lang="el">Επεισόδιο: 100% or Nothing. Η Diane επιστρέφει για να βοηθήσει με την εκπαίδευση της ομάδας Crisis One των πυροσβεστών των Station 19 και Station 23. Η Andy και ο Sullivan συνεχίζουν να είναι στα μαχαίρια και ο Jack βοηθά έναν νεαρό αυτιστικό σε ένα αστικό λεωφορείο.</desc>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20260605123500 +0300" stop="20260605130000 +0300" channel="XTV100002107">
+  <programme start="20260605125000 +0300" stop="20260605131000 +0300" channel="XTV100002107">
     <title lang="el">Modern Family Κ6 Ε5</title>
     <desc lang="el">Επεισόδιο: Won't You Be Our Neighbor. Ο Phil πουλά το διπλανό σπίτι και, μαζί με την Claire, ενθουσιάζονται με την ιδέα ότι θα έχουν καινούριους υπέροχους γείτονες. Η κατάσταση, όμως, μετατρέπεται σε πανικό όταν ένα φασαριόζικο, αλλόκοτο ζευγάρι έρχεται να δει το σπίτι.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605130000 +0300" stop="20260605132000 +0300" channel="XTV100002107">
+  <programme start="20260605131000 +0300" stop="20260605133500 +0300" channel="XTV100002107">
     <title lang="el">Modern Family Κ6 Ε6</title>
     <desc lang="el">Επεισόδιο: Halloween 3: Awesomeland. Αν και το Halloween είναι οι διακοπές της Claire, φέτος αφήνει τον Phil να αναλάβει το πάρτι, κι έτσι αντί για την καθιερωμένη γιορτή τρόμου, εκείνος αποφασίζει να μετατρέψει το σπίτι σε μία Καταπληκτική Χώρα!</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605132000 +0300" stop="20260605140500 +0300" channel="XTV100002107">
+  <programme start="20260605133500 +0300" stop="20260605141500 +0300" channel="XTV100002107">
     <title lang="el">Rizzoli &amp; Isles Κ5 Ε5</title>
     <desc lang="el">Επεισόδιο: The Best Laid Plans. Η ομάδα ερευνά τη δολοφονία μιας πλούσιας γυναίκας με καρκίνο σε τελικό στάδιο που της απέμεναν μόνο λίγοι μήνες ζωής.</desc>
     <category lang="el">Μυστηρίου</category>
   </programme>
-  <programme start="20260605140500 +0300" stop="20260605145000 +0300" channel="XTV100002107">
+  <programme start="20260605141500 +0300" stop="20260605150000 +0300" channel="XTV100002107">
     <title lang="el">Masterchef Κ15 Ε7</title>
     <desc lang="el">Επεισόδιο: Mystery Box. Τα πέντε ζευγάρια της ηττημένης ομάδας από την προηγούμενη δοκιμασία αντιμετωπίζουν το πρώτο τεστ πίεσης της σεζόν: τη δοκιμασία Mystery Box για επιδόρπιο.</desc>
     <category lang="el">Μαγειρική</category>
   </programme>
-  <programme start="20260605145000 +0300" stop="20260605151000 +0300" channel="XTV100002107">
+  <programme start="20260605150000 +0300" stop="20260605152000 +0300" channel="XTV100002107">
     <title lang="el">How I Met Your Mother Κ7 Ε21</title>
     <desc lang="el">Επεισόδιο: Now We're Even. Ενώ ο Ted εγκαθίσταται μόνιμα στο νέο του διαμέρισμα, ο Barney προσπαθεί να τον παρασύρει να βγαίνει έξω κάθε βράδυ.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605151000 +0300" stop="20260605153500 +0300" channel="XTV100002107">
+  <programme start="20260605152000 +0300" stop="20260605154500 +0300" channel="XTV100002107">
     <title lang="el">How I Met Your Mother Κ7 Ε22</title>
     <desc lang="el">Επεισόδιο: Good Crazy. Όταν η Lily και ο Marshall οργανώνουν ένα πάρτι για το μωρό, ο Marshall πανικοβάλλεται όταν συνειδητοποιεί ότι το μωρό θα γεννηθεί σύντομα. Ο Ted και η Robin τα βρίσκουν όσον αφορά τη σχέση τους και ο Barney πηγαίνει ένα ταξίδι με τον Marshall.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605153500 +0300" stop="20260605161500 +0300" channel="XTV100002107">
+  <programme start="20260605154500 +0300" stop="20260605163000 +0300" channel="XTV100002107">
     <title lang="el">Castle Κ6 Ε21</title>
     <desc lang="el">Επεισόδιο: Law and Boarder. Όταν ένας μυστηριώδης οδηγός μοτοσικλέτας πυροβολεί έναν ανερχόμενο επαγγελματία skateboarder, ο Castle και η Beckett διεισδύουν στον κόσμο των extreme sports, και συνειδητοποιούν ότι είναι πολύ πιο επικίνδυνος απ' όσο φαντάζονταν.</desc>
     <category lang="el">Μυστηρίου</category>
   </programme>
-  <programme start="20260605161500 +0300" stop="20260605164000 +0300" channel="XTV100002107">
+  <programme start="20260605163000 +0300" stop="20260605165000 +0300" channel="XTV100002107">
     <title lang="el">Not Dead Yet Κ2 Ε8</title>
     <desc lang="el">Επεισόδιο: Not You Yet. Η Νελ, η Λέξι και η Κρίκετ βγάζουν έξω τη Σαμ για να γιορτάσουν.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605164000 +0300" stop="20260605170500 +0300" channel="XTV100002107">
+  <programme start="20260605165000 +0300" stop="20260605171500 +0300" channel="XTV100002107">
     <title lang="el">Not Dead Yet Κ2 Ε9</title>
     <desc lang="el">Επεισόδιο: Not the End Yet. Η Νελ μαθαίνει ότι ο Ντάνκαν πουλάει την εφημερίδα.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605170500 +0300" stop="20260605173000 +0300" channel="XTV100002107">
+  <programme start="20260605171500 +0300" stop="20260605174000 +0300" channel="XTV100002107">
     <title lang="el">Abbott Elementary Κ2 Ε21</title>
     <desc lang="el">Επεισόδιο: Mom. Τα σχέδια της Τζανίν για ένα ήρεμο διήμερο ταξίδι εκτροχιάζονται όταν η μητέρα της εμφανίζεται απροειδοποίητα και της ζητάει βοήθεια.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605173000 +0300" stop="20260605175000 +0300" channel="XTV100002107">
+  <programme start="20260605174000 +0300" stop="20260605180000 +0300" channel="XTV100002107">
     <title lang="el">Abbott Elementary Κ2 Ε22</title>
     <desc lang="el">Επεισόδιο: Franklin Institute. Το Δημοτικό Σχολείο Άμποτ πηγαίνει εκδρομή στο Ινστιτούτο Φράνκλιν. Ο Γκρέγκορι είναι πρόθυμος να περάσει χρόνο με την επιφυλακτική Τζανίν η οποία τον αποφεύγει.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605175000 +0300" stop="20260605183500 +0300" channel="XTV100002107">
+  <programme start="20260605180000 +0300" stop="20260605184500 +0300" channel="XTV100002107">
     <title lang="el">The Mentalist Κ1 Ε10</title>
     <desc lang="el">Επεισόδιο: Red Brick and Ivy. Ο Πάτρικ Τζέιν ενδιαφέρεται προσωπικά για την υπόθεση ενός δηλητηριασμένου καθηγητή, ενώ η κύρια ύποπτη είναι η σύζυγος του θύματος - και πρώην ψυχίατρος του Τζέιν.</desc>
     <category lang="el">Μυστηρίου</category>
   </programme>
-  <programme start="20260605183500 +0300" stop="20260605192000 +0300" channel="XTV100002107">
+  <programme start="20260605184500 +0300" stop="20260605193000 +0300" channel="XTV100002107">
     <title lang="el">Station 19 Κ5 Ε5</title>
     <desc lang="el">Επεισόδιο: Things We Lost in the Fire. Όταν ο Theo και η Vic περνούν κρίση στη σχέση τους, η Vic αναγκάζεται να αντιμετωπίσει τα συναισθήματά της για τη δέσμευση.</desc>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20260605192000 +0300" stop="20260605194500 +0300" channel="XTV100002107">
+  <programme start="20260605193000 +0300" stop="20260605195500 +0300" channel="XTV100002107">
     <title lang="el">Modern Family Κ6 Ε7</title>
     <desc lang="el">Επεισόδιο: Queer Eyes, Full Hearts. Ο Phil και η Claire δεν ξέρουν αν πρέπει να χαίρονται ή να ανησυχούν που η Haley και ο Andy περνούν τόσο χρόνο μαζί. Ωστόσο, σύντομα ανακαλύπτουν ότι τα πράγματα δεν είναι όπως φαίνονται.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605194500 +0300" stop="20260605201000 +0300" channel="XTV100002107">
+  <programme start="20260605195500 +0300" stop="20260605201500 +0300" channel="XTV100002107">
     <title lang="el">Modern Family Κ6 Ε8</title>
     <desc lang="el">Επεισόδιο: Three Turkeys. Φέτος, ο Phil μαγειρεύει το γεύμα των Ευχαριστιών με τον Luke ως βοηθό του, αλλά η Claire δεν τους έχει καμία εμπιστοσύνη και ετοιμάζει κρυφά μια γαλοπούλα.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605201000 +0300" stop="20260605210000 +0300" channel="XTV100002107">
+  <programme start="20260605201500 +0300" stop="20260605210000 +0300" channel="XTV100002107">
     <title lang="el">Rizzoli &amp; Isles Κ5 Ε6</title>
     <desc lang="el">Επεισόδιο: Knockout. Με τη Μάουρα σε ένα συνέδριο ιατροδικαστών, η Τζέιν χρειάζεται τη βοήθεια της Σούζι και διοράματα από τον τόπο του εγκλήματος για να λύσει τον τέλειο φόνο.</desc>
     <category lang="el">Μυστηρίου</category>
   </programme>
-  <programme start="20260605210000 +0300" stop="20260605215000 +0300" channel="XTV100002107">
+  <programme start="20260605210000 +0300" stop="20260605214500 +0300" channel="XTV100002107">
     <title lang="el">Masterchef Κ15 Ε8</title>
     <desc lang="el">Επεισόδιο: Recipe Telephone. Ένας παίκτης αρχίζει να μαγειρεύει κι ο άλλος πρέπει να ολοκληρώσει το πιάτο.</desc>
     <category lang="el">Μαγειρική</category>
   </programme>
-  <programme start="20260605215000 +0300" stop="20260605224000 +0300" channel="XTV100002107">
+  <programme start="20260605214500 +0300" stop="20260605223000 +0300" channel="XTV100002107">
     <title lang="el">Chicago Med Κ11 Ε8</title>
     <desc lang="el">Επεισόδιο: Triple Threat. Οι γιατροί αντιμετωπίζουν τις επιπτώσεις των επιλογών που έκαναν κατά τη διάρκεια μιας διακοπής ρεύματος σε όλη την πόλη.</desc>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20260605224000 +0300" stop="20260605232500 +0300" channel="XTV100002107">
+  <programme start="20260605223000 +0300" stop="20260605231500 +0300" channel="XTV100002107">
     <title lang="el">The Mentalist Κ1 Ε11</title>
     <desc lang="el">Επεισόδιο: Red John's Friends. Ο Πάτρικ Τζέιν παραιτείται από το Τμήμα Ερευνών της Καλιφόρνια για να αποδείξει ότι ένας καταδικασμένος δολοφόνος είναι αθώος, αφού ο κρατούμενος τού υπόσχεται πληροφορίες για τον Ρεντ Τζον μετά την αποφυλάκισή του.</desc>
     <category lang="el">Μυστηρίου</category>
   </programme>
-  <programme start="20260605232500 +0300" stop="20260606001500 +0300" channel="XTV100002107">
+  <programme start="20260605231500 +0300" stop="20260606000000 +0300" channel="XTV100002107">
     <title lang="el">Masterchef Κ15 Ε8</title>
     <desc lang="el">Επεισόδιο: Recipe Telephone. Ένας παίκτης αρχίζει να μαγειρεύει κι ο άλλος πρέπει να ολοκληρώσει το πιάτο.</desc>
     <category lang="el">Μαγειρική</category>
   </programme>
-  <programme start="20260605232500 +0300" stop="20260606001500 +0300" channel="XTV100002107">
-    <title lang="el">Masterchef Κ15 Ε8</title>
-    <desc lang="el">Επεισόδιο: Recipe Telephone. Ένας παίκτης αρχίζει να μαγειρεύει κι ο άλλος πρέπει να ολοκληρώσει το πιάτο.</desc>
-    <category lang="el">Μαγειρική</category>
-  </programme>
-  <programme start="20260606001500 +0300" stop="20260606005500 +0300" channel="XTV100002107">
+  <programme start="20260606000000 +0300" stop="20260606004500 +0300" channel="XTV100002107">
     <title lang="el">Rizzoli &amp; Isles Κ5 Ε6</title>
     <desc lang="el">Επεισόδιο: Knockout. Με τη Μάουρα σε ένα συνέδριο ιατροδικαστών, η Τζέιν χρειάζεται τη βοήθεια της Σούζι και διοράματα από τον τόπο του εγκλήματος για να λύσει τον τέλειο φόνο.</desc>
     <category lang="el">Μυστηρίου</category>
   </programme>
-  <programme start="20260606005500 +0300" stop="20260606014000 +0300" channel="XTV100002107">
+  <programme start="20260606004500 +0300" stop="20260606013000 +0300" channel="XTV100002107">
     <title lang="el">Station 19 Κ5 Ε5</title>
     <desc lang="el">Επεισόδιο: Things We Lost in the Fire. Όταν ο Theo και η Vic περνούν κρίση στη σχέση τους, η Vic αναγκάζεται να αντιμετωπίσει τα συναισθήματά της για τη δέσμευση.</desc>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20260606014000 +0300" stop="20260606022500 +0300" channel="XTV100002107">
+  <programme start="20260606013000 +0300" stop="20260606021500 +0300" channel="XTV100002107">
     <title lang="el">The Mentalist Κ1 Ε11</title>
     <desc lang="el">Επεισόδιο: Red John's Friends. Ο Πάτρικ Τζέιν παραιτείται από το Τμήμα Ερευνών της Καλιφόρνια για να αποδείξει ότι ένας καταδικασμένος δολοφόνος είναι αθώος, αφού ο κρατούμενος τού υπόσχεται πληροφορίες για τον Ρεντ Τζον μετά την αποφυλάκισή του.</desc>
     <category lang="el">Μυστηρίου</category>
   </programme>
-  <programme start="20260606022500 +0300" stop="20260606025000 +0300" channel="XTV100002107">
+  <programme start="20260606021500 +0300" stop="20260606023500 +0300" channel="XTV100002107">
     <title lang="el">Modern Family Κ6 Ε7</title>
     <desc lang="el">Επεισόδιο: Queer Eyes, Full Hearts. Ο Phil και η Claire δεν ξέρουν αν πρέπει να χαίρονται ή να ανησυχούν που η Haley και ο Andy περνούν τόσο χρόνο μαζί. Ωστόσο, σύντομα ανακαλύπτουν ότι τα πράγματα δεν είναι όπως φαίνονται.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260606025000 +0300" stop="20260606031000 +0300" channel="XTV100002107">
+  <programme start="20260606023500 +0300" stop="20260606025500 +0300" channel="XTV100002107">
     <title lang="el">Modern Family Κ6 Ε8</title>
     <desc lang="el">Επεισόδιο: Three Turkeys. Φέτος, ο Phil μαγειρεύει το γεύμα των Ευχαριστιών με τον Luke ως βοηθό του, αλλά η Claire δεν τους έχει καμία εμπιστοσύνη και ετοιμάζει κρυφά μια γαλοπούλα.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260606031000 +0300" stop="20260606033000 +0300" channel="XTV100002107">
+  <programme start="20260606025500 +0300" stop="20260606032000 +0300" channel="XTV100002107">
     <title lang="el">Not Dead Yet Κ2 Ε8</title>
     <desc lang="el">Επεισόδιο: Not You Yet. Η Νελ, η Λέξι και η Κρίκετ βγάζουν έξω τη Σαμ για να γιορτάσουν.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260606033000 +0300" stop="20260606035500 +0300" channel="XTV100002107">
+  <programme start="20260606032000 +0300" stop="20260606034500 +0300" channel="XTV100002107">
     <title lang="el">Not Dead Yet Κ2 Ε9</title>
     <desc lang="el">Επεισόδιο: Not the End Yet. Η Νελ μαθαίνει ότι ο Ντάνκαν πουλάει την εφημερίδα.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260606035500 +0300" stop="20260606042000 +0300" channel="XTV100002107">
+  <programme start="20260606034500 +0300" stop="20260606040500 +0300" channel="XTV100002107">
     <title lang="el">Abbott Elementary Κ2 Ε21</title>
     <desc lang="el">Επεισόδιο: Mom. Τα σχέδια της Τζανίν για ένα ήρεμο διήμερο ταξίδι εκτροχιάζονται όταν η μητέρα της εμφανίζεται απροειδοποίητα και της ζητάει βοήθεια.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260606042000 +0300" stop="20260606044000 +0300" channel="XTV100002107">
+  <programme start="20260606040500 +0300" stop="20260606043000 +0300" channel="XTV100002107">
     <title lang="el">Abbott Elementary Κ2 Ε22</title>
     <desc lang="el">Επεισόδιο: Franklin Institute. Το Δημοτικό Σχολείο Άμποτ πηγαίνει εκδρομή στο Ινστιτούτο Φράνκλιν. Ο Γκρέγκορι είναι πρόθυμος να περάσει χρόνο με την επιφυλακτική Τζανίν η οποία τον αποφεύγει.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260606044000 +0300" stop="20260606052500 +0300" channel="XTV100002107">
+  <programme start="20260606043000 +0300" stop="20260606051500 +0300" channel="XTV100002107">
     <title lang="el">Castle Κ6 Ε21</title>
     <desc lang="el">Επεισόδιο: Law and Boarder. Όταν ένας μυστηριώδης οδηγός μοτοσικλέτας πυροβολεί έναν ανερχόμενο επαγγελματία skateboarder, ο Castle και η Beckett διεισδύουν στον κόσμο των extreme sports, και συνειδητοποιούν ότι είναι πολύ πιο επικίνδυνος απ' όσο φαντάζονταν.</desc>
     <category lang="el">Μυστηρίου</category>
   </programme>
-  <programme start="20260606052500 +0300" stop="20260606055000 +0300" channel="XTV100002107">
+  <programme start="20260606051500 +0300" stop="20260606053500 +0300" channel="XTV100002107">
     <title lang="el">How I Met Your Mother Κ7 Ε21</title>
     <desc lang="el">Επεισόδιο: Now We're Even. Ενώ ο Ted εγκαθίσταται μόνιμα στο νέο του διαμέρισμα, ο Barney προσπαθεί να τον παρασύρει να βγαίνει έξω κάθε βράδυ.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260606055000 +0300" stop="20260606060000 +0300" channel="XTV100002107">
+  <programme start="20260606053500 +0300" stop="20260606060000 +0300" channel="XTV100002107">
     <title lang="el">How I Met Your Mother Κ7 Ε22</title>
     <desc lang="el">Επεισόδιο: Good Crazy. Όταν η Lily και ο Marshall οργανώνουν ένα πάρτι για το μωρό, ο Marshall πανικοβάλλεται όταν συνειδητοποιεί ότι το μωρό θα γεννηθεί σύντομα. Ο Ted και η Robin τα βρίσκουν όσον αφορά τη σχέση τους και ο Barney πηγαίνει ένα ταξίδι με τον Marshall.</desc>
     <category lang="el">Κωμωδία</category>
@@ -20293,112 +20288,112 @@
     <desc lang="el">Επεισόδιο: Blue Flu. Ο αρχηγός Χολτ και η Έιμι διαχειρίζονται το υποστελεχωμένο Τμήμα. Ο Τζέικ και ο Τσαρλς ερευνούν.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605060000 +0300" stop="20260605064000 +0300" channel="XTV100002164">
+  <programme start="20260605060000 +0300" stop="20260605065000 +0300" channel="XTV100002164">
     <title lang="el">9-1-1 Κ5 Ε3</title>
     <desc lang="el">Επεισόδιο: Desperate Measures. Καθώς η καθολική διακοπή ρεύματος στην πόλη συνεχίζει να προκαλεί χάος στο Λος Άντζελες, η Athena σπεύδει να σώσει την οικογένειά της από μία τραγωδία.</desc>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20260605064000 +0300" stop="20260605072500 +0300" channel="XTV100002164">
+  <programme start="20260605065000 +0300" stop="20260605073500 +0300" channel="XTV100002164">
     <title lang="el">9-1-1 Κ5 Ε4</title>
     <desc lang="el">Επεισόδιο: Home and Away. Η ομάδα 118 καταφτάνει στο σημείο όπου ένα φορτηγό έπεσε πάνω σε σχολική παρέλαση.</desc>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20260605072500 +0300" stop="20260605081000 +0300" channel="XTV100002164">
+  <programme start="20260605073500 +0300" stop="20260605081500 +0300" channel="XTV100002164">
     <title lang="el">Tracker Κ2 Ε19</title>
     <desc lang="el">Επεισόδιο: Rules of the Game. Ο πελάτης της Ρίνι προσλαμβάνει τον Κόλτερ για να εντοπίσει την αγνοούμενη βοηθό του.</desc>
     <category lang="el">Δραματική</category>
   </programme>
-  <programme start="20260605081000 +0300" stop="20260605083500 +0300" channel="XTV100002164">
+  <programme start="20260605081500 +0300" stop="20260605084000 +0300" channel="XTV100002164">
     <title lang="el">Brooklyn Nine-Nine Κ7 Ε13</title>
     <desc lang="el">Επεισόδιο: Lights Out. Ολόκληρη η ομάδα βρίσκεται σε εγρήγορση όταν ένα τεράστιο μπλακ άουτ χτυπά το Μπρούκλιν.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605083500 +0300" stop="20260605092000 +0300" channel="XTV100002164">
+  <programme start="20260605084000 +0300" stop="20260605092500 +0300" channel="XTV100002164">
     <title lang="el">The Resident Κ3 Ε5</title>
     <desc lang="el">Επεισόδιο: Choice Words. Μετά τη συντριβή ενός αεροπλάνου στην Ατλάντα, ο Ντέβον κυριεύεται από ενοχές στη σκέψη ότι θα μπορούσε να είχε αποτρέψει την τραγωδία. Ο Μπελ, ο οποίος επέβαινε στο αεροπλάνο, κάνει προσωπική του αποστολή να σώσει τη ζωή του άνδρα που καθόταν δίπλα του.</desc>
     <category lang="el">Δραματική</category>
   </programme>
-  <programme start="20260605092000 +0300" stop="20260605094000 +0300" channel="XTV100002164">
+  <programme start="20260605092500 +0300" stop="20260605095000 +0300" channel="XTV100002164">
     <title lang="el">The Simpsons Κ3 Ε11</title>
     <desc lang="el">Επεισόδιο: Burns Verkaufen der Kraftwerk. Όταν οι Γερμανοί αναλαμβάνουν το εργοστάσιο του κυρίου Μπερνς, ανακαλύπτουν ότι δεν είναι ευκαιρία.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605094000 +0300" stop="20260605100500 +0300" channel="XTV100002164">
+  <programme start="20260605095000 +0300" stop="20260605101500 +0300" channel="XTV100002164">
     <title lang="el">The Simpsons Κ3 Ε12</title>
     <desc lang="el">Επεισόδιο: I Married Marge. Σε μια αναδρομή, βλέπουμε τον Χόμερ να ψάχνει να βρει δουλειά στον πυρηνικό σταθμό του Σπρίνγκφιλντ.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605100500 +0300" stop="20260605103000 +0300" channel="XTV100002164">
+  <programme start="20260605101500 +0300" stop="20260605103500 +0300" channel="XTV100002164">
     <title lang="el">The Big Bang Theory Κ3 Ε3</title>
     <desc lang="el">Επεισόδιο: The Gothowitz Deviation. Ο Χάουαρντ παίρνει μαζί του τον Ραζ για να εξερευνήσουν τη γκοθ σκηνή γνωριμιών. Ο Σέλντον χρησιμοποιεί σοκολάτα ως μέρος ενός πειράματος τροποποίησης συμπεριφοράς που κάνει πάνω στην Πένι.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605103000 +0300" stop="20260605105500 +0300" channel="XTV100002164">
+  <programme start="20260605103500 +0300" stop="20260605110000 +0300" channel="XTV100002164">
     <title lang="el">The Big Bang Theory Κ3 Ε4</title>
     <desc lang="el">Επεισόδιο: The Pirate Solution. Αντιμετωπίζοντας την πιθανότητα απέλασης στην Ινδία, ο Ραζ χρειάζεται δουλειά τόσο απεγνωσμένα που σκέφτεται να δουλέψει για τον Σέλντον. Ο Χάουαρντ γίνεται 'ο τρίτος τροχός' στη σχέση του Λέοναρντ και της Πένι.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605105500 +0300" stop="20260605111500 +0300" channel="XTV100002164">
+  <programme start="20260605110000 +0300" stop="20260605112000 +0300" channel="XTV100002164">
     <title lang="el">Brooklyn Nine-Nine Κ8 Ε2</title>
     <desc lang="el">Επεισόδιο: The Lake House. Η ομάδα δέχεται την πρόταση του Χολτ για μια απόδραση το Σαββατοκύριακο.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605111500 +0300" stop="20260605114000 +0300" channel="XTV100002164">
+  <programme start="20260605112000 +0300" stop="20260605114500 +0300" channel="XTV100002164">
     <title lang="el">Brooklyn Nine-Nine Κ8 Ε3</title>
     <desc lang="el">Επεισόδιο: Blue Flu. Ο αρχηγός Χολτ και η Έιμι διαχειρίζονται το υποστελεχωμένο Τμήμα. Ο Τζέικ και ο Τσαρλς ερευνούν.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605114000 +0300" stop="20260605122500 +0300" channel="XTV100002164">
+  <programme start="20260605114500 +0300" stop="20260605123000 +0300" channel="XTV100002164">
     <title lang="el">9-1-1 Κ5 Ε5</title>
     <desc lang="el">Επεισόδιο: Peer Pressure. Τα μέλη της ομάδας 118 αντιμετωπίζουν μια αλλόκοτη διάσωση όταν καταφτάνουν στο σημείο όπου ένας άντρας έχει γυμναστεί υπερβολικά.</desc>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20260605122500 +0300" stop="20260605131000 +0300" channel="XTV100002164">
+  <programme start="20260605123000 +0300" stop="20260605131500 +0300" channel="XTV100002164">
     <title lang="el">9-1-1 Κ5 Ε6</title>
     <desc lang="el">Επεισόδιο: Brawl in Cell Block 9-1-1. Ο Bobby και η ομάδα 118 καλούνται σε φωτιά σε μια φυλακή και βρίσκονται παγιδευμένοι μέσα σε μια φονική εξέγερση.</desc>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20260605131000 +0300" stop="20260605135500 +0300" channel="XTV100002164">
+  <programme start="20260605131500 +0300" stop="20260605140000 +0300" channel="XTV100002164">
     <title lang="el">Tracker Κ2 Ε20</title>
     <desc lang="el">Επεισόδιο: Echo Ridge. Ο Κόλτερ επιστρέφει στο Έκο Ριτζ για να ερευνήσει την εξαφάνιση ενός ιδιοκτήτη εστιατορίου.</desc>
     <category lang="el">Δραματική</category>
   </programme>
-  <programme start="20260605135500 +0300" stop="20260605144000 +0300" channel="XTV100002164">
+  <programme start="20260605140000 +0300" stop="20260605144500 +0300" channel="XTV100002164">
     <title lang="el">The Resident Κ3 Ε6</title>
     <desc lang="el">Επεισόδιο: Nurses' Day. Την Εθνική Ημέρα Νοσηλευτών, οι νοσηλευτές του Τσαστέιν είναι εξαιρετικά καταπονημένοι λόγω υποστελέχωσης, με αποτέλεσμα να νιώθουν όλοι εξαντλημένοι και υποτιμημένοι. Ο Κέιν κάνει μια επικίνδυνη χειρουργική επέμβαση σε έναν νέο ασθενή, τον οποίο κέρδισε σε παρτίδα πόκερ.</desc>
     <category lang="el">Δραματική</category>
   </programme>
-  <programme start="20260605144000 +0300" stop="20260605150000 +0300" channel="XTV100002164">
+  <programme start="20260605144500 +0300" stop="20260605151000 +0300" channel="XTV100002164">
     <title lang="el">The Simpsons Κ3 Ε13</title>
     <desc lang="el">Επεισόδιο: Radio Bart. Ο Μπαρτ ξεγελά την πόλη λέγοντας ότι υπάρχει ένα μικρό αγόρι παγιδευμένο σε ένα πηγάδι.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605150000 +0300" stop="20260605152500 +0300" channel="XTV100002164">
+  <programme start="20260605151000 +0300" stop="20260605153500 +0300" channel="XTV100002164">
     <title lang="el">The Simpsons Κ3 Ε14</title>
     <desc lang="el">Επεισόδιο: Lisa the Greek. Ο Χόμερ ανακαλύπτει την ικανότητα της Λίζα να διαλέγει νικητές ποδοσφαίρου και το εκμεταλλεύεται.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605152500 +0300" stop="20260605155000 +0300" channel="XTV100002164">
+  <programme start="20260605153500 +0300" stop="20260605155500 +0300" channel="XTV100002164">
     <title lang="el">The Big Bang Theory Κ3 Ε5</title>
     <desc lang="el">Επεισόδιο: The Creepy Candy Coating Corollary. Ο Σέλντον ανυπομονεί να αντιμετωπίσει έναν ηθοποιό του Star Trek σε ένα τουρνουά παιχνιδιών φαντασίας με κάρτες. Ο Γουόλοβιτς επωφελείται από μια παλιά συμφωνία με τον Λέοναρντ.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605155000 +0300" stop="20260605161500 +0300" channel="XTV100002164">
+  <programme start="20260605155500 +0300" stop="20260605162000 +0300" channel="XTV100002164">
     <title lang="el">The Big Bang Theory Κ3 Ε6</title>
     <desc lang="el">Επεισόδιο: The Cornhusker Vortex. Ελπίζοντας να ταιριάξει με τους φίλους της Πένι που αγαπούν το ποδόσφαιρο, ο Λέοναρντ μαθαίνει στον Σέλντον για το άθλημα. Ο Ραζ είναι έξαλλος που έχασε το χαρταετό του.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605161500 +0300" stop="20260605164000 +0300" channel="XTV100002164">
+  <programme start="20260605162000 +0300" stop="20260605164000 +0300" channel="XTV100002164">
     <title lang="el">Brooklyn Nine-Nine Κ8 Ε4</title>
     <desc lang="el">Επεισόδιο: Balancing. Ο Τζέικ και η Έιμι δημιουργούν ένα σύστημα εξισορρόπησης εργασίας και παιδικής φροντίδας. Η Ρόζα αποκτά νέο φιλοξενούμενο.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605164000 +0300" stop="20260605170000 +0300" channel="XTV100002164">
+  <programme start="20260605164000 +0300" stop="20260605170500 +0300" channel="XTV100002164">
     <title lang="el">Brooklyn Nine-Nine Κ8 Ε5</title>
     <desc lang="el">Επεισόδιο: PB&amp;J. Ο Τζέικ πηγαίνει βόλτα έναν παλιό φίλο.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605170000 +0300" stop="20260605175000 +0300" channel="XTV100002164">
+  <programme start="20260605170500 +0300" stop="20260605175000 +0300" channel="XTV100002164">
     <title lang="el">9-1-1 Κ5 Ε7</title>
     <desc lang="el">Επεισόδιο: Ghost Stories. Τα μέλη της ομάδας 118 σπεύδουν να διασώσουν έναν άνδρα που ισχυρίζεται ότι τον απήγαγαν μαζί με το αμάξι του, τον πυροβόλησαν και τον έθαψαν ζωντανό.</desc>
     <category lang="el">Κοινωνική</category>
@@ -20408,12 +20403,12 @@
     <desc lang="el">Επεισόδιο: Defend in Place. Ο Bobby και η ομάδα 118 σπεύδουν να σώσουν ζωές όταν μια έκρηξη συγκλονίζει το νοσοκομείο όπου ο Δρ. David Hale κάνει μια εγχείρηση. Στο μεταξύ, ο Michael παίρνει μια απόφαση που θα του αλλάξει τη ζωή.</desc>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20260605183500 +0300" stop="20260605192000 +0300" channel="XTV100002164">
+  <programme start="20260605183500 +0300" stop="20260605192500 +0300" channel="XTV100002164">
     <title lang="el">Will Trent Κ1 Ε1</title>
     <desc lang="el">Επεισόδιο: Pilot. Όταν κατά τη διερεύνηση μιας δολοφονίας αποκαλύπτεται ότι η υπόθεση κρύβει πολλά περισσότερα από όσα φαίνονται εκ πρώτης όψεως, ο ειδικός πράκτορας Γουίλ Τρεντ βασίζεται στο ισχυρό του ένστικτο και τη μοναδική του εμπειρία για να αποκαλύψει την αλήθεια.</desc>
     <category lang="el">Δραματική</category>
   </programme>
-  <programme start="20260605192000 +0300" stop="20260605201000 +0300" channel="XTV100002164">
+  <programme start="20260605192500 +0300" stop="20260605201000 +0300" channel="XTV100002164">
     <title lang="el">The Resident Κ3 Ε7</title>
     <desc lang="el">Επεισόδιο: Woman Down. Όταν μία υπάλληλος του Τσαστέιν φτάνει στα Επείγοντα σοβαρά τραυματισμένη, το προσωπικό συνασπίζεται, για να προσπαθήσει να της σώσει τη ζωή, ενώ οι διαφωνίες σχετικά με τον καλύτερο τρόπο χειρισμού της φροντίδας της κάνουν τον Κέιν να συγκρουστεί με τους υπόλοιπους γιατρούς.</desc>
     <category lang="el">Δραματική</category>
@@ -20428,94 +20423,99 @@
     <desc lang="el">Επεισόδιο: Bart the Lover. Ο Μπαρτ εκδικείται τη δασκάλα του απαντώντας στην αγγελία της ως τέλειος, αλλά πλασματικός εραστής.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605210000 +0300" stop="20260605212500 +0300" channel="XTV100002164">
+  <programme start="20260605210000 +0300" stop="20260605212000 +0300" channel="XTV100002164">
     <title lang="el">The Big Bang Theory Κ3 Ε7</title>
     <desc lang="el">Επεισόδιο: The Guitarist Amplification. Στον πρώτο μεγάλο καβγά του Λέοναρντ και της Πένι, ο Σέλντον παίζει τον ρόλο του διαμεσολαβητή λόγω παιδικού τραύματος.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605212500 +0300" stop="20260605215000 +0300" channel="XTV100002164">
+  <programme start="20260605212000 +0300" stop="20260605214000 +0300" channel="XTV100002164">
     <title lang="el">The Big Bang Theory Κ3 Ε8</title>
     <desc lang="el">Επεισόδιο: The Adhesive Duck Deficiency. Με την υπόλοιπη παρέα να έχει φύγει για κάμπινγκ στην έρημο, ο Σέλντον πρέπει να το παίξει ήρωας όταν η Πένι γλιστράει στην μπανιέρα και εξάρθρωνει τον ώμο της.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605215000 +0300" stop="20260605221500 +0300" channel="XTV100002164">
+  <programme start="20260605214000 +0300" stop="20260605220500 +0300" channel="XTV100002164">
     <title lang="el">The Simpsons Κ37 Ε13</title>
     <desc lang="el">Επεισόδιο: Seperance. Ο ενθουσιασμός του Χόμερ του εξασφαλίζει δουλειά σε μια εταιρεία με σχέδια ελέγχου του νου.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260605221500 +0300" stop="20260605224000 +0300" channel="XTV100002164">
+  <programme start="20260605220500 +0300" stop="20260605223000 +0300" channel="XTV100002164">
     <title lang="el">Solar Opposites Κ6 Ε1</title>
     <desc lang="el">Επεισόδιο: The Unfortunate Destruction of the Diamond Making Machine. Μπελάδες έρχονται στην πόρτα του Κόρβο και του Τέρι, με την άφιξη του στριμμένου πρώην διοικητή τους στη γειτονιά.</desc>
     <category lang="el">Κιν. Σχεδίων</category>
   </programme>
-  <programme start="20260605224000 +0300" stop="20260605233000 +0300" channel="XTV100002164">
+  <programme start="20260605223000 +0300" stop="20260605231500 +0300" channel="XTV100002164">
     <title lang="el">Chicago P.D. Κ13 Ε8</title>
     <desc lang="el">Επεισόδιο: Born Screaming. Ο Voight και η ομάδα συνεργάζονται για να αποκαλύψουν την αλήθεια της υπόθεσης Μπελ.</desc>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20260605233000 +0300" stop="20260606001500 +0300" channel="XTV100002164">
+  <programme start="20260605231500 +0300" stop="20260606000000 +0300" channel="XTV100002164">
     <title lang="el">The Resident Κ3 Ε7</title>
     <desc lang="el">Επεισόδιο: Woman Down. Όταν μία υπάλληλος του Τσαστέιν φτάνει στα Επείγοντα σοβαρά τραυματισμένη, το προσωπικό συνασπίζεται, για να προσπαθήσει να της σώσει τη ζωή, ενώ οι διαφωνίες σχετικά με τον καλύτερο τρόπο χειρισμού της φροντίδας της κάνουν τον Κέιν να συγκρουστεί με τους υπόλοιπους γιατρούς.</desc>
     <category lang="el">Δραματική</category>
   </programme>
-  <programme start="20260605233000 +0300" stop="20260606001500 +0300" channel="XTV100002164">
-    <title lang="el">The Resident Κ3 Ε7</title>
-    <desc lang="el">Επεισόδιο: Woman Down. Όταν μία υπάλληλος του Τσαστέιν φτάνει στα Επείγοντα σοβαρά τραυματισμένη, το προσωπικό συνασπίζεται, για να προσπαθήσει να της σώσει τη ζωή, ενώ οι διαφωνίες σχετικά με τον καλύτερο τρόπο χειρισμού της φροντίδας της κάνουν τον Κέιν να συγκρουστεί με τους υπόλοιπους γιατρούς.</desc>
-    <category lang="el">Δραματική</category>
-  </programme>
-  <programme start="20260606001500 +0300" stop="20260606004000 +0300" channel="XTV100002164">
+  <programme start="20260606000000 +0300" stop="20260606002500 +0300" channel="XTV100002164">
     <title lang="el">The Simpsons Κ37 Ε13</title>
     <desc lang="el">Επεισόδιο: Seperance. Ο ενθουσιασμός του Χόμερ του εξασφαλίζει δουλειά σε μια εταιρεία με σχέδια ελέγχου του νου.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260606004000 +0300" stop="20260606010500 +0300" channel="XTV100002164">
+  <programme start="20260606002500 +0300" stop="20260606004500 +0300" channel="XTV100002164">
     <title lang="el">Solar Opposites Κ6 Ε1</title>
     <desc lang="el">Επεισόδιο: The Unfortunate Destruction of the Diamond Making Machine. Μπελάδες έρχονται στην πόρτα του Κόρβο και του Τέρι, με την άφιξη του στριμμένου πρώην διοικητή τους στη γειτονιά.</desc>
     <category lang="el">Κιν. Σχεδίων</category>
   </programme>
-  <programme start="20260606010500 +0300" stop="20260606013000 +0300" channel="XTV100002164">
+  <programme start="20260606004500 +0300" stop="20260606011000 +0300" channel="XTV100002164">
     <title lang="el">The Simpsons Κ3 Ε15</title>
     <desc lang="el">Επεισόδιο: Homer Alone. Η Μαρτζ πάει στο σπα κι αφήνει τον Μπαρτ και τη Λίζα στην Πάτι και τη Σέλμα και τη Μάγκι στον Χόμερ.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260606013000 +0300" stop="20260606015500 +0300" channel="XTV100002164">
+  <programme start="20260606011000 +0300" stop="20260606013500 +0300" channel="XTV100002164">
     <title lang="el">The Simpsons Κ3 Ε16</title>
     <desc lang="el">Επεισόδιο: Bart the Lover. Ο Μπαρτ εκδικείται τη δασκάλα του απαντώντας στην αγγελία της ως τέλειος, αλλά πλασματικός εραστής.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260606015500 +0300" stop="20260606022000 +0300" channel="XTV100002164">
+  <programme start="20260606013500 +0300" stop="20260606015500 +0300" channel="XTV100002164">
     <title lang="el">The Big Bang Theory Κ3 Ε7</title>
     <desc lang="el">Επεισόδιο: The Guitarist Amplification. Στον πρώτο μεγάλο καβγά του Λέοναρντ και της Πένι, ο Σέλντον παίζει τον ρόλο του διαμεσολαβητή λόγω παιδικού τραύματος.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260606022000 +0300" stop="20260606024500 +0300" channel="XTV100002164">
+  <programme start="20260606015500 +0300" stop="20260606022000 +0300" channel="XTV100002164">
     <title lang="el">The Big Bang Theory Κ3 Ε8</title>
     <desc lang="el">Επεισόδιο: The Adhesive Duck Deficiency. Με την υπόλοιπη παρέα να έχει φύγει για κάμπινγκ στην έρημο, ο Σέλντον πρέπει να το παίξει ήρωας όταν η Πένι γλιστράει στην μπανιέρα και εξάρθρωνει τον ώμο της.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260606024500 +0300" stop="20260606033000 +0300" channel="XTV100002164">
+  <programme start="20260606022000 +0300" stop="20260606030500 +0300" channel="XTV100002164">
     <title lang="el">Will Trent Κ1 Ε1</title>
     <desc lang="el">Επεισόδιο: Pilot. Όταν κατά τη διερεύνηση μιας δολοφονίας αποκαλύπτεται ότι η υπόθεση κρύβει πολλά περισσότερα από όσα φαίνονται εκ πρώτης όψεως, ο ειδικός πράκτορας Γουίλ Τρεντ βασίζεται στο ισχυρό του ένστικτο και τη μοναδική του εμπειρία για να αποκαλύψει την αλήθεια.</desc>
     <category lang="el">Δραματική</category>
   </programme>
-  <programme start="20260606033000 +0300" stop="20260606041500 +0300" channel="XTV100002164">
+  <programme start="20260606030500 +0300" stop="20260606035000 +0300" channel="XTV100002164">
     <title lang="el">9-1-1 Κ5 Ε7</title>
     <desc lang="el">Επεισόδιο: Ghost Stories. Τα μέλη της ομάδας 118 σπεύδουν να διασώσουν έναν άνδρα που ισχυρίζεται ότι τον απήγαγαν μαζί με το αμάξι του, τον πυροβόλησαν και τον έθαψαν ζωντανό.</desc>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20260606041500 +0300" stop="20260606050000 +0300" channel="XTV100002164">
+  <programme start="20260606035000 +0300" stop="20260606043500 +0300" channel="XTV100002164">
     <title lang="el">9-1-1 Κ5 Ε8</title>
     <desc lang="el">Επεισόδιο: Defend in Place. Ο Bobby και η ομάδα 118 σπεύδουν να σώσουν ζωές όταν μια έκρηξη συγκλονίζει το νοσοκομείο όπου ο Δρ. David Hale κάνει μια εγχείρηση. Στο μεταξύ, ο Michael παίρνει μια απόφαση που θα του αλλάξει τη ζωή.</desc>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20260606050000 +0300" stop="20260606052500 +0300" channel="XTV100002164">
+  <programme start="20260606043500 +0300" stop="20260606045500 +0300" channel="XTV100002164">
     <title lang="el">The Big Bang Theory Κ3 Ε7</title>
     <desc lang="el">Επεισόδιο: The Guitarist Amplification. Στον πρώτο μεγάλο καβγά του Λέοναρντ και της Πένι, ο Σέλντον παίζει τον ρόλο του διαμεσολαβητή λόγω παιδικού τραύματος.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260606052500 +0300" stop="20260606060000 +0300" channel="XTV100002164">
+  <programme start="20260606045500 +0300" stop="20260606051500 +0300" channel="XTV100002164">
     <title lang="el">The Big Bang Theory Κ3 Ε8</title>
     <desc lang="el">Επεισόδιο: The Adhesive Duck Deficiency. Με την υπόλοιπη παρέα να έχει φύγει για κάμπινγκ στην έρημο, ο Σέλντον πρέπει να το παίξει ήρωας όταν η Πένι γλιστράει στην μπανιέρα και εξάρθρωνει τον ώμο της.</desc>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20260606051500 +0300" stop="20260606053500 +0300" channel="XTV100002164">
+    <title lang="el">Brooklyn Nine-Nine Κ8 Ε4</title>
+    <desc lang="el">Επεισόδιο: Balancing. Ο Τζέικ και η Έιμι δημιουργούν ένα σύστημα εξισορρόπησης εργασίας και παιδικής φροντίδας. Η Ρόζα αποκτά νέο φιλοξενούμενο.</desc>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20260606053500 +0300" stop="20260606060000 +0300" channel="XTV100002164">
+    <title lang="el">Brooklyn Nine-Nine Κ8 Ε5</title>
+    <desc lang="el">Επεισόδιο: PB&amp;J. Ο Τζέικ πηγαίνει βόλτα έναν παλιό φίλο.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
   <programme start="20260606060000 +0300" stop="20260606061500 +0300" channel="XTV100002164">
@@ -22163,25 +22163,25 @@
     <desc lang="el">UEFA Champions League 2025-26. Πλέι Οφ, 2η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260603180000 +0300" stop="20260603200000 +0300" channel="XTV100001071">
+  <programme start="20260603180000 +0300" stop="20260603210000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Σαχτάρ Ντόνετσκ - Παναθηναϊκός</title>
     <desc lang="el">UEFA Europa League 2025-26. 3ος Προκριματικός Γύρος, 2η Αγωνιστική.  Περιγραφή: Κώστας Ψάρρας.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260603200000 +0300" stop="20260603220000 +0300" channel="XTV100001071">
+  <programme start="20260603210000 +0300" stop="20260603230000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Χάποελ Μπερ Σεβά - ΑΕΚ</title>
     <desc lang="el">UEFA Conference League 2025-26. 2ος Προκριματικός Γύρος, 2η Αγωνιστική.  Περιγραφή: Μιχάλης Τσόχος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260603220000 +0300" stop="20260604000000 +0300" channel="XTV100001071">
+  <programme start="20260603230000 +0300" stop="20260604010000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Μπιλμπάο - Άρσεναλ</title>
     <desc lang="el">UEFA Champions League 2025-26. League Phase, 1η Αγωνιστική.  Περιγραφή: Στέφανος Αβραμίδης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604010000 +0300" channel="XTV100001071">
-    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2025-26 Ε23</title>
-    <desc lang="el">Επεισόδιο: UECL Ανασκόπηση Σεζόν. Εβδομαδιαίο μαγκαζίνο με φάσεις και γκολ από τις κορυφαίες διασυλλογικές διοργανώσεις της UEFA.</desc>
-    <category lang="el">Εκπομπή</category>
+  <programme start="20260603230000 +0300" stop="20260604010000 +0300" channel="XTV100001071">
+    <title lang="el">Ποδόσφαιρο: Μπιλμπάο - Άρσεναλ</title>
+    <desc lang="el">UEFA Champions League 2025-26. League Phase, 1η Αγωνιστική.  Περιγραφή: Στέφανος Αβραμίδης.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260604010000 +0300" stop="20260604040000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Σαχτάρ Ντόνετσκ - Παναθηναϊκός</title>
@@ -22208,12 +22208,12 @@
     <desc lang="el">UEFA Europa League 2025-26. 3ος Προκριματικός Γύρος, 2η Αγωνιστική.  Περιγραφή: Κώστας Ψάρρας.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260604130000 +0300" stop="20260604153000 +0300" channel="XTV100001071">
+  <programme start="20260604130000 +0300" stop="20260604150000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Χάποελ Μπερ Σεβά - ΑΕΚ</title>
     <desc lang="el">UEFA Conference League 2025-26. 2ος Προκριματικός Γύρος, 2η Αγωνιστική.  Περιγραφή: Μιχάλης Τσόχος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260604153000 +0300" stop="20260604160000 +0300" channel="XTV100001071">
+  <programme start="20260604150000 +0300" stop="20260604160000 +0300" channel="XTV100001071">
     <title lang="el">Στιγμιότυπα: UEL &amp; UECL 2025-26</title>
     <desc lang="el">UECL, Τελικός. Παρακολουθήστε την ειδική εκπομπή που παρουσιάζει όλα τα τελευταία νέα των ομάδων που συμμετέχουν στις δύο διοργανώσεις.</desc>
     <category lang="el">Στιγμιότυπα</category>
@@ -23625,7 +23625,7 @@
   </programme>
   <programme start="20260606060000 +0300" stop="20260606080000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Μπρέσια</title>
-    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 4ος Αγώνας.</desc>
+    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 4ος Αγώνας.  Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260606080000 +0300" stop="20260606100000 +0300" channel="XTV100001109">
@@ -23645,7 +23645,7 @@
   </programme>
   <programme start="20260606130000 +0300" stop="20260606160000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Σαν Αντόνιο Σπερς - Νιου Γιορκ Νικς</title>
-    <desc lang="el">NBA Finals 2026. 2ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
+    <desc lang="el">NBA Finals 2026. 2ος Αγώνας. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260606160000 +0300" stop="20260606180000 +0300" channel="XTV100001109">
@@ -23659,7 +23659,7 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260606183500 +0300" stop="20260606191000 +0300" channel="XTV100001109">
-    <title lang="el">NBA On Fire 2025-26 Ε32</title>
+    <title lang="el">NBA On Fire 2025-26 Ε32 (Ζ)</title>
     <desc lang="el">Το NBA On Fire σε βάζει στον μαγικό κόσμο του NBA.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
@@ -23670,17 +23670,17 @@
   </programme>
   <programme start="20260606193000 +0300" stop="20260606213000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Μπρέσια</title>
-    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 4ος Αγώνας.</desc>
+    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 4ος Αγώνας.  Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260606213000 +0300" stop="20260607003000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Σαν Αντόνιο Σπερς - Νιου Γιορκ Νικς</title>
-    <desc lang="el">NBA Finals 2026. 2ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
+    <desc lang="el">NBA Finals 2026. 2ος Αγώνας. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260606213000 +0300" stop="20260607003000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Σαν Αντόνιο Σπερς - Νιου Γιορκ Νικς</title>
-    <desc lang="el">NBA Finals 2026. 2ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
+    <desc lang="el">NBA Finals 2026. 2ος Αγώνας. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260607003000 +0300" stop="20260607010500 +0300" channel="XTV100001109">
@@ -23700,7 +23700,7 @@
   </programme>
   <programme start="20260607020000 +0300" stop="20260607040000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Βενέτσια - Βίρτους Μπολόνια</title>
-    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 4ος Αγώνας.</desc>
+    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 4ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260607040000 +0300" stop="20260607060000 +0300" channel="XTV100001109">
@@ -23715,7 +23715,7 @@
   </programme>
   <programme start="20260607080000 +0300" stop="20260607100000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Βενέτσια - Βίρτους Μπολόνια</title>
-    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 4ος Αγώνας.</desc>
+    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 4ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260607100000 +0300" stop="20260607115500 +0300" channel="XTV100001109">
@@ -23745,7 +23745,7 @@
   </programme>
   <programme start="20260607170000 +0300" stop="20260607200000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Σαν Αντόνιο Σπερς - Νιου Γιορκ Νικς</title>
-    <desc lang="el">NBA Finals 2026. 2ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
+    <desc lang="el">NBA Finals 2026. 2ος Αγώνας. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260607200000 +0300" stop="20260607220000 +0300" channel="XTV100001109">
@@ -23760,7 +23760,7 @@
   </programme>
   <programme start="20260608000000 +0300" stop="20260608020000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Βενέτσια - Βίρτους Μπολόνια</title>
-    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 4ος Αγώνας.</desc>
+    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 4ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260608020000 +0300" stop="20260608040000 +0300" channel="XTV100001109">
@@ -23770,7 +23770,7 @@
   </programme>
   <programme start="20260608040000 +0300" stop="20260608060000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Μπρέσια</title>
-    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 4ος Αγώνας.</desc>
+    <desc lang="el">Lega Basket Serie A 2025-26. Ημιτελική Φάση, 4ος Αγώνας.  Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260608060000 +0300" stop="20260608080000 +0300" channel="XTV100001109">
@@ -23994,7 +23994,7 @@
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260604123000 +0300" stop="20260604130000 +0300" channel="XTV100001063">
-    <title lang="el">ERC 2025</title>
+    <title lang="el">ERC</title>
     <desc lang="el">Σκανδιναβία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
@@ -24118,9 +24118,14 @@
     <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260605131000 +0300" stop="20260605141000 +0300" channel="XTV100001063">
-    <title lang="el">WRC</title>
-    <desc lang="el">Ιαπωνία, Ανασκόπηση. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι.</desc>
+  <programme start="20260605131000 +0300" stop="20260605134000 +0300" channel="XTV100001063">
+    <title lang="el">Στιγμιότυπα: Rally Baja Greece 2026</title>
+    <desc lang="el">1η Ημέρα. Το Rally Baja Greece πραγματοποιείται από 4 έως 7 Ιουνίου με τη συμμετοχή κορυφαίων ονομάτων των αγώνων Cross Country Rally.</desc>
+    <category lang="el">Μηχανοκίνητα</category>
+  </programme>
+  <programme start="20260605134000 +0300" stop="20260605141000 +0300" channel="XTV100001063">
+    <title lang="el">ERC 2026</title>
+    <desc lang="el">Σκανδιναβία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260605141000 +0300" stop="20260605150000 +0300" channel="XTV100001063">
@@ -24139,9 +24144,9 @@
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260605171500 +0300" stop="20260605174500 +0300" channel="XTV100001063">
-    <title lang="el">Sports Classics: Gearing Up 2026 Ε5</title>
-    <desc lang="el">Συναρπαστικοί αγώνες από τις πιο απαιτητικές διοργανώσεις. Βραχώδη εδάφη, βαθιά ποτάμια, εξαντλητικοί αγώνες στην έρημο, κόντρες σε χωματόδρομους και αγώνες ταχύτητα στην άσφαλτο. Απολαύστε όλα αυτά σε μια σειρά γεμάτη δράση.</desc>
-    <category lang="el">Διάφορα Σπορ</category>
+    <title lang="el">Στιγμιότυπα: Rally Baja Greece 2026</title>
+    <desc lang="el">1η Ημέρα. Το Rally Baja Greece πραγματοποιείται από 4 έως 7 Ιουνίου με τη συμμετοχή κορυφαίων ονομάτων των αγώνων Cross Country Rally.</desc>
+    <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260605174500 +0300" stop="20260605184000 +0300" channel="XTV100001063">
     <title lang="el">Motorsports: Moto3 2026</title>
@@ -24254,8 +24259,8 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260606131000 +0300" stop="20260606134000 +0300" channel="XTV100001063">
-    <title lang="el">ERC 2025</title>
-    <desc lang="el">Σκανδιναβία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
+    <title lang="el">Στιγμιότυπα: Rally Baja Greece 2026</title>
+    <desc lang="el">2η Ημέρα. Το Rally Baja Greece πραγματοποιείται από 4 έως 7 Ιουνίου με τη συμμετοχή κορυφαίων ονομάτων των αγώνων Cross Country Rally.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260606134000 +0300" stop="20260606143500 +0300" channel="XTV100001063">
@@ -24274,18 +24279,18 @@
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260606165500 +0300" stop="20260606172000 +0300" channel="XTV100001063">
-    <title lang="el">Αθλητικά Στιγμιότυπα</title>
-    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
-    <category lang="el">Στιγμιότυπα</category>
+    <title lang="el">Στιγμιότυπα: Rally Baja Greece 2026</title>
+    <desc lang="el">2η Ημέρα. Το Rally Baja Greece πραγματοποιείται από 4 έως 7 Ιουνίου με τη συμμετοχή κορυφαίων ονομάτων των αγώνων Cross Country Rally.</desc>
+    <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260606172000 +0300" stop="20260606175000 +0300" channel="XTV100001063">
-    <title lang="el">ERC 2025</title>
+    <title lang="el">ERC</title>
     <desc lang="el">Σκανδιναβία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260606175000 +0300" stop="20260606185000 +0300" channel="XTV100001063">
-    <title lang="el">Red Bull MotoGP Rookies Cup 2026 (Ζ)</title>
-    <desc lang="el">Ολλανδία, Άσσεν -1ος Αγώνας. Το 2026 είναι η 20ή σεζόν του Rookies Cup. Ξεκινώντας από την Χέρεζ τον Απρίλιο, η σειρά μεταφέρεται στα κλασικά Grand Prix της Ευρώπης και ολοκληρώνεται στο Spielberg τον Σεπτέμβριο. Περιγραφή: Δήμητρα Λαδά, Χριστόφορος Ζουλινάκης.</desc>
+    <title lang="el">WRC 2026</title>
+    <desc lang="el">Ιαπωνία, Ανασκόπηση. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260606185000 +0300" stop="20260606195500 +0300" channel="XTV100001063">
@@ -24364,8 +24369,8 @@
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260607093500 +0300" stop="20260607103500 +0300" channel="XTV100001063">
-    <title lang="el">Red Bull MotoGP Rookies Cup 2026 (Ζ)</title>
-    <desc lang="el">Ολλανδία, Άσσεν - 2ος Αγώνας. Το 2026 είναι η 20ή σεζόν του Rookies Cup. Ξεκινώντας από την Χέρεζ τον Απρίλιο, η σειρά μεταφέρεται στα κλασικά Grand Prix της Ευρώπης και ολοκληρώνεται στο Spielberg τον Σεπτέμβριο. Περιγραφή: Δήμητρα Λαδά, Χριστόφορος Ζουλινάκης.</desc>
+    <title lang="el">WRC 2026</title>
+    <desc lang="el">Ιαπωνία, Ανασκόπηση. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260607103500 +0300" stop="20260607111000 +0300" channel="XTV100001063">
@@ -24374,7 +24379,7 @@
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260607111000 +0300" stop="20260607114500 +0300" channel="XTV100001063">
-    <title lang="el">ERC 2025</title>
+    <title lang="el">ERC 2026</title>
     <desc lang="el">Σκανδιναβία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
@@ -24394,8 +24399,8 @@
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260607162000 +0300" stop="20260607165500 +0300" channel="XTV100001063">
-    <title lang="el">ERC 2025</title>
-    <desc lang="el">Σκανδιναβία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
+    <title lang="el">Στιγμιότυπα: Rally Baja Greece 2026</title>
+    <desc lang="el">3η Ημέρα. Το Rally Baja Greece πραγματοποιείται από 4 έως 7 Ιουνίου με τη συμμετοχή κορυφαίων ονομάτων των αγώνων Cross Country Rally.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260607165500 +0300" stop="20260607180000 +0300" channel="XTV100001063">
@@ -24424,18 +24429,18 @@
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260607232500 +0300" stop="20260608002500 +0300" channel="XTV100001063">
-    <title lang="el">Red Bull MotoGP Rookies Cup 2026</title>
-    <desc lang="el">Ολλανδία, Άσσεν -1ος Αγώνας. Το 2026 είναι η 20ή σεζόν του Rookies Cup. Ξεκινώντας από την Χέρεζ τον Απρίλιο, η σειρά μεταφέρεται στα κλασικά Grand Prix της Ευρώπης και ολοκληρώνεται στο Spielberg τον Σεπτέμβριο. Περιγραφή: Δήμητρα Λαδά, Χριστόφορος Ζουλινάκης.</desc>
+    <title lang="el">WRC 2026</title>
+    <desc lang="el">Ιαπωνία, Ανασκόπηση. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260607232500 +0300" stop="20260608002500 +0300" channel="XTV100001063">
-    <title lang="el">Red Bull MotoGP Rookies Cup 2026</title>
-    <desc lang="el">Ολλανδία, Άσσεν -1ος Αγώνας. Το 2026 είναι η 20ή σεζόν του Rookies Cup. Ξεκινώντας από την Χέρεζ τον Απρίλιο, η σειρά μεταφέρεται στα κλασικά Grand Prix της Ευρώπης και ολοκληρώνεται στο Spielberg τον Σεπτέμβριο. Περιγραφή: Δήμητρα Λαδά, Χριστόφορος Ζουλινάκης.</desc>
+    <title lang="el">WRC 2026</title>
+    <desc lang="el">Ιαπωνία, Ανασκόπηση. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260608002500 +0300" stop="20260608012500 +0300" channel="XTV100001063">
-    <title lang="el">Red Bull MotoGP Rookies Cup 2026</title>
-    <desc lang="el">Ολλανδία, Άσσεν - 2ος Αγώνας. Το 2026 είναι η 20ή σεζόν του Rookies Cup. Ξεκινώντας από την Χέρεζ τον Απρίλιο, η σειρά μεταφέρεται στα κλασικά Grand Prix της Ευρώπης και ολοκληρώνεται στο Spielberg τον Σεπτέμβριο. Περιγραφή: Δήμητρα Λαδά, Χριστόφορος Ζουλινάκης.</desc>
+    <title lang="el">DTM 2026 - Στιγμιότυπα</title>
+    <desc lang="el">Ολλανδία, Ζάντβοορτ. Το γερμανικό πρωτάθλημα αυτοκίνητων τουρισμού DTM φέρνει στους φίλους του μηχανοκίνητου αθλητισμού δράση, ταχύτητα και δεξιοτεχνία από κορυφαίους διεθνείς οδηγούς.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260608012500 +0300" stop="20260608025500 +0300" channel="XTV100001063">
@@ -24539,7 +24544,7 @@
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260608231500 +0300" stop="20260608234500 +0300" channel="XTV100001063">
-    <title lang="el">ERC 2025</title>
+    <title lang="el">ERC</title>
     <desc lang="el">Σκανδιναβία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
@@ -25985,7 +25990,7 @@
   </programme>
   <programme start="20260605210000 +0300" stop="20260605230000 +0300" channel="XTV100002945">
     <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Μπρέσια (Ζ)</title>
-    <desc lang="el">Lega Basket Serie A 2025-26. Ηµιτελική Φάση, 4ος Αγώνας.</desc>
+    <desc lang="el">Lega Basket Serie A 2025-26. Ηµιτελική Φάση, 4ος Αγώνας. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260605230000 +0300" stop="20260606000000 +0300" channel="XTV100002945">
@@ -26664,7 +26669,7 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260604053000 +0300" stop="20260604060000 +0300" channel="XTV900000002">
-    <title lang="el">ERC 2025</title>
+    <title lang="el">ERC</title>
     <desc lang="el">Σκανδιναβία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
@@ -26779,7 +26784,7 @@
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260605130000 +0300" stop="20260605133000 +0300" channel="XTV900000002">
-    <title lang="el">ERC 2025</title>
+    <title lang="el">ERC</title>
     <desc lang="el">Σκανδιναβία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
@@ -26869,7 +26874,7 @@
     <category lang="el">Πολεμικές Τέχνες</category>
   </programme>
   <programme start="20260607010000 +0300" stop="20260607013000 +0300" channel="XTV900000002">
-    <title lang="el">ERC 2025</title>
+    <title lang="el">ERC</title>
     <desc lang="el">Σκανδιναβία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
@@ -27029,7 +27034,7 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260608223000 +0300" stop="20260608230000 +0300" channel="XTV900000002">
-    <title lang="el">ERC 2025</title>
+    <title lang="el">ERC</title>
     <desc lang="el">Σκανδιναβία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
@@ -28878,12 +28883,12 @@
     <desc lang="el">Stoiximan Super League 2025-26. Το ελληνικό πρωτάθλημα της Super League, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και δυνατά ντέρμπι της φετινής σεζόν ανάμεσα στους διεκδικητές του τίτλου, είναι στα κανάλια Novasports!</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260605130000 +0300" stop="20260605152000 +0300" channel="XTV600000609">
+  <programme start="20260605130000 +0300" stop="20260605151500 +0300" channel="XTV600000609">
     <title lang="el">Ποδόσφαιρο: Άρης - Αστέρας Aktor</title>
     <desc lang="el">Stoiximan Super League 2025-26. Το ελληνικό πρωτάθλημα της Super League, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και δυνατά ντέρμπι της φετινής σεζόν ανάμεσα στους διεκδικητές του τίτλου, είναι στα κανάλια Novasports!</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260605152000 +0300" stop="20260605173000 +0300" channel="XTV600000609">
+  <programme start="20260605151500 +0300" stop="20260605173000 +0300" channel="XTV600000609">
     <title lang="el">Ποδόσφαιρο: Ατρόμητος - ΠΑΟΚ</title>
     <desc lang="el">Stoiximan Super League 2025-26. Το ελληνικό πρωτάθλημα της Super League, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και δυνατά ντέρμπι της φετινής σεζόν ανάμεσα στους διεκδικητές του τίτλου, είναι στα κανάλια Novasports!</desc>
     <category lang="el">Ποδόσφαιρο</category>
@@ -29183,12 +29188,12 @@
     <desc lang="el">La Liga EA Sports 2025/26. Απολαύστε όλους τους αγώνες της ισπανικής La Liga, ενός από τα κορυφαία πρωταθλήματα σε όλο τον πλανήτη, με εμβληματικούς συλλόγους, μεγάλους αστέρες, σπουδαίους προπονητές και τις πιο γεμάτες κερκίδες στην Ευρώπη!</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="XTV600000601">
+  <programme start="20260604180000 +0300" stop="20260604195500 +0300" channel="XTV600000601">
     <title lang="el">Ποδόσφαιρο: Θέλτα - Βιγιαρεάλ</title>
     <desc lang="el">La Liga EA Sports 2025/26. Απολαύστε όλους τους αγώνες της ισπανικής La Liga, ενός από τα κορυφαία πρωταθλήματα σε όλο τον πλανήτη, με εμβληματικούς συλλόγους, μεγάλους αστέρες, σπουδαίους προπονητές και τις πιο γεμάτες κερκίδες στην Ευρώπη!</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260604200000 +0300" stop="20260604220000 +0300" channel="XTV600000601">
+  <programme start="20260604195500 +0300" stop="20260604220000 +0300" channel="XTV600000601">
     <title lang="el">Ποδόσφαιρο: Μπέτις - Λεβάντε</title>
     <desc lang="el">La Liga EA Sports 2025/26. Απολαύστε όλους τους αγώνες της ισπανικής La Liga, ενός από τα κορυφαία πρωταθλήματα σε όλο τον πλανήτη, με εμβληματικούς συλλόγους, μεγάλους αστέρες, σπουδαίους προπονητές και τις πιο γεμάτες κερκίδες στην Ευρώπη!</desc>
     <category lang="el">Ποδόσφαιρο</category>
@@ -29310,7 +29315,7 @@
   </programme>
   <programme start="20260606220000 +0300" stop="20260607000000 +0300" channel="XTV600000601">
     <title lang="el">Ποδόσφαιρο: Καστεγιόν - Αλμερία (Ζ)</title>
-    <desc lang="el">Ισπανικό Πρωτάθλημα Β' Κατηγορίας 2025/26. Πλέι Oφ Ανόδου. Παρακολουθείτε αγώνες της La Liga Hypermotion, της δεύτερης κατηγορίας του ισπανικού πρωταθλήματος ποδοσφαίρου.</desc>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Β' Κατηγορίας 2025/26. Παρακολουθείτε τον πρώτο ημιτελικό ανάμεσα στην Καστεγιόν και την Αλμερία για τα πλέι οφ ανόδου της Β' κατηγορίας του ισπανικού πρωταθλήματος. Περιγραφή: Απ. Κορτιάνος</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260607000000 +0300" stop="20260607020000 +0300" channel="XTV600000601">
@@ -29365,7 +29370,7 @@
   </programme>
   <programme start="20260607220000 +0300" stop="20260608000000 +0300" channel="XTV600000601">
     <title lang="el">Ποδόσφαιρο: Λας Πάλμας - Μάλαγα (Ζ)</title>
-    <desc lang="el">Ισπανικό Πρωτάθλημα Β' Κατηγορίας 2025/26. Πλέι Οφ Ανόδου. Παρακολουθείτε αγώνες της La Liga Hypermotion, της δεύτερης κατηγορίας του ισπανικού πρωταθλήματος ποδοσφαίρου.</desc>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Β' Κατηγορίας 2025/26. Παρακολουθείτε τον πρώτο ημιτελικό ανάμεσα στη Λας Πάλμας και τη Μάλαγα για τα πλέι οφ ανόδου της Β' κατηγορίας του ισπανικού πρωταθλήματος. Περιγραφή: Δ. Στρούμπος</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260608000000 +0300" stop="20260608020000 +0300" channel="XTV600000601">
@@ -30525,7 +30530,7 @@
   </programme>
   <programme start="20260605153000 +0300" stop="20260605173000 +0300" channel="XTV600000605">
     <title lang="el">ONE Friday Fights (Ζ)</title>
-    <desc lang="el">Διοργάνωση 2026. Το ONE Friday Fights διεξάγεται από την ONE FC κάθε Παρασκευή στο εμβληματικό Lumpinee Boxing Stadium της Ταϊλάνδης, με μερικούς από τους καλύτερους μαχητές Muay Thai στον κόσμο και ανερχόμενους αστέρες.</desc>
+    <desc lang="el">Διοργάνωση 2026. Το ONE Friday Fights διεξάγεται από την ONE FC κάθε Παρασκευή στο εμβληματικό Lumpinee Boxing Stadium της Ταϊλάνδης, με μερικούς από τους καλύτερους μαχητές Muay Thai στον κόσμο και ανερχόμενους αστέρες. Περιγραφή: Ακ. Κουζούλης</desc>
     <category lang="el">Πολεμικές Τέχνες</category>
   </programme>
   <programme start="20260605173000 +0300" stop="20260605180000 +0300" channel="XTV600000605">
@@ -39368,17 +39373,17 @@
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες όταν επιχειρούμε διπλό ανάποδο σάλτο στο σκι, τη χημεία της ανθρακοποίησης και όταν κατεβαίνουμε σκάλες με τα χέρια.</desc>
     <category lang="el">Επιστήμη - Μηχανική</category>
   </programme>
-  <programme start="20260605060000 +0300" stop="20260605065000 +0300" channel="XTV100001076">
+  <programme start="20260605060000 +0300" stop="20260605064500 +0300" channel="XTV100001076">
     <title lang="el">Στο Ναυπηγείο Κ1 Ε8</title>
     <desc lang="el">Επεισόδιο: Σκουριασμένο Πλοίο. Η κατασκευή και η συντήρηση αλιευτικών, επαγγελματικών και επιβατηγών σκαφών είναι μια δουλειά γεμάτη στρες. Ένα ναυπηγείο στο Νιου Τζέρσι υποδέχεται ένα νέο πελάτη που το ρυμουλκό του χρειάζεται γερή επισκευή.</desc>
     <category lang="el">Άλλο</category>
   </programme>
-  <programme start="20260605065000 +0300" stop="20260605074000 +0300" channel="XTV100001076">
+  <programme start="20260605064500 +0300" stop="20260605073500 +0300" channel="XTV100001076">
     <title lang="el">Family Guns Κ1 Ε5</title>
     <desc lang="el">Επεισόδιο: Μια Σφαίρα, ένας Θάνατος. Ο Alex επιχειρεί να πουλήσει μερικά από τα πολύτιμα όπλα-αντίκες του πατέρα του, χωρίς να τον ενημερώσει - πράγμα που θα έχει σοβαρές συνέπειες στις σχέσεις της οικογένειας.</desc>
     <category lang="el">Ριάλιτι</category>
   </programme>
-  <programme start="20260605074000 +0300" stop="20260605082500 +0300" channel="XTV100001076">
+  <programme start="20260605073500 +0300" stop="20260605082500 +0300" channel="XTV100001076">
     <title lang="el">Ζωή Kάτω από το Mηδέν: Η Επόμενη Γενιά Κ5 Ε12</title>
     <desc lang="el">Επεισόδιο: Καλή Σοδειά Όπως και Να 'χει. Είναι άνοιξη και, όποιες και αν είναι οι συνθήκες, η επόμενη γενιά θα κάνει ό,τι χρειαστεί για να ανεφοδιάσει τις τεράστιας σημασίας αποθήκες κρέατος και να απολαύσει την αφθονία της φύσης.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
@@ -39453,12 +39458,12 @@
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες όταν ρίχνουμε δίχτυ για ψάρεμα, όταν κατασκευάζουμε πίστα για λουτζ μόνοι μας και όταν βουτάμε σε ρηχά νερά.</desc>
     <category lang="el">Επιστήμη - Μηχανική</category>
   </programme>
-  <programme start="20260605183500 +0300" stop="20260605192000 +0300" channel="XTV100001076">
+  <programme start="20260605183500 +0300" stop="20260605192500 +0300" channel="XTV100001076">
     <title lang="el">Τραγωδία στον Αέρα Κ10 Ε13</title>
     <desc lang="el">Επεισόδιο: Έκρηξη στη Σιου Σίτι. Όταν οι κινητήρες έσβησαν, οι πιλότοι της πτήσης 232 της United Airlines προσπάθησαν να προσγειωθούν στο Σιου Σίτι, αλλά το αεροπλάνο εξερράγη, με αποτέλεσμα να χάσουν τη ζωή τους οι μισοί επιβάτες.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260605192000 +0300" stop="20260605201000 +0300" channel="XTV100001076">
+  <programme start="20260605192500 +0300" stop="20260605201000 +0300" channel="XTV100001076">
     <title lang="el">Τραγωδία στον Αέρα Κ11 Ε1</title>
     <desc lang="el">Επεισόδιο: Αγώνας για τον Έλεγχο. Η τραγωδία μοιάζει αναπόφευκτη όταν μια εσωτερική πτήση των αμερικανικών αερογραμμών χάνει έναν έλικα, 19.000 πόδια πάνω από τον Ειρηνικό Ωκεανό. Θα μπορέσουν άραγε οι πιλότοι να προσγειώσουν με ασφάλεια το αεροπλάνο;</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
@@ -39498,12 +39503,12 @@
     <desc lang="el">Επεισόδιο: Η Πρωτεύουσα του Χορού. Amsterdam Dance Event - το μεγαλύτερο φεστιβάλ ηλεκτρονικής μουσικής στον κόσμο που φέρνει 500.000 λάτρεις του χορού στην πόλη. Ενώ ο νυχτερινός ελεγκτής Έρολ ταξιδεύει με ένα ειδικό τρένο για ντιτζέι, το προσωπικό ασφαλείας, ο Μένο και ο Μπαράν είναι απασχολημένοι με έναν ταραχοποιό.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260606005000 +0300" stop="20260606013500 +0300" channel="XTV100001076">
+  <programme start="20260606005000 +0300" stop="20260606014000 +0300" channel="XTV100001076">
     <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 Ε5</title>
     <desc lang="el">Επεισόδιο: Δεξαμενόπλοιο σε Έκτακτη Ανάγκη. Οι Ακτοφύλακες εντοπίζουν ίχνη λαθρεμπόρων και κάνουν μια σπουδαία ανακάλυψη. Στο μεταξύ, ένα αεροπλάνο της Ακτοφυλακής αναζητά αγνοούμενους ψαράδες.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260606013500 +0300" stop="20260606022500 +0300" channel="XTV100001076">
+  <programme start="20260606014000 +0300" stop="20260606022500 +0300" channel="XTV100001076">
     <title lang="el">Τραγωδία στον Αέρα Κ10 Ε13</title>
     <desc lang="el">Επεισόδιο: Έκρηξη στη Σιου Σίτι. Όταν οι κινητήρες έσβησαν, οι πιλότοι της πτήσης 232 της United Airlines προσπάθησαν να προσγειωθούν στο Σιου Σίτι, αλλά το αεροπλάνο εξερράγη, με αποτέλεσμα να χάσουν τη ζωή τους οι μισοί επιβάτες.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
@@ -39513,17 +39518,17 @@
     <desc lang="el">Επεισόδιο: Αγώνας για τον Έλεγχο. Η τραγωδία μοιάζει αναπόφευκτη όταν μια εσωτερική πτήση των αμερικανικών αερογραμμών χάνει έναν έλικα, 19.000 πόδια πάνω από τον Ειρηνικό Ωκεανό. Θα μπορέσουν άραγε οι πιλότοι να προσγειώσουν με ασφάλεια το αεροπλάνο;</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260606031500 +0300" stop="20260606040000 +0300" channel="XTV100001076">
+  <programme start="20260606031500 +0300" stop="20260606040500 +0300" channel="XTV100001076">
     <title lang="el">Τραγωδία στον Αέρα Κ11 Ε2</title>
     <desc lang="el">Επεισόδιο: Φωτιά στην Καμπίνα. Αποκαλύπτουμε πώς 110 άνθρωποι έχασαν τη ζωή τους, όταν η φωτιά πάνω σε ένα παλιό DC-9, το ανάγκασε να πέσει στα Έβεργκλεϊντς της Φλόριντα το 1996.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260606040000 +0300" stop="20260606044500 +0300" channel="XTV100001076">
+  <programme start="20260606040500 +0300" stop="20260606045000 +0300" channel="XTV100001076">
     <title lang="el">Άμστερνταμ: Κεντρικός Σταθμός 24/7 Κ2 Ε4</title>
     <desc lang="el">Επεισόδιο: Η Πρωτεύουσα του Χορού. Amsterdam Dance Event - το μεγαλύτερο φεστιβάλ ηλεκτρονικής μουσικής στον κόσμο που φέρνει 500.000 λάτρεις του χορού στην πόλη. Ενώ ο νυχτερινός ελεγκτής Έρολ ταξιδεύει με ένα ειδικό τρένο για ντιτζέι, το προσωπικό ασφαλείας, ο Μένο και ο Μπαράν είναι απασχολημένοι με έναν ταραχοποιό.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260606044500 +0300" stop="20260606053500 +0300" channel="XTV100001076">
+  <programme start="20260606045000 +0300" stop="20260606053500 +0300" channel="XTV100001076">
     <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 Ε5</title>
     <desc lang="el">Επεισόδιο: Δεξαμενόπλοιο σε Έκτακτη Ανάγκη. Οι Ακτοφύλακες εντοπίζουν ίχνη λαθρεμπόρων και κάνουν μια σπουδαία ανακάλυψη. Στο μεταξύ, ένα αεροπλάνο της Ακτοφυλακής αναζητά αγνοούμενους ψαράδες.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
@@ -62620,7 +62625,7 @@
   </programme>
   <programme start="20260607123000 +0300" stop="20260607130000 +0300" channel="XTV100000911">
     <title lang="el">Ορθόδοξη Μαρτυρία</title>
-    <desc lang="el">Εμείς και οι άλλοι κατά τον Απόστολο Παύλο. Έγκριτοι Καθηγητές των Θεολογικών Σχολών του Πανεπιστημίου καταθέτουν τις γνώσεις τους και βοηθούν τους τηλεθεατές να γνωρίσουν σε βάθος την Ορθοδοξία.</desc>
+    <desc lang="el">Εμείς και οι άλλοι κατά τον Απόστολο Παύλο. Καλεσμένη του κ. Νίκου Νικολαΐδη, Καθηγητή Θεολογικής Σχολής Πανεπιστημίου Αθηνών, είναι η κ. Κυριακούλα Παπαδημητρίου, Καθηγήτρια Θεολογικής Σχολής Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης.</desc>
     <category lang="el">Θρησκευτικό</category>
   </programme>
   <programme start="20260607130000 +0300" stop="20260607142000 +0300" channel="XTV100000911">
@@ -62713,40 +62718,155 @@
     <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου. Η βραδινή προσευχή της Εκκλησίας μας.</desc>
     <category lang="el">Special</category>
   </programme>
-  <programme start="20260607234000 +0300" stop="20260608000000 +0300" channel="XTV100000911">
-    <title lang="el">4Ε</title>
-    <desc lang="el">Το κανάλι που έχει ως στόχο την πνευματική αναβάθμιση του σύγχρονου ανθρώπου, την καλλιέργεια του θρησκευτικού φρονήματος και την προώθηση και διάδοση των ελληνοκεντρικών αξιών.</desc>
+  <programme start="20260607234000 +0300" stop="20260608024500 +0300" channel="XTV100000911">
+    <title lang="el">Πανηγυρική Αρχιερατική Θεία Λειτουργία</title>
+    <desc lang="el">Ιερός Ναός Αγίων Πάντων - Ξηροκρήνη Θεσσαλονίκης.</desc>
+    <category lang="el">Special</category>
+  </programme>
+  <programme start="20260607234000 +0300" stop="20260608024500 +0300" channel="XTV100000911">
+    <title lang="el">Πανηγυρική Αρχιερατική Θεία Λειτουργία</title>
+    <desc lang="el">Ιερός Ναός Αγίων Πάντων - Ξηροκρήνη Θεσσαλονίκης.</desc>
+    <category lang="el">Special</category>
+  </programme>
+  <programme start="20260608024500 +0300" stop="20260608034500 +0300" channel="XTV100000911">
+    <title lang="el">Σκέψεις, Κρίσεις, Σχόλια</title>
+    <desc lang="el">Επεισόδιο: Θεολογία-Θεολόγοι και Ενορία. Διοργάνωση: Πανελλήνιος Ένωσις Θεολόγων. Καταγραφή και προβολή των εργασιών επιστημονικών, θεολογικών, παιδαγωγικών, εκπαιδευτικών συνεδρίων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260608034500 +0300" stop="20260608041000 +0300" channel="XTV100000911">
+    <title lang="el">Ορθόδοξη Λατρεία στην Πράξη</title>
+    <desc lang="el">Επεισόδιο: Η ακολουθία της Θείας Μεταλήψεως. Μία προσέγγιση στα τελούμενα της Ορθοδόξου Εκκλησίας μας. Με τον Πρωτοπρεσβύτερο Θεμιστοκλή Χριστοδούλου, Δρ Θεολογίας. Λειτουργικά θέματα με απλό τρόπο δοσμένα για καλύτερη κατανόηση από τους τηλεθεατές.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260608041000 +0300" stop="20260608045000 +0300" channel="XTV100000911">
+    <title lang="el">Αιχμή του Δόρατος</title>
+    <desc lang="el">Ενημερωτική Εκπομπή του Υπουργείου Εθνικής Άμυνας.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260608045000 +0300" stop="20260608055000 +0300" channel="XTV100000911">
+    <title lang="el">Μοναστήρια του Τόπου μας</title>
+    <desc lang="el">Επεισόδιο: Ιερά Μονή Παναγίας Μακαριωτίσσης. Δομβραίνα Βοιωτίας. Τα μοναστήρια της Πατρίδας μας επισκέπτεται αυτή η εκπομπή, για να κάνει κάθε τηλεθεατή συμμέτοχο στην ευλογία του προσκυνήματος.</desc>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20260608055000 +0300" stop="20260608071000 +0300" channel="XTV100000911">
+    <title lang="el">Ο Τόπος μου, Η Ζωή μου</title>
+    <desc lang="el">Επεισόδιο: Μεγάλη Παναγιά Χαλκιδικής. Oδοιπορικό σε χωριά της Ελλάδας και γνωριμία με την ιστορία, τα έθιμα και τις παραδόσεις τους.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260608071000 +0300" stop="20260608075500 +0300" channel="XTV100000911">
+    <title lang="el">Ακολουθία του Μεσονυκτικού</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος - Σπαρμού Ολύμπου.</desc>
     <category lang="el">Θεματικό</category>
   </programme>
-  <programme start="20260608000000 +0300" stop="20260608040000 +0300" channel="XTV100000911">
-    <title lang="el">4Ε</title>
-    <desc lang="el">Το κανάλι που έχει ως στόχο την πνευματική αναβάθμιση του σύγχρονου ανθρώπου, την καλλιέργεια του θρησκευτικού φρονήματος και την προώθηση και διάδοση των ελληνοκεντρικών αξιών.</desc>
-    <category lang="el">Θεματικό</category>
+  <programme start="20260608075500 +0300" stop="20260608080000 +0300" channel="XTV100000911">
+    <title lang="el">Εθνικός Ύμνος</title>
+    <desc lang="el">Ακούστε τον Εθνικό Ύμνο.</desc>
+    <category lang="el">Special</category>
   </programme>
-  <programme start="20260608040000 +0300" stop="20260608080000 +0300" channel="XTV100000911">
-    <title lang="el">4Ε</title>
-    <desc lang="el">Το κανάλι που έχει ως στόχο την πνευματική αναβάθμιση του σύγχρονου ανθρώπου, την καλλιέργεια του θρησκευτικού φρονήματος και την προώθηση και διάδοση των ελληνοκεντρικών αξιών.</desc>
-    <category lang="el">Θεματικό</category>
+  <programme start="20260608080000 +0300" stop="20260608110000 +0300" channel="XTV100000911">
+    <title lang="el">Αρχιερατική Θεία Λειτουργία - Χειροτονία</title>
+    <desc lang="el">Ιερά Μητρόπολη Πολυανής και Κιλκισίου - Κιλκίς.</desc>
+    <category lang="el">Θρησκευτικό</category>
   </programme>
-  <programme start="20260608080000 +0300" stop="20260608120000 +0300" channel="XTV100000911">
-    <title lang="el">4Ε</title>
-    <desc lang="el">Το κανάλι που έχει ως στόχο την πνευματική αναβάθμιση του σύγχρονου ανθρώπου, την καλλιέργεια του θρησκευτικού φρονήματος και την προώθηση και διάδοση των ελληνοκεντρικών αξιών.</desc>
-    <category lang="el">Θεματικό</category>
+  <programme start="20260608110000 +0300" stop="20260608120000 +0300" channel="XTV100000911">
+    <title lang="el">Οδοιπορικό στη Ρουμανία</title>
+    <desc lang="el">Επιμέλεια-παρουσίαση: Αρχιμ. π. Νικάνωρ Παπανικολάου.</desc>
+    <category lang="el">Θρησκευτικό</category>
   </programme>
-  <programme start="20260608120000 +0300" stop="20260608160000 +0300" channel="XTV100000911">
-    <title lang="el">4Ε</title>
-    <desc lang="el">Το κανάλι που έχει ως στόχο την πνευματική αναβάθμιση του σύγχρονου ανθρώπου, την καλλιέργεια του θρησκευτικού φρονήματος και την προώθηση και διάδοση των ελληνοκεντρικών αξιών.</desc>
-    <category lang="el">Θεματικό</category>
+  <programme start="20260608120000 +0300" stop="20260608122000 +0300" channel="XTV100000911">
+    <title lang="el">Επί τας Πηγάς των Υδάτων</title>
+    <desc lang="el">Από τον άμβωνα του Ι. Ναού Αγ. Λυδίας στην Ασπροβάλτα Θεσσαλονίκης. Η εκπομπή αναλύει το Ευαγγελικό-Αποστολικό Ανάγνωσμα της Κυριακής και των μεγάλων εορτών, δίνοντας μηνύματα στον αγχωμένο και προβληματισμένο άνθρωπο της εποχής μας.</desc>
+    <category lang="el">Special</category>
   </programme>
-  <programme start="20260608160000 +0300" stop="20260608200000 +0300" channel="XTV100000911">
-    <title lang="el">4Ε</title>
-    <desc lang="el">Το κανάλι που έχει ως στόχο την πνευματική αναβάθμιση του σύγχρονου ανθρώπου, την καλλιέργεια του θρησκευτικού φρονήματος και την προώθηση και διάδοση των ελληνοκεντρικών αξιών.</desc>
-    <category lang="el">Θεματικό</category>
+  <programme start="20260608122000 +0300" stop="20260608124000 +0300" channel="XTV100000911">
+    <title lang="el">Κοιτώντας Γύρω μας</title>
+    <desc lang="el">Επεισόδιο: Κατασκευή Πιάνου (β' μέρος). Με τον δημοσιογράφο Θανάση Κληματσίδα.</desc>
+    <category lang="el">Συνέντευξη</category>
   </programme>
-  <programme start="20260608200000 +0300" stop="20260609000000 +0300" channel="XTV100000911">
-    <title lang="el">4Ε</title>
-    <desc lang="el">Το κανάλι που έχει ως στόχο την πνευματική αναβάθμιση του σύγχρονου ανθρώπου, την καλλιέργεια του θρησκευτικού φρονήματος και την προώθηση και διάδοση των ελληνοκεντρικών αξιών.</desc>
-    <category lang="el">Θεματικό</category>
+  <programme start="20260608124000 +0300" stop="20260608133000 +0300" channel="XTV100000911">
+    <title lang="el">Μνήμες</title>
+    <desc lang="el">Επεισόδιο: Από τον τόπο προέλευσης στον τόπο εγκατάστασης. Με τον κ. Κωνσταντίνο Νίγδελη, ιστορικό.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+  </programme>
+  <programme start="20260608133000 +0300" stop="20260608143000 +0300" channel="XTV100000911">
+    <title lang="el">Βυζαντινά Μελωδήματα</title>
+    <desc lang="el">Επεισόδιο: Απόστολος Παπαδόπουλος. Με τον πρωτοψάλτη Πάρη Γκούνα, θεολόγο-μουσικοδιδάσκαλο. Η εκπομπή παρουσιάζει ανθρώπους που διακονούν την ιερή τέχνη της ψαλτικής και που κοσμούν τα αναλόγια των Εκκλησιών μας.</desc>
+    <category lang="el">Μουσική</category>
+  </programme>
+  <programme start="20260608143000 +0300" stop="20260608145000 +0300" channel="XTV100000911">
+    <title lang="el">Ένατη Ώρα</title>
+    <desc lang="el">Η μεσημβρινή προσευχή της Εκκλησίας μας.</desc>
+    <category lang="el">Special</category>
+  </programme>
+  <programme start="20260608145000 +0300" stop="20260608150000 +0300" channel="XTV100000911">
+    <title lang="el">Ημερολόγιο</title>
+    <desc lang="el">Ακούγεται το συναξάρι της ημέρας και στην συνέχεια καλλίφωνοι ιεροψάλτες ψάλλουν τα απολυτίκια των εορταζομένων αγίων.</desc>
+    <category lang="el">Special</category>
+  </programme>
+  <programme start="20260608150000 +0300" stop="20260608160000 +0300" channel="XTV100000911">
+    <title lang="el">Τηλεφημερίδα</title>
+    <desc lang="el">Καθημερινή ενημέρωση για τα σημαντικότερα θέματα της επικαιρότητας. Με τον δημοσιογράφο Θανάση Κληματσίδα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260608160000 +0300" stop="20260608164000 +0300" channel="XTV100000911">
+    <title lang="el">Παρακλητικός Κανόνας στους Τρεις Ιεράρχες</title>
+    <desc lang="el">Ακολουθία της Εκκλησίας μας με ικετήριους και ευχαριστιακούς ύμνους στην Παναγία και τους Αγίους.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260608164000 +0300" stop="20260608170000 +0300" channel="XTV100000911">
+    <title lang="el">Αγιογραφικά Αναγνώσματα</title>
+    <desc lang="el">Στην εκπομπή ακούγεται το αποστολικό και ευαγγελικό ανάγνωσμα της ημέρας, καθώς και το συναξάρι του εορταζόμενου αγίου. Παράλληλα ακούγονται βυζαντινοί ύμνοι και παρακολουθούμε εικόνες από ιερούς ναούς.</desc>
+    <category lang="el">Special</category>
+  </programme>
+  <programme start="20260608170000 +0300" stop="20260608180000 +0300" channel="XTV100000911">
+    <title lang="el">Σκέψεις, Κρίσεις, Σχόλια</title>
+    <desc lang="el">Επεισόδιο: Θεολογία-Θεολόγοι και Ενορία. Διοργάνωση: Πανελλήνιος Ένωσις Θεολόγων. Καταγραφή και προβολή των εργασιών επιστημονικών, θεολογικών, παιδαγωγικών, εκπαιδευτικών συνεδρίων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260608180000 +0300" stop="20260608184000 +0300" channel="XTV100000911">
+    <title lang="el">Ακολουθία του Εσπερινού</title>
+    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης.</desc>
+    <category lang="el">Special</category>
+  </programme>
+  <programme start="20260608184000 +0300" stop="20260608191500 +0300" channel="XTV100000911">
+    <title lang="el">Επίσκεψη στο Αρχονταρίκι του Άθω</title>
+    <desc lang="el">Επεισόδιο: Γέρων Ιωσήφ Βατοπαιδινός. Η εκπομπή μας μεταφέρει στο περιβόλι της Παναγίας, το Άγιο Όρος, και συγκεκριμένα στην Ιερά Μεγίστη Μονή Βατοπαιδίου, από όπου σοφοί Γέροντες νουθετούν τους μοναχούς και κατ' επέκταση όλους τους πιστούς, για τον κοινό στόχο των Χριστιανών.</desc>
+    <category lang="el">Special</category>
+  </programme>
+  <programme start="20260608191500 +0300" stop="20260608193000 +0300" channel="XTV100000911">
+    <title lang="el">Ξέρουμε να Τρώμε;</title>
+    <desc lang="el">Επεισόδιο: Τα Ψάρια. Β' Μέρος. Με την διατροφολόγο-διαιτολόγο Σεβαστή Ζουμή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260608193000 +0300" stop="20260608200000 +0300" channel="XTV100000911">
+    <title lang="el">Νεανικό Αρχονταρίκι</title>
+    <desc lang="el">Επεισόδιο: Καλό καλοκαίρι. Με τον Αρχιμ. π. Νικάνορα Παπανικολάου. Υποδεχόμαστε στο αρχονταρίκι μας νέους ανθρώπους, για να ακούσουμε τις σκέψεις και τις ανησυχίες τους.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260608200000 +0300" stop="20260608210000 +0300" channel="XTV100000911">
+    <title lang="el">Λόγια της Πλώρης</title>
+    <desc lang="el">Μια εκπομπή πολιτισμού, για την παράδοση, την ιστορία, τη θάλασσα. Επιμελείται και παρουσιάζει ο κ. Μιχάλης Πετρόπουλος, δικηγόρος.</desc>
+    <category lang="el">Ιστιοπλοΐα</category>
+  </programme>
+  <programme start="20260608210000 +0300" stop="20260608224500 +0300" channel="XTV100000911">
+    <title lang="el">Σημεία των Καιρών</title>
+    <desc lang="el">Η εκπομπή σχολιάζει την επικαιρότητα με σεβασμό. Ψέγει το κακό ως νοοτροπία, ως στάση ζωής, χωρίς να αμαυρώνει υπολήψεις. Δίνεται η δυνατότητα τηλεφωνικών παρεμβάσεων στους τηλεθεατές. Με τον κ. Κωνσταντίνο Λογοθέτη, Δικηγόρο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260608224500 +0300" stop="20260608230000 +0300" channel="XTV100000911">
+    <title lang="el">Προσευχόμαστε Μαζί</title>
+    <desc lang="el">Κοινή προσευχή.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260608230000 +0300" stop="20260608234500 +0300" channel="XTV100000911">
+    <title lang="el">Μικρό Απόδειπνο</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου. Η βραδινή προσευχή της Εκκλησίας μας.</desc>
+    <category lang="el">Special</category>
+  </programme>
+  <programme start="20260608234500 +0300" stop="20260609004500 +0300" channel="XTV100000911">
+    <title lang="el">Τηλεφημερίδα</title>
+    <desc lang="el">Καθημερινή ενημέρωση για τα σημαντικότερα θέματα της επικαιρότητας. Με τον δημοσιογράφο Θανάση Κληματσίδα.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260603000000 +0300" stop="20260603002500 +0300" channel="XTV100002326">
     <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
