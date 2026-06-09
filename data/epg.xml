@@ -23963,25 +23963,15 @@
     <desc lang="el">Desert X-Prix. Το Extreme E παρουσιάζει αγώνες ηλεκτροκίνητων οχημάτων στις πιο απομακρυσμένες γωνιές του πλανήτη αναδεικνύοντας τις προκλήσεις της κλιματικής αλλαγής στα διαφορετικά οικοσυστήματα και την απόδοση των ηλεκτρικών SUV σε ακραίες συνθήκες.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260610200000 +0300" stop="20260610210000 +0300" channel="XTV100001063">
-    <title lang="el">Motorsports: MotoGP 2026</title>
-    <desc lang="el">Γκραν Πρι Ουγγαρίας (Tissot Sprint). Το Παγκόσμιο Πρωτάθλημα FIM MotoGP περιλαμβάνει 11 ομάδες και συνολικά 22 αναβάτες, που διεκδικούν τον τίτλο μέσα από 22 Γκραν Πρι. Περιγραφή: Δημήτρης Διατσίδης.</desc>
-    <category lang="el">Μηχανοκίνητα</category>
+  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="XTV100001063">
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ (Ζ)</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ηµιτελική Φάση, 5ος Αγώνας.</desc>
+    <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260610210000 +0300" stop="20260610220000 +0300" channel="XTV100001063">
+  <programme start="20260610220000 +0300" stop="20260610230000 +0300" channel="XTV100001063">
     <title lang="el">MotoGP 2026 - Στιγμιότυπα</title>
     <desc lang="el">Γκραν Πρι Ουγγαρίας. Το MotoGP, το παγκόσμιο πρωτάθλημα μοτοσυκλέτας, προσφέρει πολλές συγκινήσεις. Παρακολουθήστε μια συμπυκνωμένη εκδοχή όσων συνέβησαν σε μια από τις κούρσες του 2025.</desc>
     <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260610220000 +0300" stop="20260610222500 +0300" channel="XTV100001063">
-    <title lang="el">WRC 2026</title>
-    <desc lang="el">Ιαπωνία, SS13 Fujioka 1. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
-    <category lang="el">Μηχανοκίνητα</category>
-  </programme>
-  <programme start="20260610222500 +0300" stop="20260610230000 +0300" channel="XTV100001063">
-    <title lang="el">WRC 2026</title>
-    <desc lang="el">Ιαπωνία, SS14 Fujioka 2. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
-    <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260610230000 +0300" stop="20260611003000 +0300" channel="XTV100001063">
     <title lang="el">WRC 2026</title>
@@ -24539,23 +24529,23 @@
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260609120000 +0300" stop="20260609140000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Χρήστος Βασιλείου.</desc>
+    <title lang="el">Τένις: Γιανίκ Χάνφμαν - Αλεξάνταρ Κοβάσεβιτς (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260609140000 +0300" stop="20260609160000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Χρήστος Βασιλείου.</desc>
+    <title lang="el">Τένις: Γιαν Λέναρντ Στρουφ - Αλέξι Γκαλαρνού (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260609160000 +0300" stop="20260609180000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Λούτας.</desc>
+    <title lang="el">Τένις: Ντάνιελ Αλτμάιερ - Φράνσις Τιαφό (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260609180000 +0300" stop="20260609203000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Λούτας.</desc>
+    <title lang="el">Τένις: Νικ Κύργιος - Κορεντίν Μουτέ (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260609203000 +0300" stop="20260609210000 +0300" channel="XTV100001360">
