@@ -2280,7 +2280,7 @@
   </programme>
   <programme start="20260610210000 +0300" stop="20260610230000 +0300" channel="XTV100000955">
     <title lang="el">Μπάσκετ: Παναθηναϊκός - Ολυμπιακός (Ζ)</title>
-    <desc lang="el">Basket League 2025-26. Play Off. 4ος Τελικός. Με 13 ομάδες και 26 αγωνιστικές στην κανονική περίοδο διεξάγεται η Basket League 2025-26. Οι 8 πρώτοι της τελικής κατάταξης προκρίνονται απευθείας στα playoffs. Η τελευταία θέση οδηγεί στην Elite league.</desc>
+    <desc lang="el">Basket League 2025-26. Play Off. 4ος Τελικός. Με τον Ολυμπιακό να προηγείται πλέον με 2-1 στη σειρά, ο 4ος τελικός αποκτά χαρακτήρα αγώνα επιβίωσης για τους γηπεδούχους και πρώτης ευκαιρίας για τον τίτλο για τους φιλοξενούμενους.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260610230000 +0300" stop="20260611000000 +0300" channel="XTV100000955">
@@ -2300,7 +2300,7 @@
   </programme>
   <programme start="20260611013000 +0300" stop="20260611033000 +0300" channel="XTV100000955">
     <title lang="el">Μπάσκετ: Παναθηναϊκός - Ολυμπιακός</title>
-    <desc lang="el">Basket League 2025-26. Play Off. 2ος Τελικός. Με 13 ομάδες και 26 αγωνιστικές στην κανονική περίοδο διεξάγεται η Basket League 2025-26. Οι 8 πρώτοι της τελικής κατάταξης προκρίνονται απευθείας στα playoffs. Η τελευταία θέση οδηγεί στην Elite league.</desc>
+    <desc lang="el">Basket League 2025-26. Play Off. 4ος Τελικός. Με τον Ολυμπιακό να προηγείται πλέον με 2-1 στη σειρά, ο 4ος τελικός αποκτά χαρακτήρα αγώνα επιβίωσης για τους γηπεδούχους και πρώτης ευκαιρίας για τον τίτλο για τους φιλοξενούμενους.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260611033000 +0300" stop="20260611050000 +0300" channel="XTV100000955">
@@ -2465,7 +2465,7 @@
   </programme>
   <programme start="20260612130000 +0300" stop="20260612150000 +0300" channel="XTV100000955">
     <title lang="el">Ποδόσφαιρο: Μεξικό - Νότια Αφρική</title>
-    <desc lang="el">Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026. Εναρκτήριος Αγώνας. Μέξικο Σίτι. Η 23η έκδοση του τουρνουά και η πρώτη που περιλαμβάνει 48 ομάδες, πραγματοποιείται από τις 11 Ιουνίου έως τις 19 Ιουλίου 2026. Διοργανώνεται από 16 πόλεις και τρεις χώρες: Καναδά, Μεξικό και ΗΠΑ. Περιγραφή: Τάσος Κολλίντζας, Ιωσήφ Νικολάου.</desc>
+    <desc lang="el">Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026. Εναρκτήριος Αγώνας. Μέξικο Σίτι. Στον πρώτο από τους συνολικά 104 αγώνες σε μια διοργάνωση 48 ομάδων, το ματς χρησιμεύει ως μια νοσταλγική ανατροπή σεναρίου από το 2010 και την ισοπαλία 1-1 στο Γιοχάνεσμπουργκ. Περιγραφή: Τάσος Κολλίντζας, Ιωσήφ Νικολάου.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260612150000 +0300" stop="20260612160000 +0300" channel="XTV100000955">
@@ -23319,8 +23319,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260611080000 +0300" stop="20260611100000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Μπαχτσεσεχίρ - Μπεσίκτας</title>
-    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 4ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260611100000 +0300" stop="20260611120000 +0300" channel="XTV100001109">
@@ -23374,8 +23374,8 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260612010000 +0300" stop="20260612030000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2025-26</title>
-    <desc lang="el">Πλέι-οφ.</desc>
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260612030000 +0300" stop="20260612050000 +0300" channel="XTV100001109">
@@ -23399,13 +23399,13 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260612080000 +0300" stop="20260612100000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2025-26</title>
-    <desc lang="el">Πλέι-οφ.</desc>
+    <title lang="el">Μπάσκετ: Μπαρτσελόνα - Τενερίφη</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 2ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Μπαρτσελόνα - Τενερίφη</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 2ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="XTV100001109">
@@ -23443,15 +23443,20 @@
     <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 2ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260612230000 +0300" stop="20260613000000 +0300" channel="XTV100001109">
+  <programme start="20260612230000 +0300" stop="20260613010000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Νίκος Κουλούρης.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260612230000 +0300" stop="20260613010000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Νίκος Κουλούρης.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260613010000 +0300" stop="20260613020000 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials: Basketball Stories</title>
     <desc lang="el">The Mailman. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260613000000 +0300" stop="20260613020000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2025-26</title>
-    <desc lang="el">Πλέι-οφ.</desc>
-    <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260613020000 +0300" stop="20260613040000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Βαλένθια - Μπανταλόνα</title>
@@ -23464,8 +23469,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260613060000 +0300" stop="20260613080000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2025-26</title>
-    <desc lang="el">Πλέι-οφ.</desc>
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260613080000 +0300" stop="20260613100000 +0300" channel="XTV100001109">
@@ -23494,8 +23499,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260613160000 +0300" stop="20260613175500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2025-26</title>
-    <desc lang="el">Πλέι-οφ.</desc>
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260613175500 +0300" stop="20260613183000 +0300" channel="XTV100001109">
@@ -23544,8 +23549,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260614040000 +0300" stop="20260614060000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2025-26</title>
-    <desc lang="el">Πλέι-οφ.</desc>
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260614060000 +0300" stop="20260614080000 +0300" channel="XTV100001109">
@@ -23800,7 +23805,7 @@
   </programme>
   <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="XTV100001063">
     <title lang="el">Μπάσκετ: Μπεσίκτας - Μπαχτσεσεχίρ (Ζ)</title>
-    <desc lang="el">Turkish Basketball Super League 2025-26. Ηµιτελική Φάση, 5ος Αγώνας.</desc>
+    <desc lang="el">Turkish Basketball Super League 2025-26. Ηµιτελική Φάση, 5ος Αγώνας. Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260610220000 +0300" stop="20260610230000 +0300" channel="XTV100001063">
@@ -24504,44 +24509,44 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260610120000 +0300" stop="20260610140000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Παύλος Παλαιστής.</desc>
+    <title lang="el">Τένις: Ματία Μπελούτσι - Γιανίκ Χάνφμαν (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260610140000 +0300" stop="20260610160000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Παύλος Παλαιστής.</desc>
+    <title lang="el">Τένις: Γιαν Λέναρντ Στρουφ - Αλεξάντερ Μπουμπλίκ (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260610160000 +0300" stop="20260610180000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Κυφωνίδης.</desc>
+  <programme start="20260610160000 +0300" stop="20260610183000 +0300" channel="XTV100001360">
+    <title lang="el">Τένις: Μαρτίν Λανταλούθε - Τέιλορ Φριτζ (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Κυφωνίδης.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260610180000 +0300" stop="20260610203000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Κυφωνίδης.</desc>
-    <category lang="el">Τένις</category>
-  </programme>
-  <programme start="20260610203000 +0300" stop="20260610210000 +0300" channel="XTV100001360">
+  <programme start="20260610183000 +0300" stop="20260610190000 +0300" channel="XTV100001360">
     <title lang="el">Υδάτινα Σπορ: Sailing to the Games 2026 Ε2</title>
     <desc lang="el">Ακολουθήστε ιστιοπλόους από όλο τον κόσμο καθώς προετοιμάζονται να αγωνιστούν στη μεγαλύτερη αθλητική σκηνή του κόσμου.</desc>
     <category lang="el">Υδάτινα Σπορ</category>
   </programme>
-  <programme start="20260610210000 +0300" stop="20260611010000 +0300" channel="XTV100001360">
+  <programme start="20260610190000 +0300" stop="20260610230000 +0300" channel="XTV100001360">
     <title lang="el">Τένις: ATP 250 2026</title>
     <desc lang="el">Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260610210000 +0300" stop="20260611010000 +0300" channel="XTV100001360">
+  <programme start="20260610230000 +0300" stop="20260611030000 +0300" channel="XTV100001360">
     <title lang="el">Τένις: ATP 250 2026</title>
     <desc lang="el">Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260611010000 +0300" stop="20260611050000 +0300" channel="XTV100001360">
+  <programme start="20260610230000 +0300" stop="20260611030000 +0300" channel="XTV100001360">
     <title lang="el">Τένις: ATP 250 2026</title>
     <desc lang="el">Στουτγκάρδη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour.</desc>
     <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260611030000 +0300" stop="20260611050000 +0300" channel="XTV100001360">
+    <title lang="el">Χάντμπολ: Βέτσλαρ - Μαγδεμβούργο</title>
+    <desc lang="el">DAIKIN Bundesliga 2025-26. 34η Αγωνιστική. Περιγραφή: Παύλος Παλαιστής.</desc>
+    <category lang="el">Χάντμπολ</category>
   </programme>
   <programme start="20260611050000 +0300" stop="20260611060000 +0300" channel="XTV100001360">
     <title lang="el">ATP Masters 1000 2026 - Στιγμιότυπα</title>
