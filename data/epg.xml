@@ -24578,24 +24578,29 @@
     <desc lang="el">Στουτγκάρδη (Προημιτελικοί). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260613130000 +0300" stop="20260613150000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Στουτγκάρδη (1ος Ημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
+  <programme start="20260613130000 +0300" stop="20260613143000 +0300" channel="XTV100001360">
+    <title lang="el">Τένις: Μπεν Σέλτον - Σο Σιµαµπουκούρο (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Στουτγκάρδη (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260613150000 +0300" stop="20260613173000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Στουτγκάρδη (2ος Ημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Στέφανος Αβραμίδης.</desc>
+  <programme start="20260613143000 +0300" stop="20260613163000 +0300" channel="XTV100001360">
+    <title lang="el">Τένις: Αλεξάντερ Μπουμπλίκ - Τέιλορ Φριτζ (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Στουτγκάρδη (1ος Ημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Στέφανος Αβραμίδης.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260613173000 +0300" stop="20260613183000 +0300" channel="XTV100001360">
+  <programme start="20260613163000 +0300" stop="20260613190000 +0300" channel="XTV100001360">
+    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
+    <desc lang="el">Στουτγκάρδη (2ος Ημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
+    <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260613190000 +0300" stop="20260613200000 +0300" channel="XTV100001360">
     <title lang="el">ATP 500 2026 - Στιγμιότυπα</title>
     <desc lang="el">Αμβούργο. Παρακολουθήστε τα στιγμιότυπα των κυριότερων αγώνων των τουρνουά ATP 500, που ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260613183000 +0300" stop="20260613223000 +0300" channel="XTV100001360">
+  <programme start="20260613200000 +0300" stop="20260613223000 +0300" channel="XTV100001360">
     <title lang="el">Τένις: ATP 250 2026</title>
-    <desc lang="el">Στουτγκάρδη (Ημιτελικοί). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour.</desc>
+    <desc lang="el">Στουτγκάρδη (Ημιτελικoί). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260613223000 +0300" stop="20260614020000 +0300" channel="XTV100001360">
@@ -26643,15 +26648,15 @@
     <desc lang="el">Turkish Basketball Super League 2025-26. 1ος Τελικός.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260614080000 +0300" stop="20260614100500 +0300" channel="XTV900000002">
+  <programme start="20260614080000 +0300" stop="20260614103500 +0300" channel="XTV900000002">
     <title lang="el">World Athletics Continental Tour Gold 2026</title>
     <desc lang="el">Τέξας. Η ετήσια σειρά μίτινγκ στίβου αποτελεί τη δεύτερη τη τάξει διοργάνωση μετά το Diamond League και το πρώτο 'μονοπάτι' για τους αθλητές προς τις μεγάλες διοργανώσεις του κλασικού αθλητισμού, με συνολικά 12 events σε 4 ηπείρους. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Στίβος</category>
   </programme>
-  <programme start="20260614100500 +0300" stop="20260614110000 +0300" channel="XTV900000002">
-    <title lang="el">2026 FIA World Championship - Στιγμιότυπα</title>
-    <desc lang="el">Πορτογαλία Rally Raid. Απολαύστε έντονη δράση με απίστευτα και μοναδικά οχήματα!</desc>
-    <category lang="el">Μηχανοκίνητα</category>
+  <programme start="20260614103500 +0300" stop="20260614110000 +0300" channel="XTV900000002">
+    <title lang="el">William Hill Scottish Premiership - Στιγμιότυπα</title>
+    <desc lang="el">38η Αγωνιστική. Δείτε τις καλύτερες στιγμές από την 1η κατηγορία του σκωτσέζικου ποδοσφαίρου, της δεύτερης παλαιότερης λίγκας στην Ευρώπη.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260614110000 +0300" stop="20260614120000 +0300" channel="XTV900000002">
     <title lang="el">UEFA Champions League Μαγκαζίνο 2024-25 Ε36</title>
