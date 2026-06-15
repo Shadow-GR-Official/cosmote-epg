@@ -1103,10 +1103,15 @@
     <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260615130000 +0300" stop="20260615150000 +0300" channel="XTV100003524">
+  <programme start="20260615130000 +0300" stop="20260615144500 +0300" channel="XTV100003524">
     <title lang="el">Live Now</title>
     <desc lang="el">Κάθε μέρα, η εκπομπή ανοίγει το παράθυρο στις εξελίξεις και συζητούν όλα τα μικρά και μεγάλα θέματα που μας απασχολούν. Με άμεσο λόγο, γρήγορο ρυθμό και ζωντανές συνδέσεις δίνουν την ενημέρωση που χρειάζεσαι, τη στιγμή που τη χρειάζεσαι.</desc>
     <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260615144500 +0300" stop="20260615150000 +0300" channel="XTV100003524">
+    <title lang="el">Μουντιάλ 2026 Στιγμιότυπα</title>
+    <desc lang="el">Εκπομπή.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260615150000 +0300" stop="20260615155500 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -1129,8 +1134,8 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260615190000 +0300" stop="20260615200000 +0300" channel="XTV100003524">
-    <title lang="el">Game Changers</title>
-    <desc lang="el">Δυο 'παίχτες' που δεν κοιτάζουν μόνο το σκορ αλλά και όσα κρύβονται στα αποδυτήρια και τα παρασκήνια. Μπαίνουν δυνατά και αλλάζουν το παιχνίδι. Με τον Βαγγέλη Ιωάννου και τον Άρη Γάτα.</desc>
+    <title lang="el">Η Μηχανή του Χρόνου</title>
+    <desc lang="el">Επεισόδιο: Ευτυχία Παπαγιαννοπούλου. Η περιπετειώδης ζωή της μεγάλης στιχουργού, που έσπασε το ανδρικό κατεστημένο στο λαϊκό τραγούδι. Η έρευνα φωτίζει τη ζωή της, από τα παιδικά χρόνια στη Μικρά Ασία και την τραυματική εμπειρία του διωγμού και της προσφυγιάς, ως την πορεία της στην Αθήνα.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260615200000 +0300" stop="20260615200500 +0300" channel="XTV100003524">
@@ -1198,10 +1203,15 @@
     <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260616130000 +0300" stop="20260616150000 +0300" channel="XTV100003524">
+  <programme start="20260616130000 +0300" stop="20260616144500 +0300" channel="XTV100003524">
     <title lang="el">Live Now</title>
     <desc lang="el">Κάθε μέρα, η εκπομπή ανοίγει το παράθυρο στις εξελίξεις και συζητούν όλα τα μικρά και μεγάλα θέματα που μας απασχολούν. Με άμεσο λόγο, γρήγορο ρυθμό και ζωντανές συνδέσεις δίνουν την ενημέρωση που χρειάζεσαι, τη στιγμή που τη χρειάζεσαι.</desc>
     <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260616144500 +0300" stop="20260616150000 +0300" channel="XTV100003524">
+    <title lang="el">Μουντιάλ 2026 Στιγμιότυπα</title>
+    <desc lang="el">Εκπομπή.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260616150000 +0300" stop="20260616155500 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -1224,16 +1234,11 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260616190000 +0300" stop="20260616200000 +0300" channel="XTV100003524">
-    <title lang="el">Game Changers</title>
-    <desc lang="el">Δυο 'παίχτες' που δεν κοιτάζουν μόνο το σκορ αλλά και όσα κρύβονται στα αποδυτήρια και τα παρασκήνια. Μπαίνουν δυνατά και αλλάζουν το παιχνίδι. Με τον Βαγγέλη Ιωάννου και τον Άρη Γάτα.</desc>
+    <title lang="el">Πολιτική Κουζίνα</title>
+    <desc lang="el">Η 'Πολιτική κουζίνα' φωτίζει όσα μένουν σκόπιμα στη σκιά, μετατρέπει κάθε ερώτημα σε αποκαλυπτική απάντηση και φέρνει στο φως τα μυστικά των άγνωστων πολιτικών 'συνταγών'. Με τη Γεωργία Σκιτζή και τη Γεωργία Σαδανά.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260616200000 +0300" stop="20260616200500 +0300" channel="XTV100003524">
-    <title lang="el">Ειδήσεις στη Νοηματική</title>
-    <desc lang="el">Παρακολουθήστε τις τελευταίες ειδήσεις με ταυτόχρονη διερμηνεία στην Ελληνική Νοηματική Γλώσσα.</desc>
-    <category lang="el">Ειδήσεις</category>
-  </programme>
-  <programme start="20260616200500 +0300" stop="20260616210000 +0300" channel="XTV100003524">
+  <programme start="20260616200000 +0300" stop="20260616210000 +0300" channel="XTV100003524">
     <title lang="el">Πολιτική Κουζίνα</title>
     <desc lang="el">Η 'Πολιτική κουζίνα' φωτίζει όσα μένουν σκόπιμα στη σκιά, μετατρέπει κάθε ερώτημα σε αποκαλυπτική απάντηση και φέρνει στο φως τα μυστικά των άγνωστων πολιτικών 'συνταγών'. Με τη Γεωργία Σκιτζή και τη Γεωργία Σαδανά.</desc>
     <category lang="el">Εκπομπή</category>
@@ -1303,10 +1308,15 @@
     <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260617130000 +0300" stop="20260617150000 +0300" channel="XTV100003524">
+  <programme start="20260617130000 +0300" stop="20260617144500 +0300" channel="XTV100003524">
     <title lang="el">Live Now</title>
     <desc lang="el">Κάθε μέρα, η εκπομπή ανοίγει το παράθυρο στις εξελίξεις και συζητούν όλα τα μικρά και μεγάλα θέματα που μας απασχολούν. Με άμεσο λόγο, γρήγορο ρυθμό και ζωντανές συνδέσεις δίνουν την ενημέρωση που χρειάζεσαι, τη στιγμή που τη χρειάζεσαι.</desc>
     <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260617144500 +0300" stop="20260617150000 +0300" channel="XTV100003524">
+    <title lang="el">Μουντιάλ 2026 Στιγμιότυπα</title>
+    <desc lang="el">Εκπομπή.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260617150000 +0300" stop="20260617155500 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -1408,10 +1418,15 @@
     <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260618130000 +0300" stop="20260618150000 +0300" channel="XTV100003524">
+  <programme start="20260618130000 +0300" stop="20260618144500 +0300" channel="XTV100003524">
     <title lang="el">Live Now</title>
     <desc lang="el">Κάθε μέρα, η εκπομπή ανοίγει το παράθυρο στις εξελίξεις και συζητούν όλα τα μικρά και μεγάλα θέματα που μας απασχολούν. Με άμεσο λόγο, γρήγορο ρυθμό και ζωντανές συνδέσεις δίνουν την ενημέρωση που χρειάζεσαι, τη στιγμή που τη χρειάζεσαι.</desc>
     <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260618144500 +0300" stop="20260618150000 +0300" channel="XTV100003524">
+    <title lang="el">Μουντιάλ 2026 Στιγμιότυπα</title>
+    <desc lang="el">Εκπομπή.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260618150000 +0300" stop="20260618155500 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -1513,10 +1528,15 @@
     <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260619130000 +0300" stop="20260619150000 +0300" channel="XTV100003524">
+  <programme start="20260619130000 +0300" stop="20260619144500 +0300" channel="XTV100003524">
     <title lang="el">Live Now</title>
     <desc lang="el">Κάθε μέρα, η εκπομπή ανοίγει το παράθυρο στις εξελίξεις και συζητούν όλα τα μικρά και μεγάλα θέματα που μας απασχολούν. Με άμεσο λόγο, γρήγορο ρυθμό και ζωντανές συνδέσεις δίνουν την ενημέρωση που χρειάζεσαι, τη στιγμή που τη χρειάζεσαι.</desc>
     <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260619144500 +0300" stop="20260619150000 +0300" channel="XTV100003524">
+    <title lang="el">Μουντιάλ 2026 Στιγμιότυπα</title>
+    <desc lang="el">Εκπομπή.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260619150000 +0300" stop="20260619155500 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -1618,10 +1638,15 @@
     <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260620130000 +0300" stop="20260620150000 +0300" channel="XTV100003524">
+  <programme start="20260620130000 +0300" stop="20260620144500 +0300" channel="XTV100003524">
     <title lang="el">Ενημερωτική Εκπομπή</title>
     <desc lang="el">Εκπομπή με τις προεκτάσεις των θεμάτων της επικαιρότητας.</desc>
     <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260620144500 +0300" stop="20260620150000 +0300" channel="XTV100003524">
+    <title lang="el">Μουντιάλ 2026 Στιγμιότυπα</title>
+    <desc lang="el">Εκπομπή.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260620150000 +0300" stop="20260620155500 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -22934,8 +22959,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260615220000 +0300" stop="20260616000000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Τενερίφη - Μπαρτσελόνα (Ζ)</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 4ος Αγώνας.  Περιγραφή: Βασίλης Σκουντής.</desc>
+    <title lang="el">Μπάσκετ: Τενερίφη - Μπαρτσελόνα</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 3ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260616000000 +0300" stop="20260616020000 +0300" channel="XTV100001109">
@@ -22949,8 +22974,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260616040000 +0300" stop="20260616060000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Τενερίφη - Μπαρτσελόνα</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 4ος Αγώνας.  Περιγραφή: Βασίλης Σκουντής.</desc>
+    <title lang="el">Μπάσκετ: Μπανταλόνα - Βαλένθια</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 3ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260616060000 +0300" stop="20260616080000 +0300" channel="XTV100001109">
@@ -22975,12 +23000,12 @@
   </programme>
   <programme start="20260616140000 +0300" stop="20260616160500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Φενέρμπαχτσε - Μπεσίκτας</title>
-    <desc lang="el">Turkish Basketball Super League 2025-26. 2ος Τελικός. Περιγραφή: Άρης Μπάρκας.</desc>
+    <desc lang="el">Turkish Basketball Super League 2025-26. 2ος Τελικός.  Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260616160500 +0300" stop="20260616181000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Τενερίφη - Μπαρτσελόνα</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 4ος Αγώνας.  Περιγραφή: Βασίλης Σκουντής.</desc>
+    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 3ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260616181000 +0300" stop="20260616205500 +0300" channel="XTV100001109">
@@ -23019,8 +23044,8 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260617040000 +0300" stop="20260617060000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Μπανταλόνα - Βαλένθια</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 4ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
+    <title lang="el">Μπάσκετ: Τενερίφη - Μπαρτσελόνα</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 3ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260617060000 +0300" stop="20260617080000 +0300" channel="XTV100001109">
@@ -23033,25 +23058,30 @@
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260617094500 +0300" stop="20260617115500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Μπανταλόνα - Βαλένθια</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 4ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
-    <category lang="el">Μπάσκετ</category>
-  </programme>
-  <programme start="20260617115500 +0300" stop="20260617121000 +0300" channel="XTV100001109">
-    <title lang="el">Αθλητικά Στιγμιότυπα</title>
-    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260617121000 +0300" stop="20260617130000 +0300" channel="XTV100001109">
+  <programme start="20260617094500 +0300" stop="20260617104000 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials: Basketball Stories</title>
     <desc lang="el">The Mailman. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260617130000 +0300" stop="20260617160000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Νιου Γιορκ Νικς - Σαν Αντόνιο Σπερς</title>
-    <desc lang="el">NBA Finals 2026. 6ος Αγώνας.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
+  <programme start="20260617104000 +0300" stop="20260617124000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Τενερίφη - Μπαρτσελόνα</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 3ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260617124000 +0300" stop="20260617144000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Μπανταλόνα - Βαλένθια</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 3ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260617144000 +0300" stop="20260617151000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Larry Bird's Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260617151000 +0300" stop="20260617160000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials: Basketball Stories</title>
+    <desc lang="el">The Mailman. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260617160000 +0300" stop="20260617173500 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials: Basketball Stories</title>
@@ -23059,8 +23089,8 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260617173500 +0300" stop="20260617194500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Μπανταλόνα - Βαλένθια</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 4ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
+    <title lang="el">Μπάσκετ: Φενέρμπαχτσε - Μπεσίκτας</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. 2ος Τελικός. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260617194500 +0300" stop="20260617213000 +0300" channel="XTV100001109">
@@ -23068,15 +23098,20 @@
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260617213000 +0300" stop="20260618003000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Νιου Γιορκ Νικς - Σαν Αντόνιο Σπερς</title>
-    <desc lang="el">NBA Finals 2026. 6ος Αγώνας.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
+  <programme start="20260617213000 +0300" stop="20260617233000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Τενερίφη - Μπαρτσελόνα</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 3ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260617213000 +0300" stop="20260618003000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Νιου Γιορκ Νικς - Σαν Αντόνιο Σπερς</title>
-    <desc lang="el">NBA Finals 2026. 6ος Αγώνας.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
-    <category lang="el">Μπάσκετ</category>
+  <programme start="20260617233000 +0300" stop="20260618000000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials: Basketball Stories</title>
+    <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260618000000 +0300" stop="20260618003000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260618003000 +0300" stop="20260618023000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπεσίκτας - Φενέρμπαχτσε</title>
@@ -23099,8 +23134,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260618080000 +0300" stop="20260618100000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Μπαρτσελόνα - Τενερίφη</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 5ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
+    <title lang="el">Μπάσκετ: Μπανταλόνα - Βαλένθια</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 3ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260618100000 +0300" stop="20260618120000 +0300" channel="XTV100001109">
@@ -23114,8 +23149,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260618140000 +0300" stop="20260618160000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Μπαρτσελόνα - Τενερίφη</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 5ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
+    <title lang="el">Μπάσκετ: Τενερίφη - Μπαρτσελόνα</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 3ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260618160000 +0300" stop="20260618163000 +0300" channel="XTV100001109">
@@ -23128,24 +23163,29 @@
     <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260618170000 +0300" stop="20260618200000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Νιου Γιορκ Νικς - Σαν Αντόνιο Σπερς</title>
-    <desc lang="el">NBA Finals 2026. 6ος Αγώνας.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
+  <programme start="20260618170000 +0300" stop="20260618190000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Μπανταλόνα - Βαλένθια</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 3ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260618200000 +0300" stop="20260618203000 +0300" channel="XTV100001109">
+  <programme start="20260618190000 +0300" stop="20260618195500 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials: Basketball Stories</title>
+    <desc lang="el">The Mailman. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260618195500 +0300" stop="20260618202500 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials: Basketball Stories</title>
     <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260618203000 +0300" stop="20260618210000 +0300" channel="XTV100001109">
+  <programme start="20260618202500 +0300" stop="20260618210000 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials</title>
     <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260618210000 +0300" stop="20260618230000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Βαλένθια - Μπανταλόνα (Ζ)</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
+    <title lang="el">Μπάσκετ: Βαλένθια - Μπαρτσελόνα (Ζ)</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. 1ος Τελικός.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260618230000 +0300" stop="20260619000000 +0300" channel="XTV100001109">
@@ -23159,8 +23199,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260619020000 +0300" stop="20260619040000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Βαλένθια - Μπανταλόνα</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
+    <title lang="el">Μπάσκετ: Βαλένθια - Μπαρτσελόνα</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. 1ος Τελικός.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260619040000 +0300" stop="20260619060000 +0300" channel="XTV100001109">
@@ -23168,25 +23208,40 @@
     <desc lang="el">Turkish Basketball Super League 2025-26. 3ος Τελικός.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260619060000 +0300" stop="20260619080000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Μπαρτσελόνα - Τενερίφη</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 5ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
-    <category lang="el">Μπάσκετ</category>
+  <programme start="20260619060000 +0300" stop="20260619063000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Larry Bird's Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260619080000 +0300" stop="20260619100000 +0300" channel="XTV100001109">
+  <programme start="20260619063000 +0300" stop="20260619070000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260619070000 +0300" stop="20260619090000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Βενέτσια - Αρμάνι Μιλάνο</title>
     <desc lang="el">Lega Basket Serie A 2025-26. 4ος Τελικός.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260619100000 +0300" stop="20260619120000 +0300" channel="XTV100001109">
+  <programme start="20260619090000 +0300" stop="20260619093000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260619093000 +0300" stop="20260619113000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπεσίκτας - Φενέρμπαχτσε</title>
     <desc lang="el">Turkish Basketball Super League 2025-26. 3ος Τελικός.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260619120000 +0300" stop="20260619140000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Βαλένθια - Μπανταλόνα</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
+  <programme start="20260619113000 +0300" stop="20260619133000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Βαλένθια - Μπαρτσελόνα</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. 1ος Τελικός.</desc>
     <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260619133000 +0300" stop="20260619140000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Larry Bird's Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260619140000 +0300" stop="20260619160000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Βενέτσια - Αρμάνι Μιλάνο</title>
@@ -23239,8 +23294,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260620040000 +0300" stop="20260620060000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Βαλένθια - Μπανταλόνα</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
+    <title lang="el">Μπάσκετ: Βαλένθια - Μπαρτσελόνα</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. 1ος Τελικός.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260620060000 +0300" stop="20260620080000 +0300" channel="XTV100001109">
@@ -23253,24 +23308,29 @@
     <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260620083000 +0300" stop="20260620091500 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials: Basketball Stories</title>
-    <desc lang="el">The Mailman. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260620091500 +0300" stop="20260620111500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Βαλένθια - Μπανταλόνα</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
+  <programme start="20260620083000 +0300" stop="20260620111000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: ΑΕΚ - Ρίτας Βίλνιους</title>
+    <desc lang="el">FIBA Basketball Champions League 2025-26. Τελικός. Περιγραφή: Γιάννης Φιλέρης, Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260620111500 +0300" stop="20260620130000 +0300" channel="XTV100001109">
+  <programme start="20260620111000 +0300" stop="20260620114000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260620114000 +0300" stop="20260620132500 +0300" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260620130000 +0300" stop="20260620160000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Σαν Αντόνιο Σπερς - Νιου Γιορκ Νικς</title>
-    <desc lang="el">NBA Finals 2026. 7ος Αγώνας.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
+  <programme start="20260620132500 +0300" stop="20260620152500 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Βαλένθια - Μπαρτσελόνα</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. 1ος Τελικός.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260620152500 +0300" stop="20260620160000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Action 2025-26 Ε3535</title>
+    <desc lang="el">H αθλητική εκπομπή μεταφέρει στους Έλληνες φιλάθλους όλα τα νέα για το μαγικό κόσμο του ΝΒΑ, με συνεντεύξεις και αφιερώματα.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260620160000 +0300" stop="20260620180500 +0300" channel="XTV100001109">
@@ -23288,19 +23348,24 @@
     <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260620202000 +0300" stop="20260620205500 +0300" channel="XTV100001109">
-    <title lang="el">NBA Action 2025-26 Ε3535</title>
-    <desc lang="el">H αθλητική εκπομπή μεταφέρει στους Έλληνες φιλάθλους όλα τα νέα για το μαγικό κόσμο του ΝΒΑ, με συνεντεύξεις και αφιερώματα.</desc>
-    <category lang="el">Μπάσκετ</category>
-  </programme>
-  <programme start="20260620205500 +0300" stop="20260620213000 +0300" channel="XTV100001109">
+  <programme start="20260620202000 +0300" stop="20260620210000 +0300" channel="XTV100001109">
     <title lang="el">NBA On Fire 2025-26 Ε34 (Ζ)</title>
     <desc lang="el">Το NBA On Fire σε βάζει στον μαγικό κόσμο του NBA.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260620213000 +0300" stop="20260621003000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Σαν Αντόνιο Σπερς - Νιου Γιορκ Νικς</title>
-    <desc lang="el">NBA Finals 2026. 7ος Αγώνας.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
+  <programme start="20260620210000 +0300" stop="20260620230000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Βαλένθια - Μπαρτσελόνα (Ζ)</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. 2ος Τελικός.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260620230000 +0300" stop="20260620233000 +0300" channel="XTV100001109">
+    <title lang="el">NBA On Fire 2025-26 Ε34</title>
+    <desc lang="el">Το NBA On Fire σε βάζει στον μαγικό κόσμο του NBA.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260620233000 +0300" stop="20260621013000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Μπεσίκτας - Φενέρμπαχτσε</title>
+    <desc lang="el">Turkish Basketball Super League 2025-26. 3ος Τελικός.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260614234000 +0300" stop="20260615004000 +0300" channel="XTV100001063">
@@ -24128,15 +24193,25 @@
     <desc lang="el">Λος Άντζελες. Η ετήσια σειρά μίτινγκ στίβου αποτελεί τη δεύτερη τη τάξει διοργάνωση μετά το Diamond League και το πρώτο 'μονοπάτι' για τους αθλητές προς τις μεγάλες διοργανώσεις του κλασικού αθλητισμού, με συνολικά 12 events σε 4 ηπείρους. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Στίβος</category>
   </programme>
-  <programme start="20260615143000 +0300" stop="20260615163000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: Μπεν Σέλτον - Τέιλορ Φριτζ</title>
-    <desc lang="el">ATP 250 2026. Στουτγκάρδη (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Λάμπρος Μπαλάφας.</desc>
-    <category lang="el">Τένις</category>
+  <programme start="20260615143000 +0300" stop="20260615144500 +0300" channel="XTV100001360">
+    <title lang="el">Αθλητικά Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260615163000 +0300" stop="20260615190000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: Καμίλ Μάιρζακ - Άλεξ ντε Μινόρ</title>
-    <desc lang="el">ATP 250 2026. Ντεν Μπος (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Λούτας.</desc>
-    <category lang="el">Τένις</category>
+  <programme start="20260615144500 +0300" stop="20260615151500 +0300" channel="XTV100001360">
+    <title lang="el">UIPM Highlights Show Ε2</title>
+    <desc lang="el">Επεισόδιο: Βουλγαρία. Στιγμιότυπα.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260615151500 +0300" stop="20260615161500 +0300" channel="XTV100001360">
+    <title lang="el">ATP Masters 1000 2026 - Στιγμιότυπα</title>
+    <desc lang="el">Ρώμη. Παρακολουθήστε τα στιγμιότυπα των κυριότερων αγώνων των τουρνουά ATP 1000, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260615161500 +0300" stop="20260615190000 +0300" channel="XTV100001360">
+    <title lang="el">Premier Padel Tour 2026</title>
+    <desc lang="el">Βαλένθια (Τελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
+    <category lang="el">Πάντελ</category>
   </programme>
   <programme start="20260615190000 +0300" stop="20260615203000 +0300" channel="XTV100001360">
     <title lang="el">Topspin (Ζ)</title>
@@ -24260,12 +24335,12 @@
   </programme>
   <programme start="20260617123000 +0300" stop="20260617143000 +0300" channel="XTV100001360">
     <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Χάλε. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
+    <desc lang="el">Χάλε. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260617143000 +0300" stop="20260617163000 +0300" channel="XTV100001360">
     <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Χάλε. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
+    <desc lang="el">Χάλε. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260617163000 +0300" stop="20260617183000 +0300" channel="XTV100001360">
@@ -24484,13 +24559,13 @@
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260615133000 +0300" stop="20260615153000 +0300" channel="XTV100001708">
-    <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Λονδίνο. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
+    <title lang="el">Τένις: Μπότικ Βαν ντε Ζάντσουλπ - Χάρι Βεντέλκεν (Ζ)</title>
+    <desc lang="el">ATP 500 2026. Λονδίνο. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260615153000 +0300" stop="20260615180000 +0300" channel="XTV100001708">
-    <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Λονδίνο. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
+    <title lang="el">Τένις: Τόμι Πολ - Ζάκαρι Ζβάιντα (Ζ)</title>
+    <desc lang="el">ATP 500 2026. Λονδίνο. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260615180000 +0300" stop="20260615190000 +0300" channel="XTV100001708">
@@ -24919,23 +24994,23 @@
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260615123000 +0300" stop="20260615143000 +0300" channel="XTV100001725">
-    <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Χάλε. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Πάνος Λούτας.</desc>
+    <title lang="el">Τένις: Μαξ Σένχαους - Λέρνερ Τιέν (Ζ)</title>
+    <desc lang="el">ATP 500 2026. Χάλε. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260615143000 +0300" stop="20260615163000 +0300" channel="XTV100001725">
-    <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Χάλε. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Πάνος Λούτας.</desc>
+    <title lang="el">Τένις: Νικολόζ Μπασιλασβίλι - Ντάνιελ Αλτμάιερ (Ζ)</title>
+    <desc lang="el">ATP 500 2026. Χάλε. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260615163000 +0300" stop="20260615183000 +0300" channel="XTV100001725">
-    <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Χάλε. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Στέφανος Αβραμίδης.</desc>
+    <title lang="el">Τένις: Νούνο Μπόρζες - Φελίξ Οζέ-Αλιασίμ (Ζ)</title>
+    <desc lang="el">ATP 500 2026. Χάλε. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Στέφανος Αβραμίδης.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260615183000 +0300" stop="20260615210000 +0300" channel="XTV100001725">
-    <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Χάλε. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Στέφανος Αβραμίδης.</desc>
+    <title lang="el">Τένις: Φλάβιο Κομπόλι - Φράνσις Τιαφό (Ζ)</title>
+    <desc lang="el">ATP 500 2026. Χάλε. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Στέφανος Αβραμίδης.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260615210000 +0300" stop="20260615220000 +0300" channel="XTV100001725">
@@ -25073,27 +25148,12 @@
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
-  <programme start="20260617200000 +0300" stop="20260617203000 +0300" channel="XTV100001725">
+  <programme start="20260617200000 +0300" stop="20260617220000 +0300" channel="XTV100001725">
     <title lang="el">COSMOTESport8HD</title>
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
-  <programme start="20260617203000 +0300" stop="20260617210000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260617210000 +0300" stop="20260617230000 +0300" channel="XTV100001725">
-    <title lang="el">Μπάσκετ: Μπαρτσελόνα - Τενερίφη (Ζ)</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 5ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
-    <category lang="el">Μπάσκετ</category>
-  </programme>
-  <programme start="20260617230000 +0300" stop="20260617233000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260617233000 +0300" stop="20260618000000 +0300" channel="XTV100001725">
+  <programme start="20260617220000 +0300" stop="20260618000000 +0300" channel="XTV100001725">
     <title lang="el">COSMOTESport8HD</title>
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
@@ -26173,10 +26233,15 @@
     <desc lang="el">Δείτε όλη τη δράση των αγώνων του UEFA Youth League.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260616020000 +0300" stop="20260616040000 +0300" channel="XTV900000002">
+  <programme start="20260616020000 +0300" stop="20260616033000 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Βαλένθια (Προημιτελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
+  </programme>
+  <programme start="20260616033000 +0300" stop="20260616040000 +0300" channel="XTV900000002">
+    <title lang="el">Sports Classics: The Outdoor Sports Show 2026 Ε5</title>
+    <desc lang="el">Αυτή η σειρά παρουσιάζει ένα ευρύ φάσμα υπαίθριων σπορ καθώς και τους αθλητές που αγωνίζονται σε αυτά. Η εκπομπή καλύπτει από επαγγελματικά και ψυχαγωγικά έως και extreme sports, όπως αγώνες μαραθωνίου, αναρρίχηση, σκι, σέρφινγκ, πεζοπορία, τρίαθλο, ιστιοπλοΐα και ποδηλασία.</desc>
+    <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260616040000 +0300" stop="20260616050000 +0300" channel="XTV900000002">
     <title lang="el">Serie A 2024-25 - Στιγμιότυπα</title>
@@ -26188,10 +26253,15 @@
     <desc lang="el">Τελικός UEL. Στιγμιότυπα.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260616060000 +0300" stop="20260616080000 +0300" channel="XTV900000002">
+  <programme start="20260616060000 +0300" stop="20260616072500 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Βαλένθια (Προημιτελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
     <category lang="el">Πάντελ</category>
+  </programme>
+  <programme start="20260616072500 +0300" stop="20260616080000 +0300" channel="XTV900000002">
+    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2025-26 Ε21</title>
+    <desc lang="el">Εβδομαδιαίο μαγκαζίνο με φάσεις και γκολ από τις κορυφαίες διασυλλογικές διοργανώσεις της UEFA.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260616080000 +0300" stop="20260616100500 +0300" channel="XTV900000002">
     <title lang="el">World Athletics Continental Tour Gold 2026</title>
@@ -26214,8 +26284,8 @@
     <category lang="el">Ποδόσφαιρο Σάλας</category>
   </programme>
   <programme start="20260616150000 +0300" stop="20260616170000 +0300" channel="XTV900000002">
-    <title lang="el">Μπάσκετ: Τενερίφη - Μπαρτσελόνα</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 4ος Αγώνας.  Περιγραφή: Βασίλης Σκουντής.</desc>
+    <title lang="el">Μπάσκετ: Μπανταλόνα - Βαλένθια</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 3ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260616170000 +0300" stop="20260616180000 +0300" channel="XTV900000002">
@@ -26233,44 +26303,34 @@
     <desc lang="el">Οστράβα. Η ετήσια σειρά μίτινγκ στίβου αποτελεί τη δεύτερη τη τάξει διοργάνωση μετά το Diamond League και το πρώτο 'μονοπάτι' για τους αθλητές προς τις μεγάλες διοργανώσεις του κλασικού αθλητισμού, με συνολικά 12 events σε 4 ηπείρους. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Στίβος</category>
   </programme>
-  <programme start="20260616210500 +0300" stop="20260616233000 +0300" channel="XTV900000002">
+  <programme start="20260616210500 +0300" stop="20260616233500 +0300" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο: Αλ Κολόοντ - Αλ Χιλάλ</title>
     <desc lang="el">Saudi King Cup 2025-26. Τελικός.  Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260616233000 +0300" stop="20260617003000 +0300" channel="XTV900000002">
-    <title lang="el">WRC 2026</title>
-    <desc lang="el">Ιαπωνία, SS10 Mt Kasagi 2. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
+  <programme start="20260616233500 +0300" stop="20260617004000 +0300" channel="XTV900000002">
+    <title lang="el">WRC</title>
+    <desc lang="el">Ιαπωνία, Ανασκόπηση. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260616233000 +0300" stop="20260617003000 +0300" channel="XTV900000002">
-    <title lang="el">WRC 2026</title>
-    <desc lang="el">Ιαπωνία, SS10 Mt Kasagi 2. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
+  <programme start="20260616233500 +0300" stop="20260617004000 +0300" channel="XTV900000002">
+    <title lang="el">WRC</title>
+    <desc lang="el">Ιαπωνία, Ανασκόπηση. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260617003000 +0300" stop="20260617011000 +0300" channel="XTV900000002">
-    <title lang="el">WRC 2026</title>
-    <desc lang="el">Ιαπωνία, SS12 Obara 2. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
-    <category lang="el">Μηχανοκίνητα</category>
+  <programme start="20260617004000 +0300" stop="20260617011000 +0300" channel="XTV900000002">
+    <title lang="el">UEFA Youth League Show</title>
+    <desc lang="el">Δείτε όλη τη δράση των αγώνων του UEFA Youth League.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260617011000 +0300" stop="20260617013000 +0300" channel="XTV900000002">
-    <title lang="el">WRC 2026</title>
-    <desc lang="el">Ιαπωνία, SS13 Fujioka 1. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
-    <category lang="el">Μηχανοκίνητα</category>
-  </programme>
-  <programme start="20260617013000 +0300" stop="20260617020000 +0300" channel="XTV900000002">
-    <title lang="el">Sports Classics: The Outdoor Sports Show 2026 Ε5</title>
-    <desc lang="el">Αυτή η σειρά παρουσιάζει ένα ευρύ φάσμα υπαίθριων σπορ καθώς και τους αθλητές που αγωνίζονται σε αυτά. Η εκπομπή καλύπτει από επαγγελματικά και ψυχαγωγικά έως και extreme sports, όπως αγώνες μαραθωνίου, αναρρίχηση, σκι, σέρφινγκ, πεζοπορία, τρίαθλο, ιστιοπλοΐα και ποδηλασία.</desc>
-    <category lang="el">Άλλο Άθλημα</category>
-  </programme>
-  <programme start="20260617020000 +0300" stop="20260617040000 +0300" channel="XTV900000002">
+  <programme start="20260617011000 +0300" stop="20260617040500 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Βαλένθια (Ημιτελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260617040000 +0300" stop="20260617050000 +0300" channel="XTV900000002">
-    <title lang="el">WRC</title>
-    <desc lang="el">Ιαπωνία, Ανασκόπηση. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι.</desc>
+  <programme start="20260617040500 +0300" stop="20260617050000 +0300" channel="XTV900000002">
+    <title lang="el">WRC 2026</title>
+    <desc lang="el">Ιαπωνία, SS12 Obara 2. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260617050000 +0300" stop="20260617060000 +0300" channel="XTV900000002">
@@ -26278,17 +26338,17 @@
     <desc lang="el">UECL, Τελικός. Παρακολουθήστε την ειδική εκπομπή που παρουσιάζει όλα τα τελευταία νέα των ομάδων που συμμετέχουν στις δύο διοργανώσεις.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260617060000 +0300" stop="20260617080000 +0300" channel="XTV900000002">
+  <programme start="20260617060000 +0300" stop="20260617080500 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Βαλένθια (Ημιτελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260617080000 +0300" stop="20260617092500 +0300" channel="XTV900000002">
+  <programme start="20260617080500 +0300" stop="20260617093000 +0300" channel="XTV900000002">
     <title lang="el">Χάντμπολ: Βέτσλαρ - Μαγδεμβούργο</title>
     <desc lang="el">DAIKIN Bundesliga 2025-26. 34η Αγωνιστική.  Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Χάντμπολ</category>
   </programme>
-  <programme start="20260617092500 +0300" stop="20260617100000 +0300" channel="XTV900000002">
+  <programme start="20260617093000 +0300" stop="20260617100000 +0300" channel="XTV900000002">
     <title lang="el">UEL &amp; UECL Μαγκαζίνο 2025-26 Ε21</title>
     <desc lang="el">Εβδομαδιαίο μαγκαζίνο με φάσεις και γκολ από τις κορυφαίες διασυλλογικές διοργανώσεις της UEFA.</desc>
     <category lang="el">Εκπομπή</category>
@@ -26300,7 +26360,7 @@
   </programme>
   <programme start="20260617123000 +0300" stop="20260617150000 +0300" channel="XTV900000002">
     <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Χάλε. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
+    <desc lang="el">Χάλε. Κυρίως ταμπλό. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260617150000 +0300" stop="20260617163000 +0300" channel="XTV900000002">
@@ -26373,10 +26433,20 @@
     <desc lang="el">Ανασκόπηση. Παρακολουθήστε τις καλύτερες φάσεις και τα γκολ από την σεζόν του ιταλικού πρωταθλήματος ποδοσφαίρου.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260618060000 +0300" stop="20260618080000 +0300" channel="XTV900000002">
+  <programme start="20260618060000 +0300" stop="20260618072000 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Βαλένθια (Ημιτελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
+  </programme>
+  <programme start="20260618072000 +0300" stop="20260618074000 +0300" channel="XTV900000002">
+    <title lang="el">William Hill Scottish Premiership - Στιγμιότυπα</title>
+    <desc lang="el">38η Αγωνιστική. Δείτε τις καλύτερες στιγμές από την 1η κατηγορία του σκωτσέζικου ποδοσφαίρου, της δεύτερης παλαιότερης λίγκας στην Ευρώπη.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260618074000 +0300" stop="20260618080000 +0300" channel="XTV900000002">
+    <title lang="el">Αθλητικά Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260618080000 +0300" stop="20260618090000 +0300" channel="XTV900000002">
     <title lang="el">FIM Moto Junior GP 2026</title>
@@ -26384,8 +26454,8 @@
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260618090000 +0300" stop="20260618110000 +0300" channel="XTV900000002">
-    <title lang="el">Μπάσκετ: Μπαρτσελόνα - Τενερίφη</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 5ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
+    <title lang="el">Μπάσκετ: Μπανταλόνα - Βαλένθια</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 3ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260618110000 +0300" stop="20260618132500 +0300" channel="XTV900000002">
@@ -26394,8 +26464,8 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260618132500 +0300" stop="20260618152500 +0300" channel="XTV900000002">
-    <title lang="el">Μπάσκετ: Μπανταλόνα - Βαλένθια</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 4ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
+    <title lang="el">Μπάσκετ: Τενερίφη - Μπαρτσελόνα</title>
+    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 3ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260618152500 +0300" stop="20260618162500 +0300" channel="XTV900000002">
@@ -26418,37 +26488,37 @@
     <desc lang="el">Lega Basket Serie A 2025-26. 4ος Τελικός.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260618230000 +0300" stop="20260619000000 +0300" channel="XTV900000002">
+  <programme start="20260618230000 +0300" stop="20260618235500 +0300" channel="XTV900000002">
     <title lang="el">Στιγμιότυπα: UEL &amp; UECL 2025-26</title>
     <desc lang="el">UECL, Τελικός. Παρακολουθήστε την ειδική εκπομπή που παρουσιάζει όλα τα τελευταία νέα των ομάδων που συμμετέχουν στις δύο διοργανώσεις.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260619000000 +0300" stop="20260619050000 +0300" channel="XTV900000002">
+  <programme start="20260618235500 +0300" stop="20260619050500 +0300" channel="XTV900000002">
     <title lang="el">Πολεμικές Τέχνες: UFC Fight Night 2026</title>
     <desc lang="el">Freedom 250: Ίλια Τοπούρια - Τζάστιν Γκέιτζ. ΗΠΑ, Λευκός Οίκος. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια COSMOTE SPORT.</desc>
     <category lang="el">Πολεμικές Τέχνες</category>
   </programme>
-  <programme start="20260619050000 +0300" stop="20260619060000 +0300" channel="XTV900000002">
+  <programme start="20260618235500 +0300" stop="20260619050500 +0300" channel="XTV900000002">
+    <title lang="el">Πολεμικές Τέχνες: UFC Fight Night 2026</title>
+    <desc lang="el">Freedom 250: Ίλια Τοπούρια - Τζάστιν Γκέιτζ. ΗΠΑ, Λευκός Οίκος. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια COSMOTE SPORT.</desc>
+    <category lang="el">Πολεμικές Τέχνες</category>
+  </programme>
+  <programme start="20260619050500 +0300" stop="20260619060000 +0300" channel="XTV900000002">
     <title lang="el">WRC</title>
     <desc lang="el">Ιαπωνία, Ανασκόπηση. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260619060000 +0300" stop="20260619080000 +0300" channel="XTV900000002">
+  <programme start="20260619060000 +0300" stop="20260619082000 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Βαλένθια (Τελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260619080000 +0300" stop="20260619100000 +0300" channel="XTV900000002">
+  <programme start="20260619082000 +0300" stop="20260619110500 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Βαλένθια (Τελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260619100000 +0300" stop="20260619110000 +0300" channel="XTV900000002">
-    <title lang="el">Serie A 2024-25 - Στιγμιότυπα</title>
-    <desc lang="el">Ανασκόπηση. Παρακολουθήστε τις καλύτερες φάσεις και τα γκολ από την σεζόν του ιταλικού πρωταθλήματος ποδοσφαίρου.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260619110000 +0300" stop="20260619133000 +0300" channel="XTV900000002">
+  <programme start="20260619110500 +0300" stop="20260619133000 +0300" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο: Φράιμπουργκ - Άστον Βίλα</title>
     <desc lang="el">UEFA Europa League 2025-26. Τελικός. Φράιμπουργκ και Άστον Βίλα θα αναμετρηθούν στον τελικό του UEFA Europa League, με στόχο το τρόπαιο και μία θέση στο UCL της σεζόν 2026-27. Περιγραφή: Στέφανος Αβραμίδης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
@@ -26563,10 +26633,10 @@
     <desc lang="el">Sky Bet EFL Championship 2025-26. Πλέι-οφ, Τελικός.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260620233000 +0300" stop="20260621013000 +0300" channel="XTV900000002">
-    <title lang="el">Μπάσκετ: Βαλένθια - Μπανταλόνα</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 5ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
-    <category lang="el">Μπάσκετ</category>
+  <programme start="20260620233000 +0300" stop="20260621004500 +0300" channel="XTV900000002">
+    <title lang="el">Grand Prix Show 2026</title>
+    <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η COSMΟΤΕ TV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
+    <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260615000000 +0300" stop="20260615020000 +0300" channel="XTV100003506">
     <title lang="el">COSMOTE SPORT ΑΕΚ Super League Pass</title>
@@ -30233,42 +30303,57 @@
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
-  <programme start="20260615120000 +0300" stop="20260615140000 +0300" channel="XTV600000606">
-    <title lang="el">WTA 500 2026</title>
-    <desc lang="el">Λονδίνο, Προημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών The HSBC Championships της σειράς WTA 500 που πραγματοποιείται στο Λονδίνο το διάστημα 8-14 Ιουνίου.</desc>
-    <category lang="el">Τένις</category>
-  </programme>
-  <programme start="20260615140000 +0300" stop="20260615160000 +0300" channel="XTV600000606">
-    <title lang="el">WTA 500 2026</title>
-    <desc lang="el">Λονδίνο, Προημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών The HSBC Championships της σειράς WTA 500 που πραγματοποιείται στο Λονδίνο το διάστημα 8-14 Ιουνίου.</desc>
-    <category lang="el">Τένις</category>
-  </programme>
-  <programme start="20260615160000 +0300" stop="20260615180000 +0300" channel="XTV600000606">
-    <title lang="el">WTA 500 2026</title>
-    <desc lang="el">Λονδίνο, Προημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών The HSBC Championships της σειράς WTA 500 που πραγματοποιείται στο Λονδίνο το διάστημα 8-14 Ιουνίου.</desc>
-    <category lang="el">Τένις</category>
-  </programme>
-  <programme start="20260615180000 +0300" stop="20260615200000 +0300" channel="XTV600000606">
+  <programme start="20260615120000 +0300" stop="20260615133000 +0300" channel="XTV600000606">
     <title lang="el">WTA 250 2026</title>
     <desc lang="el">Ντεν Μπος, Προημιτελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Libema Open της σειράς WTA 250, που πραγματοποιείται στο Ντεν Μπος της Ολλανδίας το διάστημα 08-14 Ιουνίου.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260615200000 +0300" stop="20260615220000 +0300" channel="XTV600000606">
+  <programme start="20260615133000 +0300" stop="20260615153000 +0300" channel="XTV600000606">
+    <title lang="el">Τένις: Κινγουέν Ζενγκ - Μαρία Σάκκαρη (Ζ)</title>
+    <desc lang="el">WTA 250 2026. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Lexus Nottingham Open της σειράς WTA 250, που πραγματοποιείται στο Νότιγχαμ της Αγγλίας το διάστημα 15-21 Ιουνίου. Περιγραφή: Χρ. Κομίνη</desc>
+    <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260615153000 +0300" stop="20260615183000 +0300" channel="XTV600000606">
+    <title lang="el">WTA 500 2026</title>
+    <desc lang="el">Λονδίνο, Προημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών The HSBC Championships της σειράς WTA 500 που πραγματοποιείται στο Λονδίνο το διάστημα 8-14 Ιουνίου.</desc>
+    <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260615183000 +0300" stop="20260615190000 +0300" channel="XTV600000606">
+    <title lang="el">Παγκόσμιο Πρωτάθλημα F1H2O</title>
+    <desc lang="el">Επεισόδιο: Προεπισκόπηση Σεζόν 2026. Το Παγκόσμιο Πρωτάθλημα F1H2O αποτελεί το κορυφαίο επίπεδο παράκτιας αγωνιστικής δράσης! Παρακολουθήστε την προεπισκόπηση της σεζόν 2026 της θαλάσσιας Formula 1, που περιλαμβάνει πέντε Γκραν Πρι σε Ασία και Μέση Ανατολή.</desc>
+    <category lang="el">Μηχανοκίνητα</category>
+  </programme>
+  <programme start="20260615190000 +0300" stop="20260615203000 +0300" channel="XTV600000606">
+    <title lang="el">WTA 250 2026</title>
+    <desc lang="el">Ντεν Μπος, Προημιτελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Libema Open της σειράς WTA 250, που πραγματοποιείται στο Ντεν Μπος της Ολλανδίας το διάστημα 08-14 Ιουνίου.</desc>
+    <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260615203000 +0300" stop="20260615210000 +0300" channel="XTV600000606">
+    <title lang="el">Ο Κόσμος των Freesports</title>
+    <desc lang="el">Από το σέρφινγκ και το kitesurfing, το σκι και την χιονοσανίδα, ως τους αγώνες εντούρο και κανόε-καγιάκ, ο κόσμος των freestyle-extreme σπορ είναι κάθε εβδομάδα κοντά σας, γεμάτος ένταση και εκτοξεύοντας την αδρεναλίνη στα ύψη!</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260615210000 +0300" stop="20260615223000 +0300" channel="XTV600000606">
     <title lang="el">WTA 500 2026</title>
     <desc lang="el">Λονδίνο, Ημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών The HSBC Championships της σειράς WTA 500 που πραγματοποιείται στο Λονδίνο το διάστημα 8-14 Ιουνίου.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260615220000 +0300" stop="20260616000000 +0300" channel="XTV600000606">
-    <title lang="el">WTA 500 2026</title>
-    <desc lang="el">Λονδίνο, Ημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών The HSBC Championships της σειράς WTA 500 που πραγματοποιείται στο Λονδίνο το διάστημα 8-14 Ιουνίου.</desc>
+  <programme start="20260615223000 +0300" stop="20260616003000 +0300" channel="XTV600000606">
+    <title lang="el">Τένις: Κινγουέν Ζενγκ - Μαρία Σάκκαρη</title>
+    <desc lang="el">WTA 250 2026. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Lexus Nottingham Open της σειράς WTA 250, που πραγματοποιείται στο Νότιγχαμ της Αγγλίας το διάστημα 15-21 Ιουνίου.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260616000000 +0300" stop="20260616040000 +0300" channel="XTV600000606">
+  <programme start="20260615223000 +0300" stop="20260616003000 +0300" channel="XTV600000606">
+    <title lang="el">Τένις: Κινγουέν Ζενγκ - Μαρία Σάκκαρη</title>
+    <desc lang="el">WTA 250 2026. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Lexus Nottingham Open της σειράς WTA 250, που πραγματοποιείται στο Νότιγχαμ της Αγγλίας το διάστημα 15-21 Ιουνίου.</desc>
+    <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260616003000 +0300" stop="20260616043000 +0300" channel="XTV600000606">
     <title lang="el">Novasports 6 HD</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
-  <programme start="20260616040000 +0300" stop="20260616060000 +0300" channel="XTV600000606">
+  <programme start="20260616043000 +0300" stop="20260616060000 +0300" channel="XTV600000606">
     <title lang="el">Novasports 6 HD</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
