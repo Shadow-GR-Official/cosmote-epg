@@ -64,7 +64,7 @@ def run():
 
     print("[FETCH] Cosmote EPG")
 
-    for i in range(-1, 6):
+    for i in range(-1, 5):
         day = datetime.now() + timedelta(days=i)
 
         from_ts = int(day.replace(hour=0, minute=0, second=0).timestamp())
