@@ -7363,30 +7363,75 @@
     <desc lang="el">Ταξιδέψτε σε μακρινά και ονειρεμένα μέρη σε όλο τον κόσμο και γνωρίστε διαφορετικούς πολιτισμούς και γεύσεις από μακρινές κουζίνες! Ένα οδοιπορικό σε Ελλάδα και εξωτερικό, σε τόπους που θα ήθελες να ταξιδέψεις. (ΤΠ)</desc>
     <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260629070000 +0300" stop="20260629080000 +0300" channel="XTV100003184">
-    <title lang="el">One Channel</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629070000 +0300" stop="20260629093000 +0300" channel="XTV100003184">
+    <title lang="el">Καν' το Όπως ο Άκης</title>
+    <desc lang="el">Ο αγαπημένος σεφ μας δίνει καθημερινά ραντεβού, παρουσιάζοντας με το μοναδικό του τρόπο αγαπημένες συνταγές, λαχταριστά πιάτα και πρωτότυπες δημιουργίες. Ο Άκης φιλοξενεί και έναν καλεσμένο - επαγγελματία ή σπουδαστή σεφ, ο οποίος ετοιμάζει μία συνταγή με τη βοήθεια και τις συμβουλές του Άκη. (ΤΠ)</desc>
+    <category lang="el">Μαγειρική</category>
   </programme>
-  <programme start="20260629080000 +0300" stop="20260629120000 +0300" channel="XTV100003184">
-    <title lang="el">One Channel</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629093000 +0300" stop="20260629110000 +0300" channel="XTV100003184">
+    <title lang="el">Morning Point</title>
+    <desc lang="el">Πρωινή ενημερωτική εκπομπή με τον Ανδρέα Παπαδόπουλο και τη Μαρία Αστερίου.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260629120000 +0300" stop="20260629160000 +0300" channel="XTV100003184">
-    <title lang="el">One Channel</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629110000 +0300" stop="20260629120000 +0300" channel="XTV100003184">
+    <title lang="el">Τηλεπωλήσεις</title>
+    <desc lang="el">Πώληση προϊόντων μέσω τηλεοπτικής προβολής. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
   </programme>
-  <programme start="20260629160000 +0300" stop="20260629200000 +0300" channel="XTV100003184">
-    <title lang="el">One Channel</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629120000 +0300" stop="20260629130000 +0300" channel="XTV100003184">
+    <title lang="el">Από την Πόλη Έρχομαι</title>
+    <desc lang="el">Η Μαρία Εκμετσίογλου, μια από τις κορυφαίες μαγείρισσες της Πόλης, παρουσιάζει παραδοσιακές Πολίτικες συνταγές, μας συστήνει ανθρώπους με μεράκι, δημιουργεί ανεπανάληπτα πιάτα στην κουζίνα του εστιατορίου της και μας κάνει βόλτα στα 'γευστικά' σοκάκια της Κωνσταντινούπολης. (ΤΠ)</desc>
+    <category lang="el">Μαγειρική</category>
   </programme>
-  <programme start="20260629200000 +0300" stop="20260630000000 +0300" channel="XTV100003184">
-    <title lang="el">One Channel</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629130000 +0300" stop="20260629140000 +0300" channel="XTV100003184">
+    <title lang="el">Τηλεπωλήσεις</title>
+    <desc lang="el">Πώληση προϊόντων μέσω τηλεοπτικής προβολής. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+  </programme>
+  <programme start="20260629140000 +0300" stop="20260629150000 +0300" channel="XTV100003184">
+    <title lang="el">My Greece</title>
+    <desc lang="el">Ταξίδια στα πιο όμορφα μέρη της Ελλάδας. Ξεχωριστοί προορισμοί, μοναδικά τοπία, έθιμα και παραδόσεις αναλλοίωτα στο χρόνο, φιλόξενοι άνθρωποι, γεύσεις και συνταγές. Η Δέσποινα Βανδή προσκαλεί σε κάθε ταξίδι έναν αγαπημένο φίλο.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260629150000 +0300" stop="20260629170000 +0300" channel="XTV100003184">
+    <title lang="el">Telemarketing Τσαγκαράκης</title>
+    <desc lang="el">Ζωντανή εκπομπή πώλησης κοσμημάτων. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+  </programme>
+  <programme start="20260629170000 +0300" stop="20260629180000 +0300" channel="XTV100003184">
+    <title lang="el">Travel Guide</title>
+    <desc lang="el">Ταξιδέψτε σε μακρινά και ονειρεμένα μέρη σε όλο τον κόσμο και γνωρίστε διαφορετικούς πολιτισμούς και γεύσεις από μακρινές κουζίνες! Ένα οδοιπορικό σε Ελλάδα και εξωτερικό, σε τόπους που θα ήθελες να ταξιδέψεις. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260629180000 +0300" stop="20260629184500 +0300" channel="XTV100003184">
+    <title lang="el">One News</title>
+    <desc lang="el">Παρακολουθήστε τις σημαντικότερες ειδήσεις της ημέρας από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629184500 +0300" stop="20260629190000 +0300" channel="XTV100003184">
+    <title lang="el">One Road to Mundial</title>
+    <desc lang="el">Όλα τα τελευταία νέα για το Παγκόσμιο Κύπελλο Ποδοσφαίρου. Επιμέλεια-Παρουσίαση: Βαλάντης Μαρκόγλου.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260629190000 +0300" stop="20260629203000 +0300" channel="XTV100003184">
+    <title lang="el">Εδώ</title>
+    <desc lang="el">Ο Σταμάτης Ζαχαρός φωτίζει όλες τις κρυφές πτυχές της καθημερινότητας. Με την κοινωνία στην πρώτη γραμμή το ζωντανό magazinο ψάχνει απαντήσεις εκεί που πολλοί δυσκολεύονται να ρωτήσουν.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629203000 +0300" stop="20260629220000 +0300" channel="XTV100003184">
+    <title lang="el">Talk</title>
+    <desc lang="el">Πολιτικό talk show με τον Τάκη Χατζή. Κορυφαία στελέχη της πολιτικής ζωής απαντούν στις ερωτήσεις του δημοσιογράφου.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629220000 +0300" stop="20260629235000 +0300" channel="XTV100003184">
+    <title lang="el">Evening Report</title>
+    <desc lang="el">Η άλλη διάσταση της είδησης. Δημοσιογράφοι, αναλυτές, ειδικοί βάζουν την ατζέντα της επόμενης ημέρας. Ο σταθερός βραδινός οδηγός ενημέρωσης με ακρίβεια και ουσιαστικό διάλογο. Συντονίζει ο Ρενάτο Λέκκα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629235000 +0300" stop="20260630004500 +0300" channel="XTV100003184">
+    <title lang="el">Με τον Ρένο</title>
+    <desc lang="el">Ο ηθοποιός και σκηνοθέτης Ρένος Χαραλαμπίδης συναντά πρόσωπα από τον χώρο του πολιτισμού και των τεχνών και ανοίγει συζητήσεις με βάθος, χιούμορ, ευαισθησία και προσωπικό τόνο.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
   <programme start="20260623230000 +0300" stop="20260624005000 +0300" channel="XTV100003227">
     <title lang="el">Η Γη της Ελιάς Κ5 Ε145</title>
@@ -24239,23 +24284,23 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260625120000 +0300" stop="20260625140000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Μαγιόρκα (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
+    <title lang="el">Τένις: Ίθαν Κουίν - Βιτ Κοπρίβα (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Μαγιόρκα (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260625140000 +0300" stop="20260625160000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Μαγιόρκα (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
+    <title lang="el">Τένις: Λουτσιάνο Νταρντέρι - Νούνο Μπόρζες (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Μαγιόρκα (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260625160000 +0300" stop="20260625183000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Μαγιόρκα (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Κυφωνίδης.</desc>
+    <title lang="el">Τένις: Μίομιρ Κετσμάνοβιτς - Φαμπιάν Μαροζάν (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Μαγιόρκα (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Κυφωνίδης.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260625183000 +0300" stop="20260625210000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Μαγιόρκα (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Κυφωνίδης.</desc>
+    <title lang="el">Τένις: Γκριγκόρ Ντιμιτρόφ - Αλεχάντρο Νταβίντοβιτς Φοκίνα (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Μαγιόρκα (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Κυφωνίδης.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260625210000 +0300" stop="20260625213000 +0300" channel="XTV100001360">
@@ -30379,8 +30424,8 @@
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260625120000 +0300" stop="20260625140000 +0300" channel="XTV600000606">
-    <title lang="el">WTA 500 2026 (Ζ)</title>
-    <desc lang="el">Μπαντ Χόμπουργκ, Προημιτελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Bad Homburg Open της σειράς WTA 500, που πραγματοποιείται στο Μπαντ Χόμπουργκ της Γερμανίας το διάστημα 21-27 Ιουνίου. Περιγραφή: Δ. Καρύδας</desc>
+    <title lang="el">WTA 500 2026</title>
+    <desc lang="el">Βερολίνο, Ημιτελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Vanda Pharmaceuticals Berlin Tennis Open της σειράς WTA 500, που διεξάγεται στο Βερολίνο το διάστημα 15-21 Ιουνίου.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260625140000 +0300" stop="20260625160000 +0300" channel="XTV600000606">
@@ -65489,8 +65534,8 @@
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260627200000 +0300" stop="20260627210000 +0300" channel="XTV100002906">
-    <title lang="el">CNN Newsroom Σάββατο</title>
-    <desc lang="el">Μάθετε όλα τα τελευταία νέα από όλο τον κόσμο.</desc>
+    <title lang="el">Σμερκόνις</title>
+    <desc lang="el">Ο οικοδεσπότης Μάικλ Σμερκόνις παρουσιάζει και αναλύει πολιτικές και άλλες ειδήσεις της επικαιρότητας στην Αμερική.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260627210000 +0300" stop="20260627220000 +0300" channel="XTV100002906">
@@ -65504,8 +65549,8 @@
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260627230000 +0300" stop="20260628000000 +0300" channel="XTV100002906">
-    <title lang="el">CNN Newsroom Σάββατο</title>
-    <desc lang="el">Μάθετε όλα τα τελευταία νέα από όλο τον κόσμο.</desc>
+    <title lang="el">Η Αρένα: Σάββατο</title>
+    <desc lang="el">Διεξοδική ανασκόπηση και ανάλυση των σημαντικότερων πολιτικών και πολιτιστικών εξελίξεων της εβδομάδας. Με την Κέισι Χαντ.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260628000000 +0300" stop="20260628003000 +0300" channel="XTV100002906">
@@ -65554,9 +65599,9 @@
     <category lang="el">Συνέντευξη</category>
   </programme>
   <programme start="20260628060000 +0300" stop="20260628063000 +0300" channel="XTV100002906">
-    <title lang="el">CNN</title>
-    <desc lang="el">Πρόγραμμα προς επιβεβαίωση.</desc>
-    <category lang="el">Άλλο</category>
+    <title lang="el">Connecting Africa</title>
+    <desc lang="el">Εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260628063000 +0300" stop="20260628064500 +0300" channel="XTV100002906">
     <title lang="el">CNN Αφρικανική Αγορά</title>
