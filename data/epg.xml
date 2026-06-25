@@ -11274,8 +11274,8 @@
     <category lang="el">Συνέντευξη</category>
   </programme>
   <programme start="20260628193000 +0300" stop="20260628222000 +0300" channel="XTV100003228">
-    <title lang="el">Piraeus Street Long Jump 2026</title>
-    <desc lang="el">Επιστρέφουμε στους δρόμους του Πειραιά για το φαντασμαγορικό 3ο Piraeus Street Long Jump. Το event διοργανώνεται στα πλαίσια του World Athletics Continental Tour.</desc>
+    <title lang="el">Piraeus Street Long Jump 2026 (Ζ)</title>
+    <desc lang="el">Ο Μίλτος Τεντόγλου επιστρέφει στους δρόμους του Πειραιά για το φαντασμαγορικό 3ο Piraeus Street Long Jump. Το event διοργανώνεται στα πλαίσια του World Athletics Continental Tour.</desc>
     <category lang="el">Στίβος</category>
   </programme>
   <programme start="20260628222000 +0300" stop="20260628230000 +0300" channel="XTV100003228">
@@ -21190,7 +21190,7 @@
   </programme>
   <programme start="20260627013000 +0300" stop="20260627020000 +0300" channel="XTV100001107">
     <title lang="el">Δείτε Ζωντανά Ό,τι Συμβαίνει Κ23 Ε106</title>
-    <desc lang="el">Ο παρουσιαστής Άντι Κόεν συζητά εκδηλώσεις ποπ-κουλτούρας με καλεσμένους και θεατές.</desc>
+    <desc lang="el">Επεισόδιο: June Diane Raphael &amp; Nia Sanchez Booko. Ο παρουσιαστής Άντι Κόεν συζητά εκδηλώσεις ποπ-κουλτούρας με καλεσμένους και θεατές.</desc>
     <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
   <programme start="20260627020000 +0300" stop="20260627030000 +0300" channel="XTV100001107">
@@ -21555,7 +21555,7 @@
   </programme>
   <programme start="20260629190000 +0300" stop="20260629193000 +0300" channel="XTV100001107">
     <title lang="el">Δείτε Ζωντανά Ό,τι Συμβαίνει Κ23 Ε106</title>
-    <desc lang="el">Ο παρουσιαστής Άντι Κόεν συζητά εκδηλώσεις ποπ-κουλτούρας με καλεσμένους και θεατές.</desc>
+    <desc lang="el">Επεισόδιο: June Diane Raphael &amp; Nia Sanchez Booko. Ο παρουσιαστής Άντι Κόεν συζητά εκδηλώσεις ποπ-κουλτούρας με καλεσμένους και θεατές.</desc>
     <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
   <programme start="20260629193000 +0300" stop="20260629203000 +0300" channel="XTV100001107">
@@ -24470,7 +24470,7 @@
   </programme>
   <programme start="20260628130000 +0300" stop="20260628153000 +0300" channel="XTV100001360">
     <title lang="el">Τένις: ATP 250 2026</title>
-    <desc lang="el">Ίστμπουρν (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour.</desc>
+    <desc lang="el">Ίστμπουρν (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Μάλαμας.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260628153000 +0300" stop="20260628160000 +0300" channel="XTV100001360">
@@ -29314,8 +29314,8 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260627160000 +0300" stop="20260627180000 +0300" channel="XTV600000602">
-    <title lang="el">Ισπανικό Πρωτάθλημα Β' Κατηγορίας</title>
-    <desc lang="el">Πλέι Οφ, Τελικός. Παρακολουθείτε αγώνες της La Liga 2 Hypermotion, της δεύτερης κατηγορίας του ισπανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 22 σύλλογοι και η Μούρθια κατέχει το ρεκόρ τίτλων με 8 κατακτήσεις.</desc>
+    <title lang="el">Ποδόσφαιρο: Μάλαγα - Αλμερία</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Β' Κατηγορίας 2025/26. Παρακολουθείτε αγώνες της La Liga 2 Hypermotion, της δεύτερης κατηγορίας του ισπανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 22 σύλλογοι και η Μούρθια κατέχει το ρεκόρ τίτλων με 8 κατακτήσεις.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260627180000 +0300" stop="20260627200000 +0300" channel="XTV600000602">
@@ -30448,22 +30448,27 @@
     <desc lang="el">Μπαντ Χόμπουργκ, Προημιτελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Bad Homburg Open της σειράς WTA 500, που πραγματοποιείται στο Μπαντ Χόμπουργκ της Γερμανίας το διάστημα 21-27 Ιουνίου. Περιγραφή: Β. Κωνσταντόπουλος</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260625200000 +0300" stop="20260625220000 +0300" channel="XTV600000606">
+  <programme start="20260625200000 +0300" stop="20260625221500 +0300" channel="XTV600000606">
     <title lang="el">WTA 250 2026</title>
     <desc lang="el">Ίστμπουρν, Προημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Lexus Eastbourne Open της σειράς WTA 250, που πραγματοποιείται στο Ίστμπουρν της Βρετανίας το διάστημα 22-27 Ιουνίου.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260625220000 +0300" stop="20260626000000 +0300" channel="XTV600000606">
+  <programme start="20260625221500 +0300" stop="20260626001500 +0300" channel="XTV600000606">
     <title lang="el">WTA 250 2026</title>
     <desc lang="el">Ίστμπουρν, Προημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Lexus Eastbourne Open της σειράς WTA 250, που πραγματοποιείται στο Ίστμπουρν της Βρετανίας το διάστημα 22-27 Ιουνίου.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260626000000 +0300" stop="20260626040000 +0300" channel="XTV600000606">
+  <programme start="20260625221500 +0300" stop="20260626001500 +0300" channel="XTV600000606">
+    <title lang="el">WTA 250 2026</title>
+    <desc lang="el">Ίστμπουρν, Προημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Lexus Eastbourne Open της σειράς WTA 250, που πραγματοποιείται στο Ίστμπουρν της Βρετανίας το διάστημα 22-27 Ιουνίου.</desc>
+    <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260626001500 +0300" stop="20260626041500 +0300" channel="XTV600000606">
     <title lang="el">Novasports 6 HD</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
-  <programme start="20260626040000 +0300" stop="20260626060000 +0300" channel="XTV600000606">
+  <programme start="20260626041500 +0300" stop="20260626060000 +0300" channel="XTV600000606">
     <title lang="el">Novasports 6 HD</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
@@ -30838,19 +30843,19 @@
     <desc lang="el">Τσέλσι - Λίβερπουλ (2001/02). Δείτε έναν κλασικό αγώνα από προηγούμενη σεζόν της Premier League επιλεγμένο από το πλούσιο αρχείο της κορυφαίας αγγλικής κατηγορίας.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260626163000 +0300" stop="20260626170000 +0300" channel="XTV600000614">
-    <title lang="el">Classic Match</title>
-    <desc lang="el">Νότιγχαμ Φόρεστ - ΚΠΡ (1994/95). Δείτε έναν κλασικό αγώνα από προηγούμενη σεζόν της Premier League επιλεγμένο από το πλούσιο αρχείο της κορυφαίας αγγλικής κατηγορίας.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
-  </programme>
-  <programme start="20260626170000 +0300" stop="20260626190000 +0300" channel="XTV600000614">
+  <programme start="20260626163000 +0300" stop="20260626183000 +0300" channel="XTV600000614">
     <title lang="el">Ποδόσφαιρο: Μπρέντφορντ - Ίπσουιτς</title>
     <desc lang="el">Premier League 2024-25. Η Premier League, το δημοφιλέστερο πρωτάθλημα ποδοσφαίρου παγκοσμίως, αποκλειστικά στο Novasports! Απολαύστε τη συναρπαστική δράση της κορυφαίας κατηγορίας του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260626190000 +0300" stop="20260626210000 +0300" channel="XTV600000614">
+  <programme start="20260626183000 +0300" stop="20260626203000 +0300" channel="XTV600000614">
     <title lang="el">Ποδόσφαιρο: Μάντσεστερ Σίτι - Έβερτον</title>
     <desc lang="el">Premier League 2025/26. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports! Απολαύστε τη συναρπαστική δράση του δημοφιλέστερου πρωταθλήματος ποδοσφαίρου παγκοσμίως.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260626203000 +0300" stop="20260626210000 +0300" channel="XTV600000614">
+    <title lang="el">Ιστορίες της Premier League</title>
+    <desc lang="el">Τζούλιαν Ντικς. Αυτό το πρόγραμμα παρουσιάζει τις προσωπικότητες που διαμόρφωσαν την εποχή της Premier League, με ιδιαίτερη έμφαση στις ιστορίες που έχουν απήχηση στο διεθνές κοινό.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260626210000 +0300" stop="20260626220000 +0300" channel="XTV600000614">
@@ -69414,9 +69419,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260626021500 +0300" stop="20260626023000 +0300" channel="XTV100000926">
-    <title lang="el">Τα Καλύτερα της DW από το Ίντερνετ</title>
-    <desc lang="el">Ιντερνετικό υλικό από την DW.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Συνέντευξη</title>
+    <desc lang="el">Συνέντευξη.</desc>
+    <category lang="el">Συνέντευξη</category>
   </programme>
   <programme start="20260626023000 +0300" stop="20260626030000 +0300" channel="XTV100000926">
     <title lang="el">Τα Καλύτερα Podcast της DW</title>
@@ -69479,9 +69484,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260626061500 +0300" stop="20260626063000 +0300" channel="XTV100000926">
-    <title lang="el">Τα Καλύτερα της DW από το Ίντερνετ</title>
-    <desc lang="el">Ιντερνετικό υλικό από την DW.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Συνέντευξη</title>
+    <desc lang="el">Συνέντευξη.</desc>
+    <category lang="el">Συνέντευξη</category>
   </programme>
   <programme start="20260626063000 +0300" stop="20260626070000 +0300" channel="XTV100000926">
     <title lang="el">Χώρα Κατασκευής: Γερμανία</title>
@@ -69529,9 +69534,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260626091500 +0300" stop="20260626093000 +0300" channel="XTV100000926">
-    <title lang="el">Τα Καλύτερα της DW από το Ίντερνετ</title>
-    <desc lang="el">Ιντερνετικό υλικό από την DW.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Συνέντευξη</title>
+    <desc lang="el">Συνέντευξη.</desc>
+    <category lang="el">Συνέντευξη</category>
   </programme>
   <programme start="20260626093000 +0300" stop="20260626100000 +0300" channel="XTV100000926">
     <title lang="el">Τα Καλύτερα Podcast της DW</title>
@@ -69814,9 +69819,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260627041500 +0300" stop="20260627043000 +0300" channel="XTV100000926">
-    <title lang="el">Τα Καλύτερα της DW από το Ίντερνετ</title>
-    <desc lang="el">Ιντερνετικό υλικό από την DW.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Τα καλύτερα ντοκιμαντέρ από τη DW.</desc>
+    <category lang="el">Άλλο</category>
   </programme>
   <programme start="20260627043000 +0300" stop="20260627050000 +0300" channel="XTV100000926">
     <title lang="el">Το Αύριο Σήμερα - Επιστημονικό Μαγκαζίνο</title>
@@ -69969,9 +69974,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260627130500 +0300" stop="20260627131500 +0300" channel="XTV100000926">
-    <title lang="el">Τα Καλύτερα της DW από το Ίντερνετ</title>
-    <desc lang="el">Ιντερνετικό υλικό από την DW.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Εκείνη - Γυναίκες στην Ασία</title>
+    <desc lang="el">Ένα ντοκιμαντέρ για τις καθημερινές προκλήσεις που αντιμετωπίζουν οι γυναίκες στην Ασία.</desc>
+    <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
   <programme start="20260627131500 +0300" stop="20260627133000 +0300" channel="XTV100000926">
     <title lang="el">Αλλαγή - Η Ζωή στην Ψηφιακή Εποχή</title>
@@ -70024,9 +70029,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260627170500 +0300" stop="20260627171500 +0300" channel="XTV100000926">
-    <title lang="el">Τα Καλύτερα της DW από το Ίντερνετ</title>
-    <desc lang="el">Ιντερνετικό υλικό από την DW.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Εκείνη - Γυναίκες στην Ασία</title>
+    <desc lang="el">Ένα ντοκιμαντέρ για τις καθημερινές προκλήσεις που αντιμετωπίζουν οι γυναίκες στην Ασία.</desc>
+    <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
   <programme start="20260627171500 +0300" stop="20260627173000 +0300" channel="XTV100000926">
     <title lang="el">Δημοσιογράφοι Εν Δράσει</title>
@@ -70044,9 +70049,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260627181500 +0300" stop="20260627183000 +0300" channel="XTV100000926">
-    <title lang="el">Τα Καλύτερα της DW από το Ίντερνετ</title>
-    <desc lang="el">Ιντερνετικό υλικό από την DW.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Συνέντευξη</title>
+    <desc lang="el">Συνέντευξη.</desc>
+    <category lang="el">Συνέντευξη</category>
   </programme>
   <programme start="20260627183000 +0300" stop="20260627190000 +0300" channel="XTV100000926">
     <title lang="el">Euromaxx - Η Ζωή στην Ευρώπη</title>
@@ -70179,9 +70184,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260628040500 +0300" stop="20260628041500 +0300" channel="XTV100000926">
-    <title lang="el">Τα Καλύτερα της DW από το Ίντερνετ</title>
-    <desc lang="el">Ιντερνετικό υλικό από την DW.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Εκείνη - Γυναίκες στην Ασία</title>
+    <desc lang="el">Ένα ντοκιμαντέρ για τις καθημερινές προκλήσεις που αντιμετωπίζουν οι γυναίκες στην Ασία.</desc>
+    <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
   <programme start="20260628041500 +0300" stop="20260628043000 +0300" channel="XTV100000926">
     <title lang="el">Δημοσιογράφοι Εν Δράσει</title>
@@ -70269,9 +70274,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260628100500 +0300" stop="20260628101500 +0300" channel="XTV100000926">
-    <title lang="el">Τα Καλύτερα της DW από το Ίντερνετ</title>
-    <desc lang="el">Ιντερνετικό υλικό από την DW.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Εκείνη - Γυναίκες στην Ασία</title>
+    <desc lang="el">Ένα ντοκιμαντέρ για τις καθημερινές προκλήσεις που αντιμετωπίζουν οι γυναίκες στην Ασία.</desc>
+    <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
   <programme start="20260628101500 +0300" stop="20260628103000 +0300" channel="XTV100000926">
     <title lang="el">Αλλαγή - Η Ζωή στην Ψηφιακή Εποχή</title>
@@ -70354,9 +70359,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260628150500 +0300" stop="20260628151500 +0300" channel="XTV100000926">
-    <title lang="el">Τα Καλύτερα της DW από το Ίντερνετ</title>
-    <desc lang="el">Ιντερνετικό υλικό από την DW.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Εκείνη - Γυναίκες στην Ασία</title>
+    <desc lang="el">Ένα ντοκιμαντέρ για τις καθημερινές προκλήσεις που αντιμετωπίζουν οι γυναίκες στην Ασία.</desc>
+    <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
   <programme start="20260628151500 +0300" stop="20260628153000 +0300" channel="XTV100000926">
     <title lang="el">Δημοσιογράφοι Εν Δράσει</title>
@@ -70489,9 +70494,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260629000500 +0300" stop="20260629001500 +0300" channel="XTV100000926">
-    <title lang="el">Τα Καλύτερα της DW από το Ίντερνετ</title>
-    <desc lang="el">Ιντερνετικό υλικό από την DW.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Εκείνη - Γυναίκες στην Ασία</title>
+    <desc lang="el">Ένα ντοκιμαντέρ για τις καθημερινές προκλήσεις που αντιμετωπίζουν οι γυναίκες στην Ασία.</desc>
+    <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
   <programme start="20260629001500 +0300" stop="20260629003000 +0300" channel="XTV100000926">
     <title lang="el">Δημοσιογράφοι Εν Δράσει</title>
@@ -70759,9 +70764,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260629161500 +0300" stop="20260629163000 +0300" channel="XTV100000926">
-    <title lang="el">Τα Καλύτερα της DW από το Ίντερνετ</title>
-    <desc lang="el">Ιντερνετικό υλικό από την DW.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Τα καλύτερα ντοκιμαντέρ από τη DW.</desc>
+    <category lang="el">Άλλο</category>
   </programme>
   <programme start="20260629163000 +0300" stop="20260629170000 +0300" channel="XTV100000926">
     <title lang="el">Το 77 Τοις Εκατό</title>
@@ -70809,9 +70814,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260629201500 +0300" stop="20260629203000 +0300" channel="XTV100000926">
-    <title lang="el">Τα Καλύτερα της DW από το Ίντερνετ</title>
-    <desc lang="el">Ιντερνετικό υλικό από την DW.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Τα καλύτερα ντοκιμαντέρ από τη DW.</desc>
+    <category lang="el">Άλλο</category>
   </programme>
   <programme start="20260629203000 +0300" stop="20260629210000 +0300" channel="XTV100000926">
     <title lang="el">Τέχνες σε Πρώτο Πλάνο</title>
@@ -70839,9 +70844,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260629221500 +0300" stop="20260629223000 +0300" channel="XTV100000926">
-    <title lang="el">Τα Καλύτερα της DW από το Ίντερνετ</title>
-    <desc lang="el">Ιντερνετικό υλικό από την DW.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Τα καλύτερα ντοκιμαντέρ από τη DW.</desc>
+    <category lang="el">Άλλο</category>
   </programme>
   <programme start="20260629223000 +0300" stop="20260629230000 +0300" channel="XTV100000926">
     <title lang="el">Τα Καλύτερα Podcast της DW</title>
