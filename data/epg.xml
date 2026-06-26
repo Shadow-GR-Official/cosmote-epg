@@ -73058,65 +73058,1105 @@
     <desc lang="el">Εκπομπή για τις τέχνες και τον πολιτισμό.</desc>
     <category lang="el">Τέχνες - Πολιτισμός</category>
   </programme>
-  <programme start="20260629010000 +0300" stop="20260629040000 +0300" channel="XTV100000927">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629010000 +0300" stop="20260629011500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260629040000 +0300" stop="20260629080000 +0300" channel="XTV100000927">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629011500 +0300" stop="20260629012000 +0300" channel="XTV100000927">
+    <title lang="el">Μεταξύ Μας</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260629080000 +0300" stop="20260629120000 +0300" channel="XTV100000927">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629012000 +0300" stop="20260629013000 +0300" channel="XTV100000927">
+    <title lang="el">Τεχνολογία 24</title>
+    <desc lang="el">Η εκπομπή διερευνά την ψηφιακή επανάσταση και εξετάζει τιs τελευταίες τάσεις στον κόσμο της τεχνολογίας.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260629120000 +0300" stop="20260629160000 +0300" channel="XTV100000927">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629013000 +0300" stop="20260629014500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260629160000 +0300" stop="20260629200000 +0300" channel="XTV100000927">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629014500 +0300" stop="20260629020000 +0300" channel="XTV100000927">
+    <title lang="el">Άνθρωποι και Κέρδη</title>
+    <desc lang="el">Μία εκπομπή για τις επιχειρήσεις πέρα από τους αριθμούς και την εταιρική ορολογία! Ο Μάρκους Κάρλσον αναλύει περιπτώσεις επιτυχημένων επιχειρήσεων και εξετάζει πώς επηρεάζουν τη ζωή μας.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260629200000 +0300" stop="20260630000000 +0300" channel="XTV100000927">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629020000 +0300" stop="20260629021500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260630000000 +0300" stop="20260630040000 +0300" channel="XTV100000927">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629021500 +0300" stop="20260629023000 +0300" channel="XTV100000927">
+    <title lang="el">Ρεπόρτερς</title>
+    <desc lang="el">Διεθνή αναλυτικά ρεπορτάζ από τις δημοσιογραφικές ομάδες και τους κορυφαίους δημοσιογράφους του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260630040000 +0300" stop="20260630080000 +0300" channel="XTV100000927">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629023000 +0300" stop="20260629024500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260630080000 +0300" stop="20260630120000 +0300" channel="XTV100000927">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629024500 +0300" stop="20260629030000 +0300" channel="XTV100000927">
+    <title lang="el">Οι Τέχνες στο France 24</title>
+    <desc lang="el">Εκπομπή για τις τέχνες και τον πολιτισμό.</desc>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
   </programme>
-  <programme start="20260630120000 +0300" stop="20260630160000 +0300" channel="XTV100000927">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629030000 +0300" stop="20260629031500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260630160000 +0300" stop="20260630200000 +0300" channel="XTV100000927">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629031500 +0300" stop="20260629033000 +0300" channel="XTV100000927">
+    <title lang="el">Το 51 τοις Εκατό</title>
+    <desc lang="el">Ένα πρόγραμμα για τις γυναίκες που αλλάζουν τον κόσμο μας. Η εβδομαδιαία εκπομπή μας παρουσιάζει ιστορίες από διάφορα μέρη σχετικά με γυναίκες που τολμούν να σκέφτονται διαφορετικά.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260630200000 +0300" stop="20260701000000 +0300" channel="XTV100000927">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629033000 +0300" stop="20260629034500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629034500 +0300" stop="20260629040000 +0300" channel="XTV100000927">
+    <title lang="el">Η Γαλλία στο Επίκεντρο</title>
+    <desc lang="el">Μια αναλυτική ματιά στα πολιτικά και κοινωνικά δρώμενα που διαμορφώνουν τη Γαλλία.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629040000 +0300" stop="20260629041500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629041500 +0300" stop="20260629043000 +0300" channel="XTV100000927">
+    <title lang="el">Μιλάμε για την Ευρώπη</title>
+    <desc lang="el">Μία εκπομπή που μεταδίδεται από τις Βρυξέλλες και παρουσιάζει δύο μέλη του Ευρωκοινοβουλίου να συζητούν ένα φλέγον θέμα καθώς και μία συνέντευξη από έναν Ευρωπαίο ηγέτη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629043000 +0300" stop="20260629044500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629044500 +0300" stop="20260629050000 +0300" channel="XTV100000927">
+    <title lang="el">Μιλάμε για την Ευρώπη</title>
+    <desc lang="el">Μία εκπομπή που μεταδίδεται από τις Βρυξέλλες και παρουσιάζει δύο μέλη του Ευρωκοινοβουλίου να συζητούν ένα φλέγον θέμα καθώς και μία συνέντευξη από έναν Ευρωπαίο ηγέτη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629050000 +0300" stop="20260629051000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629051000 +0300" stop="20260629053000 +0300" channel="XTV100000927">
+    <title lang="el">Επανεξέταση</title>
+    <desc lang="el">Μία εκπομπή για το ανθρώπινο πνεύμα και τα επιτεύγματά του παρά τις όποιες αντιξοότητες. To France 24 επιστρέφει σε μέρη που εμφανίστηκαν στις ειδήσεις - κάποιες φορές πριν πολύ καιρό και κάποιες άλλες πρόσφατα - για να καταγράψει πώς οι κάτοικοι προσπαθούν να συνεχίσουν τη ζωή τους.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629053000 +0300" stop="20260629054000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629054000 +0300" stop="20260629055500 +0300" channel="XTV100000927">
+    <title lang="el">Το Παρίσι των Τεχνών</title>
+    <desc lang="el">Ένας καλλιτεχνικός περίπατος στο Παρίσι με τη συνοδεία ενός καλεσμένου. Η παρουσιάστρια Valerie Fayolle γεφυρώνει το χάσμα ανάμεσα σε διαφορετικές μορφές τέχνης και καλλιτέχνες αλλά και τα δρώμενα στη Γαλλία με εκείνα στον υπόλοιπο κόσμο.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260629055500 +0300" stop="20260629060000 +0300" channel="XTV100000927">
+    <title lang="el">Short Cuts</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629060000 +0300" stop="20260629061500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629061500 +0300" stop="20260629063000 +0300" channel="XTV100000927">
+    <title lang="el">Σε Όλη την Αφρική</title>
+    <desc lang="el">Αποκλειστικά ρεπορτάζ, αφιερώματα και ανάλυση που καλύπτει την πολιτική και κοινωνική ειδησεογραφία της εβδομάδας στην Αφρικανική ήπειρο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629063000 +0300" stop="20260629064500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629064500 +0300" stop="20260629070000 +0300" channel="XTV100000927">
+    <title lang="el">Οι Τέχνες στο France 24</title>
+    <desc lang="el">Εκπομπή για τις τέχνες και τον πολιτισμό.</desc>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20260629070000 +0300" stop="20260629072000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629072000 +0300" stop="20260629073000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629073000 +0300" stop="20260629075000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629075000 +0300" stop="20260629080000 +0300" channel="XTV100000927">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260629080000 +0300" stop="20260629082000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629082000 +0300" stop="20260629083000 +0300" channel="XTV100000927">
+    <title lang="el">Επισκόπηση Τύπου</title>
+    <desc lang="el">Παρακολουθήστε μια επισκόπηση των άρθρων που έγιναν πρωτοσέλιδα στις γαλλικές και διεθνείς εφημερίδες.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629083000 +0300" stop="20260629084500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629084500 +0300" stop="20260629085000 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Δίκτυο</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629085000 +0300" stop="20260629090000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629090000 +0300" stop="20260629091500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629091500 +0300" stop="20260629092000 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Κύπελλο 2026</title>
+    <desc lang="el">Αθλητική εκπομπή για το Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026, που διεξάγεται στη Βόρεια Αμερική.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629092000 +0300" stop="20260629093000 +0300" channel="XTV100000927">
+    <title lang="el">Επισκόπηση Τύπου</title>
+    <desc lang="el">Παρακολουθήστε μια επισκόπηση των άρθρων που έγιναν πρωτοσέλιδα στις γαλλικές και διεθνείς εφημερίδες.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629093000 +0300" stop="20260629094500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629094500 +0300" stop="20260629095000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629095000 +0300" stop="20260629095500 +0300" channel="XTV100000927">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260629095500 +0300" stop="20260629100000 +0300" channel="XTV100000927">
+    <title lang="el">Πρωτοσέλιδα</title>
+    <desc lang="el">Μια ανασκόπηση των κυριότερων πρωτοσέλιδων, ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629100000 +0300" stop="20260629101500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629101500 +0300" stop="20260629102000 +0300" channel="XTV100000927">
+    <title lang="el">Οικονομία και Επιχειρήσεις</title>
+    <desc lang="el">Καθημερινή ενημέρωση για όλες τις τελευταίες ειδήσεις από τον κόσμο των επιχειρήσεων και της οικονομίας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629102000 +0300" stop="20260629103000 +0300" channel="XTV100000927">
+    <title lang="el">Επισκόπηση Τύπου</title>
+    <desc lang="el">Παρακολουθήστε μια επισκόπηση των άρθρων που έγιναν πρωτοσέλιδα στις γαλλικές και διεθνείς εφημερίδες.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629103000 +0300" stop="20260629104000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629104000 +0300" stop="20260629104500 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Κύπελλο 2026</title>
+    <desc lang="el">Αθλητική εκπομπή για το Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026, που διεξάγεται στη Βόρεια Αμερική.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629104500 +0300" stop="20260629105000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629105000 +0300" stop="20260629110000 +0300" channel="XTV100000927">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260629110000 +0300" stop="20260629111500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629111500 +0300" stop="20260629113000 +0300" channel="XTV100000927">
+    <title lang="el">Προοπτική</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629113000 +0300" stop="20260629114000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629114000 +0300" stop="20260629114500 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Κύπελλο 2026</title>
+    <desc lang="el">Αθλητική εκπομπή για το Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026, που διεξάγεται στη Βόρεια Αμερική.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629114500 +0300" stop="20260629115000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629115000 +0300" stop="20260629120000 +0300" channel="XTV100000927">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260629120000 +0300" stop="20260629121500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629121500 +0300" stop="20260629123000 +0300" channel="XTV100000927">
+    <title lang="el">Μιλάμε για την Ευρώπη</title>
+    <desc lang="el">Μία εκπομπή που μεταδίδεται από τις Βρυξέλλες και παρουσιάζει δύο μέλη του Ευρωκοινοβουλίου να συζητούν ένα φλέγον θέμα καθώς και μία συνέντευξη από έναν Ευρωπαίο ηγέτη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629123000 +0300" stop="20260629124500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629124500 +0300" stop="20260629130000 +0300" channel="XTV100000927">
+    <title lang="el">Πρόσβαση στην Ασία</title>
+    <desc lang="el">Αποκλειστικά ρεπορτάζ, αφιερώματα και ανάλυση που καλύπτει την πολιτική και κοινωνική ειδησεογραφία της εβδομάδας στην Ασιατική ήπειρο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629130000 +0300" stop="20260629131500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629131500 +0300" stop="20260629133000 +0300" channel="XTV100000927">
+    <title lang="el">Οι Τέχνες στο France 24</title>
+    <desc lang="el">Εκπομπή για τις τέχνες και τον πολιτισμό.</desc>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20260629133000 +0300" stop="20260629134500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629134500 +0300" stop="20260629135000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629135000 +0300" stop="20260629140000 +0300" channel="XTV100000927">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260629140000 +0300" stop="20260629142000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629142000 +0300" stop="20260629143000 +0300" channel="XTV100000927">
+    <title lang="el">Οικονομία και Επιχειρήσεις</title>
+    <desc lang="el">Καθημερινή ενημέρωση για όλες τις τελευταίες ειδήσεις από τον κόσμο των επιχειρήσεων και της οικονομίας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629143000 +0300" stop="20260629144500 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Κύπελλο 2026</title>
+    <desc lang="el">Αθλητική εκπομπή για το Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026, που διεξάγεται στη Βόρεια Αμερική.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629144500 +0300" stop="20260629145000 +0300" channel="XTV100000927">
+    <title lang="el">Μεταξύ Μας</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629145000 +0300" stop="20260629150000 +0300" channel="XTV100000927">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260629150000 +0300" stop="20260629151500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629151500 +0300" stop="20260629153000 +0300" channel="XTV100000927">
+    <title lang="el">Πολιτισμός</title>
+    <desc lang="el">Εκπομπή για τον πολιτισμό που δε γνωρίζει σύνορα, τον ελεύθερο πολιτισμό, τους διαχρονικούς καλλιτέχνες, τους αστέρες και τις ανακαλύψεις. Παράλληλα προβάλλονται τα νέα ζωντανά κάθε μισάωρο.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260629153000 +0300" stop="20260629154500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629154500 +0300" stop="20260629155500 +0300" channel="XTV100000927">
+    <title lang="el">Scoop</title>
+    <desc lang="el">Μάθετε πρώτοι τα σημαντικότερα νέα στον κόσμο, από το France 24.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629155500 +0300" stop="20260629160000 +0300" channel="XTV100000927">
+    <title lang="el">Πρωτοσέλιδα</title>
+    <desc lang="el">Μια ανασκόπηση των κυριότερων πρωτοσέλιδων, ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629160000 +0300" stop="20260629164000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629164000 +0300" stop="20260629165500 +0300" channel="XTV100000927">
+    <title lang="el">Η Γαλλία στο Επίκεντρο</title>
+    <desc lang="el">Μια αναλυτική ματιά στα πολιτικά και κοινωνικά δρώμενα που διαμορφώνουν τη Γαλλία.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629165500 +0300" stop="20260629170000 +0300" channel="XTV100000927">
+    <title lang="el">Short Cuts</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629170000 +0300" stop="20260629173000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629173000 +0300" stop="20260629174000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629174000 +0300" stop="20260629180000 +0300" channel="XTV100000927">
+    <title lang="el">Επανεξέταση</title>
+    <desc lang="el">Μία εκπομπή για το ανθρώπινο πνεύμα και τα επιτεύγματά του παρά τις όποιες αντιξοότητες. To France 24 επιστρέφει σε μέρη που εμφανίστηκαν στις ειδήσεις - κάποιες φορές πριν πολύ καιρό και κάποιες άλλες πρόσφατα - για να καταγράψει πώς οι κάτοικοι προσπαθούν να συνεχίσουν τη ζωή τους.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629180000 +0300" stop="20260629181500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629181500 +0300" stop="20260629183000 +0300" channel="XTV100000927">
+    <title lang="el">Οι Τέχνες στο France 24</title>
+    <desc lang="el">Εκπομπή για τις τέχνες και τον πολιτισμό.</desc>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20260629183000 +0300" stop="20260629184500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629184500 +0300" stop="20260629185000 +0300" channel="XTV100000927">
+    <title lang="el">Γαλλικοί Δεσμοί</title>
+    <desc lang="el">Ένας ιδιαίτερος οδηγός εκ των έσω για την κατανόηση της Γαλλίας και των Γάλλων σε σχέση με σοβαρά αλλά και αστεία θέματα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629185000 +0300" stop="20260629185500 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629185500 +0300" stop="20260629190000 +0300" channel="XTV100000927">
+    <title lang="el">Πρωτοσέλιδα</title>
+    <desc lang="el">Μια ανασκόπηση των κυριότερων πρωτοσέλιδων, ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629190000 +0300" stop="20260629191500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629191500 +0300" stop="20260629193000 +0300" channel="XTV100000927">
+    <title lang="el">Προσκήνιο</title>
+    <desc lang="el">Η συνέντευξη της ημέρας στο France 24 πηγαίνει πέρα από τους τίτλους: ελάτε μαζί μας, καθώς καλεσμένοι από όλο τον κόσμο αναλύουν σε βάθος τις πιο σημαντικές ιστορίες.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629193000 +0300" stop="20260629194500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629194500 +0300" stop="20260629195000 +0300" channel="XTV100000927">
+    <title lang="el">Οικονομία και Επιχειρήσεις</title>
+    <desc lang="el">Καθημερινή ενημέρωση για όλες τις τελευταίες ειδήσεις από τον κόσμο των επιχειρήσεων και της οικονομίας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629195000 +0300" stop="20260629200000 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Κύπελλο 2026</title>
+    <desc lang="el">Αθλητική εκπομπή για το Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026, που διεξάγεται στη Βόρεια Αμερική.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629200000 +0300" stop="20260629201000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629201000 +0300" stop="20260629205500 +0300" channel="XTV100000927">
+    <title lang="el">France 24 Διάλογος</title>
+    <desc lang="el">Ο Φρανσουά Πικάρ και οι καλεσμένοι του συζητούν σχετικά με το θέμα της ημέρας. Οι θεατές που παρακολουθούν από την τηλεόραση ή από το διαδίκτυο έχουν τη δυνατότητα να συμμετέχουν μέσω του λογαριασμού twitter της εκπομπής.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629205500 +0300" stop="20260629210000 +0300" channel="XTV100000927">
+    <title lang="el">Short Cuts</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629210000 +0300" stop="20260629212000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629212000 +0300" stop="20260629213000 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Κύπελλο 2026</title>
+    <desc lang="el">Αθλητική εκπομπή για το Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026, που διεξάγεται στη Βόρεια Αμερική.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629213000 +0300" stop="20260629214500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629214500 +0300" stop="20260629215000 +0300" channel="XTV100000927">
+    <title lang="el">Αλήθεια ή Ψέματα</title>
+    <desc lang="el">Η ομάδα του France 24 ψάχνει και μας παρουσιάζει τα τελευταία νέα στην Ευρώπη και ξεκαθαρίζει τα αληθινά από τα ψεύτικα γεγονότα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629215000 +0300" stop="20260629220000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629220000 +0300" stop="20260629222000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629222000 +0300" stop="20260629223000 +0300" channel="XTV100000927">
+    <title lang="el">Οικονομία και Επιχειρήσεις</title>
+    <desc lang="el">Καθημερινή ενημέρωση για όλες τις τελευταίες ειδήσεις από τον κόσμο των επιχειρήσεων και της οικονομίας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629223000 +0300" stop="20260629224000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629224000 +0300" stop="20260629230000 +0300" channel="XTV100000927">
+    <title lang="el">Ματιά στην Αφρική</title>
+    <desc lang="el">Το France 24 σας παρουσιάζει όλες τις ειδήσεις από την Αφρική με ανταποκριτές του καναλιού και καλεσμένους στο στούντιο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629230000 +0300" stop="20260629231500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260629231500 +0300" stop="20260629232000 +0300" channel="XTV100000927">
+    <title lang="el">Οικονομία και Επιχειρήσεις</title>
+    <desc lang="el">Καθημερινή ενημέρωση για όλες τις τελευταίες ειδήσεις από τον κόσμο των επιχειρήσεων και της οικονομίας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629232000 +0300" stop="20260629233000 +0300" channel="XTV100000927">
+    <title lang="el">Αλήθεια ή Ψέματα</title>
+    <desc lang="el">Η ομάδα του France 24 ψάχνει και μας παρουσιάζει τα τελευταία νέα στην Ευρώπη και ξεκαθαρίζει τα αληθινά από τα ψεύτικα γεγονότα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629233000 +0300" stop="20260629234500 +0300" channel="XTV100000927">
+    <title lang="el">A Propos</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629234500 +0300" stop="20260630000000 +0300" channel="XTV100000927">
+    <title lang="el">Ματιά στην Αφρική</title>
+    <desc lang="el">Το France 24 σας παρουσιάζει όλες τις ειδήσεις από την Αφρική με ανταποκριτές του καναλιού και καλεσμένους στο στούντιο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630000000 +0300" stop="20260630001500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630001500 +0300" stop="20260630003000 +0300" channel="XTV100000927">
+    <title lang="el">Αλήθεια ή Ψέματα</title>
+    <desc lang="el">Η ομάδα του France 24 ψάχνει και μας παρουσιάζει τα τελευταία νέα στην Ευρώπη και ξεκαθαρίζει τα αληθινά από τα ψεύτικα γεγονότα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630003000 +0300" stop="20260630004500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630004500 +0300" stop="20260630005000 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Κύπελλο 2026</title>
+    <desc lang="el">Αθλητική εκπομπή για το Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026, που διεξάγεται στη Βόρεια Αμερική.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630005000 +0300" stop="20260630010000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630010000 +0300" stop="20260630011000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630011000 +0300" stop="20260630015500 +0300" channel="XTV100000927">
+    <title lang="el">France 24 Διάλογος</title>
+    <desc lang="el">Ο Φρανσουά Πικάρ και οι καλεσμένοι του συζητούν σχετικά με το θέμα της ημέρας. Οι θεατές που παρακολουθούν από την τηλεόραση ή από το διαδίκτυο έχουν τη δυνατότητα να συμμετέχουν μέσω του λογαριασμού twitter της εκπομπής.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630015500 +0300" stop="20260630020000 +0300" channel="XTV100000927">
+    <title lang="el">Short Cuts</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630020000 +0300" stop="20260630021500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630021500 +0300" stop="20260630022000 +0300" channel="XTV100000927">
+    <title lang="el">Οικονομία και Επιχειρήσεις</title>
+    <desc lang="el">Καθημερινή ενημέρωση για όλες τις τελευταίες ειδήσεις από τον κόσμο των επιχειρήσεων και της οικονομίας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630022000 +0300" stop="20260630023000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630023000 +0300" stop="20260630024500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630024500 +0300" stop="20260630030000 +0300" channel="XTV100000927">
+    <title lang="el">Οι Τέχνες στο France 24</title>
+    <desc lang="el">Εκπομπή για τις τέχνες και τον πολιτισμό.</desc>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20260630030000 +0300" stop="20260630031500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630031500 +0300" stop="20260630033000 +0300" channel="XTV100000927">
+    <title lang="el">A Propos</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630033000 +0300" stop="20260630034500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630034500 +0300" stop="20260630040000 +0300" channel="XTV100000927">
+    <title lang="el">Ματιά στην Αφρική</title>
+    <desc lang="el">Το France 24 σας παρουσιάζει όλες τις ειδήσεις από την Αφρική με ανταποκριτές του καναλιού και καλεσμένους στο στούντιο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630040000 +0300" stop="20260630041000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630041000 +0300" stop="20260630045500 +0300" channel="XTV100000927">
+    <title lang="el">France 24 Διάλογος</title>
+    <desc lang="el">Ο Φρανσουά Πικάρ και οι καλεσμένοι του συζητούν σχετικά με το θέμα της ημέρας. Οι θεατές που παρακολουθούν από την τηλεόραση ή από το διαδίκτυο έχουν τη δυνατότητα να συμμετέχουν μέσω του λογαριασμού twitter της εκπομπής.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630045500 +0300" stop="20260630050000 +0300" channel="XTV100000927">
+    <title lang="el">Short Cuts</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630050000 +0300" stop="20260630051500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630051500 +0300" stop="20260630053000 +0300" channel="XTV100000927">
+    <title lang="el">Πρόσβαση στην Ασία</title>
+    <desc lang="el">Αποκλειστικά ρεπορτάζ, αφιερώματα και ανάλυση που καλύπτει την πολιτική και κοινωνική ειδησεογραφία της εβδομάδας στην Ασιατική ήπειρο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630053000 +0300" stop="20260630054500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630054500 +0300" stop="20260630060000 +0300" channel="XTV100000927">
+    <title lang="el">Το 51 τοις Εκατό</title>
+    <desc lang="el">Ένα πρόγραμμα για τις γυναίκες που αλλάζουν τον κόσμο μας. Η εβδομαδιαία εκπομπή μας παρουσιάζει ιστορίες από διάφορα μέρη σχετικά με γυναίκες που τολμούν να σκέφτονται διαφορετικά.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630060000 +0300" stop="20260630061500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630061500 +0300" stop="20260630063000 +0300" channel="XTV100000927">
+    <title lang="el">Ματιά στην Αφρική</title>
+    <desc lang="el">Το France 24 σας παρουσιάζει όλες τις ειδήσεις από την Αφρική με ανταποκριτές του καναλιού και καλεσμένους στο στούντιο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630063000 +0300" stop="20260630064500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630064500 +0300" stop="20260630070000 +0300" channel="XTV100000927">
+    <title lang="el">Οι Τέχνες στο France 24</title>
+    <desc lang="el">Εκπομπή για τις τέχνες και τον πολιτισμό.</desc>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20260630070000 +0300" stop="20260630072000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630072000 +0300" stop="20260630073000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630073000 +0300" stop="20260630075000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630075000 +0300" stop="20260630080000 +0300" channel="XTV100000927">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260630080000 +0300" stop="20260630082000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630082000 +0300" stop="20260630083000 +0300" channel="XTV100000927">
+    <title lang="el">Επισκόπηση Τύπου</title>
+    <desc lang="el">Παρακολουθήστε μια επισκόπηση των άρθρων που έγιναν πρωτοσέλιδα στις γαλλικές και διεθνείς εφημερίδες.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630083000 +0300" stop="20260630084500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630084500 +0300" stop="20260630085000 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Δίκτυο</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630085000 +0300" stop="20260630090000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630090000 +0300" stop="20260630091500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630091500 +0300" stop="20260630092000 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Κύπελλο 2026</title>
+    <desc lang="el">Αθλητική εκπομπή για το Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026, που διεξάγεται στη Βόρεια Αμερική.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630092000 +0300" stop="20260630093000 +0300" channel="XTV100000927">
+    <title lang="el">Επισκόπηση Τύπου</title>
+    <desc lang="el">Παρακολουθήστε μια επισκόπηση των άρθρων που έγιναν πρωτοσέλιδα στις γαλλικές και διεθνείς εφημερίδες.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630093000 +0300" stop="20260630094500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630094500 +0300" stop="20260630095000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630095000 +0300" stop="20260630095500 +0300" channel="XTV100000927">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260630095500 +0300" stop="20260630100000 +0300" channel="XTV100000927">
+    <title lang="el">Πρωτοσέλιδα</title>
+    <desc lang="el">Μια ανασκόπηση των κυριότερων πρωτοσέλιδων, ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630100000 +0300" stop="20260630101500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630101500 +0300" stop="20260630102000 +0300" channel="XTV100000927">
+    <title lang="el">Οικονομία και Επιχειρήσεις</title>
+    <desc lang="el">Καθημερινή ενημέρωση για όλες τις τελευταίες ειδήσεις από τον κόσμο των επιχειρήσεων και της οικονομίας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630102000 +0300" stop="20260630103000 +0300" channel="XTV100000927">
+    <title lang="el">Επισκόπηση Τύπου</title>
+    <desc lang="el">Παρακολουθήστε μια επισκόπηση των άρθρων που έγιναν πρωτοσέλιδα στις γαλλικές και διεθνείς εφημερίδες.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630103000 +0300" stop="20260630104000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630104000 +0300" stop="20260630104500 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Κύπελλο 2026</title>
+    <desc lang="el">Αθλητική εκπομπή για το Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026, που διεξάγεται στη Βόρεια Αμερική.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630104500 +0300" stop="20260630105000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630105000 +0300" stop="20260630110000 +0300" channel="XTV100000927">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260630110000 +0300" stop="20260630111500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630111500 +0300" stop="20260630113000 +0300" channel="XTV100000927">
+    <title lang="el">Προοπτική</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630113000 +0300" stop="20260630114000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630114000 +0300" stop="20260630114500 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Κύπελλο 2026</title>
+    <desc lang="el">Αθλητική εκπομπή για το Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026, που διεξάγεται στη Βόρεια Αμερική.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630114500 +0300" stop="20260630115000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630115000 +0300" stop="20260630120000 +0300" channel="XTV100000927">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260630120000 +0300" stop="20260630121500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630121500 +0300" stop="20260630123000 +0300" channel="XTV100000927">
+    <title lang="el">Μιλάμε για την Ευρώπη</title>
+    <desc lang="el">Μία εκπομπή που μεταδίδεται από τις Βρυξέλλες και παρουσιάζει δύο μέλη του Ευρωκοινοβουλίου να συζητούν ένα φλέγον θέμα καθώς και μία συνέντευξη από έναν Ευρωπαίο ηγέτη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630123000 +0300" stop="20260630124500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630124500 +0300" stop="20260630125000 +0300" channel="XTV100000927">
+    <title lang="el">Οι Παρατηρητές</title>
+    <desc lang="el">Μια εβδομαδιαία ενημερωτική εκπομπή με φωτογραφίες, βίντεο και προσωπικές μαρτυρίες από τους 'Παρατηρητές' του France 24 σε ολόκληρο τον κόσμο. Οι πληροφορίες διασταυρώνονται από το προσωπικό στο Παρίσι.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630125000 +0300" stop="20260630125500 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630125500 +0300" stop="20260630130000 +0300" channel="XTV100000927">
+    <title lang="el">Πρωτοσέλιδα</title>
+    <desc lang="el">Μια ανασκόπηση των κυριότερων πρωτοσέλιδων, ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630130000 +0300" stop="20260630131000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630131000 +0300" stop="20260630132500 +0300" channel="XTV100000927">
+    <title lang="el">Οι Τέχνες στο France 24</title>
+    <desc lang="el">Εκπομπή για τις τέχνες και τον πολιτισμό.</desc>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20260630132500 +0300" stop="20260630133000 +0300" channel="XTV100000927">
+    <title lang="el">Short Cuts</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630133000 +0300" stop="20260630134000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630134000 +0300" stop="20260630134500 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630134500 +0300" stop="20260630135000 +0300" channel="XTV100000927">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260630135000 +0300" stop="20260630140000 +0300" channel="XTV100000927">
+    <title lang="el">Short Cuts</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630140000 +0300" stop="20260630142000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630142000 +0300" stop="20260630143000 +0300" channel="XTV100000927">
+    <title lang="el">Οικονομία και Επιχειρήσεις</title>
+    <desc lang="el">Καθημερινή ενημέρωση για όλες τις τελευταίες ειδήσεις από τον κόσμο των επιχειρήσεων και της οικονομίας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630143000 +0300" stop="20260630144500 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Κύπελλο 2026</title>
+    <desc lang="el">Αθλητική εκπομπή για το Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026, που διεξάγεται στη Βόρεια Αμερική.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630144500 +0300" stop="20260630145000 +0300" channel="XTV100000927">
+    <title lang="el">Μεταξύ Μας</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630145000 +0300" stop="20260630150000 +0300" channel="XTV100000927">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260630150000 +0300" stop="20260630151500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630151500 +0300" stop="20260630153000 +0300" channel="XTV100000927">
+    <title lang="el">Πολιτισμός</title>
+    <desc lang="el">Εκπομπή για τον πολιτισμό που δε γνωρίζει σύνορα, τον ελεύθερο πολιτισμό, τους διαχρονικούς καλλιτέχνες, τους αστέρες και τις ανακαλύψεις. Παράλληλα προβάλλονται τα νέα ζωντανά κάθε μισάωρο.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260630153000 +0300" stop="20260630154500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630154500 +0300" stop="20260630155500 +0300" channel="XTV100000927">
+    <title lang="el">Η Γαλλία στο Επίκεντρο</title>
+    <desc lang="el">Μια αναλυτική ματιά στα πολιτικά και κοινωνικά δρώμενα που διαμορφώνουν τη Γαλλία.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630155500 +0300" stop="20260630160000 +0300" channel="XTV100000927">
+    <title lang="el">Πρωτοσέλιδα</title>
+    <desc lang="el">Μια ανασκόπηση των κυριότερων πρωτοσέλιδων, ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630160000 +0300" stop="20260630164000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630164000 +0300" stop="20260630165500 +0300" channel="XTV100000927">
+    <title lang="el">Μιλάμε για την Ευρώπη</title>
+    <desc lang="el">Μία εκπομπή που μεταδίδεται από τις Βρυξέλλες και παρουσιάζει δύο μέλη του Ευρωκοινοβουλίου να συζητούν ένα φλέγον θέμα καθώς και μία συνέντευξη από έναν Ευρωπαίο ηγέτη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630165500 +0300" stop="20260630170000 +0300" channel="XTV100000927">
+    <title lang="el">Short Cuts</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630170000 +0300" stop="20260630173000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630173000 +0300" stop="20260630174500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630174500 +0300" stop="20260630180000 +0300" channel="XTV100000927">
+    <title lang="el">Ρεπόρτερς</title>
+    <desc lang="el">Διεθνή αναλυτικά ρεπορτάζ από τις δημοσιογραφικές ομάδες και τους κορυφαίους δημοσιογράφους του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630180000 +0300" stop="20260630181500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630181500 +0300" stop="20260630183000 +0300" channel="XTV100000927">
+    <title lang="el">Οι Τέχνες στο France 24</title>
+    <desc lang="el">Εκπομπή για τις τέχνες και τον πολιτισμό.</desc>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+  </programme>
+  <programme start="20260630183000 +0300" stop="20260630184500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630184500 +0300" stop="20260630190000 +0300" channel="XTV100000927">
+    <title lang="el">Το 51 τοις Εκατό</title>
+    <desc lang="el">Ένα πρόγραμμα για τις γυναίκες που αλλάζουν τον κόσμο μας. Η εβδομαδιαία εκπομπή μας παρουσιάζει ιστορίες από διάφορα μέρη σχετικά με γυναίκες που τολμούν να σκέφτονται διαφορετικά.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630190000 +0300" stop="20260630191500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630191500 +0300" stop="20260630193000 +0300" channel="XTV100000927">
+    <title lang="el">Προσκήνιο</title>
+    <desc lang="el">Η συνέντευξη της ημέρας στο France 24 πηγαίνει πέρα από τους τίτλους: ελάτε μαζί μας, καθώς καλεσμένοι από όλο τον κόσμο αναλύουν σε βάθος τις πιο σημαντικές ιστορίες.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630193000 +0300" stop="20260630194500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630194500 +0300" stop="20260630195000 +0300" channel="XTV100000927">
+    <title lang="el">Οικονομία και Επιχειρήσεις</title>
+    <desc lang="el">Καθημερινή ενημέρωση για όλες τις τελευταίες ειδήσεις από τον κόσμο των επιχειρήσεων και της οικονομίας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630195000 +0300" stop="20260630200000 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Κύπελλο 2026</title>
+    <desc lang="el">Αθλητική εκπομπή για το Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026, που διεξάγεται στη Βόρεια Αμερική.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630200000 +0300" stop="20260630201000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630201000 +0300" stop="20260630205500 +0300" channel="XTV100000927">
+    <title lang="el">France 24 Διάλογος</title>
+    <desc lang="el">Ο Φρανσουά Πικάρ και οι καλεσμένοι του συζητούν σχετικά με το θέμα της ημέρας. Οι θεατές που παρακολουθούν από την τηλεόραση ή από το διαδίκτυο έχουν τη δυνατότητα να συμμετέχουν μέσω του λογαριασμού twitter της εκπομπής.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630205500 +0300" stop="20260630210000 +0300" channel="XTV100000927">
+    <title lang="el">Short Cuts</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630210000 +0300" stop="20260630212000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630212000 +0300" stop="20260630213000 +0300" channel="XTV100000927">
+    <title lang="el">Παγκόσμιο Κύπελλο 2026</title>
+    <desc lang="el">Αθλητική εκπομπή για το Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026, που διεξάγεται στη Βόρεια Αμερική.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630213000 +0300" stop="20260630214500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630214500 +0300" stop="20260630215000 +0300" channel="XTV100000927">
+    <title lang="el">Αλήθεια ή Ψέματα</title>
+    <desc lang="el">Η ομάδα του France 24 ψάχνει και μας παρουσιάζει τα τελευταία νέα στην Ευρώπη και ξεκαθαρίζει τα αληθινά από τα ψεύτικα γεγονότα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630215000 +0300" stop="20260630220000 +0300" channel="XTV100000927">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630220000 +0300" stop="20260630222000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630222000 +0300" stop="20260630223000 +0300" channel="XTV100000927">
+    <title lang="el">Οικονομία και Επιχειρήσεις</title>
+    <desc lang="el">Καθημερινή ενημέρωση για όλες τις τελευταίες ειδήσεις από τον κόσμο των επιχειρήσεων και της οικονομίας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630223000 +0300" stop="20260630224000 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630224000 +0300" stop="20260630230000 +0300" channel="XTV100000927">
+    <title lang="el">Ματιά στην Αφρική</title>
+    <desc lang="el">Το France 24 σας παρουσιάζει όλες τις ειδήσεις από την Αφρική με ανταποκριτές του καναλιού και καλεσμένους στο στούντιο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630230000 +0300" stop="20260630231500 +0300" channel="XTV100000927">
+    <title lang="el">Νέα</title>
+    <desc lang="el">Κάθε μισή ώρα ένα 10-λεπτο ή 15-λεπτο δελτίο ειδήσεων παρουσιάζεται ζωντανά από την αίθουσα σύνταξης.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260630231500 +0300" stop="20260630232000 +0300" channel="XTV100000927">
+    <title lang="el">Οικονομία και Επιχειρήσεις</title>
+    <desc lang="el">Καθημερινή ενημέρωση για όλες τις τελευταίες ειδήσεις από τον κόσμο των επιχειρήσεων και της οικονομίας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630232000 +0300" stop="20260630233000 +0300" channel="XTV100000927">
+    <title lang="el">Αλήθεια ή Ψέματα</title>
+    <desc lang="el">Η ομάδα του France 24 ψάχνει και μας παρουσιάζει τα τελευταία νέα στην Ευρώπη και ξεκαθαρίζει τα αληθινά από τα ψεύτικα γεγονότα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630233000 +0300" stop="20260630234500 +0300" channel="XTV100000927">
+    <title lang="el">A Propos</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630234500 +0300" stop="20260701000000 +0300" channel="XTV100000927">
+    <title lang="el">Ματιά στην Αφρική</title>
+    <desc lang="el">Το France 24 σας παρουσιάζει όλες τις ειδήσεις από την Αφρική με ανταποκριτές του καναλιού και καλεσμένους στο στούντιο.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260625000000 +0300" stop="20260625001500 +0300" channel="XTV100000928">
     <title lang="el">Η Επικαιρότητα σε 360 Μοίρες</title>
@@ -75098,65 +76138,1000 @@
     <desc lang="el">Ένα σύντομο πολιτιστικό μαγκαζίνο που φέρνει μια φρέσκια, ενδιαφέρουσα πολιτιστική προοπτική στα τρέχοντα γεγονότα και θέματα.</desc>
     <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260629010000 +0300" stop="20260629040000 +0300" channel="XTV100000928">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629010000 +0300" stop="20260629011500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Κύρια Νέα</title>
+    <desc lang="el">Ένα γρήγορο δελτίο ειδήσεων σχεδιασμένο να προσφέρει στους τηλεθεατές μια γρήγορη αλλά ολοκληρωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260629040000 +0300" stop="20260629080000 +0300" channel="XTV100000928">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629011500 +0300" stop="20260629013000 +0300" channel="XTV100000928">
+    <title lang="el">Είναι στη Γαλλία</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260629080000 +0300" stop="20260629120000 +0300" channel="XTV100000928">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629013000 +0300" stop="20260629014500 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260629120000 +0300" stop="20260629160000 +0300" channel="XTV100000928">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629014500 +0300" stop="20260629020000 +0300" channel="XTV100000928">
+    <title lang="el">Επικαιρότητα</title>
+    <desc lang="el">Η εκπομπή σχετικά με τη διεθνή ειδησεογραφία και τα πρόσωπα της επικαιρότητας.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260629160000 +0300" stop="20260629200000 +0300" channel="XTV100000928">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629020000 +0300" stop="20260629021500 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260629200000 +0300" stop="20260630000000 +0300" channel="XTV100000928">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629021500 +0300" stop="20260629023000 +0300" channel="XTV100000928">
+    <title lang="el">Ματιά στην Αφρική</title>
+    <desc lang="el">Το France 24 σας παρουσιάζει όλες τις ειδήσεις από την Αφρική με ανταποκριτές του καναλιού και καλεσμένους στο στούντιο.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260630000000 +0300" stop="20260630040000 +0300" channel="XTV100000928">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629023000 +0300" stop="20260629024500 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260630040000 +0300" stop="20260630080000 +0300" channel="XTV100000928">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629024500 +0300" stop="20260629030000 +0300" channel="XTV100000928">
+    <title lang="el">Τετ-α-τετ</title>
+    <desc lang="el">Παρακολουθήστε συνεντεύξεις με σημαντικά πρόσωπα από τη Γαλλία και τον υπόλοιπο κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260630080000 +0300" stop="20260630120000 +0300" channel="XTV100000928">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629030000 +0300" stop="20260629031500 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260630120000 +0300" stop="20260630160000 +0300" channel="XTV100000928">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629031500 +0300" stop="20260629033000 +0300" channel="XTV100000928">
+    <title lang="el">Ρεπόρτερς</title>
+    <desc lang="el">Διεθνή αναλυτικά ρεπορτάζ από τις δημοσιογραφικές ομάδες και τους κορυφαίους δημοσιογράφους του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260630160000 +0300" stop="20260630200000 +0300" channel="XTV100000928">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629033000 +0300" stop="20260629034500 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260630200000 +0300" stop="20260701000000 +0300" channel="XTV100000928">
-    <title lang="el">France 24</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260629034500 +0300" stop="20260629040000 +0300" channel="XTV100000928">
+    <title lang="el">Στο Προσκήνιο</title>
+    <desc lang="el">Με ποιον τρόπο αφηγούνται οι καλλιτέχνες όσα συμβαίνουν στον κόσμο; Συναντήστε κινηματογραφιστές, συγγραφείς, φωτογράφους ή και μουσικούς και δείτε πώς αντιμετωπίζουν την επικαιρότητα στη Γαλλία και το εξωτερικό.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260629040000 +0300" stop="20260629041000 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629041000 +0300" stop="20260629043000 +0300" channel="XTV100000928">
+    <title lang="el">Εδώ Είναι η Ευρώπη - Ας Μιλήσουμε</title>
+    <desc lang="el">Μια έξυπνη εκπομπή βασισμένη σε συζητήσεις που αφορά την ευρωπαϊκή επικαιρότητα, ιδανική για όσους θέλουν να κατανοήσουν τα ζητήματα που διαμορφώνουν την ΕΕ σήμερα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629043000 +0300" stop="20260629044000 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629044000 +0300" stop="20260629050000 +0300" channel="XTV100000928">
+    <title lang="el">Αστικοί Θρύλοι</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629050000 +0300" stop="20260629051500 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629051500 +0300" stop="20260629060000 +0300" channel="XTV100000928">
+    <title lang="el">Η Εβδομάδα στην Οικονομία</title>
+    <desc lang="el">Η Stephanie Antoine και οι προσκεκλημένοι της αποκρυπτογραφούν την οικονομική ειδησεογραφία της εβδομάδας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629060000 +0300" stop="20260629061000 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629061000 +0300" stop="20260629063000 +0300" channel="XTV100000928">
+    <title lang="el">Εισιτήριο με Επιστροφή</title>
+    <desc lang="el">Οι δημοσιογράφοι του France 24 επιστρέφουν σε ξεχασμένα μέρη που έχουν εμφανιστεί στις ειδήσεις. Πώς ζουν πλέον οι άνθρωποι σε πόλεις που έχουν χτυπηθεί από κάποιον πόλεμο, μία φυσική καταστροφή ή ένα βιομηχανικό ατύχημα;</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629063000 +0300" stop="20260629064000 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629064000 +0300" stop="20260629064500 +0300" channel="XTV100000928">
+    <title lang="el">Η Στιγμή του Κινητού</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629064500 +0300" stop="20260629070000 +0300" channel="XTV100000928">
+    <title lang="el">Ματιά στην Αφρική</title>
+    <desc lang="el">Το France 24 σας παρουσιάζει όλες τις ειδήσεις από την Αφρική με ανταποκριτές του καναλιού και καλεσμένους στο στούντιο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629070000 +0300" stop="20260629072000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Πρωτοσέλιδα της Ημέρας</title>
+    <desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629072000 +0300" stop="20260629073000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629073000 +0300" stop="20260629075000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Πρωτοσέλιδα της Ημέρας</title>
+    <desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629075000 +0300" stop="20260629080000 +0300" channel="XTV100000928">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260629080000 +0300" stop="20260629081500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Πρωτοσέλιδα της Ημέρας</title>
+    <desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629081500 +0300" stop="20260629082000 +0300" channel="XTV100000928">
+    <title lang="el">Στον Γαλλικό Τύπο</title>
+    <desc lang="el">Σε ζωντανή μετάδοση από την αίθουσα ειδήσεων, το France 24 καλύπτει τα κεντρικά θέματα που εμφανίζονται στα πρωτοσέλιδα των Γαλλικών εφημερίδων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629082000 +0300" stop="20260629083000 +0300" channel="XTV100000928">
+    <title lang="el">Ρεπορτάζ</title>
+    <desc lang="el">Ρεπορτάζ αναφορικά με κάποιο σημαντικό θέμα της ειδησεογραφίας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629083000 +0300" stop="20260629084500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Πρωτοσέλιδα της Ημέρας</title>
+    <desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629084500 +0300" stop="20260629085000 +0300" channel="XTV100000928">
+    <title lang="el">Οικολογικά Νέα</title>
+    <desc lang="el">Δείτε όλα τα νέα για το περιβάλλον από τη Γαλλία και όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629085000 +0300" stop="20260629090000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629090000 +0300" stop="20260629091500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Πρωτοσέλιδα της Ημέρας</title>
+    <desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629091500 +0300" stop="20260629093000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Νέα του Παγκόσμιου Κυπέλλου</title>
+    <desc lang="el">Ανασκόπηση των κορυφαίων στιγμών του Παγκοσμίου Κυπέλλου Ποδοσφαίρου, με τα καλύτερα γκολ και τις πιο θεαματικές φάσεις της διοργάνωσης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629093000 +0300" stop="20260629094500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Πρωτοσέλιδα της Ημέρας</title>
+    <desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629094500 +0300" stop="20260629100000 +0300" channel="XTV100000928">
+    <title lang="el">Στον Τύπο</title>
+    <desc lang="el">Τα θέματα της ημέρας σε εφημερίδες από όλον τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629100000 +0300" stop="20260629102000 +0300" channel="XTV100000928">
+    <title lang="el">Ας Συζητήσουμε</title>
+    <desc lang="el">Μια εκπομπή ειδήσεων και συζητήσεων που εστιάζει στην ανάλυση των σημαντικότερων γεγονότων της ημέρας, μέσω σχολίων, συνεντεύξεων και εμπειρογνωμόνων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629102000 +0300" stop="20260629103000 +0300" channel="XTV100000928">
+    <title lang="el">Οικολογικά Νέα</title>
+    <desc lang="el">Δείτε όλα τα νέα για το περιβάλλον από τη Γαλλία και όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629103000 +0300" stop="20260629104000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Νέα του Παγκόσμιου Κυπέλλου</title>
+    <desc lang="el">Ανασκόπηση των κορυφαίων στιγμών του Παγκοσμίου Κυπέλλου Ποδοσφαίρου, με τα καλύτερα γκολ και τις πιο θεαματικές φάσεις της διοργάνωσης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629104000 +0300" stop="20260629104500 +0300" channel="XTV100000928">
+    <title lang="el">Στον Γαλλικό Τύπο</title>
+    <desc lang="el">Σε ζωντανή μετάδοση από την αίθουσα ειδήσεων, το France 24 καλύπτει τα κεντρικά θέματα που εμφανίζονται στα πρωτοσέλιδα των Γαλλικών εφημερίδων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629104500 +0300" stop="20260629105000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629105000 +0300" stop="20260629110000 +0300" channel="XTV100000928">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260629110000 +0300" stop="20260629114500 +0300" channel="XTV100000928">
+    <title lang="el">Ας το Συζητήσουμε</title>
+    <desc lang="el">Μια εκπομπή συζήτησης, όπου τα τρέχοντα γεγονότα και τα σημαντικά ζητήματα διερευνώνται μέσω συζήτησης και στοχαστικής ανάλυσης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629114500 +0300" stop="20260629115000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629115000 +0300" stop="20260629120000 +0300" channel="XTV100000928">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260629120000 +0300" stop="20260629121500 +0300" channel="XTV100000928">
+    <title lang="el">Ας Συζητήσουμε</title>
+    <desc lang="el">Μια εκπομπή ειδήσεων και συζητήσεων που εστιάζει στην ανάλυση των σημαντικότερων γεγονότων της ημέρας, μέσω σχολίων, συνεντεύξεων και εμπειρογνωμόνων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629121500 +0300" stop="20260629123000 +0300" channel="XTV100000928">
+    <title lang="el">Τετ-α-τετ</title>
+    <desc lang="el">Παρακολουθήστε συνεντεύξεις με σημαντικά πρόσωπα από τη Γαλλία και τον υπόλοιπο κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629123000 +0300" stop="20260629124500 +0300" channel="XTV100000928">
+    <title lang="el">Ας Συζητήσουμε</title>
+    <desc lang="el">Μια εκπομπή ειδήσεων και συζητήσεων που εστιάζει στην ανάλυση των σημαντικότερων γεγονότων της ημέρας, μέσω σχολίων, συνεντεύξεων και εμπειρογνωμόνων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629124500 +0300" stop="20260629125000 +0300" channel="XTV100000928">
+    <title lang="el">Plan B</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629125000 +0300" stop="20260629130000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629130000 +0300" stop="20260629131500 +0300" channel="XTV100000928">
+    <title lang="el">Το Παρίσι Σήμερα</title>
+    <desc lang="el">Ένα δελτίο ειδήσεων επικεντρωμένο στα γαλλικά νέα, με έμφαση στα γεγονότα που συμβαίνουν στο Παρίσι και στις γύρω περιοχές.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629131500 +0300" stop="20260629133000 +0300" channel="XTV100000928">
+    <title lang="el">Στο Προσκήνιο</title>
+    <desc lang="el">Με ποιον τρόπο αφηγούνται οι καλλιτέχνες όσα συμβαίνουν στον κόσμο; Συναντήστε κινηματογραφιστές, συγγραφείς, φωτογράφους ή και μουσικούς και δείτε πώς αντιμετωπίζουν την επικαιρότητα στη Γαλλία και το εξωτερικό.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260629133000 +0300" stop="20260629134500 +0300" channel="XTV100000928">
+    <title lang="el">Το Παρίσι Σήμερα</title>
+    <desc lang="el">Ένα δελτίο ειδήσεων επικεντρωμένο στα γαλλικά νέα, με έμφαση στα γεγονότα που συμβαίνουν στο Παρίσι και στις γύρω περιοχές.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629134500 +0300" stop="20260629135000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629135000 +0300" stop="20260629140000 +0300" channel="XTV100000928">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260629140000 +0300" stop="20260629143000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Νέα της Ημέρας</title>
+    <desc lang="el">Μια καθημερινή ανασκόπηση ειδήσεων, που παρέχει στους τηλεθεατές μια σαφή και συνοπτική επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629143000 +0300" stop="20260629145500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Νέα του Παγκόσμιου Κυπέλλου</title>
+    <desc lang="el">Ανασκόπηση των κορυφαίων στιγμών του Παγκοσμίου Κυπέλλου Ποδοσφαίρου, με τα καλύτερα γκολ και τις πιο θεαματικές φάσεις της διοργάνωσης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629145500 +0300" stop="20260629150000 +0300" channel="XTV100000928">
+    <title lang="el">Η Κουλτούρα σε Πρώτο Πλάνο</title>
+    <desc lang="el">Ένα σύντομο πολιτιστικό μαγκαζίνο που φέρνει μια φρέσκια, ενδιαφέρουσα πολιτιστική προοπτική στα τρέχοντα γεγονότα και θέματα.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260629150000 +0300" stop="20260629153000 +0300" channel="XTV100000928">
+    <title lang="el">Le Club Paris Direct</title>
+    <desc lang="el">Εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629153000 +0300" stop="20260629154500 +0300" channel="XTV100000928">
+    <title lang="el">Πίσω από την Εικόνα</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629154500 +0300" stop="20260629155000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629155000 +0300" stop="20260629160000 +0300" channel="XTV100000928">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260629160000 +0300" stop="20260629163000 +0300" channel="XTV100000928">
+    <title lang="el">Παγκόσμια Επικαιρότητα</title>
+    <desc lang="el">Ένα ειδησεογραφικό πρόγραμμα που προσφέρει μια παγκόσμια ανασκόπηση των γεγονότων της ημέρας, ξεναγώντας τους τηλεθεατές στις πιο σημαντικές ιστορίες από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629163000 +0300" stop="20260629164500 +0300" channel="XTV100000928">
+    <title lang="el">Ραντεβού με την Αφρική</title>
+    <desc lang="el">Καθημερινή ειδησεογραφική εκπομπή που εστιάζει στα τρέχοντα γεγονότα και τις εξελίξεις στην αφρικανική ήπειρο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629164500 +0300" stop="20260629170000 +0300" channel="XTV100000928">
+    <title lang="el">Είναι στη Γαλλία</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629170000 +0300" stop="20260629173000 +0300" channel="XTV100000928">
+    <title lang="el">Παγκόσμια Επικαιρότητα</title>
+    <desc lang="el">Ένα ειδησεογραφικό πρόγραμμα που προσφέρει μια παγκόσμια ανασκόπηση των γεγονότων της ημέρας, ξεναγώντας τους τηλεθεατές στις πιο σημαντικές ιστορίες από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629173000 +0300" stop="20260629174000 +0300" channel="XTV100000928">
+    <title lang="el">Παγκόσμια Επικαιρότητα</title>
+    <desc lang="el">Ένα ειδησεογραφικό πρόγραμμα που προσφέρει μια παγκόσμια ανασκόπηση των γεγονότων της ημέρας, ξεναγώντας τους τηλεθεατές στις πιο σημαντικές ιστορίες από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629174000 +0300" stop="20260629174500 +0300" channel="XTV100000928">
+    <title lang="el">Στοιχεία Γης</title>
+    <desc lang="el">Ας ανοίξουμε τα μάτια μας στον κόσμο γύρω μας! Με τη βοήθεια μιας ομάδας γραφιστών, αναλύουμε τα κύρια θέματα που αφορούν το περιβάλλον γύρω μας.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+  </programme>
+  <programme start="20260629174500 +0300" stop="20260629180000 +0300" channel="XTV100000928">
+    <title lang="el">Στο Προσκήνιο</title>
+    <desc lang="el">Με ποιον τρόπο αφηγούνται οι καλλιτέχνες όσα συμβαίνουν στον κόσμο; Συναντήστε κινηματογραφιστές, συγγραφείς, φωτογράφους ή και μουσικούς και δείτε πώς αντιμετωπίζουν την επικαιρότητα στη Γαλλία και το εξωτερικό.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260629180000 +0300" stop="20260629181000 +0300" channel="XTV100000928">
+    <title lang="el">Παγκόσμια Επικαιρότητα</title>
+    <desc lang="el">Ένα ειδησεογραφικό πρόγραμμα που προσφέρει μια παγκόσμια ανασκόπηση των γεγονότων της ημέρας, ξεναγώντας τους τηλεθεατές στις πιο σημαντικές ιστορίες από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629181000 +0300" stop="20260629183000 +0300" channel="XTV100000928">
+    <title lang="el">Εισιτήριο με Επιστροφή</title>
+    <desc lang="el">Οι δημοσιογράφοι του France 24 επιστρέφουν σε ξεχασμένα μέρη που έχουν εμφανιστεί στις ειδήσεις. Πώς ζουν πλέον οι άνθρωποι σε πόλεις που έχουν χτυπηθεί από κάποιον πόλεμο, μία φυσική καταστροφή ή ένα βιομηχανικό ατύχημα;</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629183000 +0300" stop="20260629184000 +0300" channel="XTV100000928">
+    <title lang="el">Παγκόσμια Επικαιρότητα</title>
+    <desc lang="el">Ένα ειδησεογραφικό πρόγραμμα που προσφέρει μια παγκόσμια ανασκόπηση των γεγονότων της ημέρας, ξεναγώντας τους τηλεθεατές στις πιο σημαντικές ιστορίες από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629184000 +0300" stop="20260629190000 +0300" channel="XTV100000928">
+    <title lang="el">Εδώ Είναι η Ευρώπη - Ας Μιλήσουμε</title>
+    <desc lang="el">Μια έξυπνη εκπομπή βασισμένη σε συζητήσεις που αφορά την ευρωπαϊκή επικαιρότητα, ιδανική για όσους θέλουν να κατανοήσουν τα ζητήματα που διαμορφώνουν την ΕΕ σήμερα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629190000 +0300" stop="20260629191500 +0300" channel="XTV100000928">
+    <title lang="el">Στο Επίκεντρο της Ενημέρωσης</title>
+    <desc lang="el">Μια ειδησεογραφική εκπομπή που ξεπερνά τους τίτλους ειδήσεων για να εξερευνήσει τις βασικές ιστορίες που διαμορφώνουν τα τρέχοντα γεγονότα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629191500 +0300" stop="20260629193000 +0300" channel="XTV100000928">
+    <title lang="el">Άμεσες Ερωτήσεις</title>
+    <desc lang="el">Ένα πρόγραμμα προσανατολισμένο στον διάλογο, σχεδιασμένο να διοχετεύει τις κοινωνικές ανησυχίες μέσα από μαρτυρίες φυσικών προσώπων, ανάλυση και γνώση.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629193000 +0300" stop="20260629194500 +0300" channel="XTV100000928">
+    <title lang="el">Στο Επίκεντρο της Ενημέρωσης</title>
+    <desc lang="el">Μια ειδησεογραφική εκπομπή που ξεπερνά τους τίτλους ειδήσεων για να εξερευνήσει τις βασικές ιστορίες που διαμορφώνουν τα τρέχοντα γεγονότα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629194500 +0300" stop="20260629195000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Νέα του Παγκόσμιου Κυπέλλου</title>
+    <desc lang="el">Ανασκόπηση των κορυφαίων στιγμών του Παγκοσμίου Κυπέλλου Ποδοσφαίρου, με τα καλύτερα γκολ και τις πιο θεαματικές φάσεις της διοργάνωσης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629195000 +0300" stop="20260629200000 +0300" channel="XTV100000928">
+    <title lang="el">Οικονομία</title>
+    <desc lang="el">Το France 24 αποκωδικοποιεί όλες τις εξελίξεις στο οικονομικό σύμπαν και ενημερώνει για τα τρέχοντα οικονομικά θέματα και για τις ισοτιμίες των πιο σημαντικών νομισμάτων σε παγκόσμιο επίπεδο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629200000 +0300" stop="20260629201500 +0300" channel="XTV100000928">
+    <title lang="el">Στο Επίκεντρο της Ενημέρωσης</title>
+    <desc lang="el">Μια ειδησεογραφική εκπομπή που ξεπερνά τους τίτλους ειδήσεων για να εξερευνήσει τις βασικές ιστορίες που διαμορφώνουν τα τρέχοντα γεγονότα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629201500 +0300" stop="20260629205500 +0300" channel="XTV100000928">
+    <title lang="el">France 24 Διάλογος</title>
+    <desc lang="el">Ο Φρανσουά Πικάρ και οι καλεσμένοι του συζητούν σχετικά με το θέμα της ημέρας. Οι θεατές που παρακολουθούν από την τηλεόραση ή από το διαδίκτυο έχουν τη δυνατότητα να συμμετέχουν μέσω του λογαριασμού twitter της εκπομπής.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629205500 +0300" stop="20260629210000 +0300" channel="XTV100000928">
+    <title lang="el">Enter</title>
+    <desc lang="el">Ένα σύντομο μαγκαζίνο που αναδεικνύει θέματα και ιστορίες που απευθύνονται σε νεότερο κοινό και αφορά τρέχοντα ζητήματα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629210000 +0300" stop="20260629211500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Κύρια Νέα</title>
+    <desc lang="el">Ένα γρήγορο δελτίο ειδήσεων σχεδιασμένο να προσφέρει στους τηλεθεατές μια γρήγορη αλλά ολοκληρωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629211500 +0300" stop="20260629212000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Νέα του Παγκόσμιου Κυπέλλου</title>
+    <desc lang="el">Ανασκόπηση των κορυφαίων στιγμών του Παγκοσμίου Κυπέλλου Ποδοσφαίρου, με τα καλύτερα γκολ και τις πιο θεαματικές φάσεις της διοργάνωσης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629212000 +0300" stop="20260629213000 +0300" channel="XTV100000928">
+    <title lang="el">Οικονομία</title>
+    <desc lang="el">Το France 24 αποκωδικοποιεί όλες τις εξελίξεις στο οικονομικό σύμπαν και ενημερώνει για τα τρέχοντα οικονομικά θέματα και για τις ισοτιμίες των πιο σημαντικών νομισμάτων σε παγκόσμιο επίπεδο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629213000 +0300" stop="20260629220000 +0300" channel="XTV100000928">
+    <title lang="el">Πέρα απ' την Ενημέρωση</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629220000 +0300" stop="20260629221500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Κύρια Νέα</title>
+    <desc lang="el">Ένα γρήγορο δελτίο ειδήσεων σχεδιασμένο να προσφέρει στους τηλεθεατές μια γρήγορη αλλά ολοκληρωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629221500 +0300" stop="20260629222000 +0300" channel="XTV100000928">
+    <title lang="el">Προπαγάνδα</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629222000 +0300" stop="20260629223000 +0300" channel="XTV100000928">
+    <title lang="el">Στοιχεία Γης</title>
+    <desc lang="el">Ας ανοίξουμε τα μάτια μας στον κόσμο γύρω μας! Με τη βοήθεια μιας ομάδας γραφιστών, αναλύουμε τα κύρια θέματα που αφορούν το περιβάλλον γύρω μας.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+  </programme>
+  <programme start="20260629223000 +0300" stop="20260629223500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Κύρια Νέα</title>
+    <desc lang="el">Ένα γρήγορο δελτίο ειδήσεων σχεδιασμένο να προσφέρει στους τηλεθεατές μια γρήγορη αλλά ολοκληρωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629223500 +0300" stop="20260629224500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Κλειδιά των Ειδήσεων</title>
+    <desc lang="el">Το πρόγραμμα στοχεύει να βοηθήσει τους θεατές να κατανοήσουν σημαντικά τρέχοντα γεγονότα, εξηγώντας και αναλύοντας ένα συγκεκριμένο ζήτημα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629224500 +0300" stop="20260629230000 +0300" channel="XTV100000928">
+    <title lang="el">Ματιά στην Αφρική</title>
+    <desc lang="el">Το France 24 σας παρουσιάζει όλες τις ειδήσεις από την Αφρική με ανταποκριτές του καναλιού και καλεσμένους στο στούντιο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629230000 +0300" stop="20260629231500 +0300" channel="XTV100000928">
+    <title lang="el">Η Επικαιρότητα σε 360 Μοίρες</title>
+    <desc lang="el">Μια δυναμική ειδησεογραφική εκπομπή που προσφέρει μια ολοκληρωμένη, 360 μοιρών εικόνα των τελευταίων παγκόσμιων γεγονότων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629231500 +0300" stop="20260629232000 +0300" channel="XTV100000928">
+    <title lang="el">Οικονομία</title>
+    <desc lang="el">Το France 24 αποκωδικοποιεί όλες τις εξελίξεις στο οικονομικό σύμπαν και ενημερώνει για τα τρέχοντα οικονομικά θέματα και για τις ισοτιμίες των πιο σημαντικών νομισμάτων σε παγκόσμιο επίπεδο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629232000 +0300" stop="20260629233000 +0300" channel="XTV100000928">
+    <title lang="el">Προπαγάνδα</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629233000 +0300" stop="20260629234500 +0300" channel="XTV100000928">
+    <title lang="el">Ζουμ στα Νέα</title>
+    <desc lang="el">Πρόγραμμα ανάλυσης ειδήσεων που εξετάζει σε βάθος ένα συγκεκριμένο ζήτημα από τα πρόσφατα νέα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260629234500 +0300" stop="20260630000000 +0300" channel="XTV100000928">
+    <title lang="el">Ματιά στην Αφρική</title>
+    <desc lang="el">Το France 24 σας παρουσιάζει όλες τις ειδήσεις από την Αφρική με ανταποκριτές του καναλιού και καλεσμένους στο στούντιο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630000000 +0300" stop="20260630001500 +0300" channel="XTV100000928">
+    <title lang="el">Η Επικαιρότητα σε 360 Μοίρες</title>
+    <desc lang="el">Μια δυναμική ειδησεογραφική εκπομπή που προσφέρει μια ολοκληρωμένη, 360 μοιρών εικόνα των τελευταίων παγκόσμιων γεγονότων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630001500 +0300" stop="20260630003000 +0300" channel="XTV100000928">
+    <title lang="el">Προπαγάνδα</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630003000 +0300" stop="20260630004000 +0300" channel="XTV100000928">
+    <title lang="el">Η Επικαιρότητα σε 360 Μοίρες</title>
+    <desc lang="el">Μια δυναμική ειδησεογραφική εκπομπή που προσφέρει μια ολοκληρωμένη, 360 μοιρών εικόνα των τελευταίων παγκόσμιων γεγονότων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630004000 +0300" stop="20260630004500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Κλειδιά των Ειδήσεων</title>
+    <desc lang="el">Το πρόγραμμα στοχεύει να βοηθήσει τους θεατές να κατανοήσουν σημαντικά τρέχοντα γεγονότα, εξηγώντας και αναλύοντας ένα συγκεκριμένο ζήτημα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630004500 +0300" stop="20260630005000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Νέα του Παγκόσμιου Κυπέλλου</title>
+    <desc lang="el">Ανασκόπηση των κορυφαίων στιγμών του Παγκοσμίου Κυπέλλου Ποδοσφαίρου, με τα καλύτερα γκολ και τις πιο θεαματικές φάσεις της διοργάνωσης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630005000 +0300" stop="20260630010000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630010000 +0300" stop="20260630011500 +0300" channel="XTV100000928">
+    <title lang="el">Η Επικαιρότητα σε 360 Μοίρες</title>
+    <desc lang="el">Μια δυναμική ειδησεογραφική εκπομπή που προσφέρει μια ολοκληρωμένη, 360 μοιρών εικόνα των τελευταίων παγκόσμιων γεγονότων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630011500 +0300" stop="20260630020000 +0300" channel="XTV100000928">
+    <title lang="el">France 24 Διάλογος</title>
+    <desc lang="el">Ο Φρανσουά Πικάρ και οι καλεσμένοι του συζητούν σχετικά με το θέμα της ημέρας. Οι θεατές που παρακολουθούν από την τηλεόραση ή από το διαδίκτυο έχουν τη δυνατότητα να συμμετέχουν μέσω του λογαριασμού twitter της εκπομπής.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630020000 +0300" stop="20260630021500 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630021500 +0300" stop="20260630023000 +0300" channel="XTV100000928">
+    <title lang="el">Ματιά στην Αφρική</title>
+    <desc lang="el">Το France 24 σας παρουσιάζει όλες τις ειδήσεις από την Αφρική με ανταποκριτές του καναλιού και καλεσμένους στο στούντιο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630023000 +0300" stop="20260630024500 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630024500 +0300" stop="20260630030000 +0300" channel="XTV100000928">
+    <title lang="el">Στο Προσκήνιο</title>
+    <desc lang="el">Με ποιον τρόπο αφηγούνται οι καλλιτέχνες όσα συμβαίνουν στον κόσμο; Συναντήστε κινηματογραφιστές, συγγραφείς, φωτογράφους ή και μουσικούς και δείτε πώς αντιμετωπίζουν την επικαιρότητα στη Γαλλία και το εξωτερικό.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260630030000 +0300" stop="20260630031500 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630031500 +0300" stop="20260630034500 +0300" channel="XTV100000928">
+    <title lang="el">Ο Κόσμος Μέσα από Όλες τις Χώρες</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630034500 +0300" stop="20260630035000 +0300" channel="XTV100000928">
+    <title lang="el">Plan B</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630035000 +0300" stop="20260630040000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630040000 +0300" stop="20260630041000 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630041000 +0300" stop="20260630045500 +0300" channel="XTV100000928">
+    <title lang="el">France 24 Διάλογος</title>
+    <desc lang="el">Ο Φρανσουά Πικάρ και οι καλεσμένοι του συζητούν σχετικά με το θέμα της ημέρας. Οι θεατές που παρακολουθούν από την τηλεόραση ή από το διαδίκτυο έχουν τη δυνατότητα να συμμετέχουν μέσω του λογαριασμού twitter της εκπομπής.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630045500 +0300" stop="20260630050000 +0300" channel="XTV100000928">
+    <title lang="el">Η Στιγμή του Κινητού</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630050000 +0300" stop="20260630051500 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630051500 +0300" stop="20260630052000 +0300" channel="XTV100000928">
+    <title lang="el">Οι Παρατηρητές</title>
+    <desc lang="el">Μια εβδομαδιαία ενημερωτική εκπομπή με φωτογραφίες, βίντεο και προσωπικές μαρτυρίες από τους 'Παρατηρητές' του France 24 σε ολόκληρο τον κόσμο. Οι πληροφορίες διασταυρώνονται από το προσωπικό στο Παρίσι.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630052000 +0300" stop="20260630053000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630053000 +0300" stop="20260630054500 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630054500 +0300" stop="20260630060000 +0300" channel="XTV100000928">
+    <title lang="el">Νέα από το Εξωτερικό</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες διεθνείς ειδήσεις.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630060000 +0300" stop="20260630061500 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630061500 +0300" stop="20260630063000 +0300" channel="XTV100000928">
+    <title lang="el">Τετ-α-τετ</title>
+    <desc lang="el">Παρακολουθήστε συνεντεύξεις με σημαντικά πρόσωπα από τη Γαλλία και τον υπόλοιπο κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630063000 +0300" stop="20260630064500 +0300" channel="XTV100000928">
+    <title lang="el">Νυχτερινή Ενημέρωση</title>
+    <desc lang="el">Παρακολουθήστε μια ολοκληρωμένη ανασκόπηση των σημαντικότερων γεγονότων της ημέρας από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630064500 +0300" stop="20260630070000 +0300" channel="XTV100000928">
+    <title lang="el">Ματιά στην Αφρική</title>
+    <desc lang="el">Το France 24 σας παρουσιάζει όλες τις ειδήσεις από την Αφρική με ανταποκριτές του καναλιού και καλεσμένους στο στούντιο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630070000 +0300" stop="20260630072000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Πρωτοσέλιδα της Ημέρας</title>
+    <desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630072000 +0300" stop="20260630073000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630073000 +0300" stop="20260630075000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Πρωτοσέλιδα της Ημέρας</title>
+    <desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630075000 +0300" stop="20260630080000 +0300" channel="XTV100000928">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260630080000 +0300" stop="20260630081500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Πρωτοσέλιδα της Ημέρας</title>
+    <desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630081500 +0300" stop="20260630082000 +0300" channel="XTV100000928">
+    <title lang="el">Στον Γαλλικό Τύπο</title>
+    <desc lang="el">Σε ζωντανή μετάδοση από την αίθουσα ειδήσεων, το France 24 καλύπτει τα κεντρικά θέματα που εμφανίζονται στα πρωτοσέλιδα των Γαλλικών εφημερίδων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630082000 +0300" stop="20260630083000 +0300" channel="XTV100000928">
+    <title lang="el">Ρεπορτάζ</title>
+    <desc lang="el">Ρεπορτάζ αναφορικά με κάποιο σημαντικό θέμα της ειδησεογραφίας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630083000 +0300" stop="20260630084500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Πρωτοσέλιδα της Ημέρας</title>
+    <desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630084500 +0300" stop="20260630085000 +0300" channel="XTV100000928">
+    <title lang="el">Οικολογικά Νέα</title>
+    <desc lang="el">Δείτε όλα τα νέα για το περιβάλλον από τη Γαλλία και όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630085000 +0300" stop="20260630090000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630090000 +0300" stop="20260630091500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Πρωτοσέλιδα της Ημέρας</title>
+    <desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630091500 +0300" stop="20260630093000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Νέα του Παγκόσμιου Κυπέλλου</title>
+    <desc lang="el">Ανασκόπηση των κορυφαίων στιγμών του Παγκοσμίου Κυπέλλου Ποδοσφαίρου, με τα καλύτερα γκολ και τις πιο θεαματικές φάσεις της διοργάνωσης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630093000 +0300" stop="20260630094500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Πρωτοσέλιδα της Ημέρας</title>
+    <desc lang="el">Το κύριο δελτίο ειδήσεων του France 24, που παρέχει μια σαφή και ενημερωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630094500 +0300" stop="20260630100000 +0300" channel="XTV100000928">
+    <title lang="el">Στον Τύπο</title>
+    <desc lang="el">Τα θέματα της ημέρας σε εφημερίδες από όλον τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630100000 +0300" stop="20260630102000 +0300" channel="XTV100000928">
+    <title lang="el">Ας Συζητήσουμε</title>
+    <desc lang="el">Μια εκπομπή ειδήσεων και συζητήσεων που εστιάζει στην ανάλυση των σημαντικότερων γεγονότων της ημέρας, μέσω σχολίων, συνεντεύξεων και εμπειρογνωμόνων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630102000 +0300" stop="20260630103000 +0300" channel="XTV100000928">
+    <title lang="el">Οικολογικά Νέα</title>
+    <desc lang="el">Δείτε όλα τα νέα για το περιβάλλον από τη Γαλλία και όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630103000 +0300" stop="20260630104000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Νέα του Παγκόσμιου Κυπέλλου</title>
+    <desc lang="el">Ανασκόπηση των κορυφαίων στιγμών του Παγκοσμίου Κυπέλλου Ποδοσφαίρου, με τα καλύτερα γκολ και τις πιο θεαματικές φάσεις της διοργάνωσης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630104000 +0300" stop="20260630104500 +0300" channel="XTV100000928">
+    <title lang="el">Στον Γαλλικό Τύπο</title>
+    <desc lang="el">Σε ζωντανή μετάδοση από την αίθουσα ειδήσεων, το France 24 καλύπτει τα κεντρικά θέματα που εμφανίζονται στα πρωτοσέλιδα των Γαλλικών εφημερίδων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630104500 +0300" stop="20260630105000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630105000 +0300" stop="20260630110000 +0300" channel="XTV100000928">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260630110000 +0300" stop="20260630114500 +0300" channel="XTV100000928">
+    <title lang="el">Ας το Συζητήσουμε</title>
+    <desc lang="el">Μια εκπομπή συζήτησης, όπου τα τρέχοντα γεγονότα και τα σημαντικά ζητήματα διερευνώνται μέσω συζήτησης και στοχαστικής ανάλυσης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630114500 +0300" stop="20260630115000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630115000 +0300" stop="20260630120000 +0300" channel="XTV100000928">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260630120000 +0300" stop="20260630121500 +0300" channel="XTV100000928">
+    <title lang="el">Ας Συζητήσουμε</title>
+    <desc lang="el">Μια εκπομπή ειδήσεων και συζητήσεων που εστιάζει στην ανάλυση των σημαντικότερων γεγονότων της ημέρας, μέσω σχολίων, συνεντεύξεων και εμπειρογνωμόνων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630121500 +0300" stop="20260630123000 +0300" channel="XTV100000928">
+    <title lang="el">Επικαιρότητα</title>
+    <desc lang="el">Η εκπομπή σχετικά με τη διεθνή ειδησεογραφία και τα πρόσωπα της επικαιρότητας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630123000 +0300" stop="20260630125500 +0300" channel="XTV100000928">
+    <title lang="el">Στις Πρώτες Γραμμές</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630125500 +0300" stop="20260630130000 +0300" channel="XTV100000928">
+    <title lang="el">Η Στιγμή του Κινητού</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630130000 +0300" stop="20260630131500 +0300" channel="XTV100000928">
+    <title lang="el">Το Παρίσι Σήμερα</title>
+    <desc lang="el">Ένα δελτίο ειδήσεων επικεντρωμένο στα γαλλικά νέα, με έμφαση στα γεγονότα που συμβαίνουν στο Παρίσι και στις γύρω περιοχές.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630131500 +0300" stop="20260630133000 +0300" channel="XTV100000928">
+    <title lang="el">Στο Προσκήνιο</title>
+    <desc lang="el">Με ποιον τρόπο αφηγούνται οι καλλιτέχνες όσα συμβαίνουν στον κόσμο; Συναντήστε κινηματογραφιστές, συγγραφείς, φωτογράφους ή και μουσικούς και δείτε πώς αντιμετωπίζουν την επικαιρότητα στη Γαλλία και το εξωτερικό.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260630133000 +0300" stop="20260630134500 +0300" channel="XTV100000928">
+    <title lang="el">Το Παρίσι Σήμερα</title>
+    <desc lang="el">Ένα δελτίο ειδήσεων επικεντρωμένο στα γαλλικά νέα, με έμφαση στα γεγονότα που συμβαίνουν στο Παρίσι και στις γύρω περιοχές.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630134500 +0300" stop="20260630135000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630135000 +0300" stop="20260630140000 +0300" channel="XTV100000928">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260630140000 +0300" stop="20260630143000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Νέα της Ημέρας</title>
+    <desc lang="el">Μια καθημερινή ανασκόπηση ειδήσεων, που παρέχει στους τηλεθεατές μια σαφή και συνοπτική επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630143000 +0300" stop="20260630145500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Νέα του Παγκόσμιου Κυπέλλου</title>
+    <desc lang="el">Ανασκόπηση των κορυφαίων στιγμών του Παγκοσμίου Κυπέλλου Ποδοσφαίρου, με τα καλύτερα γκολ και τις πιο θεαματικές φάσεις της διοργάνωσης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630145500 +0300" stop="20260630150000 +0300" channel="XTV100000928">
+    <title lang="el">Enter</title>
+    <desc lang="el">Ένα σύντομο μαγκαζίνο που αναδεικνύει θέματα και ιστορίες που απευθύνονται σε νεότερο κοινό και αφορά τρέχοντα ζητήματα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630150000 +0300" stop="20260630153000 +0300" channel="XTV100000928">
+    <title lang="el">Le Club Paris Direct</title>
+    <desc lang="el">Εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630153000 +0300" stop="20260630154500 +0300" channel="XTV100000928">
+    <title lang="el">Πίσω από την Εικόνα</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630154500 +0300" stop="20260630155000 +0300" channel="XTV100000928">
+    <title lang="el">Επίκεντρο</title>
+    <desc lang="el">Η εκπομπή παρουσιάζει αποκλειστικά ρεπορτάζ από τους ανταποκριτές του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630155000 +0300" stop="20260630160000 +0300" channel="XTV100000928">
+    <title lang="el">Σπορ</title>
+    <desc lang="el">Η αθλητική ανασκόπηση της ημέρας από τους δημοσιογράφους του France 24, και μια ανακεφαλαίωση των διεθνών αθλητικών ειδήσεων, τόσο εντός όσο και εκτός των αγωνιστικών χώρων.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260630160000 +0300" stop="20260630163000 +0300" channel="XTV100000928">
+    <title lang="el">Παγκόσμια Επικαιρότητα</title>
+    <desc lang="el">Ένα ειδησεογραφικό πρόγραμμα που προσφέρει μια παγκόσμια ανασκόπηση των γεγονότων της ημέρας, ξεναγώντας τους τηλεθεατές στις πιο σημαντικές ιστορίες από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630163000 +0300" stop="20260630164000 +0300" channel="XTV100000928">
+    <title lang="el">Ραντεβού με την Αφρική</title>
+    <desc lang="el">Καθημερινή ειδησεογραφική εκπομπή που εστιάζει στα τρέχοντα γεγονότα και τις εξελίξεις στην αφρικανική ήπειρο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630164000 +0300" stop="20260630165500 +0300" channel="XTV100000928">
+    <title lang="el">Το Παρίσι των Τεχνών</title>
+    <desc lang="el">Ένας καλλιτεχνικός περίπατος στο Παρίσι με τη συνοδεία ενός καλεσμένου. Η παρουσιάστρια Valerie Fayolle γεφυρώνει το χάσμα ανάμεσα σε διαφορετικές μορφές τέχνης και καλλιτέχνες αλλά και τα δρώμενα στη Γαλλία με εκείνα στον υπόλοιπο κόσμο.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260630165500 +0300" stop="20260630170000 +0300" channel="XTV100000928">
+    <title lang="el">Η Κουλτούρα σε Πρώτο Πλάνο</title>
+    <desc lang="el">Ένα σύντομο πολιτιστικό μαγκαζίνο που φέρνει μια φρέσκια, ενδιαφέρουσα πολιτιστική προοπτική στα τρέχοντα γεγονότα και θέματα.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260630170000 +0300" stop="20260630173000 +0300" channel="XTV100000928">
+    <title lang="el">Παγκόσμια Επικαιρότητα</title>
+    <desc lang="el">Ένα ειδησεογραφικό πρόγραμμα που προσφέρει μια παγκόσμια ανασκόπηση των γεγονότων της ημέρας, ξεναγώντας τους τηλεθεατές στις πιο σημαντικές ιστορίες από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630173000 +0300" stop="20260630174000 +0300" channel="XTV100000928">
+    <title lang="el">Παγκόσμια Επικαιρότητα</title>
+    <desc lang="el">Ένα ειδησεογραφικό πρόγραμμα που προσφέρει μια παγκόσμια ανασκόπηση των γεγονότων της ημέρας, ξεναγώντας τους τηλεθεατές στις πιο σημαντικές ιστορίες από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630174000 +0300" stop="20260630174500 +0300" channel="XTV100000928">
+    <title lang="el">Στοιχεία Γης</title>
+    <desc lang="el">Ας ανοίξουμε τα μάτια μας στον κόσμο γύρω μας! Με τη βοήθεια μιας ομάδας γραφιστών, αναλύουμε τα κύρια θέματα που αφορούν το περιβάλλον γύρω μας.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+  </programme>
+  <programme start="20260630174500 +0300" stop="20260630180000 +0300" channel="XTV100000928">
+    <title lang="el">Στο Προσκήνιο</title>
+    <desc lang="el">Με ποιον τρόπο αφηγούνται οι καλλιτέχνες όσα συμβαίνουν στον κόσμο; Συναντήστε κινηματογραφιστές, συγγραφείς, φωτογράφους ή και μουσικούς και δείτε πώς αντιμετωπίζουν την επικαιρότητα στη Γαλλία και το εξωτερικό.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260630180000 +0300" stop="20260630181000 +0300" channel="XTV100000928">
+    <title lang="el">Παγκόσμια Επικαιρότητα</title>
+    <desc lang="el">Ένα ειδησεογραφικό πρόγραμμα που προσφέρει μια παγκόσμια ανασκόπηση των γεγονότων της ημέρας, ξεναγώντας τους τηλεθεατές στις πιο σημαντικές ιστορίες από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630181000 +0300" stop="20260630182000 +0300" channel="XTV100000928">
+    <title lang="el">Ρεπόρτερς</title>
+    <desc lang="el">Διεθνή αναλυτικά ρεπορτάζ από τις δημοσιογραφικές ομάδες και τους κορυφαίους δημοσιογράφους του France 24 σε ολόκληρο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630182000 +0300" stop="20260630183000 +0300" channel="XTV100000928">
+    <title lang="el">Η Στιγμή του Κινητού</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630183000 +0300" stop="20260630184000 +0300" channel="XTV100000928">
+    <title lang="el">Παγκόσμια Επικαιρότητα</title>
+    <desc lang="el">Ένα ειδησεογραφικό πρόγραμμα που προσφέρει μια παγκόσμια ανασκόπηση των γεγονότων της ημέρας, ξεναγώντας τους τηλεθεατές στις πιο σημαντικές ιστορίες από όλο τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630184000 +0300" stop="20260630190000 +0300" channel="XTV100000928">
+    <title lang="el">Εδώ Είναι η Ευρώπη - Σας Ακούμε</title>
+    <desc lang="el">Ένα διαδραστικό πρόγραμμα σχεδιασμένο να φέρει κοντά τους αξιωματούχους της ΕΕ με τους απλούς πολίτες, σε μια συζήτηση σχετικά με τις πολιτικές, τις προκλήσεις και το μέλλον της Ευρωπαϊκής Ένωσης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630190000 +0300" stop="20260630191000 +0300" channel="XTV100000928">
+    <title lang="el">Στο Επίκεντρο της Ενημέρωσης</title>
+    <desc lang="el">Μια ειδησεογραφική εκπομπή που ξεπερνά τους τίτλους ειδήσεων για να εξερευνήσει τις βασικές ιστορίες που διαμορφώνουν τα τρέχοντα γεγονότα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630191000 +0300" stop="20260630193000 +0300" channel="XTV100000928">
+    <title lang="el">Πολιτική Τρίτη</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630193000 +0300" stop="20260630194500 +0300" channel="XTV100000928">
+    <title lang="el">Στο Επίκεντρο της Ενημέρωσης</title>
+    <desc lang="el">Μια ειδησεογραφική εκπομπή που ξεπερνά τους τίτλους ειδήσεων για να εξερευνήσει τις βασικές ιστορίες που διαμορφώνουν τα τρέχοντα γεγονότα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630194500 +0300" stop="20260630195000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Νέα του Παγκόσμιου Κυπέλλου</title>
+    <desc lang="el">Ανασκόπηση των κορυφαίων στιγμών του Παγκοσμίου Κυπέλλου Ποδοσφαίρου, με τα καλύτερα γκολ και τις πιο θεαματικές φάσεις της διοργάνωσης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630195000 +0300" stop="20260630200000 +0300" channel="XTV100000928">
+    <title lang="el">Οικονομία</title>
+    <desc lang="el">Το France 24 αποκωδικοποιεί όλες τις εξελίξεις στο οικονομικό σύμπαν και ενημερώνει για τα τρέχοντα οικονομικά θέματα και για τις ισοτιμίες των πιο σημαντικών νομισμάτων σε παγκόσμιο επίπεδο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630200000 +0300" stop="20260630201500 +0300" channel="XTV100000928">
+    <title lang="el">Στο Επίκεντρο της Ενημέρωσης</title>
+    <desc lang="el">Μια ειδησεογραφική εκπομπή που ξεπερνά τους τίτλους ειδήσεων για να εξερευνήσει τις βασικές ιστορίες που διαμορφώνουν τα τρέχοντα γεγονότα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630201500 +0300" stop="20260630210000 +0300" channel="XTV100000928">
+    <title lang="el">France 24 Διάλογος</title>
+    <desc lang="el">Ο Φρανσουά Πικάρ και οι καλεσμένοι του συζητούν σχετικά με το θέμα της ημέρας. Οι θεατές που παρακολουθούν από την τηλεόραση ή από το διαδίκτυο έχουν τη δυνατότητα να συμμετέχουν μέσω του λογαριασμού twitter της εκπομπής.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630210000 +0300" stop="20260630211500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Κύρια Νέα</title>
+    <desc lang="el">Ένα γρήγορο δελτίο ειδήσεων σχεδιασμένο να προσφέρει στους τηλεθεατές μια γρήγορη αλλά ολοκληρωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630211500 +0300" stop="20260630212000 +0300" channel="XTV100000928">
+    <title lang="el">Τα Νέα του Παγκόσμιου Κυπέλλου</title>
+    <desc lang="el">Ανασκόπηση των κορυφαίων στιγμών του Παγκοσμίου Κυπέλλου Ποδοσφαίρου, με τα καλύτερα γκολ και τις πιο θεαματικές φάσεις της διοργάνωσης.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630212000 +0300" stop="20260630213000 +0300" channel="XTV100000928">
+    <title lang="el">Οικονομία</title>
+    <desc lang="el">Το France 24 αποκωδικοποιεί όλες τις εξελίξεις στο οικονομικό σύμπαν και ενημερώνει για τα τρέχοντα οικονομικά θέματα και για τις ισοτιμίες των πιο σημαντικών νομισμάτων σε παγκόσμιο επίπεδο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630213000 +0300" stop="20260630220000 +0300" channel="XTV100000928">
+    <title lang="el">Πέρα απ' την Ενημέρωση</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630220000 +0300" stop="20260630221500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Κύρια Νέα</title>
+    <desc lang="el">Ένα γρήγορο δελτίο ειδήσεων σχεδιασμένο να προσφέρει στους τηλεθεατές μια γρήγορη αλλά ολοκληρωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630221500 +0300" stop="20260630222000 +0300" channel="XTV100000928">
+    <title lang="el">Προπαγάνδα</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630222000 +0300" stop="20260630223000 +0300" channel="XTV100000928">
+    <title lang="el">Στοιχεία Γης</title>
+    <desc lang="el">Ας ανοίξουμε τα μάτια μας στον κόσμο γύρω μας! Με τη βοήθεια μιας ομάδας γραφιστών, αναλύουμε τα κύρια θέματα που αφορούν το περιβάλλον γύρω μας.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+  </programme>
+  <programme start="20260630223000 +0300" stop="20260630223500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Κύρια Νέα</title>
+    <desc lang="el">Ένα γρήγορο δελτίο ειδήσεων σχεδιασμένο να προσφέρει στους τηλεθεατές μια γρήγορη αλλά ολοκληρωμένη επισκόπηση των σημαντικότερων γεγονότων της ημέρας.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630223500 +0300" stop="20260630224500 +0300" channel="XTV100000928">
+    <title lang="el">Τα Κλειδιά των Ειδήσεων</title>
+    <desc lang="el">Το πρόγραμμα στοχεύει να βοηθήσει τους θεατές να κατανοήσουν σημαντικά τρέχοντα γεγονότα, εξηγώντας και αναλύοντας ένα συγκεκριμένο ζήτημα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630224500 +0300" stop="20260630230000 +0300" channel="XTV100000928">
+    <title lang="el">Ματιά στην Αφρική</title>
+    <desc lang="el">Το France 24 σας παρουσιάζει όλες τις ειδήσεις από την Αφρική με ανταποκριτές του καναλιού και καλεσμένους στο στούντιο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630230000 +0300" stop="20260630231500 +0300" channel="XTV100000928">
+    <title lang="el">Η Επικαιρότητα σε 360 Μοίρες</title>
+    <desc lang="el">Μια δυναμική ειδησεογραφική εκπομπή που προσφέρει μια ολοκληρωμένη, 360 μοιρών εικόνα των τελευταίων παγκόσμιων γεγονότων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630231500 +0300" stop="20260630232000 +0300" channel="XTV100000928">
+    <title lang="el">Οικονομία</title>
+    <desc lang="el">Το France 24 αποκωδικοποιεί όλες τις εξελίξεις στο οικονομικό σύμπαν και ενημερώνει για τα τρέχοντα οικονομικά θέματα και για τις ισοτιμίες των πιο σημαντικών νομισμάτων σε παγκόσμιο επίπεδο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630232000 +0300" stop="20260630233000 +0300" channel="XTV100000928">
+    <title lang="el">Προπαγάνδα</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630233000 +0300" stop="20260630234500 +0300" channel="XTV100000928">
+    <title lang="el">Ζουμ στα Νέα</title>
+    <desc lang="el">Πρόγραμμα ανάλυσης ειδήσεων που εξετάζει σε βάθος ένα συγκεκριμένο ζήτημα από τα πρόσφατα νέα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260630234500 +0300" stop="20260701000000 +0300" channel="XTV100000928">
+    <title lang="el">Ματιά στην Αφρική</title>
+    <desc lang="el">Το France 24 σας παρουσιάζει όλες τις ειδήσεις από την Αφρική με ανταποκριτές του καναλιού και καλεσμένους στο στούντιο.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260625000000 +0300" stop="20260625040000 +0300" channel="XTV100003246">
     <title lang="el">Al Arabiya</title>
