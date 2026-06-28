@@ -24504,8 +24504,8 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260628130000 +0300" stop="20260628153000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: Ζίζου Μπεργκς - Ουγκό Ουμπέρ</title>
-    <desc lang="el">ATP 250 2026. Ίστμπουρν (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Μάλαμας.</desc>
+    <title lang="el">Τένις: Ίθαν Κουίν - Αλεχάντρο Νταβίντοβιτς Φοκίνα</title>
+    <desc lang="el">ATP 250 2026. Μαγιόρκα (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260628153000 +0300" stop="20260628160000 +0300" channel="XTV100001360">
@@ -25808,15 +25808,15 @@
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
-  <programme start="20260628120000 +0300" stop="20260628140000 +0300" channel="XTV100002945">
+  <programme start="20260628120000 +0300" stop="20260628130000 +0300" channel="XTV100002945">
     <title lang="el">COSMOTESport9HD</title>
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
-  <programme start="20260628140000 +0300" stop="20260628160000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
-    <category lang="el">Promo Card</category>
+  <programme start="20260628130000 +0300" stop="20260628160000 +0300" channel="XTV100002945">
+    <title lang="el">Τένις: Ζίζου Μπεργκς - Ουγκό Ουμπέρ (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Ίστμπουρν (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Μάλαμας.</desc>
+    <category lang="el">Τένις</category>
   </programme>
   <programme start="20260628160000 +0300" stop="20260628170000 +0300" channel="XTV100002945">
     <title lang="el">COSMOTESport9HD</title>
@@ -25828,27 +25828,32 @@
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
-  <programme start="20260628173000 +0300" stop="20260628180000 +0300" channel="XTV100002945">
+  <programme start="20260628173000 +0300" stop="20260628183000 +0300" channel="XTV100002945">
     <title lang="el">COSMOTESport9HD</title>
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
-  <programme start="20260628180000 +0300" stop="20260628200000 +0300" channel="XTV100002945">
+  <programme start="20260628183000 +0300" stop="20260628203000 +0300" channel="XTV100002945">
     <title lang="el">Premier Padel Tour 2026 (Ζ)</title>
     <desc lang="el">Βαγιαδολίδ (Τελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260628200000 +0300" stop="20260628230000 +0300" channel="XTV100002945">
+  <programme start="20260628203000 +0300" stop="20260628233000 +0300" channel="XTV100002945">
     <title lang="el">Premier Padel Tour 2026 (Ζ)</title>
     <desc lang="el">Βαγιαδολίδ (Τελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260628230000 +0300" stop="20260629000000 +0300" channel="XTV100002945">
+  <programme start="20260628233000 +0300" stop="20260629003000 +0300" channel="XTV100002945">
     <title lang="el">COSMOTESport9HD</title>
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
-  <programme start="20260629000000 +0300" stop="20260629020000 +0300" channel="XTV100002945">
+  <programme start="20260628233000 +0300" stop="20260629003000 +0300" channel="XTV100002945">
+    <title lang="el">COSMOTESport9HD</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260629003000 +0300" stop="20260629020000 +0300" channel="XTV100002945">
     <title lang="el">COSMOTESport9HD</title>
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
