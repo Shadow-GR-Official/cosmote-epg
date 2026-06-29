@@ -2349,13 +2349,13 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260629233000 +0300" stop="20260630013000 +0300" channel="XTV100000955">
-    <title lang="el">Ποδόσφαιρο: Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026 (Ζ)</title>
-    <desc lang="el">Απευθείας μετάδοση από Βοστώνη. Φάση των 32. Η 23η έκδοση του τουρνουά και η πρώτη που περιλαμβάνει 48 ομάδες, πραγματοποιείται από τις 11 Ιουνίου έως τις 19 Ιουλίου 2026. Διοργανώνεται από τρεις χώρες: Καναδά, Μεξικό και ΗΠΑ. Περιγραφή: Γιώργος Χαϊκάλης.</desc>
+    <title lang="el">Ποδόσφαιρο: Γερμανία - Παραγουάη (Ζ)</title>
+    <desc lang="el">Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026. Απευθείας μετάδοση από Βοστώνη. Φάση των 32. Η 23η έκδοση του τουρνουά και η πρώτη που περιλαμβάνει 48 ομάδες, πραγματοποιείται από τις 11 Ιουνίου έως τις 19 Ιουλίου 2026. Διοργανώνεται από τρεις χώρες: Καναδά, Μεξικό και ΗΠΑ. Περιγραφή: Γιώργος Χαϊκάλης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260629233000 +0300" stop="20260630013000 +0300" channel="XTV100000955">
-    <title lang="el">Ποδόσφαιρο: Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026 (Ζ)</title>
-    <desc lang="el">Απευθείας μετάδοση από Βοστώνη. Φάση των 32. Η 23η έκδοση του τουρνουά και η πρώτη που περιλαμβάνει 48 ομάδες, πραγματοποιείται από τις 11 Ιουνίου έως τις 19 Ιουλίου 2026. Διοργανώνεται από τρεις χώρες: Καναδά, Μεξικό και ΗΠΑ. Περιγραφή: Γιώργος Χαϊκάλης.</desc>
+    <title lang="el">Ποδόσφαιρο: Γερμανία - Παραγουάη (Ζ)</title>
+    <desc lang="el">Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026. Απευθείας μετάδοση από Βοστώνη. Φάση των 32. Η 23η έκδοση του τουρνουά και η πρώτη που περιλαμβάνει 48 ομάδες, πραγματοποιείται από τις 11 Ιουνίου έως τις 19 Ιουλίου 2026. Διοργανώνεται από τρεις χώρες: Καναδά, Μεξικό και ΗΠΑ. Περιγραφή: Γιώργος Χαϊκάλης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260630013000 +0300" stop="20260630033000 +0300" channel="XTV100000955">
@@ -23198,47 +23198,37 @@
     <desc lang="el">FIBA Basketball Champions League 2025-26. Τελικός. Περιγραφή: Γιάννης Φιλέρης, Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260629181000 +0300" stop="20260629184000 +0300" channel="XTV100001109">
+  <programme start="20260629181000 +0300" stop="20260629212500 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Stoiximan AegeanBall Festival</title>
+    <desc lang="el">2η Ημέρα. Το Stoximan AegeanBall Festival είναι πολλά περισσότερα από ένα Τουρνουά 3x3. Αποστολή του είναι να μεταδώσει την αξία του ευ αγωνίζεσθαι, να φέρει τους ανθρώπους κοντά στον αθλητισμό και να προωθήσει το μήνυμα της κοινωνικής προσφοράς. Περιγραφή: Ρήγας Δάρδαλης, Γιάννης Φιλέρης, Άρης Μπάρκας.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260629212500 +0300" stop="20260629234000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Γκόλντεν Στέιτ Βάλκιραϊς - Νιου Γιορκ Λίμπερτι</title>
+    <desc lang="el">WNBA Regular Season 2026. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260629234000 +0300" stop="20260630001000 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials: Basketball Stories</title>
     <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260629184000 +0300" stop="20260629193000 +0300" channel="XTV100001109">
+  <programme start="20260629234000 +0300" stop="20260630001000 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials: Basketball Stories</title>
-    <desc lang="el">The Mailman. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260629193000 +0300" stop="20260629214500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Βαλένθια - Μπαρτσελόνα</title>
-    <desc lang="el">ACB Liga Endesa 2025-26. 1ος Τελικός.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
-    <category lang="el">Μπάσκετ</category>
-  </programme>
-  <programme start="20260629214500 +0300" stop="20260630001500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Γκόλντεν Στέιτ Βάλκιραϊς - Νιου Γιορκ Λίμπερτι</title>
-    <desc lang="el">WNBA Regular Season 2026. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
-    <category lang="el">Μπάσκετ</category>
-  </programme>
-  <programme start="20260629214500 +0300" stop="20260630001500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Γκόλντεν Στέιτ Βάλκιραϊς - Νιου Γιορκ Λίμπερτι</title>
-    <desc lang="el">WNBA Regular Season 2026. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
-    <category lang="el">Μπάσκετ</category>
-  </programme>
-  <programme start="20260630001500 +0300" stop="20260630022000 +0300" channel="XTV100001109">
+  <programme start="20260630001000 +0300" stop="20260630021500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπανταλόνα - ΑΕΚ</title>
     <desc lang="el">FIBA Basketball Champions League 2025-26. Προημιτελική Φάση, 2ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260630022000 +0300" stop="20260630025000 +0300" channel="XTV100001109">
+  <programme start="20260630021500 +0300" stop="20260630024500 +0300" channel="XTV100001109">
     <title lang="el">Sports Classics: My Sporting Moment</title>
     <desc lang="el">Κέρμπερ &amp; Μπόις. Κορυφαίοι αθλητές μιλούν για την καλύτερη στιγμή της καριέρας τους.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260630025000 +0300" stop="20260630031500 +0300" channel="XTV100001109">
-    <title lang="el">Sports Classics: My Sporting Moment</title>
-    <desc lang="el">Φουχς. Κορυφαίοι αθλητές μιλούν για την καλύτερη στιγμή της καριέρας τους.</desc>
-    <category lang="el">Εκπομπή</category>
-  </programme>
-  <programme start="20260630031500 +0300" stop="20260630060000 +0300" channel="XTV100001109">
+  <programme start="20260630024500 +0300" stop="20260630060000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Stoiximan AegeanBall Festival</title>
     <desc lang="el">1η Ημέρα. Το Stoximan AegeanBall Festival είναι πολλά περισσότερα από ένα Τουρνουά 3x3. Αποστολή του είναι να μεταδώσει την αξία του ευ αγωνίζεσθαι, να φέρει τους ανθρώπους κοντά στον αθλητισμό και να προωθήσει το μήνυμα της κοινωνικής προσφοράς. Περιγραφή: Ρήγας Δάρδαλης, Γιάννης Φιλέρης, Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
@@ -23273,37 +23263,32 @@
     <desc lang="el">FIBA Basketball Champions League 2025-26. Τελικός 3ης Θέσης. Περιγραφή: Γιάννης Φιλέρης, Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260630170000 +0300" stop="20260630193000 +0300" channel="XTV100001109">
+  <programme start="20260630170000 +0300" stop="20260630190000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Γκόλντεν Στέιτ Βάλκιραϊς - Νιου Γιορκ Λίμπερτι</title>
     <desc lang="el">WNBA Regular Season 2026. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260630193000 +0300" stop="20260630200500 +0300" channel="XTV100001109">
-    <title lang="el">NBA Action 2025-26 Ε3536</title>
-    <desc lang="el">H αθλητική εκπομπή μεταφέρει στους Έλληνες φιλάθλους όλα τα νέα για το μαγικό κόσμο του ΝΒΑ, με συνεντεύξεις και αφιερώματα.</desc>
-    <category lang="el">Μπάσκετ</category>
-  </programme>
-  <programme start="20260630200500 +0300" stop="20260630220500 +0300" channel="XTV100001109">
+  <programme start="20260630190000 +0300" stop="20260630205000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Βαλένθια - Μπαρτσελόνα</title>
     <desc lang="el">ACB Liga Endesa 2025-26. 2ος Τελικός. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260630220500 +0300" stop="20260701005500 +0300" channel="XTV100001109">
+  <programme start="20260630205000 +0300" stop="20260701000000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Stoiximan AegeanBall Festival</title>
     <desc lang="el">1η Ημέρα. Το Stoximan AegeanBall Festival είναι πολλά περισσότερα από ένα Τουρνουά 3x3. Αποστολή του είναι να μεταδώσει την αξία του ευ αγωνίζεσθαι, να φέρει τους ανθρώπους κοντά στον αθλητισμό και να προωθήσει το μήνυμα της κοινωνικής προσφοράς. Περιγραφή: Ρήγας Δάρδαλης, Γιάννης Φιλέρης, Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260630220500 +0300" stop="20260701005500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Stoiximan AegeanBall Festival</title>
-    <desc lang="el">1η Ημέρα. Το Stoximan AegeanBall Festival είναι πολλά περισσότερα από ένα Τουρνουά 3x3. Αποστολή του είναι να μεταδώσει την αξία του ευ αγωνίζεσθαι, να φέρει τους ανθρώπους κοντά στον αθλητισμό και να προωθήσει το μήνυμα της κοινωνικής προσφοράς. Περιγραφή: Ρήγας Δάρδαλης, Γιάννης Φιλέρης, Άρης Μπάρκας.</desc>
-    <category lang="el">Μπάσκετ</category>
-  </programme>
-  <programme start="20260701005500 +0300" stop="20260701031000 +0300" channel="XTV100001109">
+  <programme start="20260701000000 +0300" stop="20260701021500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: ΑΕΚ - Μπανταλόνα</title>
     <desc lang="el">FIBA Basketball Champions League 2025-26. Προημιτελική Φάση, 3ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260701031000 +0300" stop="20260701060000 +0300" channel="XTV100001109">
+  <programme start="20260701021500 +0300" stop="20260701024500 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials: Basketball Stories</title>
+    <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260701024500 +0300" stop="20260701060000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Stoiximan AegeanBall Festival</title>
     <desc lang="el">2η Ημέρα. Το Stoximan AegeanBall Festival είναι πολλά περισσότερα από ένα Τουρνουά 3x3. Αποστολή του είναι να μεταδώσει την αξία του ευ αγωνίζεσθαι, να φέρει τους ανθρώπους κοντά στον αθλητισμό και να προωθήσει το μήνυμα της κοινωνικής προσφοράς. Περιγραφή: Ρήγας Δάρδαλης, Γιάννης Φιλέρης, Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
@@ -23333,37 +23318,32 @@
     <desc lang="el">Turkish Basketball Super League 2025-26. 2ος Τελικός. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260701150000 +0300" stop="20260701174500 +0300" channel="XTV100001109">
+  <programme start="20260701150000 +0300" stop="20260701181500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Stoiximan AegeanBall Festival</title>
     <desc lang="el">1η Ημέρα. Το Stoximan AegeanBall Festival είναι πολλά περισσότερα από ένα Τουρνουά 3x3. Αποστολή του είναι να μεταδώσει την αξία του ευ αγωνίζεσθαι, να φέρει τους ανθρώπους κοντά στον αθλητισμό και να προωθήσει το μήνυμα της κοινωνικής προσφοράς. Περιγραφή: Ρήγας Δάρδαλης, Γιάννης Φιλέρης, Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260701174500 +0300" stop="20260701183500 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials: Basketball Stories</title>
-    <desc lang="el">The Mailman. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260701183500 +0300" stop="20260701190500 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials: Basketball Stories</title>
-    <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260701190500 +0300" stop="20260701193000 +0300" channel="XTV100001109">
+  <programme start="20260701181500 +0300" stop="20260701183500 +0300" channel="XTV100001109">
     <title lang="el">Ισπανικό Πρωτάθλημα 2024-25 - 5η Περίοδος Ε36</title>
     <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της 5ης περιόδου του Ισπανικού Πρωταθλήματος μπάσκετ.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260701193000 +0300" stop="20260701213000 +0300" channel="XTV100001109">
+  <programme start="20260701183500 +0300" stop="20260701204000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπαρτσελόνα - Βαλένθια</title>
     <desc lang="el">ACB Liga Endesa 2025-26. 3ος Τελικός.  Περιγραφή: Βασίλης Σκουντής.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260701213000 +0300" stop="20260702001500 +0300" channel="XTV100001109">
+  <programme start="20260701204000 +0300" stop="20260701210000 +0300" channel="XTV100001109">
+    <title lang="el">Ισπανικό Πρωτάθλημα 2024-25 - 5η Περίοδος Ε36</title>
+    <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της 5ης περιόδου του Ισπανικού Πρωταθλήματος μπάσκετ.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260701210000 +0300" stop="20260702001500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Stoiximan AegeanBall Festival</title>
     <desc lang="el">2η Ημέρα. Το Stoximan AegeanBall Festival είναι πολλά περισσότερα από ένα Τουρνουά 3x3. Αποστολή του είναι να μεταδώσει την αξία του ευ αγωνίζεσθαι, να φέρει τους ανθρώπους κοντά στον αθλητισμό και να προωθήσει το μήνυμα της κοινωνικής προσφοράς. Περιγραφή: Ρήγας Δάρδαλης, Γιάννης Φιλέρης, Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260701213000 +0300" stop="20260702001500 +0300" channel="XTV100001109">
+  <programme start="20260701210000 +0300" stop="20260702001500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Stoiximan AegeanBall Festival</title>
     <desc lang="el">2η Ημέρα. Το Stoximan AegeanBall Festival είναι πολλά περισσότερα από ένα Τουρνουά 3x3. Αποστολή του είναι να μεταδώσει την αξία του ευ αγωνίζεσθαι, να φέρει τους ανθρώπους κοντά στον αθλητισμό και να προωθήσει το μήνυμα της κοινωνικής προσφοράς. Περιγραφή: Ρήγας Δάρδαλης, Γιάννης Φιλέρης, Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
@@ -24323,15 +24303,20 @@
     <desc lang="el">Βαγιαδολίδ (Τελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260629140000 +0300" stop="20260629163000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026</title>
-    <desc lang="el">Μαγιόρκα (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Χρήστος Βασιλείου.</desc>
+  <programme start="20260629140000 +0300" stop="20260629161000 +0300" channel="XTV100001360">
+    <title lang="el">Τένις: Ίθαν Κουίν - Αλεχάντρο Νταβίντοβιτς Φοκίνα</title>
+    <desc lang="el">ATP 250 2026. Μαγιόρκα (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260629163000 +0300" stop="20260629190000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026</title>
-    <desc lang="el">Ίστμπουρν (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Μάλαμας.</desc>
+  <programme start="20260629161000 +0300" stop="20260629183000 +0300" channel="XTV100001360">
+    <title lang="el">Τένις: Ζίζου Μπεργκς - Ουγκό Ουμπέρ</title>
+    <desc lang="el">ATP 250 2026. Ίστμπουρν (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Μάλαμας.</desc>
     <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260629183000 +0300" stop="20260629190000 +0300" channel="XTV100001360">
+    <title lang="el">Sports Classics: 2026 Outdoor Specials</title>
+    <desc lang="el">Mediterranean Games επ.02. Η εκπομπή σας φέρνει τα πιο συναρπαστικά γεγονότα των extreme sports. Από το windsurfing μέχρι την ορειβασία και από την οδήγηση αγώνων μέχρι τις καταδύσεις σπηλαίων, αυτή είναι μια σειρά που θα σας δώσει μια γενναιόδωρη δόση αδρεναλίνης.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260629190000 +0300" stop="20260629203000 +0300" channel="XTV100001360">
     <title lang="el">Topspin (Ζ)</title>
@@ -24368,12 +24353,12 @@
     <desc lang="el">Η μοναδική εκπομπή για το τένις, φιλοξενεί πλούσια αγωνιστική επικαιρότητα και θεματολογία από το χώρο του τένις, στην Ελλάδα και το εξωτερικό.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260630002500 +0300" stop="20260630013000 +0300" channel="XTV100001360">
+  <programme start="20260630002500 +0300" stop="20260630012500 +0300" channel="XTV100001360">
     <title lang="el">ATP 500 2026 - Στιγμιότυπα</title>
     <desc lang="el">Χάλε. Παρακολουθήστε τα στιγμιότυπα των κυριότερων αγώνων των τουρνουά ATP 500, που ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260630013000 +0300" stop="20260630043000 +0300" channel="XTV100001360">
+  <programme start="20260630012500 +0300" stop="20260630043000 +0300" channel="XTV100001360">
     <title lang="el">Fight Sports: Oktagon 2026</title>
     <desc lang="el">89 (Σλοβακία, Μπρατισλάβα). Στο Oktagon συμμετέχουν κάθε χρόνο οι κορυφαίοι αθλητές MMA της Ευρώπης.</desc>
     <category lang="el">Πολεμικές Τέχνες</category>
