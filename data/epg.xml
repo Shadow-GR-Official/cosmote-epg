@@ -2530,7 +2530,7 @@
   </programme>
   <programme start="20260720200000 +0300" stop="20260720210000 +0300" channel="XTV100000955">
     <title lang="el">Η Λίστα των Δεύτερων Ευκαιριών Ε1</title>
-    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: Κρύο. Μετά από μια πνευμονική ασθένεια, ο Βικτόρ προσπαθεί να ανακτήσει τον έλεγχο του σώματός του. Αυτή η σειρά βασίζεται στη λίστα που ο Βικτόρ έγραψε όταν η ζωή του κινδύνευε. Κάθε επεισόδιο είναι ένα ταξίδι, κάθε ταξίδι είναι μια πρόκληση.</desc>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: Κρύο. Στο κρεβάτι του νοσοκομείου, ο Βικτόρ υποσχέθηκε στον εαυτό του ότι μια μέρα θα έκανε κατάδυση κάτω από τον πάγο. Τώρα πρέπει να ξεπεράσει τη φοβία του για το κρύο και τα εμπόδια στο μυαλό του για να φτάσει ως το τέλος της πρόκλησης.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
   <programme start="20260720210000 +0300" stop="20260720213000 +0300" channel="XTV100000955">
@@ -2543,7 +2543,7 @@
     <desc lang="el">Επεισόδιο: Γιώργος Χατζηπαύλου. Χιουμοριστική εκπομπή για το Παγκόσμιο Κύπελλο Ποδοσφαίρου, με παρουσιαστές τον Λευτέρη Ελευθερίου και τον Αντώνη Κρόμπα.</desc>
     <category lang="el">Special</category>
   </programme>
-  <programme start="20260720220000 +0300" stop="20260721003000 +0300" channel="XTV100000955">
+  <programme start="20260720220000 +0300" stop="20260721013000 +0300" channel="XTV100000955">
     <title lang="el">Ποδόσφαιρο: Ισπανία - Αργεντινή</title>
     <desc lang="el">Παγκόσμιο Κύπελλο Ποδοσφαίρου 2026. Τελικός και απονομή. Νέα Υόρκη. Η Αργεντινή, πρωταθλήτρια κόσμου και Νότιας Αμερικής, στοχεύει στην εξασφάλιση του 4ου τίτλου τους, ενώ οι πρωταθλήτρια Ευρώπης Ισπανία κυνηγάει τον 2ο θρίαμβό της σε Παγκόσμιο Κύπελλο. Περιγραφή: Γιώργος Χαϊκάλης, Αλέξης Σπυρόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
@@ -25444,23 +25444,23 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260720140000 +0300" stop="20260720160000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Εστορίλ (Κυρίως Ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
+    <title lang="el">Τένις: Τιάγκο Τόρες - Νικολόζ Μπασιλασβίλι (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Εστορίλ (Κυρίως Ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260720160000 +0300" stop="20260720180000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Εστορίλ (Κυρίως Ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
+    <title lang="el">Τένις: Τιτούαν Ντρογκέ - Καµίλο Ούγκο Καραµπέλι (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Εστορίλ (Κυρίως Ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260720180000 +0300" stop="20260720200000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Εστορίλ (Κυρίως Ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Δημήτρης Ξαρλής.</desc>
+    <title lang="el">Τένις: Φρεντερίκο Φερέιρα Σίλβα - Λούκα Βαν Άσε (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Εστορίλ (Κυρίως Ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Δημήτρης Ξαρλής.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260720200000 +0300" stop="20260720223000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Εστορίλ (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Δημήτρης Ξαρλής.</desc>
+    <title lang="el">Τένις: Χένρικ Ρόκα - Πέδρο Μαρτίνεθ (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Εστορίλ (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Δημήτρης Ξαρλής.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260720223000 +0300" stop="20260720230000 +0300" channel="XTV100001360">
@@ -25468,7 +25468,7 @@
     <desc lang="el">Αυτή η σειρά παρουσιάζει ένα ευρύ φάσμα υπαίθριων σπορ καθώς και τους αθλητές που αγωνίζονται σε αυτά. Η εκπομπή καλύπτει από επαγγελματικά και ψυχαγωγικά έως και extreme sports, όπως αγώνες μαραθωνίου, αναρρίχηση, σκι, σέρφινγκ, πεζοπορία, τρίαθλο, ιστιοπλοΐα και ποδηλασία.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
-  <programme start="20260720230000 +0300" stop="20260721030000 +0300" channel="XTV100001360">
+  <programme start="20260720230000 +0300" stop="20260721023500 +0300" channel="XTV100001360">
     <title lang="el">Τένις: ATP 250 2026</title>
     <desc lang="el">Εστορίλ (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour.</desc>
     <category lang="el">Τένις</category>
@@ -27314,8 +27314,8 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260720140000 +0300" stop="20260720163000 +0300" channel="XTV900000002">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Εστορίλ (Κυρίως Ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
+    <title lang="el">Τένις: Τιάγκο Τόρες - Νικολόζ Μπασιλασβίλι (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Εστορίλ (Κυρίως Ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260720163000 +0300" stop="20260720170000 +0300" channel="XTV900000002">
@@ -31265,43 +31265,43 @@
   </programme>
   <programme start="20260720060000 +0300" stop="20260720100000 +0300" channel="XTV600000606">
     <title lang="el">Novasports 6 HD</title>
-    <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
+    <desc lang="el">Ξανά κοντά σας στις 11:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
-  <programme start="20260720100000 +0300" stop="20260720120000 +0300" channel="XTV600000606">
+  <programme start="20260720100000 +0300" stop="20260720110000 +0300" channel="XTV600000606">
     <title lang="el">Novasports 6 HD</title>
-    <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
+    <desc lang="el">Ξανά κοντά σας στις 11:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
-  <programme start="20260720120000 +0300" stop="20260720140000 +0300" channel="XTV600000606">
+  <programme start="20260720110000 +0300" stop="20260720130000 +0300" channel="XTV600000606">
+    <title lang="el">WTA 250 2026 (Ζ)</title>
+    <desc lang="el">Ιάσιο, Τελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου. Περιγραφή: Σ. Δημολίτσας</desc>
+    <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260720130000 +0300" stop="20260720163000 +0300" channel="XTV600000606">
     <title lang="el">WTA 250 2026</title>
     <desc lang="el">Ιάσιο, Προημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260720140000 +0300" stop="20260720160000 +0300" channel="XTV600000606">
+  <programme start="20260720163000 +0300" stop="20260720184500 +0300" channel="XTV600000606">
     <title lang="el">WTA 250 2026</title>
     <desc lang="el">Ιάσιο, Προημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260720160000 +0300" stop="20260720180000 +0300" channel="XTV600000606">
+  <programme start="20260720184500 +0300" stop="20260720210000 +0300" channel="XTV600000606">
     <title lang="el">WTA 250 2026</title>
     <desc lang="el">Ιάσιο, Προημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260720180000 +0300" stop="20260720200000 +0300" channel="XTV600000606">
+  <programme start="20260720210000 +0300" stop="20260720230000 +0300" channel="XTV600000606">
     <title lang="el">WTA 250 2026</title>
-    <desc lang="el">Ιάσιο, Προημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου.</desc>
+    <desc lang="el">Ιάσιο, Τελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260720200000 +0300" stop="20260720223000 +0300" channel="XTV600000606">
-    <title lang="el">WTA 250 2026</title>
-    <desc lang="el">Επεισόδιο: Νότιγχαμ, Ημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Lexus Nottingham Open της σειράς WTA 250, που πραγματοποιείται στο Νότιγχαμ της Αγγλίας το διάστημα 15-21 Ιουνίου.</desc>
-    <category lang="el">Τένις</category>
-  </programme>
-  <programme start="20260720223000 +0300" stop="20260721013000 +0300" channel="XTV600000606">
-    <title lang="el">WTA 250 2026</title>
-    <desc lang="el">Νότιγχαμ, Τελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Lexus Nottingham Open της σειράς WTA 250, που πραγματοποιείται στο Νότιγχαμ της Αγγλίας το διάστημα 15-21 Ιουνίου.</desc>
-    <category lang="el">Τένις</category>
+  <programme start="20260720230000 +0300" stop="20260721000000 +0300" channel="XTV600000606">
+    <title lang="el">Novasports 6 HD</title>
+    <desc lang="el">Ξανά κοντά σας αύριο στις 11:45. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
+    <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260720223000 +0300" stop="20260721013000 +0300" channel="XTV600000606">
     <title lang="el">WTA 250 2026</title>
@@ -61694,9 +61694,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260720220000 +0300" stop="20260720233000 +0300" channel="XTV100000913">
-    <title lang="el">Persona Grata</title>
-    <desc lang="el">Προσωπικότητες που με το έργο τους έχουν επηρεάσει και διαμορφώσει τη σύγχρονη ιστορία του τόπου. Η εκπομπή καταγράφει την πορεία και το έργο δημιουργών από όλο το φάσμα των επιχειρήσεων, των τεχνών, των γραμμάτων και των επιστημών.</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Απόκρυφες Ρίζες</title>
+    <desc lang="el">Γλέντι Καραμανλήδων, Λιμνιά Καβάλας. Με τη Χριστίνα Νεφραίμ.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
   <programme start="20260720233000 +0300" stop="20260721003000 +0300" channel="XTV100000913">
     <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
@@ -63938,20 +63938,85 @@
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
     <category lang="el">Special</category>
   </programme>
-  <programme start="20260720120000 +0300" stop="20260720160000 +0300" channel="XTV100002326">
+  <programme start="20260720120000 +0300" stop="20260720122000 +0300" channel="XTV100002326">
     <title lang="el">Nea TV Crete</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
     <category lang="el">Special</category>
   </programme>
-  <programme start="20260720160000 +0300" stop="20260720200000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260720122000 +0300" stop="20260720132500 +0300" channel="XTV100002326">
+    <title lang="el">Καρέ Καρέ: Μαθήματα Σκίτσου</title>
+    <desc lang="el">Ο σκιτσογράφος Δημήτρης Νικολαΐδης παρουσιάζει με απλές γραμμές τα αντικείμενα στο σαλόνι και στην κρεβατοκάμαρα, τη γυναίκα, μέσα μεταφορών, παραλία και αμμουδιά και άλλα σκίτσα καθημερινής ασχολίας. Σκίτσα δίνουν στους επίδοξους σκιτσογράφους την απλότητα και την σκέψη.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260720200000 +0300" stop="20260721000000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260720132500 +0300" stop="20260720140000 +0300" channel="XTV100002326">
+    <title lang="el">Γκρεμνά και Γεύσεις</title>
+    <desc lang="el">Ντοκιμαντέρ. Με την Εύα Παρακεντάκη.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260720140000 +0300" stop="20260720150000 +0300" channel="XTV100002326">
+    <title lang="el">Στο Κόκκινο: Cooking Edition</title>
+    <desc lang="el">Οι πιο νόστιμες μαγειρικές στιγμές της σεζόν που πέρασε. Παρουσίαση: Γωγώ Καλληδονάκη.</desc>
+    <category lang="el">Μαγειρική</category>
+  </programme>
+  <programme start="20260720150000 +0300" stop="20260720153500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260720153500 +0300" stop="20260720163500 +0300" channel="XTV100002326">
+    <title lang="el">Προορισμοί</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Ψυχαγωγική εκπομπή.</desc>
+    <category lang="el">Ψυχολογικό Δράμα</category>
+  </programme>
+  <programme start="20260720163500 +0300" stop="20260720180000 +0300" channel="XTV100002326">
+    <title lang="el">Nea Sport Magazine</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260720180000 +0300" stop="20260720183500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260720183500 +0300" stop="20260720193000 +0300" channel="XTV100002326">
+    <title lang="el">The Escapers</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Η Πόπη Μαλλιωτάκη και ο Βασίλης Λαζαρίδης ξεδιπλώνουν για πρώτη φορά την καθημερινότητα τους σε ένα ταξιδιωτικό ριάλιτι γεμάτο στιγμές γέλιου, χαράς και απροσδόκητων καταστάσεων ταξιδεύοντας μας στα πιο hot spots του κόσμου.</desc>
+    <category lang="el">Ριάλιτι</category>
+  </programme>
+  <programme start="20260720193000 +0300" stop="20260720194000 +0300" channel="XTV100002326">
+    <title lang="el">Τηλεπωλήσεις</title>
+    <desc lang="el">Πώληση προϊόντων μέσω τηλεοπτικής προβολής. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+  </programme>
+  <programme start="20260720194000 +0300" stop="20260720200000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260720200000 +0300" stop="20260720203500 +0300" channel="XTV100002326">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τα τελευταία γεγονότα από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260720203500 +0300" stop="20260720224000 +0300" channel="XTV100002326">
+    <title lang="el">Παρέα Με Την Αριστέα</title>
+    <desc lang="el">Η εκπομπή επισκέπτεται χωριά της Κρήτης, μας μαθαίνει τους ανθρώπους και την ιστορία τους. Παρέα γνωρίζουμε την παράδοση και την μουσική τους.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260720224000 +0300" stop="20260720230000 +0300" channel="XTV100002326">
+    <title lang="el">Τηλεπωλήσεις</title>
+    <desc lang="el">Πώληση προϊόντων μέσω τηλεοπτικής προβολής. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+  </programme>
+  <programme start="20260720230000 +0300" stop="20260720234500 +0300" channel="XTV100002326">
+    <title lang="el">Ρεπορτάζ</title>
+    <desc lang="el">Μια ειδησεογραφική εκπομπή που φωτίζει θέματα τα οποία δεν βγαίνουν συχνά στην δημοσιότητα. Με την Ευτυχία Πενταράκη.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260720234500 +0300" stop="20260721000000 +0300" channel="XTV100002326">
+    <title lang="el">Τηλεπωλήσεις</title>
+    <desc lang="el">Πώληση προϊόντων μέσω τηλεοπτικής προβολής. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
   </programme>
   <programme start="20260721000000 +0300" stop="20260721040000 +0300" channel="XTV100002326">
     <title lang="el">Nea TV Crete</title>
