@@ -1278,15 +1278,10 @@
     <desc lang="el">Με ανταποκριτές σε κάθε γωνιά της Ελλάδας και σε όλο τον κόσμο το κεντρικό δελτίο ειδήσεων της ΕΡΤ μεταφέρει σε κάθε σπίτι το καθημερινό ρεπορτάζ, τις έκτακτες ειδήσεις, αλλά και όσα επηρεάζουν τη ζωή μας.</desc>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260724190000 +0300" stop="20260724200500 +0300" channel="XTV100003524">
-    <title lang="el">Η Μηχανή του Χρόνου</title>
-    <desc lang="el">Μέσα από έρευνα και ντοκουμέντα, η εκπομπή εμβαθύνει στα γεγονότα της ιστορίας και αναζητά το ρόλο των προσώπων. Η κοινωνία και οι αλλαγές της, οι πρωταγωνιστές και οι συγκρούσεις τους γίνονται μικρές και μεγάλες τηλεοπτικές ιστορίες.</desc>
-    <category lang="el">Εκπομπή</category>
-  </programme>
-  <programme start="20260724200500 +0300" stop="20260724210000 +0300" channel="XTV100003524">
-    <title lang="el">Πολιτική Κουζίνα</title>
-    <desc lang="el">Η 'Πολιτική κουζίνα' φωτίζει όσα μένουν σκόπιμα στη σκιά, μετατρέπει κάθε ερώτημα σε αποκαλυπτική απάντηση και φέρνει στο φως τα μυστικά των άγνωστων πολιτικών 'συνταγών'. Με τη Γεωργία Σκιτζή και τη Γεωργία Σαδανά.</desc>
-    <category lang="el">Εκπομπή</category>
+  <programme start="20260724190000 +0300" stop="20260724210000 +0300" channel="XTV100003524">
+    <title lang="el">Η Αποκατάσταση της Δημοκρατίας</title>
+    <desc lang="el">Ένα δίωρο αφιέρωμα του ΕΡΤnews 52 χρόνια μετά την πτώση της Χούντας των Συνταγματαρχών. Η εκπομπή περιλαμβάνει ιστορικές αναλύσεις, σπάνιο αρχειακό υλικό και ρεπορτάζ από τη δεξίωση στο Προεδρικό Μέγαρο.</desc>
+    <category lang="el">Πολιτικό</category>
   </programme>
   <programme start="20260724210000 +0300" stop="20260724220000 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -2710,7 +2705,7 @@
   </programme>
   <programme start="20260725131500 +0300" stop="20260725144500 +0300" channel="XTV100000955">
     <title lang="el">Πόλο: Ελλάδα - Ιταλία (Ζ)</title>
-    <desc lang="el">World Cup. Ημιτελικός. Οι οκτώ κορυφαίες εθνικές ομάδες πόλο ανδρών στον κόσμο διαγωνίζονται για το τρόπαιο του Παγκοσμίου Κυπέλλου Πόλο του World Aquatics 2026 στο Σίδνεϊ της Αυστραλίας, από τις 22 έως τις 26 Ιουλίου 2026.</desc>
+    <desc lang="el">World Cup. Ημιτελικός. Μετά τη νίκη με 14-13 επί του Μαυροβουνίου, η Εθνική πόλο αντιμετωπίζει την Ιταλία στον ημιτελικό του Super Final του World Cup που διεξάγεται στην Αυστραλία.</desc>
     <category lang="el">Πόλο</category>
   </programme>
   <programme start="20260725144500 +0300" stop="20260725151500 +0300" channel="XTV100000955">
@@ -4870,7 +4865,7 @@
   </programme>
   <programme start="20260725090000 +0300" stop="20260725110000 +0300" channel="XTV100001026">
     <title lang="el">America's Got Talent (Ε)</title>
-    <desc lang="el">Η 19η σεζόν του κορυφαίου talent show και η θρυλική τετράδα των κριτών, Simon Cowell, Heidi Klum, Sofía Vergara και Howie Mandel, έρχονται για να μας ξεσηκώσουν μέσα από ένα εκρηκτικό μίγμα θεάματος, συγκίνησης και απρόβλεπτων ταλέντων.</desc>
+    <desc lang="el">Το κορυφαίο talent show και η θρυλική τετράδα των κριτών, Simon Cowell, Heidi Klum, Sofía Vergara και Howie Mandel, έρχονται για να μας ξεσηκώσουν μέσα από ένα εκρηκτικό μίγμα θεάματος, συγκίνησης και απρόβλεπτων ταλέντων.</desc>
     <category lang="el">Talent Show</category>
   </programme>
   <programme start="20260725110000 +0300" stop="20260725114000 +0300" channel="XTV100001026">
@@ -4930,7 +4925,7 @@
   </programme>
   <programme start="20260725214500 +0300" stop="20260725234500 +0300" channel="XTV100001026">
     <title lang="el">America's Got Talent</title>
-    <desc lang="el">Η 19η σεζόν του κορυφαίου talent show και η θρυλική τετράδα των κριτών, Simon Cowell, Heidi Klum, Sofía Vergara και Howie Mandel, έρχονται για να μας ξεσηκώσουν μέσα από ένα εκρηκτικό μίγμα θεάματος, συγκίνησης και απρόβλεπτων ταλέντων.</desc>
+    <desc lang="el">Το κορυφαίο talent show και η θρυλική τετράδα των κριτών, Simon Cowell, Heidi Klum, Sofía Vergara και Howie Mandel, έρχονται για να μας ξεσηκώσουν μέσα από ένα εκρηκτικό μίγμα θεάματος, συγκίνησης και απρόβλεπτων ταλέντων.</desc>
     <category lang="el">Talent Show</category>
   </programme>
   <programme start="20260725234500 +0300" stop="20260726004500 +0300" channel="XTV100001026">
@@ -5035,7 +5030,7 @@
   </programme>
   <programme start="20260726214500 +0300" stop="20260726234500 +0300" channel="XTV100001026">
     <title lang="el">America's Got Talent</title>
-    <desc lang="el">Η 19η σεζόν του κορυφαίου talent show και η θρυλική τετράδα των κριτών, Simon Cowell, Heidi Klum, Sofía Vergara και Howie Mandel, έρχονται για να μας ξεσηκώσουν μέσα από ένα εκρηκτικό μίγμα θεάματος, συγκίνησης και απρόβλεπτων ταλέντων.</desc>
+    <desc lang="el">Το κορυφαίο talent show και η θρυλική τετράδα των κριτών, Simon Cowell, Heidi Klum, Sofía Vergara και Howie Mandel, έρχονται για να μας ξεσηκώσουν μέσα από ένα εκρηκτικό μίγμα θεάματος, συγκίνησης και απρόβλεπτων ταλέντων.</desc>
     <category lang="el">Talent Show</category>
   </programme>
   <programme start="20260726234500 +0300" stop="20260727004500 +0300" channel="XTV100001026">
@@ -10655,7 +10650,7 @@
   </programme>
   <programme start="20260725010000 +0300" stop="20260725030000 +0300" channel="XTV100002365">
     <title lang="el">Ποδόσφαιρο: Ρασίνγκ Κλουμπ - Χιμνάσια λα Πλάτα (Ζ)</title>
-    <desc lang="el">Liga Profesional Clausura. Αγώνας.</desc>
+    <desc lang="el">Liga Profesional Clausura. Η Ρασίνγκ Κλουμπ έχει κερδίσει δύο εντός έδρας αγώνες. Η Χιμνασία Λα Πλάτα, από την άλλη πλευρά, έχει κερδίσει πέντε εκτός έδρας και έχει παραμείνει αήττητη σε 8 από τις 13 αναμετρήσεις των δύο ομάδων.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260725030000 +0300" stop="20260725050000 +0300" channel="XTV100002365">
@@ -10755,7 +10750,7 @@
   </programme>
   <programme start="20260726011500 +0300" stop="20260726031500 +0300" channel="XTV100002365">
     <title lang="el">Ποδόσφαιρο: Ρίβερ Πλέιτ - Μπαράκας Σεντράλ (Ζ)</title>
-    <desc lang="el">Liga Profesional Clausura. Αγώνας.</desc>
+    <desc lang="el">Liga Profesional Clausura. Η Ρίβερ Πλέιτ κέρδισε 7 φορές στις τελευταίες 8 συναντήσεις της με την Μπάρακας Σέντραλ, αλλά έχει σημειώσει μόνο 7 εντός έδρας νίκες στο Estadio Monumental Antonio Vespucio Liberti αυτή τη σεζόν.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260726031500 +0300" stop="20260726041500 +0300" channel="XTV100002365">
@@ -25879,13 +25874,13 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260724140000 +0300" stop="20260724160000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Εστορίλ (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
+    <title lang="el">Τένις: Τιάγκο Τόρες - Ούγκο Γκαστόν (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Εστορίλ (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260724160000 +0300" stop="20260724183000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Εστορίλ (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Δημήτρης Ξαρλής.</desc>
+    <title lang="el">Τένις: Αντρέι Ρούμπλεφ - Λούκα Βαν Άσε (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Εστορίλ (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Δημήτρης Ξαρλής.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260724183000 +0300" stop="20260724190000 +0300" channel="XTV100001360">
@@ -25894,13 +25889,13 @@
     <category lang="el">Πάντελ</category>
   </programme>
   <programme start="20260724190000 +0300" stop="20260724210000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Εστορίλ (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Στέφανος Αβραμίδης.</desc>
+    <title lang="el">Τένις: Ροµάν Αντρές Μπουρουτσάγκα - Αλεξάντερ Μπλοξ (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Εστορίλ (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Στέφανος Αβραμίδης.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260724210000 +0300" stop="20260724233000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Εστορίλ (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
+    <title lang="el">Τένις: Ζάιμ Φαρία - Λουτσιάνο Νταρντέρι (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Εστορίλ (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260724233000 +0300" stop="20260725000000 +0300" channel="XTV100001360">
@@ -63168,9 +63163,14 @@
     <desc lang="el">Επεισόδιο: Ο Μνήστωρ Ιωσήφ. Ο έγκριτος Καθηγητής Θεολογίας κ. Νίκος Νικολαΐδης παραδίδει από τηλεοράσεως μαθήματα Θεολογίας. Γνωρίζουμε τα βαθιά νοήματα της πίστεώς μας, σε μια διδασκαλία που... καθηλώνει!</desc>
     <category lang="el">Θρησκευτικό</category>
   </programme>
-  <programme start="20260724190000 +0300" stop="20260725010000 +0300" channel="XTV100000911">
+  <programme start="20260724190000 +0300" stop="20260724230000 +0300" channel="XTV100000911">
     <title lang="el">Ιερά Αγρυπνία</title>
-    <desc lang="el">Επεισόδιο: Αγίας Άννας. Απευθείας μετάδοση από την Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου.</desc>
+    <desc lang="el">Απευθείας σύνδεση με την Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260724230000 +0300" stop="20260725010000 +0300" channel="XTV100000911">
+    <title lang="el">Ιερά Αγρυπνία</title>
+    <desc lang="el">Απευθείας σύνδεση με την Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου.</desc>
     <category lang="el">Θρησκευτικό</category>
   </programme>
   <programme start="20260724190000 +0300" stop="20260725010000 +0300" channel="XTV100000911">
