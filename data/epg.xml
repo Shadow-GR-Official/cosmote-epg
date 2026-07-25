@@ -24893,10 +24893,20 @@
     <desc lang="el">ACB Liga Endesa 2025-26. 20ή Αγωνιστική. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260726170000 +0300" stop="20260726191500 +0300" channel="XTV100001109">
+  <programme start="20260726170000 +0300" stop="20260726181500 +0300" channel="XTV100001109">
     <title lang="el">WNBA All Star Weekend 2026</title>
     <desc lang="el">Διαγωνισμός Δεξιοτήτων &amp; Διαγωνισμός Τριπόντων. Το WNBA All-Star Weekend 2026 θα πραγματοποιηθεί από τις 23 έως τις 25 Ιουλίου 2026 στο Σικάγο του Ιλινόις. Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260726181500 +0300" stop="20260726184500 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260726184500 +0300" stop="20260726191500 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials: Basketball Stories</title>
+    <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260726191500 +0300" stop="20260726212000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Αναντολού Εφές - Μπεσίκτας</title>
@@ -25989,8 +25999,8 @@
     <category lang="el">Πάντελ</category>
   </programme>
   <programme start="20260726003000 +0300" stop="20260726030000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026</title>
-    <desc lang="el">Κίτσμπουελ (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
+    <title lang="el">Τένις: Αλεξάντερ Μπουμπλίκ - Κουέντιν Άλις</title>
+    <desc lang="el">ATP 250 2026. Κίτσμπουελ (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260726030000 +0300" stop="20260726050000 +0300" channel="XTV100001360">
@@ -26024,8 +26034,8 @@
     <category lang="el">Πάντελ</category>
   </programme>
   <programme start="20260726130000 +0300" stop="20260726153000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026</title>
-    <desc lang="el">Κίτσμπουελ (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
+    <title lang="el">Τένις: Αλεξάντερ Μπουμπλίκ - Κουέντιν Άλις</title>
+    <desc lang="el">ATP 250 2026. Κίτσμπουελ (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260726153000 +0300" stop="20260726193000 +0300" channel="XTV100001360">
