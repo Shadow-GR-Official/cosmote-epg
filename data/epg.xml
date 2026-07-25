@@ -23954,8 +23954,8 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260725130000 +0300" stop="20260725150000 +0300" channel="XTV100001080">
-    <title lang="el">Ποδόσφαιρο: Αντβέρπ - Ολυμπιακός</title>
-    <desc lang="el">Φιλικός Αγώνας. Περιγραφή: Δημήτρης Σπηλιόπουλος.</desc>
+    <title lang="el">Ποδόσφαιρο: Άγιαξ - Ολυμπιακός</title>
+    <desc lang="el">Φιλικός Αγώνας. Περιγραφή: Λάμπρος Μπαλάφας.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260725150000 +0300" stop="20260725170000 +0300" channel="XTV100001080">
@@ -24793,10 +24793,15 @@
     <desc lang="el">Lega Basket Serie A 2025-26. 30η Αγωνιστική.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260725122500 +0300" stop="20260725142500 +0300" channel="XTV100001109">
+  <programme start="20260725122500 +0300" stop="20260725135000 +0300" channel="XTV100001109">
     <title lang="el">WNBA All Star Weekend 2026</title>
     <desc lang="el">Διαγωνισμός Δεξιοτήτων &amp; Διαγωνισμός Τριπόντων. Το WNBA All-Star Weekend 2026 θα πραγματοποιηθεί από τις 23 έως τις 25 Ιουλίου 2026 στο Σικάγο του Ιλινόις. Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260725135000 +0300" stop="20260725142500 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Larry Bird's Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260725142500 +0300" stop="20260725162500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπανταλόνα - Βαλένθια</title>
@@ -24823,10 +24828,15 @@
     <desc lang="el">Turkish Basketball Super League 2025-26. 21η Αγωνιστική.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260725214000 +0300" stop="20260725234000 +0300" channel="XTV100001109">
+  <programme start="20260725214000 +0300" stop="20260725225500 +0300" channel="XTV100001109">
     <title lang="el">WNBA All Star Weekend 2026</title>
     <desc lang="el">Διαγωνισμός Δεξιοτήτων &amp; Διαγωνισμός Τριπόντων. Το WNBA All-Star Weekend 2026 θα πραγματοποιηθεί από τις 23 έως τις 25 Ιουλίου 2026 στο Σικάγο του Ιλινόις. Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260725225500 +0300" stop="20260725234000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials: Basketball Stories</title>
+    <desc lang="el">The Mailman. Στιγμιότυπα από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260725234000 +0300" stop="20260726020000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: ΑΕΚ - Μπανταλόνα</title>
@@ -25939,8 +25949,8 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260725140000 +0300" stop="20260725163000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Κίτσμπουελ (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
+    <title lang="el">Τένις: Αλεξάντερ Μπουμπλίκ - Κουέντιν Άλις  (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Κίτσμπουελ (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260725163000 +0300" stop="20260725170000 +0300" channel="XTV100001360">
@@ -25964,13 +25974,13 @@
     <category lang="el">Πάντελ</category>
   </programme>
   <programme start="20260725193000 +0300" stop="20260725213000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Εστορίλ (1ος Ημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Λάμπρος Μπαλάφας.</desc>
+    <title lang="el">Τένις: Λούκα Βαν Άσε - Ούγκο Γκαστόν (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Εστορίλ (1ος Ημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Λάμπρος Μπαλάφας.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260725213000 +0300" stop="20260726000000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Εστορίλ (2ος Ημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
+    <title lang="el">Τένις: Αλεξάντερ Μπλοξ - Λουτσιάνο Νταρντέρι (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Εστορίλ (2ος Ημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260726000000 +0300" stop="20260726003000 +0300" channel="XTV100001360">
