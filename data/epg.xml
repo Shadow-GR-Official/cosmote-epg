@@ -25943,22 +25943,57 @@
     <desc lang="el">ATP 250 2026. Λος Κάμπος (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260803115500 +0300" stop="20260803142000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: Τέιλορ Φριτζ - Ραφαέλ Ζοντάρ</title>
-    <desc lang="el">ATP 500 2026. Ουάσινγκτον. Τελικός. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Πάνος Λούτας.</desc>
+  <programme start="20260803115500 +0300" stop="20260803124500 +0300" channel="XTV100001360">
+    <title lang="el">Premier Padel Tour 2026</title>
+    <desc lang="el">Πρετόρια (Τελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
+    <category lang="el">Πάντελ</category>
+  </programme>
+  <programme start="20260803124500 +0300" stop="20260803144000 +0300" channel="XTV100001360">
+    <title lang="el">Τένις: Αρτούρ Γκία - Ντένις Σαποβάλοφ</title>
+    <desc lang="el">ATP 250 2026. Λος Κάμπος (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260803142000 +0300" stop="20260803180000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP Masters 1000 2026</title>
-    <desc lang="el">Μόντρεαλ (Κυρίως Ταμπλό). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία.</desc>
-    <category lang="el">Τένις</category>
+  <programme start="20260803144000 +0300" stop="20260803152500 +0300" channel="XTV100001360">
+    <title lang="el">Beach Volley: Pro Tour Elite 16 2026</title>
+    <desc lang="el">Ρίο ντε Τζανέιρο (Τελικός 3ης Θέσης Γυναικών). Το 2026 Volleyball World Beach Pro Tour είναι η τέταρτη έκδοση του παγκόσμιου πρωταθλήματος beach volley που διοργανώνεται από την FIVB για το 2026. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
+    <category lang="el">Beach Volley</category>
   </programme>
-  <programme start="20260803180000 +0300" stop="20260803213000 +0300" channel="XTV100001360">
+  <programme start="20260803152500 +0300" stop="20260803162500 +0300" channel="XTV100001360">
+    <title lang="el">Beach Volley: Pro Tour Elite 16 2026</title>
+    <desc lang="el">Ρίο ντε Τζανέιρο (Τελικός 3ης Θέσης Ανδρών). Το 2026 Volleyball World Beach Pro Tour είναι η τέταρτη έκδοση του παγκόσμιου πρωταθλήματος beach volley που διοργανώνεται από την FIVB για το 2026. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
+    <category lang="el">Beach Volley</category>
+  </programme>
+  <programme start="20260803162500 +0300" stop="20260803171000 +0300" channel="XTV100001360">
+    <title lang="el">Beach Volley: Pro Tour Elite 16 2026</title>
+    <desc lang="el">Ρίο ντε Τζανέιρο (Τελικός Ανδρών). Το 2026 Volleyball World Beach Pro Tour είναι η τέταρτη έκδοση του παγκόσμιου πρωταθλήματος beach volley που διοργανώνεται από την FIVB για το 2026. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
+    <category lang="el">Beach Volley</category>
+  </programme>
+  <programme start="20260803171000 +0300" stop="20260803180000 +0300" channel="XTV100001360">
+    <title lang="el">Beach Volley: Pro Tour Elite 16 2026</title>
+    <desc lang="el">Ρίο ντε Τζανέιρο (Τελικός Γυναικών). Το 2026 Volleyball World Beach Pro Tour είναι η τέταρτη έκδοση του παγκόσμιου πρωταθλήματος beach volley που διοργανώνεται από την FIVB για το 2026. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
+    <category lang="el">Beach Volley</category>
+  </programme>
+  <programme start="20260803180000 +0300" stop="20260803183000 +0300" channel="XTV100001360">
+    <title lang="el">Sports Classics: The Outdoor Sports Show 2026 Ε7</title>
+    <desc lang="el">Αυτή η σειρά παρουσιάζει ένα ευρύ φάσμα υπαίθριων σπορ καθώς και τους αθλητές που αγωνίζονται σε αυτά. Η εκπομπή καλύπτει από επαγγελματικά και ψυχαγωγικά έως και extreme sports, όπως αγώνες μαραθωνίου, αναρρίχηση, σκι, σέρφινγκ, πεζοπορία, τρίαθλο, ιστιοπλοΐα και ποδηλασία.</desc>
+    <category lang="el">Άλλο Άθλημα</category>
+  </programme>
+  <programme start="20260803183000 +0300" stop="20260803190000 +0300" channel="XTV100001360">
+    <title lang="el">UIPM Highlights Show Ε4</title>
+    <desc lang="el">Επεισόδιο: Ουγγαρία. Στιγμιότυπα.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260803190000 +0300" stop="20260803200000 +0300" channel="XTV100001360">
     <title lang="el">Τένις: ATP Masters 1000 2026 (Ζ)</title>
     <desc lang="el">Μόντρεαλ (Κυρίως Ταμπλό). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260803213000 +0300" stop="20260804003000 +0300" channel="XTV100001360">
+  <programme start="20260803200000 +0300" stop="20260803230000 +0300" channel="XTV100001360">
+    <title lang="el">Τένις: Τέιλορ Φριτζ - Ραφαέλ Ζοντάρ (Ζ)</title>
+    <desc lang="el">ATP 500 2026. Ουάσινγκτον. Τελικός. Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
+    <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260803230000 +0300" stop="20260804020000 +0300" channel="XTV100001360">
     <title lang="el">Τένις: ATP Masters 1000 2026 (Ζ)</title>
     <desc lang="el">Μόντρεαλ (Κυρίως Ταμπλό). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Τένις</category>
@@ -27784,26 +27819,21 @@
     <category lang="el">Πάντελ</category>
   </programme>
   <programme start="20260803121500 +0300" stop="20260803134500 +0300" channel="XTV900000002">
-    <title lang="el">DTM</title>
-    <desc lang="el">Γερμανία, Οσερλέμπεν - 1ος Αγώνας. Το Γερμανικό Πρωτάθλημα Τουρισμού φιλοξενεί τροποποιημένα αυτοκίνητα που κυκλοφορούν στον δρόμο, αποτελείται από 16 αγώνες σε 8 αγωνιστικά διήμερα. Η διοργάνωση έχει ως βάση της τη Γερμανία. Περιγραφή: Χρήστος Κυριαζής.</desc>
-    <category lang="el">Μηχανοκίνητα</category>
-  </programme>
-  <programme start="20260803134500 +0300" stop="20260803151500 +0300" channel="XTV900000002">
     <title lang="el">DTM 2026</title>
     <desc lang="el">Γερμανία, Οσερλέμπεν (2ος Αγώνας). Το Γερμανικό Πρωτάθλημα Τουρισμού φιλοξενεί τροποποιημένα αυτοκίνητα που κυκλοφορούν στον δρόμο. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260803151500 +0300" stop="20260803170000 +0300" channel="XTV900000002">
+  <programme start="20260803134500 +0300" stop="20260803153000 +0300" channel="XTV900000002">
     <title lang="el">Τένις: Πανελλήνιο Πρωτάθλημα Ανδρών - Γυναικών 2026</title>
     <desc lang="el">1ος Ημιτελικός Μονού Ανδρών. Παρακολουθήστε τους αγώνες του Πανελλήνιου πρωταθλήματος Ανδρών - Γυναικών 2026. Περιγραφή: Σωτήρης Κωσταβάρας, Γιάννης Κυφωνίδης.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260803170000 +0300" stop="20260803190000 +0300" channel="XTV900000002">
+  <programme start="20260803153000 +0300" stop="20260803185000 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Πρετόρια (Τελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260803190000 +0300" stop="20260803213000 +0300" channel="XTV900000002">
+  <programme start="20260803185000 +0300" stop="20260803213000 +0300" channel="XTV900000002">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Πρετόρια (Τελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
