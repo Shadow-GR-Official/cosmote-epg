@@ -23574,14 +23574,14 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260804140000 +0300" stop="20260804150000 +0300" channel="XTV100001071">
-    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2024-25 Ε22</title>
-    <desc lang="el">Επεισόδιο: UEL Ανασκόπηση Σεζόν. Εβδομαδιαίο μαγκαζίνο με φάσεις και γκολ από τις κορυφαίες διασυλλογικές διοργανώσεις της UEFA.</desc>
+    <title lang="el">UEFA Champions League Μαγκαζίνο 2025-26 Ε36</title>
+    <desc lang="el">Επεισόδιο: Ανασκόπηση Σεζόν. Μια σειρά εκπομπών αφιερωμένη στο UEFA Champions League με συνεντεύξεις παικτών και προπονητών, παρουσίαση προφίλ των ομάδων και αποκλειστικά πλάνα από την κορυφαία διοργάνωση.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260804150000 +0300" stop="20260804155500 +0300" channel="XTV100001071">
-    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2024-25 Ε22</title>
+    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2025-26 Ε22</title>
     <desc lang="el">Επεισόδιο: UEL Ανασκόπηση Σεζόν. Εβδομαδιαίο μαγκαζίνο με φάσεις και γκολ από τις κορυφαίες διασυλλογικές διοργανώσεις της UEFA.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260804155500 +0300" stop="20260804175500 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Ατλέτικο Μαδρίτης - Τότεναμ</title>
@@ -25998,20 +25998,10 @@
     <desc lang="el">Μόντρεαλ (Κυρίως Ταμπλό). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260803213000 +0300" stop="20260804003000 +0300" channel="XTV100001360">
+  <programme start="20260803230000 +0300" stop="20260804020000 +0300" channel="XTV100001360">
     <title lang="el">Τένις: ATP Masters 1000 2026 (Ζ)</title>
     <desc lang="el">Μόντρεαλ (Κυρίως Ταμπλό). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Τένις</category>
-  </programme>
-  <programme start="20260804003000 +0300" stop="20260804010000 +0300" channel="XTV100001360">
-    <title lang="el">Sports Classics: 2026 Outdoor Specials</title>
-    <desc lang="el">Επεισόδιο: Mediterranean Games επ.04. Η εκπομπή σας φέρνει τα πιο συναρπαστικά γεγονότα των extreme sports. Από το windsurfing μέχρι την ορειβασία και από την οδήγηση αγώνων μέχρι τις καταδύσεις σπηλαίων, αυτή είναι μια σειρά που θα σας δώσει μια γενναιόδωρη δόση αδρεναλίνης.</desc>
-    <category lang="el">Διάφορα Σπορ</category>
-  </programme>
-  <programme start="20260804010000 +0300" stop="20260804020000 +0300" channel="XTV100001360">
-    <title lang="el">Beach Volley: Pro Tour Elite 16 2026</title>
-    <desc lang="el">Ρίο ντε Τζανέιρο (Τελικός 3ης Θέσης Γυναικών). Το 2026 Volleyball World Beach Pro Tour είναι η τέταρτη έκδοση του παγκόσμιου πρωταθλήματος beach volley που διοργανώνεται από την FIVB για το 2026. Περιγραφή: Γιώργος Μπιτσικώκος.</desc>
-    <category lang="el">Beach Volley</category>
   </programme>
   <programme start="20260804020000 +0300" stop="20260804063000 +0300" channel="XTV100001360">
     <title lang="el">Τένις: ATP Masters 1000 2026 (Ζ)</title>
@@ -30098,15 +30088,20 @@
     <desc lang="el">Euroleague. Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260803200000 +0300" stop="20260803220000 +0300" channel="XTV600000604">
+  <programme start="20260803200000 +0300" stop="20260803214500 +0300" channel="XTV600000604">
     <title lang="el">Μπάσκετ: Ζαλγκίρις Κάουνας - Χάποελ Τελ Αβίβ</title>
     <desc lang="el">Euroleague. Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260803220000 +0300" stop="20260804000000 +0300" channel="XTV600000604">
+  <programme start="20260803214500 +0300" stop="20260803234500 +0300" channel="XTV600000604">
     <title lang="el">Μπάσκετ: Μπαρτσελόνα - Παρί</title>
     <desc lang="el">Euroleague. Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'.</desc>
     <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260803234500 +0300" stop="20260804000000 +0300" channel="XTV600000604">
+    <title lang="el">Novasports 4 HD</title>
+    <desc lang="el">Ξανά κοντά σας αύριο στις 12:00. Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
+    <category lang="el">Promo - Trailer</category>
   </programme>
   <programme start="20260804000000 +0300" stop="20260804040000 +0300" channel="XTV600000604">
     <title lang="el">Novasports 4 HD</title>
@@ -30663,39 +30658,39 @@
     <desc lang="el">Ξανά κοντά σας στις 11:30. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
-  <programme start="20260803113000 +0300" stop="20260803133000 +0300" channel="XTV600000606">
+  <programme start="20260803113000 +0300" stop="20260803134500 +0300" channel="XTV600000606">
     <title lang="el">WTA 500 2026</title>
     <desc lang="el">Επεισόδιο: Ουάσινγκτον, Προημιτελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Mubadala Citi D.C. Open της σειράς WTA 500, που πραγματοποιείται στην Ουάσινγκτον των ΗΠΑ το διάστημα 27 Ιουλίου έως 2 Αυγούστου.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260803133000 +0300" stop="20260803153000 +0300" channel="XTV600000606">
+  <programme start="20260803134500 +0300" stop="20260803153000 +0300" channel="XTV600000606">
     <title lang="el">WTA 500 2026</title>
     <desc lang="el">Ουάσινγκτον, Ημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Mubadala Citi D.C. Open της σειράς WTA 500, που πραγματοποιείται στην Ουάσινγκτον των ΗΠΑ το διάστημα 27 Ιουλίου έως 2 Αυγούστου.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260803153000 +0300" stop="20260803173000 +0300" channel="XTV600000606">
+  <programme start="20260803153000 +0300" stop="20260803170000 +0300" channel="XTV600000606">
     <title lang="el">WTA 500 2026</title>
     <desc lang="el">Ουάσινγκτον, Ημιτελικοί. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Mubadala Citi D.C. Open της σειράς WTA 500, που πραγματοποιείται στην Ουάσινγκτον των ΗΠΑ το διάστημα 27 Ιουλίου έως 2 Αυγούστου.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260803173000 +0300" stop="20260803193000 +0300" channel="XTV600000606">
-    <title lang="el">WTA 500 2026</title>
-    <desc lang="el">Ουάσινγκτον, Τελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Mubadala Citi D.C. Open της σειράς WTA 500, που πραγματοποιείται στην Ουάσινγκτον των ΗΠΑ το διάστημα 27 Ιουλίου έως 2 Αυγούστου.</desc>
+  <programme start="20260803170000 +0300" stop="20260803193000 +0300" channel="XTV600000606">
+    <title lang="el">WTA 250 2026</title>
+    <desc lang="el">Μέμφις, Τελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Memphis Classic της σειράς WTA 250, που πραγματοποιείται στο Μέμφις των ΗΠΑ το διάστημα 27 Ιουλίου-2 Αυγούστου.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260803193000 +0300" stop="20260803213000 +0300" channel="XTV600000606">
     <title lang="el">WTA 1000 2026 (Ζ)</title>
-    <desc lang="el">Τορόντο,1η Μέρα. Παρακολουθείτε τους αγώνες τένις γυναικών του Καναδικού Όπεν, γνωστού ως National Bank Open presented by Rogers, της σειράς WTA 1000, που διεξάγεται το διάστημα 2-13 Αυγούστου στο Τορόντο του Καναδά.</desc>
+    <desc lang="el">Τορόντο,1η Μέρα. Παρακολουθείτε τους αγώνες τένις γυναικών του Καναδικού Όπεν, γνωστού ως National Bank Open presented by Rogers, της σειράς WTA 1000, που διεξάγεται το διάστημα 2-13 Αυγούστου στο Τορόντο του Καναδά. Περιγραφή: Β. Κωνσταντόπουλος</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260803213000 +0300" stop="20260803233000 +0300" channel="XTV600000606">
     <title lang="el">WTA 1000 2026 (Ζ)</title>
-    <desc lang="el">Τορόντο,1η Μέρα. Παρακολουθείτε τους αγώνες τένις γυναικών του Καναδικού Όπεν, γνωστού ως National Bank Open presented by Rogers, της σειράς WTA 1000, που διεξάγεται το διάστημα 2-13 Αυγούστου στο Τορόντο του Καναδά.</desc>
+    <desc lang="el">Τορόντο,1η Μέρα. Παρακολουθείτε τους αγώνες τένις γυναικών του Καναδικού Όπεν, γνωστού ως National Bank Open presented by Rogers, της σειράς WTA 1000, που διεξάγεται το διάστημα 2-13 Αυγούστου στο Τορόντο του Καναδά. Περιγραφή: Β. Κωνσταντόπουλος</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260803233000 +0300" stop="20260804000000 +0300" channel="XTV600000606">
     <title lang="el">Novasports 6 HD</title>
-    <desc lang="el">Ξανά κοντά σας αύριο στις 11:30. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
+    <desc lang="el">Ξανά κοντά σας στις 11:15. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260804000000 +0300" stop="20260804040000 +0300" channel="XTV600000606">
@@ -37494,7 +37489,7 @@
     <category lang="el">Μουσική</category>
   </programme>
   <programme start="20260805220000 +0300" stop="20260805230000 +0300" channel="XTV100001425">
-    <title lang="el">James Carter 'Trane: A Centennial Supreme'</title>
+    <title lang="el">James Carter 'Trane: A Centennial Supreme' (Ζ)</title>
     <desc lang="el">Κοντσέρτο τζαζ μουσικής από το φεστιβάλ Jazz in Marciac 2026.</desc>
     <category lang="el">Μουσική</category>
   </programme>
