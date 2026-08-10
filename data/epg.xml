@@ -25493,17 +25493,17 @@
     <desc lang="el">Γερμανία, Οσερλέμπεν (2ος Αγώνας). Το Γερμανικό Πρωτάθλημα Τουρισμού φιλοξενεί τροποποιημένα αυτοκίνητα που κυκλοφορούν στον δρόμο. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260810172000 +0300" stop="20260810184000 +0300" channel="XTV100001063">
+  <programme start="20260810172000 +0300" stop="20260810183500 +0300" channel="XTV100001063">
     <title lang="el">Motorsports: Moto3 2026</title>
     <desc lang="el">Γκραν Πρι Ηνωμένου Βασιλείου (Αγώνας). Το Παγκόσμιο Πρωτάθλημα FIM Moto3 συγκεντρώνει 13 ομάδες από 2 κατασκευαστές, αλλά και 27 αναβάτες, οι οποίοι διαγωνίζονται σε 22 Γκραν Πρι. Περιγραφή: Δήμητρα Λαδά, Χριστόφορος Ζουλινάκης.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260810184000 +0300" stop="20260810200000 +0300" channel="XTV100001063">
+  <programme start="20260810183500 +0300" stop="20260810195500 +0300" channel="XTV100001063">
     <title lang="el">Motorsports: Moto2 2026</title>
     <desc lang="el">Γκραν Πρι Ηνωμένου Βασιλείου (Αγώνας). Το Παγκόσμιο Πρωτάθλημα FIM Moto2 περιλαμβάνει 15 ομάδες από 3 κατασκευαστές και συνολικά 30 αναβάτες. Ο τελικός νικητής θα κριθεί μέσα από 22 συναρπαστικά Γκραν Πρι. Περιγραφή: Δήμητρα Λαδά, Χριστόφορος Ζουλινάκης.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260810200000 +0300" stop="20260810213500 +0300" channel="XTV100001063">
+  <programme start="20260810195500 +0300" stop="20260810213500 +0300" channel="XTV100001063">
     <title lang="el">Motorsports: MotoGP 2026</title>
     <desc lang="el">Γκραν Πρι Ηνωμένου Βασιλείου (Αγώνας). Το Παγκόσμιο Πρωτάθλημα FIM MotoGP περιλαμβάνει 11 ομάδες και συνολικά 22 αναβάτες, που διεκδικούν τον τίτλο μέσα από 22 Γκραν Πρι. Περιγραφή: Δημήτρης Διατσίδης.</desc>
     <category lang="el">Μηχανοκίνητα</category>
@@ -63428,15 +63428,45 @@
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
     <category lang="el">Special</category>
   </programme>
-  <programme start="20260810160000 +0300" stop="20260810200000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260810160000 +0300" stop="20260810163000 +0300" channel="XTV100002326">
+    <title lang="el">Προορισμοί (Ε)</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή.</desc>
+    <category lang="el">Ψυχολογικό Δράμα</category>
   </programme>
-  <programme start="20260810200000 +0300" stop="20260811000000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260810163000 +0300" stop="20260810180000 +0300" channel="XTV100002326">
+    <title lang="el">Nea Sport Magazine</title>
+    <desc lang="el">Εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260810180000 +0300" stop="20260810183500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260810183500 +0300" stop="20260810193500 +0300" channel="XTV100002326">
+    <title lang="el">The Escapers</title>
+    <desc lang="el">Η Πόπη Μαλλιωτάκη και ο Βασίλης Λαζαρίδης ξεδιπλώνουν για πρώτη φορά την καθημερινότητα τους σε ένα ταξιδιωτικό ριάλιτι γεμάτο στιγμές γέλιου, χαράς και απροσδόκητων καταστάσεων ταξιδεύοντας μας στα πιο hot spots του κόσμου.</desc>
+    <category lang="el">Ριάλιτι</category>
+  </programme>
+  <programme start="20260810193500 +0300" stop="20260810200000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260810200000 +0300" stop="20260810203500 +0300" channel="XTV100002326">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις , ζωντανές συνδέσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260810203500 +0300" stop="20260810223000 +0300" channel="XTV100002326">
+    <title lang="el">Παρέα Με Την Αριστέα (Ε)</title>
+    <desc lang="el">Η εκπομπή επισκέπτεται χωριά της Κρήτης, μας μαθαίνει τους ανθρώπους και την ιστορία τους. Παρέα γνωρίζουμε την παράδοση και την μουσική τους.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260810223000 +0300" stop="20260811000000 +0300" channel="XTV100002326">
+    <title lang="el">Ρεπορτάζ</title>
+    <desc lang="el">Μια ειδησεογραφική εκπομπή που φωτίζει θέματα τα οποία δεν βγαίνουν συχνά στην δημοσιότητα. Με την Ευτυχία Πενταράκη.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
   <programme start="20260811000000 +0300" stop="20260811040000 +0300" channel="XTV100002326">
     <title lang="el">Nea TV Crete</title>
