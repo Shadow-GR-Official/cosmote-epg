@@ -23839,9 +23839,9 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260817102500 +0300" stop="20260817112000 +0300" channel="XTV100001071">
-    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2024-25 Ε22</title>
+    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2025-26 Ε22</title>
     <desc lang="el">Επεισόδιο: UEL Ανασκόπηση Σεζόν. Εβδομαδιαίο μαγκαζίνο με φάσεις και γκολ από τις κορυφαίες διασυλλογικές διοργανώσεις της UEFA.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260817112000 +0300" stop="20260817121500 +0300" channel="XTV100001071">
     <title lang="el">UEL &amp; UECL Μαγκαζίνο 2025-26 Ε23</title>
@@ -23873,19 +23873,14 @@
     <desc lang="el">UEFA Champions League 2025-26. Τελικός. Με στόχο το δεύτερο σερί τρόπαιο του UEFA Champions League η Παρί ταξιδεύει στη Βουδαπέστη για να αντιμετωπίσει στον τελικό την Άρσεναλ, η οποία ψάχνει το βήμα παραπάνω σε σχέση με τον χαμένο τελικό του 2006. Περιγραφή: Μιχάλης Τσόχος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260817220000 +0300" stop="20260817230000 +0300" channel="XTV100001071">
-    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2025-26 Ε22</title>
-    <desc lang="el">Επεισόδιο: UEL Ανασκόπηση Σεζόν. Εβδομαδιαίο μαγκαζίνο με φάσεις και γκολ από τις κορυφαίες διασυλλογικές διοργανώσεις της UEFA.</desc>
-    <category lang="el">Εκπομπή</category>
-  </programme>
-  <programme start="20260817230000 +0300" stop="20260818000000 +0300" channel="XTV100001071">
-    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2025-26 Ε23</title>
-    <desc lang="el">Επεισόδιο: UECL Ανασκόπηση Σεζόν. Εβδομαδιαίο μαγκαζίνο με φάσεις και γκολ από τις κορυφαίες διασυλλογικές διοργανώσεις της UEFA.</desc>
-    <category lang="el">Εκπομπή</category>
+  <programme start="20260817220000 +0300" stop="20260818000000 +0300" channel="XTV100001071">
+    <title lang="el">Ποδόσφαιρο: Ντεπορτίβο λα Κορούνια - Έλτσε (Ζ)</title>
+    <desc lang="el">LaLiga EA Sports 2026-27. 1η Αγωνιστική.  Περιγραφή: Άλκης Τσαβδαράς.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260818000000 +0300" stop="20260818023000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Παρί Σεν Ζερμέν - Άστον Βίλα</title>
-    <desc lang="el">UEFA Super Cup 2026.</desc>
+    <desc lang="el">UEFA Super Cup 2026. Περιγραφή: Πάνος Μάλαμας.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260818023000 +0300" stop="20260818050000 +0300" channel="XTV100001071">
@@ -23940,7 +23935,7 @@
   </programme>
   <programme start="20260818180000 +0300" stop="20260818203000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Παρί Σεν Ζερμέν - Άστον Βίλα</title>
-    <desc lang="el">UEFA Super Cup 2026.</desc>
+    <desc lang="el">UEFA Super Cup 2026. Περιγραφή: Πάνος Μάλαμας.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260818203000 +0300" stop="20260818220000 +0300" channel="XTV100001071">
@@ -23950,7 +23945,7 @@
   </programme>
   <programme start="20260818220000 +0300" stop="20260819000500 +0300" channel="XTV100001071">
     <title lang="el">UEFA Champions League 2026-27 Λεπτό προς Λεπτό (Ζ)</title>
-    <desc lang="el">Παρακολουθήστε λεπτό προς λεπτό όλη την αγωνιστική δράση από την κορυφαία διασυλλογική διοργάνωση της Ευρώπης.</desc>
+    <desc lang="el">Παρακολουθήστε λεπτό προς λεπτό όλη την αγωνιστική δράση από την κορυφαία διασυλλογική διοργάνωση της Ευρώπης. Περιγραφή: Στέφανος Αβραμίδης.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260812233000 +0300" stop="20260813013000 +0300" channel="XTV100001080">
