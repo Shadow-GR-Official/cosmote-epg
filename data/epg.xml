@@ -23548,20 +23548,15 @@
     <desc lang="el">UEFA Champions League 2026-27. Πλέι-οφ, 2η Αγωνιστική.  Περιγραφή: Άλκης Τσαβδαράς.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260827130000 +0300" stop="20260827150000 +0300" channel="XTV100001071">
+  <programme start="20260827130000 +0300" stop="20260827153000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Τσέλιε - Σλόβαν Μπρατισλάβας</title>
     <desc lang="el">UEFA Champions League 2026-27. Πλέι-οφ, 2η Αγωνιστική.  Περιγραφή: Μάνος Σπανόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260827150000 +0300" stop="20260827170000 +0300" channel="XTV100001071">
+  <programme start="20260827153000 +0300" stop="20260827173000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: ΟΦΗ - ΤΣΣΚΑ Σόφιας</title>
     <desc lang="el">UEFA Europa League 2026-27. Πλέι Οφ, 1η Αγωνιστική.  Περιγραφή: Αποστόλης Πάνος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
-  </programme>
-  <programme start="20260827170000 +0300" stop="20260827173000 +0300" channel="XTV100001071">
-    <title lang="el">UEFA Champions League - Στιγμιότυπα 2026-27</title>
-    <desc lang="el">Πλέι-οφ, 2η αγωνιστική. Τα καλύτερα στιγμιότυπα της αγωνιστικής του UEFA Champions League. Στιγμές γεμάτες πάθος, δυνατές μάχες και τα καλύτερα γκολ που ξεχώρισαν ανά αγωνιστική ημέρα αφιερωμένα στην κορυφαία διοργάνωση.</desc>
-    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260827173000 +0300" stop="20260827180000 +0300" channel="XTV100001071">
     <title lang="el">UEFA Champions League - Στιγμιότυπα 2026-27</title>
@@ -26258,9 +26253,19 @@
     <desc lang="el">Σινσινάτι. Παρακολουθήστε τα στιγμιότυπα των κυριότερων αγώνων των τουρνουά ATP 1000, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260827163000 +0300" stop="20260827203000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026</title>
-    <desc lang="el">Γουίνστον-Σάλεμ (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour.</desc>
+  <programme start="20260827163000 +0300" stop="20260827170000 +0300" channel="XTV100001360">
+    <title lang="el">Premier Padel Tour 2026 - Στιγμιότυπα</title>
+    <desc lang="el">Μάλαγα. Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο.</desc>
+    <category lang="el">Πάντελ</category>
+  </programme>
+  <programme start="20260827170000 +0300" stop="20260827184000 +0300" channel="XTV100001360">
+    <title lang="el">Τένις: Άρθουρ Φέρι  - Μες Ρότγκερινγκ</title>
+    <desc lang="el">ATP 250 2026. Γουίνστον-Σάλεμ (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Χρήστος Βασιλείου.</desc>
+    <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260827184000 +0300" stop="20260827203000 +0300" channel="XTV100001360">
+    <title lang="el">Τένις: Αλεξάνταρ Κοβάσεβιτς - Στέφανος Τσιτσιπάς</title>
+    <desc lang="el">ATP 250 2026. Γουίνστον-Σάλεμ (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260827203000 +0300" stop="20260827210000 +0300" channel="XTV100001360">
@@ -26269,13 +26274,13 @@
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260827210000 +0300" stop="20260827230000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Γουίνστον-Σάλεμ (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
+    <title lang="el">Τένις: Μπενζαμίν Μπονζί - Μπότιτς Βαν ντε Ζάντσουλπ (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Γουίνστον-Σάλεμ (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260827230000 +0300" stop="20260828013000 +0300" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Γουίνστον-Σάλεμ (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
+    <title lang="el">Τένις: Χουάν Μανουέλ Σερουντόλο - Ιγκνάσιο Μπούζε (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Γουίνστον-Σάλεμ (Προημιτελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260827230000 +0300" stop="20260828013000 +0300" channel="XTV100001360">
@@ -61879,9 +61884,9 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260827220000 +0300" stop="20260827233000 +0300" channel="XTV100000913">
-    <title lang="el">Επί της Ουσίας</title>
-    <desc lang="el">Η ενημέρωση και η πολιτική ανάλυση με διαδραστικό χαρακτήρα, μέσω της συμμετοχής καλεσμένων από την πολιτική σκηνή και όχι μόνο...</desc>
-    <category lang="el">Εκπομπή</category>
+    <title lang="el">Γιορτή</title>
+    <desc lang="el">Ποντιακό γλέντι στον Ζυγό Καβάλας.</desc>
+    <category lang="el">Θεματικό</category>
   </programme>
   <programme start="20260827233000 +0300" stop="20260828010000 +0300" channel="XTV100000913">
     <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
