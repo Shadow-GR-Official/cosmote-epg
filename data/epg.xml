@@ -2548,17 +2548,12 @@
     <desc lang="el">Εκπομπή για τον μηχανοκίνητο αθλητισμό, με παρουσιαστές τους Νίκο Κορόβηλα, Νίκο Παγιωτέλη και Άγγελο Σταθακόπουλο.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260830130000 +0300" stop="20260830140000 +0300" channel="XTV100000955">
+  <programme start="20260830130000 +0300" stop="20260830141500 +0300" channel="XTV100000955">
     <title lang="el">Μεσογειακοί Αγώνες 2026</title>
     <desc lang="el">Περίληψη. Παρακολουθήστε τους Μεσογειακούς Αγώνες 2026 που διεξάγονται στον Τάραντα της Ιταλίας από τις 21 Αυγούστου έως τις 3 Σεπτεμβρίου.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
-  <programme start="20260830140000 +0300" stop="20260830145000 +0300" channel="XTV100000955">
-    <title lang="el">Ηρωίδες Κ1 Ε3 (Ε)</title>
-    <desc lang="el">Επεισόδιο: Ισότητα. Ο αγώνας για ίσες ευκαιρίες, ισότιμη αμοιβή και αναγνώριση στον γυναικείο αθλητισμό συνεχίζεται.</desc>
-    <category lang="el">Σειρά Ντοκιμαντέρ</category>
-  </programme>
-  <programme start="20260830145000 +0300" stop="20260830161500 +0300" channel="XTV100000955">
+  <programme start="20260830141500 +0300" stop="20260830161500 +0300" channel="XTV100000955">
     <title lang="el">Παγκόσμιο Πρωτάθλημα Κωπηλασίας (Ζ)</title>
     <desc lang="el">Τελικοί - 7η Ημέρα απόγευμα. Άμστερνταμ, Ολλανδία.</desc>
     <category lang="el">Υδάτινα Σπορ</category>
@@ -26193,10 +26188,20 @@
     <desc lang="el">Μάλαγα. Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260830173000 +0300" stop="20260830200000 +0300" channel="XTV100001360">
+  <programme start="20260830173000 +0300" stop="20260830191500 +0300" channel="XTV100001360">
     <title lang="el">Τένις: Άρθουρ Φέρι  - Ιγκνάσιο Μπούζε</title>
     <desc lang="el">ATP 250 2026. Γουίνστον-Σάλεμ (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Τένις</category>
+  </programme>
+  <programme start="20260830191500 +0300" stop="20260830193000 +0300" channel="XTV100001360">
+    <title lang="el">Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260830193000 +0300" stop="20260830200000 +0300" channel="XTV100001360">
+    <title lang="el">Sports Classics: 2026 Outdoor Specials</title>
+    <desc lang="el">Επεισόδιο: Mediterranean Games επ. 06. Η εκπομπή σας φέρνει τα πιο συναρπαστικά γεγονότα των extreme sports. Από το windsurfing μέχρι την ορειβασία και από την οδήγηση αγώνων μέχρι τις καταδύσεις σπηλαίων, αυτή είναι μια σειρά που θα σας δώσει μια γενναιόδωρη δόση αδρεναλίνης.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260830200000 +0300" stop="20260830213500 +0300" channel="XTV100001360">
     <title lang="el">WRC 2026 (Ζ)</title>
