@@ -48833,20 +48833,165 @@
     <desc lang="el">Δεν υπάρχουν πληροφορίες για το πρόγραμμα.</desc>
     <category lang="el">Θεματικό</category>
   </programme>
-  <programme start="20260831120000 +0300" stop="20260831160000 +0300" channel="XTV100000957">
-    <title lang="el">Luxe TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες για το πρόγραμμα.</desc>
-    <category lang="el">Θεματικό</category>
+  <programme start="20260831120000 +0300" stop="20260831130000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.This Week</title>
+    <desc lang="el">Όλα τα νέα της εβδομάδας από τον κόσμο της πολυτέλειας και της τέχνης του καλού lifestyle.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260831160000 +0300" stop="20260831200000 +0300" channel="XTV100000957">
-    <title lang="el">Luxe TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες για το πρόγραμμα.</desc>
-    <category lang="el">Θεματικό</category>
+  <programme start="20260831130000 +0300" stop="20260831140000 +0300" channel="XTV100000957">
+    <title lang="el">Προορισμός: Τουρκία</title>
+    <desc lang="el">Ανακαλύψτε το μεγαλείο της ζωής στην Τουρκία και ιδιαίτερα στην Ιστανμπούλ. Γνωστή στην ιστορία ως Βυζάντιο και Κωνσταντινούπολη, η μεγαλύτερη πόλη της Τουρκίας δεν έχει χάσει τίποτα από τη δόξα του παρελθόντος.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260831200000 +0300" stop="20260901000000 +0300" channel="XTV100000957">
-    <title lang="el">Luxe TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες για το πρόγραμμα.</desc>
-    <category lang="el">Θεματικό</category>
+  <programme start="20260831140000 +0300" stop="20260831142500 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Today</title>
+    <desc lang="el">Όλα τα νέα από τον κόσμο της πολυτέλειας και της τέχνης lifestyle.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260831142500 +0300" stop="20260831143000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Spotlight</title>
+    <desc lang="el">Κάθε μέρα, από Δευτέρα ώς Πέμπτη, η εκπομπή παρουσιάζει θέματα από τον κόσμο της πολυτέλειας.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+  </programme>
+  <programme start="20260831143000 +0300" stop="20260831150000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.This Month</title>
+    <desc lang="el">Όλα τα νέα του μήνα από τον κόσμο της πολυτέλειας και της τέχνης του καλού lifestyle.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260831150000 +0300" stop="20260831152500 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Today</title>
+    <desc lang="el">Όλα τα νέα από τον κόσμο της πολυτέλειας και της τέχνης lifestyle.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260831152500 +0300" stop="20260831153000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Spotlight</title>
+    <desc lang="el">Κάθε μέρα, από Δευτέρα ώς Πέμπτη, η εκπομπή παρουσιάζει θέματα από τον κόσμο της πολυτέλειας.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+  </programme>
+  <programme start="20260831153000 +0300" stop="20260831160000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.This Month</title>
+    <desc lang="el">Όλα τα νέα του μήνα από τον κόσμο της πολυτέλειας και της τέχνης του καλού lifestyle.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260831160000 +0300" stop="20260831162500 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Today</title>
+    <desc lang="el">Όλα τα νέα από τον κόσμο της πολυτέλειας και της τέχνης lifestyle.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260831162500 +0300" stop="20260831163000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Spotlight</title>
+    <desc lang="el">Κάθε μέρα, από Δευτέρα ώς Πέμπτη, η εκπομπή παρουσιάζει θέματα από τον κόσμο της πολυτέλειας.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+  </programme>
+  <programme start="20260831163000 +0300" stop="20260831170000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.This Month</title>
+    <desc lang="el">Όλα τα νέα του μήνα από τον κόσμο της πολυτέλειας και της τέχνης του καλού lifestyle.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260831170000 +0300" stop="20260831172500 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Today</title>
+    <desc lang="el">Όλα τα νέα από τον κόσμο της πολυτέλειας και της τέχνης lifestyle.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260831172500 +0300" stop="20260831173000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Spotlight</title>
+    <desc lang="el">Κάθε μέρα, από Δευτέρα ώς Πέμπτη, η εκπομπή παρουσιάζει θέματα από τον κόσμο της πολυτέλειας.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+  </programme>
+  <programme start="20260831173000 +0300" stop="20260831180000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.This Month</title>
+    <desc lang="el">Όλα τα νέα του μήνα από τον κόσμο της πολυτέλειας και της τέχνης του καλού lifestyle.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260831180000 +0300" stop="20260831182500 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Today</title>
+    <desc lang="el">Όλα τα νέα από τον κόσμο της πολυτέλειας και της τέχνης lifestyle.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260831182500 +0300" stop="20260831183000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Spotlight</title>
+    <desc lang="el">Κάθε μέρα, από Δευτέρα ώς Πέμπτη, η εκπομπή παρουσιάζει θέματα από τον κόσμο της πολυτέλειας.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+  </programme>
+  <programme start="20260831183000 +0300" stop="20260831190000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.This Month</title>
+    <desc lang="el">Όλα τα νέα του μήνα από τον κόσμο της πολυτέλειας και της τέχνης του καλού lifestyle.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260831190000 +0300" stop="20260831192500 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Today</title>
+    <desc lang="el">Όλα τα νέα από τον κόσμο της πολυτέλειας και της τέχνης lifestyle.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260831192500 +0300" stop="20260831193000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Spotlight</title>
+    <desc lang="el">Κάθε μέρα, από Δευτέρα ώς Πέμπτη, η εκπομπή παρουσιάζει θέματα από τον κόσμο της πολυτέλειας.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+  </programme>
+  <programme start="20260831193000 +0300" stop="20260831200000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.This Month</title>
+    <desc lang="el">Όλα τα νέα του μήνα από τον κόσμο της πολυτέλειας και της τέχνης του καλού lifestyle.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260831200000 +0300" stop="20260831202500 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Today</title>
+    <desc lang="el">Όλα τα νέα από τον κόσμο της πολυτέλειας και της τέχνης lifestyle.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260831202500 +0300" stop="20260831203000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Spotlight</title>
+    <desc lang="el">Κάθε μέρα, από Δευτέρα ώς Πέμπτη, η εκπομπή παρουσιάζει θέματα από τον κόσμο της πολυτέλειας.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+  </programme>
+  <programme start="20260831203000 +0300" stop="20260831210000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.This Month</title>
+    <desc lang="el">Όλα τα νέα του μήνα από τον κόσμο της πολυτέλειας και της τέχνης του καλού lifestyle.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260831210000 +0300" stop="20260831212500 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Today</title>
+    <desc lang="el">Όλα τα νέα από τον κόσμο της πολυτέλειας και της τέχνης lifestyle.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260831212500 +0300" stop="20260831213000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Spotlight</title>
+    <desc lang="el">Κάθε μέρα, από Δευτέρα ώς Πέμπτη, η εκπομπή παρουσιάζει θέματα από τον κόσμο της πολυτέλειας.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+  </programme>
+  <programme start="20260831213000 +0300" stop="20260831220000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.This Month</title>
+    <desc lang="el">Όλα τα νέα του μήνα από τον κόσμο της πολυτέλειας και της τέχνης του καλού lifestyle.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260831220000 +0300" stop="20260831222500 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Today</title>
+    <desc lang="el">Όλα τα νέα από τον κόσμο της πολυτέλειας και της τέχνης lifestyle.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260831222500 +0300" stop="20260831223000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Spotlight</title>
+    <desc lang="el">Κάθε μέρα, από Δευτέρα ώς Πέμπτη, η εκπομπή παρουσιάζει θέματα από τον κόσμο της πολυτέλειας.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+  </programme>
+  <programme start="20260831223000 +0300" stop="20260831230000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.This Month</title>
+    <desc lang="el">Όλα τα νέα του μήνα από τον κόσμο της πολυτέλειας και της τέχνης του καλού lifestyle.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260831230000 +0300" stop="20260831232500 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Today</title>
+    <desc lang="el">Όλα τα νέα από τον κόσμο της πολυτέλειας και της τέχνης lifestyle.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260831232500 +0300" stop="20260831233000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.Spotlight</title>
+    <desc lang="el">Κάθε μέρα, από Δευτέρα ώς Πέμπτη, η εκπομπή παρουσιάζει θέματα από τον κόσμο της πολυτέλειας.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+  </programme>
+  <programme start="20260831233000 +0300" stop="20260901000000 +0300" channel="XTV100000957">
+    <title lang="el">Luxe.This Month</title>
+    <desc lang="el">Όλα τα νέα του μήνα από τον κόσμο της πολυτέλειας και της τέχνης του καλού lifestyle.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
   </programme>
   <programme start="20260901000000 +0300" stop="20260901040000 +0300" channel="XTV100000957">
     <title lang="el">Luxe TV</title>
@@ -66438,20 +66583,95 @@
     <desc lang="el">Το κανάλι που έχει ως στόχο την πνευματική αναβάθμιση του σύγχρονου ανθρώπου, την καλλιέργεια του θρησκευτικού φρονήματος και την προώθηση και διάδοση των ελληνοκεντρικών αξιών.</desc>
     <category lang="el">Θεματικό</category>
   </programme>
-  <programme start="20260831120000 +0300" stop="20260831160000 +0300" channel="XTV100000911">
-    <title lang="el">4Ε</title>
-    <desc lang="el">Το κανάλι που έχει ως στόχο την πνευματική αναβάθμιση του σύγχρονου ανθρώπου, την καλλιέργεια του θρησκευτικού φρονήματος και την προώθηση και διάδοση των ελληνοκεντρικών αξιών.</desc>
-    <category lang="el">Θεματικό</category>
+  <programme start="20260831120000 +0300" stop="20260831122000 +0300" channel="XTV100000911">
+    <title lang="el">Κοιτώντας Γύρω μας</title>
+    <desc lang="el">Επεισόδιο: Πώς μάθαιναν οι Έλληνες γράμματα. Με τον δημοσιογράφο Θανάση Κληματσίδα.</desc>
+    <category lang="el">Συνέντευξη</category>
   </programme>
-  <programme start="20260831160000 +0300" stop="20260831200000 +0300" channel="XTV100000911">
-    <title lang="el">4Ε</title>
-    <desc lang="el">Το κανάλι που έχει ως στόχο την πνευματική αναβάθμιση του σύγχρονου ανθρώπου, την καλλιέργεια του θρησκευτικού φρονήματος και την προώθηση και διάδοση των ελληνοκεντρικών αξιών.</desc>
-    <category lang="el">Θεματικό</category>
+  <programme start="20260831122000 +0300" stop="20260831131000 +0300" channel="XTV100000911">
+    <title lang="el">Μνήμες</title>
+    <desc lang="el">Θέμα: Περί αεροπορίας ο λόγος. Με τον κ. Κωνσταντίνο Νίγδελη, ιστορικό.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
   </programme>
-  <programme start="20260831200000 +0300" stop="20260901000000 +0300" channel="XTV100000911">
-    <title lang="el">4Ε</title>
-    <desc lang="el">Το κανάλι που έχει ως στόχο την πνευματική αναβάθμιση του σύγχρονου ανθρώπου, την καλλιέργεια του θρησκευτικού φρονήματος και την προώθηση και διάδοση των ελληνοκεντρικών αξιών.</desc>
-    <category lang="el">Θεματικό</category>
+  <programme start="20260831131000 +0300" stop="20260831141000 +0300" channel="XTV100000911">
+    <title lang="el">Βυζαντινά Μελωδήματα</title>
+    <desc lang="el">Επεισόδιο: Γεώργιος Χατζηχρόνογλου. Με τον πρωτοψάλτη Πάρη Γκούνα, θεολόγο-μουσικοδιδάσκαλο. Η εκπομπή παρουσιάζει ανθρώπους που διακονούν την ιερή τέχνη της ψαλτικής και που κοσμούν τα αναλόγια των Εκκλησιών μας.</desc>
+    <category lang="el">Μουσική</category>
+  </programme>
+  <programme start="20260831141000 +0300" stop="20260831142500 +0300" channel="XTV100000911">
+    <title lang="el">Ένατη Ώρα</title>
+    <desc lang="el">Η μεσημβρινή προσευχή της Εκκλησίας μας.</desc>
+    <category lang="el">Special</category>
+  </programme>
+  <programme start="20260831142500 +0300" stop="20260831143000 +0300" channel="XTV100000911">
+    <title lang="el">Ημερολόγιο</title>
+    <desc lang="el">Ακούγεται το συναξάρι της ημέρας και στην συνέχεια καλλίφωνοι ιεροψάλτες ψάλλουν τα απολυτίκια των εορταζομένων αγίων.</desc>
+    <category lang="el">Special</category>
+  </programme>
+  <programme start="20260831143000 +0300" stop="20260831160000 +0300" channel="XTV100000911">
+    <title lang="el">Τηλεφημερίδα</title>
+    <desc lang="el">Καθημερινή ενημέρωση για τα σημαντικότερα θέματα της επικαιρότητας. Με τον δημοσιογράφο Θανάση Κληματσίδα.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260831160000 +0300" stop="20260831164000 +0300" channel="XTV100000911">
+    <title lang="el">Παρακλητικός Κανόνας στους Αγίους Αναργύρους</title>
+    <desc lang="el">Ακολουθία της Εκκλησίας μας με ικετήριους και ευχαριστιακούς ύμνους στην Παναγία και τους Αγίους.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260831164000 +0300" stop="20260831170000 +0300" channel="XTV100000911">
+    <title lang="el">Αγιογραφικά Αναγνώσματα</title>
+    <desc lang="el">Στην εκπομπή ακούγεται το αποστολικό και ευαγγελικό ανάγνωσμα της ημέρας, καθώς και το συναξάρι του εορταζόμενου αγίου. Παράλληλα ακούγονται βυζαντινοί ύμνοι και παρακολουθούμε εικόνες από ιερούς ναούς.</desc>
+    <category lang="el">Special</category>
+  </programme>
+  <programme start="20260831170000 +0300" stop="20260831180000 +0300" channel="XTV100000911">
+    <title lang="el">Σκέψεις, Κρίσεις, Σχόλια</title>
+    <desc lang="el">Επεισόδιο: Ιχνηλατώντας την ταυτότητα του θεολόγου σήμερα. Καταγραφή και προβολή όλων των εργασιών επιστημονικών, θεολογικών, παιδαγωγικών και εκπαιδευτικών συνεδρίων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260831180000 +0300" stop="20260831185500 +0300" channel="XTV100000911">
+    <title lang="el">Ακολουθία του Εσπερινού</title>
+    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης.</desc>
+    <category lang="el">Special</category>
+  </programme>
+  <programme start="20260831185500 +0300" stop="20260831191500 +0300" channel="XTV100000911">
+    <title lang="el">Επίσκεψη στο Αρχονταρίκι του Άθω</title>
+    <desc lang="el">Επεισόδιο: Γέρων Ιωσήφ Βατοπαιδινός. Η εκπομπή μας μεταφέρει στο περιβόλι της Παναγίας, το Άγιο Όρος, και συγκεκριμένα στην Ιερά Μεγίστη Μονή Βατοπαιδίου, από όπου σοφοί Γέροντες νουθετούν τους μοναχούς και κατ' επέκταση όλους τους πιστούς, για τον κοινό στόχο των Χριστιανών.</desc>
+    <category lang="el">Special</category>
+  </programme>
+  <programme start="20260831191500 +0300" stop="20260831193000 +0300" channel="XTV100000911">
+    <title lang="el">Ξέρουμε να Τρώμε;</title>
+    <desc lang="el">Με την διατροφολόγο-διαιτολόγο Σεβαστή Ζουμή.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260831193000 +0300" stop="20260831200000 +0300" channel="XTV100000911">
+    <title lang="el">Νεανικό Αρχονταρίκι</title>
+    <desc lang="el">Επεισόδιο: Καλό καλοκαίρι. Με τον Αρχιμ. π. Νικάνορα Παπανικολάου. Υποδεχόμαστε στο αρχονταρίκι μας νέους ανθρώπους, για να ακούσουμε τις σκέψεις και τις ανησυχίες τους.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260831200000 +0300" stop="20260831210000 +0300" channel="XTV100000911">
+    <title lang="el">Λόγια της Πλώρης</title>
+    <desc lang="el">Επεισόδιο: Στην Καππαδοκία των προγόνων. Μια εκπομπή πολιτισμού, για την παράδοση, την ιστορία, τη θάλασσα. Επιμελείται και παρουσιάζει ο κ. Μιχάλης Πετρόπουλος, δικηγόρος.</desc>
+    <category lang="el">Ιστιοπλοΐα</category>
+  </programme>
+  <programme start="20260831210000 +0300" stop="20260831224500 +0300" channel="XTV100000911">
+    <title lang="el">Σημεία των Καιρών</title>
+    <desc lang="el">Επεισόδιο: Ο Μαγικός κήπος της μνήμης στην Ελλάδα που αγαπήσαμε. Η εκπομπή σχολιάζει την επικαιρότητα με σεβασμό. Ψέγει το κακό ως νοοτροπία, ως στάση ζωής, χωρίς να αμαυρώνει υπολήψεις. Δίνεται η δυνατότητα τηλεφωνικών παρεμβάσεων στους τηλεθεατές. Με τον κ. Κωνσταντίνο Λογοθέτη, Δικηγόρο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260831224500 +0300" stop="20260831230000 +0300" channel="XTV100000911">
+    <title lang="el">Προσευχόμαστε Μαζί</title>
+    <desc lang="el">Κοινή προσευχή.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260831230000 +0300" stop="20260831234500 +0300" channel="XTV100000911">
+    <title lang="el">Μικρό Απόδειπνο</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου. Η βραδινή προσευχή της Εκκλησίας μας.</desc>
+    <category lang="el">Special</category>
+  </programme>
+  <programme start="20260831234500 +0300" stop="20260901004500 +0300" channel="XTV100000911">
+    <title lang="el">Τηλεφημερίδα</title>
+    <desc lang="el">Καθημερινή ενημέρωση για τα σημαντικότερα θέματα της επικαιρότητας. Με τον δημοσιογράφο Θανάση Κληματσίδα.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260901000000 +0300" stop="20260901040000 +0300" channel="XTV100000911">
     <title lang="el">4Ε</title>
