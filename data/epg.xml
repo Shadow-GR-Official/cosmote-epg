@@ -25018,10 +25018,15 @@
     <desc lang="el">Ηνωμένο Βασίλειο, SS5 Aberffrwd 1. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260905174500 +0300" stop="20260905183500 +0300" channel="XTV100001063">
-    <title lang="el">ERC 2026</title>
-    <desc lang="el">Ηνωμένο Βασίλειο, SS6 Soar y Mynydd 1. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος. Περιγραφή: Χρήστος Βασιλείου.</desc>
-    <category lang="el">Μηχανοκίνητα</category>
+  <programme start="20260905174500 +0300" stop="20260905181500 +0300" channel="XTV100001063">
+    <title lang="el">Sports Classics: 2026 Outdoor Specials</title>
+    <desc lang="el">Hellas Rally Raid 2026. Η εκπομπή σας φέρνει τα πιο συναρπαστικά γεγονότα των extreme sports. Από το windsurfing μέχρι την ορειβασία και από την οδήγηση αγώνων μέχρι τις καταδύσεις σπηλαίων, αυτή είναι μια σειρά που θα σας δώσει μια γενναιόδωρη δόση αδρεναλίνης.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260905181500 +0300" stop="20260905183500 +0300" channel="XTV100001063">
+    <title lang="el">Αθλητικά Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260905183500 +0300" stop="20260905193000 +0300" channel="XTV100001063">
     <title lang="el">ERC 2026</title>
