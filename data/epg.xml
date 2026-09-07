@@ -2355,7 +2355,7 @@
   </programme>
   <programme start="20260907160000 +0300" stop="20260907180000 +0300" channel="XTV100000955">
     <title lang="el">Ποδόσφαιρο: Μαρκό - Πανσερραϊκός (Ζ)</title>
-    <desc lang="el">Greek Superbet League 2 2026 - 27. 1η Αγωνιστική. Η 2η τη τάξει ελληνική κατηγορία διεξάγεται με τη συμμετοχή 16 ομάδων, ανάμεσά τους οι 2ες ομάδες ΠΑΟΚ, Αστέρα Τρίπολης και Ολυμπιακού. Οι ομάδες που θα τερματίσουν στην 1η και στην 2η θέση προβιβάζονται στη Super League.</desc>
+    <desc lang="el">Greek Superbet League 2 2026 - 27. 1η Αγωνιστική. Μαρκό και Πανσερραϊκός θα κυνηγήσουν ένα από τα δύο εισιτήρια ανόδου στη Super League και ξεκινoύν με ένα ντέρμπι τη σεζόν, έχοντας προηγουμένως ακόμα δύο επίσημα ματς στα πόδια τους.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260907180000 +0300" stop="20260907190000 +0300" channel="XTV100000955">
@@ -10859,19 +10859,14 @@
     <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
   <programme start="20260907190000 +0300" stop="20260907200000 +0300" channel="XTV900000001">
-    <title lang="el">Θρύλοι της Ροκ Μουσικής</title>
-    <desc lang="el">Μουσικό ντοκιμαντέρ.</desc>
-    <category lang="el">Μουσική</category>
-  </programme>
-  <programme start="20260907200000 +0300" stop="20260907210000 +0300" channel="XTV900000001">
-    <title lang="el">Below Deck</title>
-    <desc lang="el">Το νεαρό πλήρωμα ενός πολυτελούς γιοτ βιώνει τη ζωή στη θάλασσα, αντιμετωπίζοντας τα φλερτ στη δουλειά, απαιτητικούς πελάτες και δράματα που φέρνουν φουρτούνες.</desc>
-    <category lang="el">Ριάλιτι</category>
-  </programme>
-  <programme start="20260907210000 +0300" stop="20260907220000 +0300" channel="XTV900000001">
     <title lang="el">Ming Dynasty</title>
     <desc lang="el">Η Ιστορία των χρόνων της Δυναστείας των Μίνγκ, που για 100 χρόνια αιματοκύλησαν τη χώρα με ίντριγκες, δολοφονίες και πολέμους, έως ότου μια κοπέλα γίνεται Αυτοκράτειρα για να διορθώσει τη διεφθαρμένη χώρα της.</desc>
     <category lang="el">Ιστορική</category>
+  </programme>
+  <programme start="20260907200000 +0300" stop="20260907220000 +0300" channel="XTV900000001">
+    <title lang="el">Αντιθέσεις</title>
+    <desc lang="el">Πολιτικό Talk Show με τους δημοσιογράφους Βαγγέλη Γιακουμή και Άννα Καραβοκύρη.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260907220000 +0300" stop="20260907230000 +0300" channel="XTV900000001">
     <title lang="el">Tell me a story</title>
@@ -17073,12 +17068,12 @@
     <desc lang="el">Ο Νόλαν και η Χάρπερ προσπαθούν να βοηθήσουν μια απελπισμένη μητέρα να προστατεύσει το παιδί της, ενώ ο αξιωματικός Γκρέι και ο Γκάρζα εξακολουθούν να συνεργάζονται με τη Μόνικα, παρά τις επιφυλάξεις τους. (42')</desc>
     <category lang="el">Αστυνομική</category>
   </programme>
-  <programme start="20260907173500 +0300" stop="20260907192500 +0300" channel="XTV100001622">
+  <programme start="20260907173500 +0300" stop="20260907193000 +0300" channel="XTV100001622">
     <title lang="el">Blanca Κ3 Ε5</title>
     <desc lang="el">Τώρα που γνωρίζει το μυστικό της Μπλάνκα, ο διοικητής Μάουρο Μπατσιγκαλούπο την περιορίζει σε καθήκοντα γραφείου. Την ίδια ώρα, η πόλη συγκλονίζεται από έναν μανιακό που στοχοποιεί γυναίκες με πλαστικές επεμβάσεις. (100')</desc>
     <category lang="el">Αστυνομικό Θρίλερ</category>
   </programme>
-  <programme start="20260907192500 +0300" stop="20260907200000 +0300" channel="XTV100001622">
+  <programme start="20260907193000 +0300" stop="20260907200000 +0300" channel="XTV100001622">
     <title lang="el">Can You Keep a Secret? Ε1</title>
     <desc lang="el">Όταν ο Γουίλιαμ Φέντον δηλώνεται κατά λάθος νεκρός και καταβάλλεται η αποζημίωση από την ασφάλεια ζωής του, η σύζυγός του βλέπει μια χρυσή ευκαιρία. Τελικά, θα κρατήσουν τα χρήματα και ο άντρας της θα κρυφτεί στη σοφίτα! (28')</desc>
     <category lang="el">Κωμωδία</category>
@@ -17834,93 +17829,93 @@
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908000000 +0300" stop="20260908040000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908040000 +0300" stop="20260908080000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908080000 +0300" stop="20260908120000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908120000 +0300" stop="20260908160000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908160000 +0300" stop="20260908200000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908200000 +0300" stop="20260909000000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909000000 +0300" stop="20260909040000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909040000 +0300" stop="20260909080000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909080000 +0300" stop="20260909120000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909120000 +0300" stop="20260909160000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909160000 +0300" stop="20260909200000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909200000 +0300" stop="20260910000000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910000000 +0300" stop="20260910040000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910040000 +0300" stop="20260910080000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910080000 +0300" stop="20260910120000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910120000 +0300" stop="20260910160000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910160000 +0300" stop="20260910200000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910200000 +0300" stop="20260911000000 +0300" channel="XTV100003264">
-    <title lang="el">COSMOTE Series Marathon HD</title>
-    <desc lang="el">Το COSMOTE SERIES MARATHON HD είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
+    <title lang="el">Magenta Series 2</title>
+    <desc lang="el">Το Magenta Series 2 είναι κοντά σας κάθε Παρασκευή, Σάββατο και Κυριακή για... 'μαραθώνιο' binge watching! Ολόκληροι κύκλοι αγαπημένων αλλά και νέων σειρών με όλα τα επεισόδια back-to-back απογειώνουν την ψυχαγωγία σας!</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260911000000 +0300" stop="20260911040000 +0300" channel="XTV100003264">
@@ -18115,22 +18110,22 @@
   </programme>
   <programme start="20260908001500 +0300" stop="20260908041500 +0300" channel="XTV100000782">
     <title lang="el">Ξανά Μαζί σας το Μεσημέρι</title>
-    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην COSMΟΤΕ TV.</desc>
+    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην MagentaTV.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908041500 +0300" stop="20260908081500 +0300" channel="XTV100000782">
     <title lang="el">Ξανά Μαζί σας το Μεσημέρι</title>
-    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην COSMΟΤΕ TV.</desc>
+    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην MagentaTV.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908081500 +0300" stop="20260908121500 +0300" channel="XTV100000782">
     <title lang="el">Ξανά Μαζί σας το Μεσημέρι</title>
-    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην COSMΟΤΕ TV.</desc>
+    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην MagentaTV.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908121500 +0300" stop="20260908140000 +0300" channel="XTV100000782">
     <title lang="el">Ξανά Μαζί σας το Μεσημέρι</title>
-    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην COSMΟΤΕ TV.</desc>
+    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην MagentaTV.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908140000 +0300" stop="20260908154000 +0300" channel="XTV100000782">
@@ -18170,22 +18165,22 @@
   </programme>
   <programme start="20260909001000 +0300" stop="20260909041000 +0300" channel="XTV100000782">
     <title lang="el">Ξανά Μαζί σας το Μεσημέρι</title>
-    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην COSMΟΤΕ TV.</desc>
+    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην MagentaTV.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909041000 +0300" stop="20260909081000 +0300" channel="XTV100000782">
     <title lang="el">Ξανά Μαζί σας το Μεσημέρι</title>
-    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην COSMΟΤΕ TV.</desc>
+    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην MagentaTV.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909081000 +0300" stop="20260909121000 +0300" channel="XTV100000782">
     <title lang="el">Ξανά Μαζί σας το Μεσημέρι</title>
-    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην COSMΟΤΕ TV.</desc>
+    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην MagentaTV.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909121000 +0300" stop="20260909142500 +0300" channel="XTV100000782">
     <title lang="el">Ξανά Μαζί σας το Μεσημέρι</title>
-    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην COSMΟΤΕ TV.</desc>
+    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην MagentaTV.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909142500 +0300" stop="20260909160000 +0300" channel="XTV100000782">
@@ -18225,22 +18220,22 @@
   </programme>
   <programme start="20260910002000 +0300" stop="20260910042000 +0300" channel="XTV100000782">
     <title lang="el">Ξανά Μαζί σας το Μεσημέρι</title>
-    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην COSMΟΤΕ TV.</desc>
+    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην MagentaTV.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910042000 +0300" stop="20260910082000 +0300" channel="XTV100000782">
     <title lang="el">Ξανά Μαζί σας το Μεσημέρι</title>
-    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην COSMΟΤΕ TV.</desc>
+    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην MagentaTV.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910082000 +0300" stop="20260910122000 +0300" channel="XTV100000782">
     <title lang="el">Ξανά Μαζί σας το Μεσημέρι</title>
-    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην COSMΟΤΕ TV.</desc>
+    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην MagentaTV.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910122000 +0300" stop="20260910143000 +0300" channel="XTV100000782">
     <title lang="el">Ξανά Μαζί σας το Μεσημέρι</title>
-    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην COSMΟΤΕ TV.</desc>
+    <desc lang="el">Αγαπημένες κινηματογραφικές επιτυχίες, καθημερινά στην οθόνη σας. Αποκλειστικά στην MagentaTV.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910143000 +0300" stop="20260910160500 +0300" channel="XTV100000782">
@@ -22249,92 +22244,92 @@
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260908000000 +0300" stop="20260908040000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260908040000 +0300" stop="20260908080000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260908080000 +0300" stop="20260908120000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260908120000 +0300" stop="20260908160000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260908160000 +0300" stop="20260908200000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260908200000 +0300" stop="20260909000000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260909000000 +0300" stop="20260909040000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260909040000 +0300" stop="20260909080000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260909080000 +0300" stop="20260909120000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260909120000 +0300" stop="20260909160000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260909160000 +0300" stop="20260909200000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260909200000 +0300" stop="20260910000000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260910000000 +0300" stop="20260910040000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260910040000 +0300" stop="20260910080000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260910080000 +0300" stop="20260910120000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260910120000 +0300" stop="20260910160000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260910160000 +0300" stop="20260910200000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
   <programme start="20260910200000 +0300" stop="20260911000000 +0300" channel="XTV100001400">
-    <title lang="el">COSMOTE SPORT Highlights HD</title>
+    <title lang="el">Magenta Sport Highlights</title>
     <desc lang="el">Απολαύστε τα καλύτερα στιγμιότυπα κάθε αγωνιστικής, νέα και ειδήσεις από τις σπουδαιότερες αθλητικές διοργανώσεις του πλανήτη, αποτελέσματα, βαθμολογίες, στατιστικά και live σκορ, 24 ώρες το 24ωρο.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
@@ -23883,15 +23878,20 @@
     <desc lang="el">Crete International Basketball Tournament 2026. 2ος Ημιτελικός.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260907152000 +0300" stop="20260907173000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Crete International Basketball Tournament 2026</title>
-    <desc lang="el">Τελικός 3ης Θέσης. Ολυμπιακός, Ερυθρός Αστέρας, Αρμάνι Μιλάνο και Φενέρμπαχτσε συμμετέχουν στο Crete International Basketball Tournament που διεξάγεται στις 4 ως 6 Σεπτεμβρίου. Περιγραφή: Γιάννης Φιλέρης.</desc>
+  <programme start="20260907152000 +0300" stop="20260907174000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Φενέρμπαχτσε</title>
+    <desc lang="el">Crete International Basketball Tournament 2026. Τελικός 3ης Θέσης. Ολυμπιακός, Ερυθρός Αστέρας, Αρμάνι Μιλάνο και Φενέρμπαχτσε συμμετέχουν στο Crete International Basketball Tournament που διεξάγεται στις 4 ως 6 Σεπτεμβρίου. Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260907173000 +0300" stop="20260907200000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Crete International Basketball Tournament 2026</title>
-    <desc lang="el">Τελικός. Ολυμπιακός, Ερυθρός Αστέρας, Αρμάνι Μιλάνο και Φενέρμπαχτσε συμμετέχουν στο Crete International Basketball Tournament που διεξάγεται στις 4 ως 6 Σεπτεμβρίου. Περιγραφή: Ρήγας Δάρδαλης.</desc>
+  <programme start="20260907174000 +0300" stop="20260907194000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Ερυθρός Αστέρας - Ολυμπιακός</title>
+    <desc lang="el">Crete International Basketball Tournament 2026. Τελικός. Ολυμπιακός, Ερυθρός Αστέρας, Αρμάνι Μιλάνο και Φενέρμπαχτσε συμμετέχουν στο Crete International Basketball Tournament που διεξάγεται στις 4 ως 6 Σεπτεμβρίου. Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260907194000 +0300" stop="20260907200000 +0300" channel="XTV100001109">
+    <title lang="el">Ισπανικό Πρωτάθλημα 2025-26 - 5η Περίοδος Ε36</title>
+    <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της κάθε αγωνιστικής στο ισπανικό πρωτάθλημα μπάσκετ. Οι κορυφαίες φάσεις, τα νικητήρια καλάθια και αρκετά παραλειπόμενα από την ποιοτικότερη εθνική λίγκα της Ευρώπης.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260907200000 +0300" stop="20260907220000 +0300" channel="XTV100001109">
     <title lang="el">Ποδόσφαιρο: Άρης Λεμεσού - Ομόνοια (Ζ)</title>
@@ -24453,12 +24453,12 @@
     <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260907175000 +0300" stop="20260907184000 +0300" channel="XTV100001063">
+  <programme start="20260907175000 +0300" stop="20260907183000 +0300" channel="XTV100001063">
     <title lang="el">ERC 2026</title>
     <desc lang="el">Ηνωμένο Βασίλειο, SS7 Cwm Elan 1. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20260907184000 +0300" stop="20260907192500 +0300" channel="XTV100001063">
+  <programme start="20260907183000 +0300" stop="20260907192500 +0300" channel="XTV100001063">
     <title lang="el">ERC 2026</title>
     <desc lang="el">Ηνωμένο Βασίλειο, SS15 Gorsgoch 2. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Μηχανοκίνητα</category>
@@ -24495,7 +24495,7 @@
   </programme>
   <programme start="20260908010000 +0300" stop="20260908022500 +0300" channel="XTV100001063">
     <title lang="el">Grand Prix Show 2026</title>
-    <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η COSMΟΤΕ TV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
+    <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η MagentaTV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260908022500 +0300" stop="20260908025500 +0300" channel="XTV100001063">
@@ -24509,8 +24509,8 @@
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260908034500 +0300" stop="20260908044000 +0300" channel="XTV100001063">
-    <title lang="el">ERC 2026</title>
-    <desc lang="el">Ηνωμένο Βασίλειο, SS6 Soar y Mynydd 1. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος. Περιγραφή: Χρήστος Βασιλείου.</desc>
+    <title lang="el">2026 FIA World Championship - Στιγμιότυπα</title>
+    <desc lang="el">Αργεντινή. Απολαύστε έντονη δράση με απίστευτα και μοναδικά οχήματα!</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
   <programme start="20260908044000 +0300" stop="20260908060000 +0300" channel="XTV100001063">
@@ -24530,7 +24530,7 @@
   </programme>
   <programme start="20260908083000 +0300" stop="20260908100000 +0300" channel="XTV100001063">
     <title lang="el">Grand Prix Show 2026</title>
-    <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η COSMΟΤΕ TV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
+    <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η MagentaTV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260908100000 +0300" stop="20260908105000 +0300" channel="XTV100001063">
@@ -24580,7 +24580,7 @@
   </programme>
   <programme start="20260908171000 +0300" stop="20260908184000 +0300" channel="XTV100001063">
     <title lang="el">Grand Prix Show 2026</title>
-    <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η COSMΟΤΕ TV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
+    <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η MagentaTV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260908184000 +0300" stop="20260908194500 +0300" channel="XTV100001063">
@@ -24815,7 +24815,7 @@
   </programme>
   <programme start="20260910181000 +0300" stop="20260910194500 +0300" channel="XTV100001063">
     <title lang="el">Grand Prix Show 2026</title>
-    <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η COSMΟΤΕ TV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
+    <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η MagentaTV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260910194500 +0300" stop="20260910215000 +0300" channel="XTV100001063">
@@ -25068,22 +25068,12 @@
     <desc lang="el">ATP 250 2026. Ούμαγκ (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260907130000 +0300" stop="20260907140000 +0300" channel="XTV100001360">
-    <title lang="el">ATP Masters 1000 2026 - Στιγμιότυπα</title>
-    <desc lang="el">Σινσινάτι. Παρακολουθήστε τα στιγμιότυπα των κυριότερων αγώνων των τουρνουά ATP 1000, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260907140000 +0300" stop="20260907143000 +0300" channel="XTV100001360">
-    <title lang="el">Sports Classics: 2026 Outdoor Specials</title>
-    <desc lang="el">Mediterranean Games ep. 05. Η εκπομπή σας φέρνει τα πιο συναρπαστικά γεγονότα των extreme sports. Από το windsurfing μέχρι την ορειβασία και από την οδήγηση αγώνων μέχρι τις καταδύσεις σπηλαίων, αυτή είναι μια σειρά που θα σας δώσει μια γενναιόδωρη δόση αδρεναλίνης.</desc>
-    <category lang="el">Διάφορα Σπορ</category>
-  </programme>
-  <programme start="20260907143000 +0300" stop="20260907163000 +0300" channel="XTV100001360">
+  <programme start="20260907130000 +0300" stop="20260907154000 +0300" channel="XTV100001360">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Μαδρίτη (Τελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20260907163000 +0300" stop="20260907190000 +0300" channel="XTV100001360">
+  <programme start="20260907154000 +0300" stop="20260907190000 +0300" channel="XTV100001360">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Μαδρίτη (Τελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Πάντελ</category>
@@ -25140,7 +25130,7 @@
   </programme>
   <programme start="20260908031500 +0300" stop="20260908060000 +0300" channel="XTV100001360">
     <title lang="el">Πολεμικές Τέχνες: UFC Fight Night 2026</title>
-    <desc lang="el">Ματέους Γκάμροτ - Κίλιαν Σακίλντ. Λας Βέγκας, ΗΠΑ. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια COSMOTE SPORT.</desc>
+    <desc lang="el">Ματέους Γκάμροτ - Κίλιαν Σακίλντ. Λας Βέγκας, ΗΠΑ. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια Magenta Sport.</desc>
     <category lang="el">Πολεμικές Τέχνες</category>
   </programme>
   <programme start="20260908060000 +0300" stop="20260908073000 +0300" channel="XTV100001360">
@@ -25225,7 +25215,7 @@
   </programme>
   <programme start="20260909023500 +0300" stop="20260909060000 +0300" channel="XTV100001360">
     <title lang="el">Πολεμικές Τέχνες: UFC Fight Night 2026</title>
-    <desc lang="el">330: Ισλάμ Μαχάτσεφ - 'Ιαν Μασάδο Γκάρι. ΗΠΑ, Φιλαδέλφεια. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια COSMOTE SPORT.</desc>
+    <desc lang="el">330: Ισλάμ Μαχάτσεφ - 'Ιαν Μασάδο Γκάρι. ΗΠΑ, Φιλαδέλφεια. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια Magenta Sport.</desc>
     <category lang="el">Πολεμικές Τέχνες</category>
   </programme>
   <programme start="20260909060000 +0300" stop="20260909080000 +0300" channel="XTV100001360">
@@ -25315,7 +25305,7 @@
   </programme>
   <programme start="20260910030000 +0300" stop="20260910060000 +0300" channel="XTV100001360">
     <title lang="el">Πολεμικές Τέχνες: UFC Fight Night 2026</title>
-    <desc lang="el">'Αντονι Χερνάντεζ - Γκρέγκορι Ροντρίγκες. ΗΠΑ, Σακραμέντο. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια COSMOTE SPORT.</desc>
+    <desc lang="el">'Αντονι Χερνάντεζ - Γκρέγκορι Ροντρίγκες. ΗΠΑ, Σακραμέντο. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια Magenta Sport.</desc>
     <category lang="el">Πολεμικές Τέχνες</category>
   </programme>
   <programme start="20260910060000 +0300" stop="20260910080000 +0300" channel="XTV100001360">
@@ -25619,63 +25609,63 @@
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908000000 +0300" stop="20260908020000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908020000 +0300" stop="20260908040000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908040000 +0300" stop="20260908060000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908060000 +0300" stop="20260908080000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908080000 +0300" stop="20260908100000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908100000 +0300" stop="20260908120000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908120000 +0300" stop="20260908140000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908140000 +0300" stop="20260908160000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908160000 +0300" stop="20260908180000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908180000 +0300" stop="20260908200000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908200000 +0300" stop="20260908213000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908213000 +0300" stop="20260908220000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908220000 +0300" stop="20260909000500 +0300" channel="XTV100001708">
@@ -25689,68 +25679,68 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260909000500 +0300" stop="20260909003000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909003000 +0300" stop="20260909020000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909020000 +0300" stop="20260909040000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909040000 +0300" stop="20260909060000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909060000 +0300" stop="20260909080000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909080000 +0300" stop="20260909100000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909100000 +0300" stop="20260909120000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909120000 +0300" stop="20260909140000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909140000 +0300" stop="20260909160000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909160000 +0300" stop="20260909180000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909180000 +0300" stop="20260909200000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909200000 +0300" stop="20260909213000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909213000 +0300" stop="20260909220000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909220000 +0300" stop="20260910000500 +0300" channel="XTV100001708">
@@ -25764,68 +25754,68 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260910000500 +0300" stop="20260910003000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910003000 +0300" stop="20260910020000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910020000 +0300" stop="20260910040000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910040000 +0300" stop="20260910060000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910060000 +0300" stop="20260910080000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910080000 +0300" stop="20260910100000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910100000 +0300" stop="20260910120000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910120000 +0300" stop="20260910140000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910140000 +0300" stop="20260910160000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910160000 +0300" stop="20260910180000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910180000 +0300" stop="20260910200000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910200000 +0300" stop="20260910213000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910213000 +0300" stop="20260910220000 +0300" channel="XTV100001708">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 7</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910220000 +0300" stop="20260911000500 +0300" channel="XTV100001708">
@@ -26064,63 +26054,63 @@
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908000000 +0300" stop="20260908020000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908020000 +0300" stop="20260908040000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908040000 +0300" stop="20260908060000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908060000 +0300" stop="20260908080000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908080000 +0300" stop="20260908100000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908100000 +0300" stop="20260908120000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908120000 +0300" stop="20260908140000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908140000 +0300" stop="20260908160000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908160000 +0300" stop="20260908180000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908180000 +0300" stop="20260908200000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908200000 +0300" stop="20260908213000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908213000 +0300" stop="20260908220000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908220000 +0300" stop="20260909000000 +0300" channel="XTV100001725">
@@ -26129,68 +26119,68 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260909000000 +0300" stop="20260909003000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909003000 +0300" stop="20260909020000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909020000 +0300" stop="20260909040000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909040000 +0300" stop="20260909060000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909060000 +0300" stop="20260909080000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909080000 +0300" stop="20260909100000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909100000 +0300" stop="20260909120000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909120000 +0300" stop="20260909140000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909140000 +0300" stop="20260909160000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909160000 +0300" stop="20260909180000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909180000 +0300" stop="20260909200000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909200000 +0300" stop="20260909213000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909213000 +0300" stop="20260909220000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909220000 +0300" stop="20260910000000 +0300" channel="XTV100001725">
@@ -26199,68 +26189,68 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260910000000 +0300" stop="20260910003000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910003000 +0300" stop="20260910020000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910020000 +0300" stop="20260910040000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910040000 +0300" stop="20260910060000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910060000 +0300" stop="20260910080000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910080000 +0300" stop="20260910100000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910100000 +0300" stop="20260910120000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910120000 +0300" stop="20260910140000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910140000 +0300" stop="20260910160000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910160000 +0300" stop="20260910180000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910180000 +0300" stop="20260910200000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910200000 +0300" stop="20260910213000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910213000 +0300" stop="20260910220000 +0300" channel="XTV100001725">
-    <title lang="el">COSMOTESport8HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 8</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910220000 +0300" stop="20260911000000 +0300" channel="XTV100001725">
@@ -26454,123 +26444,123 @@
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908000000 +0300" stop="20260908020000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908020000 +0300" stop="20260908040000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908040000 +0300" stop="20260908060000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908060000 +0300" stop="20260908080000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908080000 +0300" stop="20260908100000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908100000 +0300" stop="20260908120000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908120000 +0300" stop="20260908140000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908140000 +0300" stop="20260908160000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908160000 +0300" stop="20260908180000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908180000 +0300" stop="20260908200000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908200000 +0300" stop="20260908220000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908220000 +0300" stop="20260909000000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909000000 +0300" stop="20260909020000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909020000 +0300" stop="20260909040000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909040000 +0300" stop="20260909060000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909060000 +0300" stop="20260909080000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909080000 +0300" stop="20260909100000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909100000 +0300" stop="20260909120000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909120000 +0300" stop="20260909140000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909140000 +0300" stop="20260909160000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909160000 +0300" stop="20260909180000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909180000 +0300" stop="20260909200000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909200000 +0300" stop="20260909213000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909213000 +0300" stop="20260909220000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909220000 +0300" stop="20260910000000 +0300" channel="XTV100002945">
@@ -26579,18 +26569,18 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260910000000 +0300" stop="20260910010000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910010000 +0300" stop="20260910020000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910020000 +0300" stop="20260910032000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910032000 +0300" stop="20260910065000 +0300" channel="XTV100002945">
@@ -26599,53 +26589,53 @@
     <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
   </programme>
   <programme start="20260910065000 +0300" stop="20260910073000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910073000 +0300" stop="20260910080000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910080000 +0300" stop="20260910100000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910100000 +0300" stop="20260910120000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910120000 +0300" stop="20260910140000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910140000 +0300" stop="20260910160000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910160000 +0300" stop="20260910180000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910180000 +0300" stop="20260910200000 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910200000 +0300" stop="20260910214500 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910214500 +0300" stop="20260910221500 +0300" channel="XTV100002945">
-    <title lang="el">COSMOTESport9HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Magenta Sport 9</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα High Definition.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910221500 +0300" stop="20260911001500 +0300" channel="XTV100002945">
@@ -26844,58 +26834,58 @@
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908000000 +0300" stop="20260908020000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908020000 +0300" stop="20260908040000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908040000 +0300" stop="20260908060000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908060000 +0300" stop="20260908080000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908080000 +0300" stop="20260908100000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908100000 +0300" stop="20260908120000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908120000 +0300" stop="20260908140000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908140000 +0300" stop="20260908160000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908160000 +0300" stop="20260908180000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908180000 +0300" stop="20260908190000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908190000 +0300" stop="20260908194500 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908194500 +0300" stop="20260908215000 +0300" channel="XTV100011401">
@@ -26904,78 +26894,78 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260908215000 +0300" stop="20260908223000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908223000 +0300" stop="20260909003000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908223000 +0300" stop="20260909003000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909003000 +0300" stop="20260909020000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909020000 +0300" stop="20260909040000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909040000 +0300" stop="20260909060000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909060000 +0300" stop="20260909080000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909080000 +0300" stop="20260909100000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909100000 +0300" stop="20260909120000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909120000 +0300" stop="20260909140000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909140000 +0300" stop="20260909160000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909160000 +0300" stop="20260909180000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909180000 +0300" stop="20260909200000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909200000 +0300" stop="20260909213000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909213000 +0300" stop="20260909220000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260909220000 +0300" stop="20260910000500 +0300" channel="XTV100011401">
@@ -26989,68 +26979,68 @@
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260910000500 +0300" stop="20260910003000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910003000 +0300" stop="20260910020000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910020000 +0300" stop="20260910040000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910040000 +0300" stop="20260910060000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910060000 +0300" stop="20260910080000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910080000 +0300" stop="20260910100000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910100000 +0300" stop="20260910120000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910120000 +0300" stop="20260910140000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910140000 +0300" stop="20260910160000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910160000 +0300" stop="20260910180000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910180000 +0300" stop="20260910200000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910200000 +0300" stop="20260910213000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910213000 +0300" stop="20260910220000 +0300" channel="XTV100011401">
-    <title lang="el">COSMOTESport4K</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα 4K.</desc>
+    <title lang="el">Magenta Sport 4K</title>
+    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η MagentaTV, και πάντα σε ποιότητα 4K.</desc>
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260910220000 +0300" stop="20260911000500 +0300" channel="XTV100011401">
@@ -27273,10 +27263,15 @@
     <desc lang="el">Πλέι-οφ, 2η αγωνιστική. Τα καλύτερα στιγμιότυπα της αγωνιστικής του UEFA Champions League. Στιγμές γεμάτες πάθος, δυνατές μάχες και τα καλύτερα γκολ που ξεχώρισαν ανά αγωνιστική ημέρα αφιερωμένα στην κορυφαία διοργάνωση.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260907131500 +0300" stop="20260907153000 +0300" channel="XTV900000002">
-    <title lang="el">Μπάσκετ: Crete International Basketball Tournament 2026</title>
-    <desc lang="el">Τελικός. Ολυμπιακός, Ερυθρός Αστέρας, Αρμάνι Μιλάνο και Φενέρμπαχτσε συμμετέχουν στο Crete International Basketball Tournament που διεξάγεται στις 4 ως 6 Σεπτεμβρίου. Περιγραφή: Ρήγας Δάρδαλης.</desc>
+  <programme start="20260907131500 +0300" stop="20260907151500 +0300" channel="XTV900000002">
+    <title lang="el">Μπάσκετ: Ερυθρός Αστέρας - Ολυμπιακός</title>
+    <desc lang="el">Crete International Basketball Tournament 2026. Τελικός. Ολυμπιακός, Ερυθρός Αστέρας, Αρμάνι Μιλάνο και Φενέρμπαχτσε συμμετέχουν στο Crete International Basketball Tournament που διεξάγεται στις 4 ως 6 Σεπτεμβρίου. Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260907151500 +0300" stop="20260907153000 +0300" channel="XTV900000002">
+    <title lang="el">Αθλητικά Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260907153000 +0300" stop="20260907155500 +0300" channel="XTV900000002">
     <title lang="el">Ισπανικό Πρωτάθλημα - 5η Περίοδος Ε36</title>
@@ -27305,7 +27300,7 @@
   </programme>
   <programme start="20260907214500 +0300" stop="20260907234500 +0300" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο: Ουντινέζε - Λάτσιο (Ζ)</title>
-    <desc lang="el">Serie A 2026-27. 3η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
+    <desc lang="el">Serie A 2026-27. 3η Αγωνιστική.  Περιγραφή: Μάνος Σπανόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260907234500 +0300" stop="20260908000000 +0300" channel="XTV900000002">
@@ -27520,7 +27515,7 @@
   </programme>
   <programme start="20260910030000 +0300" stop="20260910060000 +0300" channel="XTV900000002">
     <title lang="el">Πολεμικές Τέχνες: UFC Fight Night 2026</title>
-    <desc lang="el">Ουμάρ Νουρμαγκομέντοφ - Γιαντόνγκ Σονγκ. Κίνα, Σανγκάη. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια COSMOTE SPORT.</desc>
+    <desc lang="el">Ουμάρ Νουρμαγκομέντοφ - Γιαντόνγκ Σονγκ. Κίνα, Σανγκάη. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια Magenta Sport.</desc>
     <category lang="el">Πολεμικές Τέχνες</category>
   </programme>
   <programme start="20260910060000 +0300" stop="20260910070000 +0300" channel="XTV900000002">
@@ -27530,7 +27525,7 @@
   </programme>
   <programme start="20260910070000 +0300" stop="20260910083000 +0300" channel="XTV900000002">
     <title lang="el">Grand Prix Show 2026</title>
-    <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η COSMΟΤΕ TV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
+    <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η MagentaTV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260910083000 +0300" stop="20260910090000 +0300" channel="XTV900000002">
@@ -27682,306 +27677,6 @@
     <title lang="el">Ποδόσφαιρο: Γουέστ Χαμ - Ρέξαμ (Ζ)</title>
     <desc lang="el">Sky Bet EFL Championship 2026-27. 7η Αγωνιστική.</desc>
     <category lang="el">Ποδόσφαιρο</category>
-  </programme>
-  <programme start="20260906000000 +0300" stop="20260906020000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260906020000 +0300" stop="20260906040000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260906040000 +0300" stop="20260906060000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260906060000 +0300" stop="20260906080000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260906080000 +0300" stop="20260906100000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260906100000 +0300" stop="20260906120000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260906120000 +0300" stop="20260906140000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260906140000 +0300" stop="20260906160000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260906160000 +0300" stop="20260906180000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260906180000 +0300" stop="20260906200000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260906200000 +0300" stop="20260906220000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260906220000 +0300" stop="20260907000000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260908000000 +0300" stop="20260908020000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260908020000 +0300" stop="20260908040000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260908040000 +0300" stop="20260908060000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260908060000 +0300" stop="20260908080000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260908080000 +0300" stop="20260908100000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260908100000 +0300" stop="20260908120000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260908120000 +0300" stop="20260908140000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260908140000 +0300" stop="20260908160000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260908160000 +0300" stop="20260908180000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260908180000 +0300" stop="20260908200000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260908200000 +0300" stop="20260908220000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260908220000 +0300" stop="20260909000000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260909000000 +0300" stop="20260909020000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260909020000 +0300" stop="20260909040000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260909040000 +0300" stop="20260909060000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260909060000 +0300" stop="20260909080000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260909080000 +0300" stop="20260909100000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260909100000 +0300" stop="20260909120000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260909120000 +0300" stop="20260909140000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260909140000 +0300" stop="20260909160000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260909160000 +0300" stop="20260909180000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260909180000 +0300" stop="20260909200000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260909200000 +0300" stop="20260909220000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260909220000 +0300" stop="20260910000000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260910000000 +0300" stop="20260910020000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260910020000 +0300" stop="20260910040000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260910040000 +0300" stop="20260910060000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260910060000 +0300" stop="20260910080000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260910080000 +0300" stop="20260910100000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260910100000 +0300" stop="20260910120000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260910120000 +0300" stop="20260910140000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260910140000 +0300" stop="20260910160000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260910160000 +0300" stop="20260910180000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260910180000 +0300" stop="20260910200000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260910200000 +0300" stop="20260910220000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260910220000 +0300" stop="20260911000000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260911000000 +0300" stop="20260911020000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260911020000 +0300" stop="20260911040000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260911040000 +0300" stop="20260911060000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260911060000 +0300" stop="20260911080000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260911080000 +0300" stop="20260911100000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260911100000 +0300" stop="20260911120000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260911120000 +0300" stop="20260911140000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260911140000 +0300" stop="20260911160000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260911160000 +0300" stop="20260911180000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260911180000 +0300" stop="20260911200000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260911200000 +0300" stop="20260911220000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20260911220000 +0300" stop="20260912000000 +0300" channel="XTV100003508">
-    <title lang="el">COSMOTE SPORT Super League Pass</title>
-    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
-    <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260906000000 +0300" stop="20260906040000 +0300" channel="XTV600000607">
     <title lang="el">Novasports News</title>
@@ -92391,5 +92086,185 @@
   <programme start="20260911220000 +0300" stop="20260912000000 +0300" channel="TST000000004">
     <title lang="el">Διαφημιστικό Πρόγραμμα</title>
     <category lang="el">Διαφημιστικό Πρόγραμμα</category>
+  </programme>
+  <programme start="20260908000000 +0300" stop="20260908020000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260908020000 +0300" stop="20260908040000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260908040000 +0300" stop="20260908060000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260908060000 +0300" stop="20260908080000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260908080000 +0300" stop="20260908100000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260908100000 +0300" stop="20260908120000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260908120000 +0300" stop="20260908140000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260908140000 +0300" stop="20260908160000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260908160000 +0300" stop="20260908180000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260908180000 +0300" stop="20260908200000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260908200000 +0300" stop="20260908220000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260908220000 +0300" stop="20260909000000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910000000 +0300" stop="20260910020000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910020000 +0300" stop="20260910040000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910040000 +0300" stop="20260910060000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910060000 +0300" stop="20260910080000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910080000 +0300" stop="20260910100000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910100000 +0300" stop="20260910120000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910120000 +0300" stop="20260910140000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910140000 +0300" stop="20260910160000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910160000 +0300" stop="20260910180000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910180000 +0300" stop="20260910200000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910200000 +0300" stop="20260910220000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910220000 +0300" stop="20260911000000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260911000000 +0300" stop="20260911020000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260911020000 +0300" stop="20260911040000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260911040000 +0300" stop="20260911060000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260911060000 +0300" stop="20260911080000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260911080000 +0300" stop="20260911100000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260911100000 +0300" stop="20260911120000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260911120000 +0300" stop="20260911140000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260911140000 +0300" stop="20260911160000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260911160000 +0300" stop="20260911180000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260911180000 +0300" stop="20260911200000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260911200000 +0300" stop="20260911220000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260911220000 +0300" stop="20260912000000 +0300" channel="XTV100003508">
+    <title lang="el">COSMOTE SPORT Super League Pass</title>
+    <desc lang="el">Παρακολουθήστε όλες τις ζωντανές μεταδόσεις της COSMOTE TV για τη Super League 2026-2027.</desc>
+    <category lang="el">Promo Card</category>
   </programme>
 </tv>
