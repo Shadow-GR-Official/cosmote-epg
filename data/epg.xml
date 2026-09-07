@@ -1298,15 +1298,10 @@
     <desc lang="el">Η εκπομπή φέρνει στο φως όσα συμβαίνουν στο πολιτικό παρασκήνιο. Αποκαλυπτικές πληροφορίες και αποκλειστικό ρεπορτάζ συνθέτουν μια διαφορετική ματιά στην πολιτική επικαιρότητα και σε όσα βρίσκονται πίσω από τις ειδήσεις.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260908020000 +0300" stop="20260908030000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή (Ε)</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
-  </programme>
-  <programme start="20260908030000 +0300" stop="20260908040000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή (Ε)</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  <programme start="20260908020000 +0300" stop="20260908040000 +0300" channel="XTV100003524">
+    <title lang="el">Ευθέως (Ε)</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Παναγιώτη Στάθη.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260908040000 +0300" stop="20260908050000 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -1363,15 +1358,10 @@
     <desc lang="el">Με ανταποκριτές σε κάθε γωνιά της Ελλάδας και σε όλο τον κόσμο το κεντρικό δελτίο ειδήσεων της ΕΡΤ μεταφέρει σε κάθε σπίτι το καθημερινό ρεπορτάζ, τις έκτακτες ειδήσεις, αλλά και όσα επηρεάζουν τη ζωή μας.</desc>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260908190000 +0300" stop="20260908200000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
-  </programme>
-  <programme start="20260908200000 +0300" stop="20260908210000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  <programme start="20260908190000 +0300" stop="20260908210000 +0300" channel="XTV100003524">
+    <title lang="el">Πολιτική Κουζίνα</title>
+    <desc lang="el">Η 'Πολιτική κουζίνα' φωτίζει όσα μένουν σκόπιμα στη σκιά, μετατρέπει κάθε ερώτημα σε αποκαλυπτική απάντηση και φέρνει στο φως τα μυστικά των άγνωστων πολιτικών 'συνταγών'. Με τη Γεωργία Σκιτζή και τη Γεωργία Σαδανά.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260908210000 +0300" stop="20260908220000 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -1379,14 +1369,14 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260908220000 +0300" stop="20260908230000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <title lang="el">Η Μηχανή του Χρόνου (Ε)</title>
+    <desc lang="el">Μέσα από έρευνα και ντοκουμέντα, η εκπομπή εμβαθύνει στα γεγονότα της ιστορίας και αναζητά το ρόλο των προσώπων. Η κοινωνία και οι αλλαγές της, οι πρωταγωνιστές και οι συγκρούσεις τους γίνονται μικρές και μεγάλες τηλεοπτικές ιστορίες.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260908230000 +0300" stop="20260909000000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <title lang="el">365 Στιγμές (Ε)</title>
+    <desc lang="el">Η Σοφία Παπαϊωάννου επιχειρεί να αναδείξει τις ανθρώπινες στιγμές που βρίσκονται πίσω από τις ειδήσεις και τα μεγάλα γεγονότα, φωτίζοντας μεγάλα ζητήματα της κοινωνίας, της πολιτικής, της επικαιρότητας και της ιστορίας του σήμερα.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260909000000 +0300" stop="20260909002000 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -1399,14 +1389,14 @@
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260909020000 +0300" stop="20260909030000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή (Ε)</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <title lang="el">Η Μηχανή του Χρόνου (Ε)</title>
+    <desc lang="el">Μέσα από έρευνα και ντοκουμέντα, η εκπομπή εμβαθύνει στα γεγονότα της ιστορίας και αναζητά το ρόλο των προσώπων. Η κοινωνία και οι αλλαγές της, οι πρωταγωνιστές και οι συγκρούσεις τους γίνονται μικρές και μεγάλες τηλεοπτικές ιστορίες.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260909030000 +0300" stop="20260909040000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή (Ε)</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <title lang="el">365 Στιγμές (Ε)</title>
+    <desc lang="el">Η Σοφία Παπαϊωάννου επιχειρεί να αναδείξει τις ανθρώπινες στιγμές που βρίσκονται πίσω από τις ειδήσεις και τα μεγάλα γεγονότα, φωτίζοντας μεγάλα ζητήματα της κοινωνίας, της πολιτικής, της επικαιρότητας και της ιστορίας του σήμερα.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260909040000 +0300" stop="20260909050000 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -1463,15 +1453,10 @@
     <desc lang="el">Με ανταποκριτές σε κάθε γωνιά της Ελλάδας και σε όλο τον κόσμο το κεντρικό δελτίο ειδήσεων της ΕΡΤ μεταφέρει σε κάθε σπίτι το καθημερινό ρεπορτάζ, τις έκτακτες ειδήσεις, αλλά και όσα επηρεάζουν τη ζωή μας.</desc>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260909190000 +0300" stop="20260909200000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
-  </programme>
-  <programme start="20260909200000 +0300" stop="20260909210000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  <programme start="20260909190000 +0300" stop="20260909210000 +0300" channel="XTV100003524">
+    <title lang="el">Πολιτική Κουζίνα</title>
+    <desc lang="el">Η 'Πολιτική κουζίνα' φωτίζει όσα μένουν σκόπιμα στη σκιά, μετατρέπει κάθε ερώτημα σε αποκαλυπτική απάντηση και φέρνει στο φως τα μυστικά των άγνωστων πολιτικών 'συνταγών'. Με τη Γεωργία Σκιτζή και τη Γεωργία Σαδανά.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260909210000 +0300" stop="20260909220000 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -1479,14 +1464,14 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260909220000 +0300" stop="20260909230000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <title lang="el">Στο Κέντρο</title>
+    <desc lang="el">Οι πρωταγωνιστές της επικαιρότητας στο επίκεντρο του δημόσιου διαλόγου. Συνεντεύξεις με πρόσωπα που βρίσκονται στο κέντρο των εξελίξεων στην πολιτική, στην οικονομία, στην κοινωνία.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260909230000 +0300" stop="20260910000000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <title lang="el">Η Μηχανή του Χρόνου</title>
+    <desc lang="el">Μέσα από έρευνα και ντοκουμέντα, η εκπομπή εμβαθύνει στα γεγονότα της ιστορίας και αναζητά το ρόλο των προσώπων. Η κοινωνία και οι αλλαγές της, οι πρωταγωνιστές και οι συγκρούσεις τους γίνονται μικρές και μεγάλες τηλεοπτικές ιστορίες.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260910000000 +0300" stop="20260910002000 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -1499,13 +1484,13 @@
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260910020000 +0300" stop="20260910030000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή (Ε)</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <title lang="el">Στο Κέντρο (Ε)</title>
+    <desc lang="el">Οι πρωταγωνιστές της επικαιρότητας στο επίκεντρο του δημόσιου διαλόγου. Συνεντεύξεις με πρόσωπα που βρίσκονται στο κέντρο των εξελίξεων στην πολιτική, στην οικονομία, στην κοινωνία.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260910030000 +0300" stop="20260910040000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή (Ε)</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
+    <title lang="el">Μηχανή του Χρόνου (Ε)</title>
+    <desc lang="el">Εκπομπές της δημοσιογράφου και συγγραφέα Σεμίνας Διγενή, που φιλοξένησαν, μεταξύ άλλων, σπουδαίες προσωπικότητες της Τέχνης, της επιστήμης, της πολιτικής και του αθλητισμού.</desc>
     <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
   <programme start="20260910040000 +0300" stop="20260910050000 +0300" channel="XTV100003524">
@@ -1563,15 +1548,10 @@
     <desc lang="el">Με ανταποκριτές σε κάθε γωνιά της Ελλάδας και σε όλο τον κόσμο το κεντρικό δελτίο ειδήσεων της ΕΡΤ μεταφέρει σε κάθε σπίτι το καθημερινό ρεπορτάζ, τις έκτακτες ειδήσεις, αλλά και όσα επηρεάζουν τη ζωή μας.</desc>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260910190000 +0300" stop="20260910200000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
-  </programme>
-  <programme start="20260910200000 +0300" stop="20260910210000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  <programme start="20260910190000 +0300" stop="20260910210000 +0300" channel="XTV100003524">
+    <title lang="el">Πολιτική Κουζίνα</title>
+    <desc lang="el">Η 'Πολιτική κουζίνα' φωτίζει όσα μένουν σκόπιμα στη σκιά, μετατρέπει κάθε ερώτημα σε αποκαλυπτική απάντηση και φέρνει στο φως τα μυστικά των άγνωστων πολιτικών 'συνταγών'. Με τη Γεωργία Σκιτζή και τη Γεωργία Σαδανά.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260910210000 +0300" stop="20260910220000 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -1579,13 +1559,13 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260910220000 +0300" stop="20260910230000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <title lang="el">Στο Δια Ταύτα</title>
+    <desc lang="el">Αληθινές ερωτήσεις και δύσκολες απαντήσεις από τους πρωταγωνιστές της επικαιρότητας. Με τον Γιώργο Σιαδήμα.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260910230000 +0300" stop="20260911000000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
+    <title lang="el">Μηχανή του Χρόνου</title>
+    <desc lang="el">Εκπομπές της δημοσιογράφου και συγγραφέα Σεμίνας Διγενή, που φιλοξένησαν, μεταξύ άλλων, σπουδαίες προσωπικότητες της Τέχνης, της επιστήμης, της πολιτικής και του αθλητισμού.</desc>
     <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
   <programme start="20260911000000 +0300" stop="20260911002000 +0300" channel="XTV100003524">
@@ -1599,13 +1579,13 @@
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260911020000 +0300" stop="20260911030000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή (Ε)</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <title lang="el">Στο Δια Ταύτα (Ε)</title>
+    <desc lang="el">Αληθινές ερωτήσεις και δύσκολες απαντήσεις από τους πρωταγωνιστές της επικαιρότητας. Με τον Γιώργο Σιαδήμα.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260911030000 +0300" stop="20260911040000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή (Ε)</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
+    <title lang="el">Μηχανή του Χρόνου (Ε)</title>
+    <desc lang="el">Εκπομπές της δημοσιογράφου και συγγραφέα Σεμίνας Διγενή, που φιλοξένησαν, μεταξύ άλλων, σπουδαίες προσωπικότητες της Τέχνης, της επιστήμης, της πολιτικής και του αθλητισμού.</desc>
     <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
   <programme start="20260911040000 +0300" stop="20260911050000 +0300" channel="XTV100003524">
@@ -1663,15 +1643,10 @@
     <desc lang="el">Με ανταποκριτές σε κάθε γωνιά της Ελλάδας και σε όλο τον κόσμο το κεντρικό δελτίο ειδήσεων της ΕΡΤ μεταφέρει σε κάθε σπίτι το καθημερινό ρεπορτάζ, τις έκτακτες ειδήσεις, αλλά και όσα επηρεάζουν τη ζωή μας.</desc>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260911190000 +0300" stop="20260911200000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
-  </programme>
-  <programme start="20260911200000 +0300" stop="20260911210000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  <programme start="20260911190000 +0300" stop="20260911210000 +0300" channel="XTV100003524">
+    <title lang="el">Πολιτική Κουζίνα</title>
+    <desc lang="el">Η 'Πολιτική κουζίνα' φωτίζει όσα μένουν σκόπιμα στη σκιά, μετατρέπει κάθε ερώτημα σε αποκαλυπτική απάντηση και φέρνει στο φως τα μυστικά των άγνωστων πολιτικών 'συνταγών'. Με τη Γεωργία Σκιτζή και τη Γεωργία Σαδανά.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260911210000 +0300" stop="20260911220000 +0300" channel="XTV100003524">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -1679,14 +1654,14 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260911220000 +0300" stop="20260911230000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <title lang="el">Ένας κι Ένας</title>
+    <desc lang="el">Κάθε Παρασκευή βράδυ, ο Θοδωρής Βαμβακάρης και ο Τάκης Γιαννούτσος αναζητούν και αναδεικνύουν δυνατές αφηγήσεις και ξεχωριστές ιστορίες. Σχολιάζουν την καθημερινότητα και προτάσσουν όσα μας απασχολούν και συζητάμε.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260911230000 +0300" stop="20260912000000 +0300" channel="XTV100003524">
-    <title lang="el">Εκπομπή</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
-    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <title lang="el">Η Μηχανή του Χρόνου</title>
+    <desc lang="el">Μέσα από έρευνα και ντοκουμέντα, η εκπομπή εμβαθύνει στα γεγονότα της ιστορίας και αναζητά το ρόλο των προσώπων. Η κοινωνία και οι αλλαγές της, οι πρωταγωνιστές και οι συγκρούσεις τους γίνονται μικρές και μεγάλες τηλεοπτικές ιστορίες.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260905220000 +0300" stop="20260906004500 +0300" channel="XTV100000952">
     <title lang="el">#Παρέα Κ2 Ε5 (Ε)</title>
@@ -6823,15 +6798,10 @@
     <desc lang="el">Εκπομπή τηλεαγορών.</desc>
     <category lang="el">Τηλεαγορές</category>
   </programme>
-  <programme start="20260908033000 +0300" stop="20260908041500 +0300" channel="XTV100001464">
-    <title lang="el">...Και όμως Αληθινό! Κ1 Ε2</title>
-    <desc lang="el">Σειρά ντοκιμαντέρ που διερευνά την εμπειρία των διακοπών, των τρένων, τα πλοίων και των αεροπλάνων από πρώτο χέρι μέσα από περιεχόμενο χρηστών σε κοινωνικά δίκτυα με τις πιο περίεργες, απροσδόκητες και εξαιρετικές στιγμές τους!</desc>
-    <category lang="el">Ντοκιμαντέρ</category>
-  </programme>
-  <programme start="20260908041500 +0300" stop="20260908051500 +0300" channel="XTV100001464">
-    <title lang="el">Θησαυροί με την Μπέτανι Χιουζ</title>
-    <desc lang="el">Επεισόδιο: Τοπ 10 Θησαυροί της Αιγύπτου. Η Μπέτανι Χιουζ ταξιδεύει ανά την υφήλιο αναζητώντας αισιόδοξες ιστορίες στη διάρκεια της πανδημίας. Εξερευνά νησιά και θάλασσες και παρακολουθεί την ανασκαφή στο παλάτι του Μ. Αλεξάνδρου στην Ελλάδα.</desc>
-    <category lang="el">Ιστορικό - Πολεμικό</category>
+  <programme start="20260908033000 +0300" stop="20260908051500 +0300" channel="XTV100001464">
+    <title lang="el">Ούτε Μιλάει Ούτε Λαλάει</title>
+    <desc lang="el">Δύο φίλοι, ο Σωφρόνης και ο Μίμης μπλέκουν συνεχώς σε μπελάδες, παρεξηγήσεις και γκάφες, εξαιτίας του πρώτου, ο οποίος όπου σταθεί και όπου βρεθεί δημιουργεί, με την αφέλεια και την αδεξιότητά του, προβλήματα. (105')</desc>
+    <category lang="el">Κωμωδία</category>
   </programme>
   <programme start="20260908051500 +0300" stop="20260908060000 +0300" channel="XTV100001464">
     <title lang="el">Εικόνες</title>
@@ -6904,13 +6874,13 @@
     <category lang="el">Τηλεαγορές</category>
   </programme>
   <programme start="20260909023000 +0300" stop="20260909041500 +0300" channel="XTV100001464">
-    <title lang="el">Can You Keep a Secret?</title>
-    <desc lang="el">Πεπεισμένη ότι το αεροπλάνο στο οποίο επιβαίνει θα πέσει, η Έμμα λέει τα μυστικά της σε έναν ξένο. Τουλάχιστον, έτσι νόμιζε... Μέχρι που γνωρίζει τον νεαρό Διευθύνοντα Σύμβουλο της εταιρείας στην οποία δουλεύει. Βασισμένο στο best seller των New York Times. (91')</desc>
+    <title lang="el">Τρελά Κορίτσια, Απίθανα Αγόρια</title>
+    <desc lang="el">Δύο επιχειρηματίες απορρυπαντικών αποφασίζουν να παντρέψουν τα παιδιά τους πιστεύοντας ο καθένας απ' τη μεριά του πως ο ανταγωνιστής του κατέχει το μυστικό κάποιων βιολογικών ενζύμων. (105')</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
   <programme start="20260909041500 +0300" stop="20260909051500 +0300" channel="XTV100001464">
     <title lang="el">Θησαυροί με την Μπέτανι Χιουζ</title>
-    <desc lang="el">Η Μπέτανι Χιουζ ταξιδεύει ανά την υφήλιο αναζητώντας αισιόδοξες ιστορίες στη διάρκεια της πανδημίας. Εξερευνά νησιά και θάλασσες και παρακολουθεί την ανασκαφή στο παλάτι του Μ. Αλεξάνδρου στην Ελλάδα.</desc>
+    <desc lang="el">Επεισόδιο: Τοπ 10 Θησαυροί της Αιγύπτου. Η Μπέτανι Χιουζ ταξιδεύει ανά την υφήλιο αναζητώντας αισιόδοξες ιστορίες στη διάρκεια της πανδημίας. Εξερευνά νησιά και θάλασσες και παρακολουθεί την ανασκαφή στο παλάτι του Μ. Αλεξάνδρου στην Ελλάδα.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
   </programme>
   <programme start="20260909051500 +0300" stop="20260909060000 +0300" channel="XTV100001464">
@@ -7068,20 +7038,20 @@
     <desc lang="el">Έπειτα από αρκετό καιρό συνεργασίας, η Λούσι θα φτάσει στα όρια της αντοχής της με τις υπερβολικές απαιτήσεις του εργοδότη της και θα αναγκαστεί να του δώσει δύο εβδομάδες προθεσμία για να βρει την αντικαταστάτριά της. (97')</desc>
     <category lang="el">Ρομαντική Κομεντί</category>
   </programme>
-  <programme start="20260911021500 +0300" stop="20260911031500 +0300" channel="XTV100001464">
+  <programme start="20260911021500 +0300" stop="20260911030000 +0300" channel="XTV100001464">
     <title lang="el">JFK JR: Ένας Αμερικάνος Πρίγκιπας</title>
     <desc lang="el">Το ντοκιμαντέρ έχοντας αποκλειστική πρόσβαση στον στενό οικογενειακό και φιλικό κύκλο του γιου του Τζον Κένεντι και της Τζάκι Κένεντι, επιχειρεί να ρίξει φως σε άγνωστες πτυχές της ζωή του.</desc>
     <category lang="el">Ντοκιμαντέρ</category>
   </programme>
-  <programme start="20260911031500 +0300" stop="20260911034500 +0300" channel="XTV100001464">
+  <programme start="20260911030000 +0300" stop="20260911033000 +0300" channel="XTV100001464">
     <title lang="el">Νυχτερινή Θυρίδα Τηλεπώλησης</title>
     <desc lang="el">Εκπομπή τηλεαγορών.</desc>
     <category lang="el">Τηλεαγορές</category>
   </programme>
-  <programme start="20260911034500 +0300" stop="20260911051500 +0300" channel="XTV100001464">
-    <title lang="el">Θησαυροί με την Μπέτανι Χιουζ</title>
-    <desc lang="el">Επεισόδιο: Οι μούμιες της Αιγύπτου. Η Μπέτανι Χιουζ ταξιδεύει ανά την υφήλιο αναζητώντας αισιόδοξες ιστορίες στη διάρκεια της πανδημίας. Εξερευνά νησιά και θάλασσες και παρακολουθεί την ανασκαφή στο παλάτι του Μ. Αλεξάνδρου στην Ελλάδα.</desc>
-    <category lang="el">Ιστορικό - Πολεμικό</category>
+  <programme start="20260911033000 +0300" stop="20260911051500 +0300" channel="XTV100001464">
+    <title lang="el">Γέλιο με Δόσεις</title>
+    <desc lang="el">Για να 'σπάσει' την κατάρα της οικογένειάς της, που διαλύει όλους τους πρώτους γάμους των μελών της, μια ερωτευμένη γυναίκα αποφασίζει να παντρευτεί τον πρώτο τυχόντα, να τον χωρίσει κι έπειτα να ζήσει με τον άντρα των ονείρων της. (104')</desc>
+    <category lang="el">Κωμωδία</category>
   </programme>
   <programme start="20260911051500 +0300" stop="20260911060000 +0300" channel="XTV100001464">
     <title lang="el">Εικόνες</title>
@@ -22595,7 +22565,7 @@
   </programme>
   <programme start="20260909080000 +0300" stop="20260909100000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Πόρτο - Μάντσεστερ Σίτι</title>
-    <desc lang="el">UEFA Champions League 2026-27. League Phase, 1η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
+    <desc lang="el">UEFA Champions League 2026-27. League Phase, 1η Αγωνιστική.  Περιγραφή: Δημήτρης Σπηλιόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260909100000 +0300" stop="20260909120000 +0300" channel="XTV100001071">
@@ -22680,7 +22650,7 @@
   </programme>
   <programme start="20260910140000 +0300" stop="20260910160000 +0300" channel="XTV100001071">
     <title lang="el">Ποδόσφαιρο: Νάπολι - Άρσεναλ</title>
-    <desc lang="el">UEFA Champions League 2026-27. League Phase, 1η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
+    <desc lang="el">UEFA Champions League 2026-27. League Phase, 1η Αγωνιστική.  Περιγραφή: Μάνος Σπανόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260910160000 +0300" stop="20260910180000 +0300" channel="XTV100001071">
@@ -22970,7 +22940,7 @@
   </programme>
   <programme start="20260908050000 +0300" stop="20260908070000 +0300" channel="XTV100001080">
     <title lang="el">Ποδόσφαιρο: Ουντινέζε - Λάτσιο</title>
-    <desc lang="el">Serie A 2026-27. 3η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
+    <desc lang="el">Serie A 2026-27. 3η Αγωνιστική.  Περιγραφή: Μάνος Σπανόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260908070000 +0300" stop="20260908090000 +0300" channel="XTV100001080">
@@ -22985,7 +22955,7 @@
   </programme>
   <programme start="20260908110000 +0300" stop="20260908130000 +0300" channel="XTV100001080">
     <title lang="el">Ποδόσφαιρο: Ουντινέζε - Λάτσιο</title>
-    <desc lang="el">Serie A 2026-27. 3η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
+    <desc lang="el">Serie A 2026-27. 3η Αγωνιστική.  Περιγραφή: Μάνος Σπανόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260908130000 +0300" stop="20260908150000 +0300" channel="XTV100001080">
@@ -23235,7 +23205,7 @@
   </programme>
   <programme start="20260911150000 +0300" stop="20260911170000 +0300" channel="XTV100001080">
     <title lang="el">Ποδόσφαιρο: Ουντινέζε - Λάτσιο</title>
-    <desc lang="el">Serie A 2026-27. 3η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
+    <desc lang="el">Serie A 2026-27. 3η Αγωνιστική.  Περιγραφή: Μάνος Σπανόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260911170000 +0300" stop="20260911190000 +0300" channel="XTV100001080">
@@ -23555,12 +23525,12 @@
   </programme>
   <programme start="20260909220000 +0300" stop="20260910000500 +0300" channel="XTV100001072">
     <title lang="el">Ποδόσφαιρο: Νάπολι - Άρσεναλ (Ζ)</title>
-    <desc lang="el">UEFA Champions League 2026-27. League Phase, 1η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
+    <desc lang="el">UEFA Champions League 2026-27. League Phase, 1η Αγωνιστική.  Περιγραφή: Μάνος Σπανόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260909220000 +0300" stop="20260910000500 +0300" channel="XTV100001072">
     <title lang="el">Ποδόσφαιρο: Νάπολι - Άρσεναλ (Ζ)</title>
-    <desc lang="el">UEFA Champions League 2026-27. League Phase, 1η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
+    <desc lang="el">UEFA Champions League 2026-27. League Phase, 1η Αγωνιστική.  Περιγραφή: Μάνος Σπανόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260910000500 +0300" stop="20260910020500 +0300" channel="XTV100001072">
@@ -23873,42 +23843,37 @@
     <desc lang="el">NBA Shot Clock: 50 point games from 2025-2026 - Part 2. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260908085000 +0300" stop="20260908110000 +0300" channel="XTV100001109">
+  <programme start="20260908085000 +0300" stop="20260908105000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Ερυθρός Αστέρας</title>
     <desc lang="el">Crete International Basketball Tournament 2026. 1ος Ημιτελικός.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260908110000 +0300" stop="20260908131500 +0300" channel="XTV100001109">
+  <programme start="20260908105000 +0300" stop="20260908132000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Ολυμπιακός - Φενέρμπαχτσε</title>
     <desc lang="el">Crete International Basketball Tournament 2026. 2ος Ημιτελικός.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260908131500 +0300" stop="20260908152000 +0300" channel="XTV100001109">
+  <programme start="20260908132000 +0300" stop="20260908153000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Βαλένθια - Μπανταλόνα</title>
     <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 1ος Αγώνας.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260908152000 +0300" stop="20260908172500 +0300" channel="XTV100001109">
+  <programme start="20260908153000 +0300" stop="20260908173500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπαχτσεσεχίρ - Μπεσίκτας</title>
     <desc lang="el">Turkish Basketball Super League 2025-26. Ημιτελική Φάση, 4ος Αγώνας. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260908172500 +0300" stop="20260908175500 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials</title>
-    <desc lang="el">NBA Shot Clock: 50 point games from 2025-2026 - Part 3. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260908175500 +0300" stop="20260908182000 +0300" channel="XTV100001109">
+  <programme start="20260908173500 +0300" stop="20260908180000 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials</title>
     <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260908182000 +0300" stop="20260908194000 +0300" channel="XTV100001109">
+  <programme start="20260908180000 +0300" stop="20260908192000 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials</title>
     <desc lang="el">NBA Shot Clock: Best of Eastern Conference Champions. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260908194000 +0300" stop="20260908220000 +0300" channel="XTV100001109">
+  <programme start="20260908192000 +0300" stop="20260908220000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Ολυμπιακός - Φενέρμπαχτσε</title>
     <desc lang="el">Crete International Basketball Tournament 2026. 2ος Ημιτελικός.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
@@ -23953,14 +23918,14 @@
     <desc lang="el">NBA Shot Clock: All-Star History Vol. 1. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260909085000 +0300" stop="20260909110000 +0300" channel="XTV100001109">
+  <programme start="20260909085000 +0300" stop="20260909111500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Ολυμπιακός - Φενέρμπαχτσε</title>
     <desc lang="el">Crete International Basketball Tournament 2026. 2ος Ημιτελικός.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260909110000 +0300" stop="20260909131500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Crete International Basketball Tournament 2026</title>
-    <desc lang="el">Τελικός 3ης Θέσης. Ολυμπιακός, Ερυθρός Αστέρας, Αρμάνι Μιλάνο και Φενέρμπαχτσε συμμετέχουν στο Crete International Basketball Tournament που διεξάγεται στις 4 ως 6 Σεπτεμβρίου. Περιγραφή: Γιάννης Φιλέρης.</desc>
+  <programme start="20260909111500 +0300" stop="20260909131500 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Φενέρμπαχτσε</title>
+    <desc lang="el">Crete International Basketball Tournament 2026. Τελικός 3ης Θέσης.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260909131500 +0300" stop="20260909151500 +0300" channel="XTV100001109">
@@ -23988,15 +23953,20 @@
     <desc lang="el">UEFA Champions League 2026-27. League Phase, 1η Αγωνιστική.  Περιγραφή: Δημήτρης Ξαρλής.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260909215000 +0300" stop="20260910000500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Crete International Basketball Tournament 2026</title>
-    <desc lang="el">Τελικός 3ης Θέσης. Ολυμπιακός, Ερυθρός Αστέρας, Αρμάνι Μιλάνο και Φενέρμπαχτσε συμμετέχουν στο Crete International Basketball Tournament που διεξάγεται στις 4 ως 6 Σεπτεμβρίου. Περιγραφή: Γιάννης Φιλέρης.</desc>
+  <programme start="20260909215000 +0300" stop="20260909235000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Φενέρμπαχτσε</title>
+    <desc lang="el">Crete International Basketball Tournament 2026. Τελικός 3ης Θέσης.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260909215000 +0300" stop="20260910000500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Crete International Basketball Tournament 2026</title>
-    <desc lang="el">Τελικός 3ης Θέσης. Ολυμπιακός, Ερυθρός Αστέρας, Αρμάνι Μιλάνο και Φενέρμπαχτσε συμμετέχουν στο Crete International Basketball Tournament που διεξάγεται στις 4 ως 6 Σεπτεμβρίου. Περιγραφή: Γιάννης Φιλέρης.</desc>
-    <category lang="el">Μπάσκετ</category>
+  <programme start="20260909235000 +0300" stop="20260910000500 +0300" channel="XTV100001109">
+    <title lang="el">Αθλητικά Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260909235000 +0300" stop="20260910000500 +0300" channel="XTV100001109">
+    <title lang="el">Αθλητικά Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260910000500 +0300" stop="20260910013000 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials</title>
@@ -24024,14 +23994,19 @@
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260910090000 +0300" stop="20260910110000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Crete International Basketball Tournament 2026</title>
-    <desc lang="el">Τελικός 3ης Θέσης. Ολυμπιακός, Ερυθρός Αστέρας, Αρμάνι Μιλάνο και Φενέρμπαχτσε συμμετέχουν στο Crete International Basketball Tournament που διεξάγεται στις 4 ως 6 Σεπτεμβρίου. Περιγραφή: Γιάννης Φιλέρης.</desc>
+    <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Φενέρμπαχτσε</title>
+    <desc lang="el">Crete International Basketball Tournament 2026. Τελικός 3ης Θέσης.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260910110000 +0300" stop="20260910133000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Crete International Basketball Tournament 2026</title>
-    <desc lang="el">Τελικός. Ολυμπιακός, Ερυθρός Αστέρας, Αρμάνι Μιλάνο και Φενέρμπαχτσε συμμετέχουν στο Crete International Basketball Tournament που διεξάγεται στις 4 ως 6 Σεπτεμβρίου. Περιγραφή: Ρήγας Δάρδαλης.</desc>
+  <programme start="20260910110000 +0300" stop="20260910130000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Ερυθρός Αστέρας - Ολυμπιακός</title>
+    <desc lang="el">Crete International Basketball Tournament 2026. Τελικός.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260910130000 +0300" stop="20260910133000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260910133000 +0300" stop="20260910152500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Βαλένθια - Μπανταλόνα</title>
@@ -24068,15 +24043,20 @@
     <desc lang="el">UEFA Champions League 2026-27. League Phase, 1η Αγωνιστική.  Περιγραφή: Αντρέα Παλομπαρίνι.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260910215000 +0300" stop="20260911002000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Crete International Basketball Tournament 2026</title>
-    <desc lang="el">Τελικός. Ολυμπιακός, Ερυθρός Αστέρας, Αρμάνι Μιλάνο και Φενέρμπαχτσε συμμετέχουν στο Crete International Basketball Tournament που διεξάγεται στις 4 ως 6 Σεπτεμβρίου. Περιγραφή: Ρήγας Δάρδαλης.</desc>
+  <programme start="20260910215000 +0300" stop="20260910235000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Ερυθρός Αστέρας - Ολυμπιακός</title>
+    <desc lang="el">Crete International Basketball Tournament 2026. Τελικός.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260910215000 +0300" stop="20260911002000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Crete International Basketball Tournament 2026</title>
-    <desc lang="el">Τελικός. Ολυμπιακός, Ερυθρός Αστέρας, Αρμάνι Μιλάνο και Φενέρμπαχτσε συμμετέχουν στο Crete International Basketball Tournament που διεξάγεται στις 4 ως 6 Σεπτεμβρίου. Περιγραφή: Ρήγας Δάρδαλης.</desc>
-    <category lang="el">Μπάσκετ</category>
+  <programme start="20260910235000 +0300" stop="20260911002000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials: Basketball Stories</title>
+    <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260910235000 +0300" stop="20260911002000 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials: Basketball Stories</title>
+    <desc lang="el">Point Guards of Puerto Rico. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260911002000 +0300" stop="20260911010000 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials</title>
@@ -24118,15 +24098,25 @@
     <desc lang="el">ACB Liga Endesa 2025-26. Ημιτελική Φάση, 3ος Αγώνας.. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260911153000 +0300" stop="20260911175000 +0300" channel="XTV100001109">
+  <programme start="20260911153000 +0300" stop="20260911173000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Αρμάνι Μιλάνο - Ερυθρός Αστέρας</title>
     <desc lang="el">Crete International Basketball Tournament 2026. 1ος Ημιτελικός.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260911175000 +0300" stop="20260911202000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: Crete International Basketball Tournament 2026</title>
-    <desc lang="el">Τελικός. Ολυμπιακός, Ερυθρός Αστέρας, Αρμάνι Μιλάνο και Φενέρμπαχτσε συμμετέχουν στο Crete International Basketball Tournament που διεξάγεται στις 4 ως 6 Σεπτεμβρίου. Περιγραφή: Ρήγας Δάρδαλης.</desc>
+  <programme start="20260911173000 +0300" stop="20260911193000 +0300" channel="XTV100001109">
+    <title lang="el">Μπάσκετ: Ερυθρός Αστέρας - Ολυμπιακός</title>
+    <desc lang="el">Crete International Basketball Tournament 2026. Τελικός.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20260911193000 +0300" stop="20260911200500 +0300" channel="XTV100001109">
+    <title lang="el">NBA Specials</title>
+    <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+    <category lang="el">Στιγμιότυπα</category>
+  </programme>
+  <programme start="20260911200500 +0300" stop="20260911202000 +0300" channel="XTV100001109">
+    <title lang="el">Αθλητικά Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260911202000 +0300" stop="20260911205000 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials</title>
@@ -25073,10 +25063,20 @@
     <desc lang="el">Mediterranean Games ep. 05. Η εκπομπή σας φέρνει τα πιο συναρπαστικά γεγονότα των extreme sports. Από το windsurfing μέχρι την ορειβασία και από την οδήγηση αγώνων μέχρι τις καταδύσεις σπηλαίων, αυτή είναι μια σειρά που θα σας δώσει μια γενναιόδωρη δόση αδρεναλίνης.</desc>
     <category lang="el">Διάφορα Σπορ</category>
   </programme>
-  <programme start="20260908080000 +0300" stop="20260908100000 +0300" channel="XTV100001360">
+  <programme start="20260908080000 +0300" stop="20260908092000 +0300" channel="XTV100001360">
     <title lang="el">Premier Padel Tour 2026</title>
-    <desc lang="el">Μαδρίτη (Ημιτελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Δημήτρης Ξαρλής.</desc>
+    <desc lang="el">Μαδρίτη (Ηµιτελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
+  </programme>
+  <programme start="20260908092000 +0300" stop="20260908095000 +0300" channel="XTV100001360">
+    <title lang="el">Sports Classics: 2026 Outdoor Specials</title>
+    <desc lang="el">Mediterranean Games ep. 05. Η εκπομπή σας φέρνει τα πιο συναρπαστικά γεγονότα των extreme sports. Από το windsurfing μέχρι την ορειβασία και από την οδήγηση αγώνων μέχρι τις καταδύσεις σπηλαίων, αυτή είναι μια σειρά που θα σας δώσει μια γενναιόδωρη δόση αδρεναλίνης.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+  </programme>
+  <programme start="20260908095000 +0300" stop="20260908100000 +0300" channel="XTV100001360">
+    <title lang="el">Αθλητικά Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260908100000 +0300" stop="20260908103000 +0300" channel="XTV100001360">
     <title lang="el">Premier Padel Tour 2026 - Στιγμιότυπα</title>
@@ -25113,29 +25113,24 @@
     <desc lang="el">ATP 250 2026. Λος Κάμπος (Τελικός). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
   </programme>
-  <programme start="20260908180000 +0300" stop="20260908190000 +0300" channel="XTV100001360">
-    <title lang="el">ATP Masters 1000 2026 - Στιγμιότυπα</title>
-    <desc lang="el">Σινσινάτι. Παρακολουθήστε τα στιγμιότυπα των κυριότερων αγώνων των τουρνουά ATP 1000, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260908190000 +0300" stop="20260908193000 +0300" channel="XTV100001360">
+  <programme start="20260908180000 +0300" stop="20260908183500 +0300" channel="XTV100001360">
     <title lang="el">Υδάτινα Σπορ: Sailing to the Games 2025 Ε3</title>
     <desc lang="el">Ακολουθήστε ιστιοπλόους από όλο τον κόσμο καθώς προετοιμάζονται να αγωνιστούν στη μεγαλύτερη αθλητική σκηνή του κόσμου.</desc>
     <category lang="el">Υδάτινα Σπορ</category>
   </programme>
-  <programme start="20260908193000 +0300" stop="20260908220000 +0300" channel="XTV100001360">
+  <programme start="20260908183500 +0300" stop="20260908220000 +0300" channel="XTV100001360">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Μαδρίτη (Τελικός Ανδρών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
   <programme start="20260908220000 +0300" stop="20260909000500 +0300" channel="XTV100001360">
     <title lang="el">Ποδόσφαιρο: Πόρτο - Μάντσεστερ Σίτι (Ζ)</title>
-    <desc lang="el">UEFA Champions League 2026-27. League Phase, 1η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
+    <desc lang="el">UEFA Champions League 2026-27. League Phase, 1η Αγωνιστική.  Περιγραφή: Δημήτρης Σπηλιόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260908220000 +0300" stop="20260909000500 +0300" channel="XTV100001360">
     <title lang="el">Ποδόσφαιρο: Πόρτο - Μάντσεστερ Σίτι (Ζ)</title>
-    <desc lang="el">UEFA Champions League 2026-27. League Phase, 1η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
+    <desc lang="el">UEFA Champions League 2026-27. League Phase, 1η Αγωνιστική.  Περιγραφή: Δημήτρης Σπηλιόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260909000500 +0300" stop="20260909023500 +0300" channel="XTV100001360">
@@ -28330,7 +28325,7 @@
   </programme>
   <programme start="20260907180000 +0300" stop="20260907200000 +0300" channel="XTV600000609">
     <title lang="el">Ποδόσφαιρο: Αστέρας Aktor - Ηρακλής (Ζ)</title>
-    <desc lang="el">Stoiximan Super League 2026-27. Ο Asteras AKTOR (13ος-0β) προέρχεται από εντός έδρας ήττα με 1-0 από τον Ολυμπιακό και αναζητά τους πρώτους του βαθμούς στην 3η αγωνιστική κόντρα στον Ηρακλή (9ος-1β), που ήρθε ισόπαλος 1-1 με τον Βόλο εκτός.</desc>
+    <desc lang="el">Stoiximan Super League 2026-27. Ο Asteras AKTOR (13ος-0β) προέρχεται από εντός έδρας ήττα με 1-0 από τον Ολυμπιακό και αναζητά τους πρώτους του βαθμούς στην 3η αγωνιστική κόντρα στον Ηρακλή (9ος-1β), που ήρθε ισόπαλος 1-1 με τον Βόλο εκτός. Περιγραφή: Ισ. Πρίντεζης</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260907200000 +0300" stop="20260907203000 +0300" channel="XTV600000609">
@@ -39278,12 +39273,12 @@
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε πόσοι τρόποι υπάρχουν για να τραυματιστούμε και να ντροπιαστούμε ενώ κάνουμε κανό, πηδάμε πάνω από δίχτυα ή κάνουμε κόλπα περπατώντας με πατερίτσες.</desc>
     <category lang="el">Επιστήμη - Μηχανική</category>
   </programme>
-  <programme start="20260909060000 +0300" stop="20260909065500 +0300" channel="XTV100001076">
+  <programme start="20260909060000 +0300" stop="20260909065000 +0300" channel="XTV100001076">
     <title lang="el">Διάσωση στον Παγετό Κ7 Ε3</title>
     <desc lang="el">Επεισόδιο: Εμπόδιο στον Δρόμο. Ο Μπιόρν βρίσκεται υπό μεγάλη πίεση όταν μια μετωπική σύγκρουση ανάμεσα σε δύο φορτηγά εμποδίζει ένα ασθενοφόρο να φτάσει σε μια έκτακτη κλήση.</desc>
     <category lang="el">Ριάλιτι</category>
   </programme>
-  <programme start="20260909065500 +0300" stop="20260909071500 +0300" channel="XTV100001076">
+  <programme start="20260909065000 +0300" stop="20260909071500 +0300" channel="XTV100001076">
     <title lang="el">Αναζητώντας Πολύτιμα Μέταλλα Κ1 Ε9</title>
     <desc lang="el">Επεισόδιο: Χρήματα στο εργαστήριο. Ο Rich επισκέπτεται ένα λύκειο αναζητώντας πολύτιμα μέταλλα στον παλιό εξοπλισμού του χημείου αλλά αυτό που ανακαλύπτει είναι το τελευταίο πράγμα που φανταζόταν.</desc>
     <category lang="el">Ριάλιτι</category>
@@ -39298,42 +39293,42 @@
     <desc lang="el">Επεισόδιο: Η Αναζήτηση. Η επόμενη γενιά κατοίκων της Αλάσκα πρέπει να αντιμετωπίσει τις προκλήσεις της Μητέρας Φύσης για να μπορέσει να επιβιώσει.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260909082500 +0300" stop="20260909091500 +0300" channel="XTV100001076">
+  <programme start="20260909082500 +0300" stop="20260909091000 +0300" channel="XTV100001076">
     <title lang="el">Τραγωδία στον Αέρα Κ9 Ε4</title>
     <desc lang="el">Επεισόδιο: Πολύ Κουρασμένος. 12 Φεβρουαρίου 2009. Με δύο ώρες καθυστέρηση και φτάνοντας στο τέλος της πτήσης από το Νιου Τζέρσι, η πτήση 3407 της Continental Connections πλησιάζει το διεθνές αεροδρόμιο Μπάφαλο-Νιαγάρα.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260909091500 +0300" stop="20260909100000 +0300" channel="XTV100001076">
+  <programme start="20260909091000 +0300" stop="20260909100000 +0300" channel="XTV100001076">
     <title lang="el">Τραγωδία στον Αέρα Κ9 Ε5</title>
     <desc lang="el">Επεισόδιο: Αεροδιάδρομος στον Ποταμό Χάντσον. 15 Ιανουαρίου 2009. Σε λιγότερο από 2 λεπτά μετά την απογείωσή του από το αεροδρόμιο Λα Γκουάρντια της Νέας Υόρκης, η πτήση της US Airways προσκρούει σε ένα σμήνος πουλιών. Ξαφνικά, το αεροπλάνο αρχίσει να πέφτει.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260909100000 +0300" stop="20260909105000 +0300" channel="XTV100001076">
+  <programme start="20260909100000 +0300" stop="20260909104500 +0300" channel="XTV100001076">
     <title lang="el">Τραγωδία στον Αέρα Κ9 Ε6</title>
     <desc lang="el">Επεισόδιο: Ποιος Έχει τον Έλεγχο; Στις 25 Φεβρουαρίου 2005, ένα τζετ της Turkish Airlines συνετρίβη ενώ προσγειωνόταν στο αεροδρόμιο Σχίπχολ, παίρνοντας μαζί του στον θάνατο εννέα ανθρώπους. Τι προκάλεσε τη συντριβή;</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260909105000 +0300" stop="20260909113500 +0300" channel="XTV100001076">
+  <programme start="20260909104500 +0300" stop="20260909113500 +0300" channel="XTV100001076">
     <title lang="el">Στα Βάθη των Ωκεανών: Ειδική Έκδοση Ε4</title>
     <desc lang="el">Επεισόδιο: Πεδίο Μάχης: Αμερική. Απομεινάρια του Περλ Χάρμπορ, του Άλαμο και του Πολέμου του 1812 βρίσκονται στον βυθό της θάλασσας. Μπορούν οι αρχαιολόγοι να ρίξουν φως σε αυτές τις κομβικές επιθέσεις που διαμόρφωσαν την Αμερική;</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260909113500 +0300" stop="20260909122500 +0300" channel="XTV100001076">
+  <programme start="20260909113500 +0300" stop="20260909122000 +0300" channel="XTV100001076">
     <title lang="el">Στα Βάθη των Ωκεανών: Ειδική Έκδοση Ε5</title>
     <desc lang="el">Επεισόδιο: Κίνδυνοι του Ειρηνικού. Ένα θρυλικό βυθισμένο πλοίο 300 ετών και ένα μοναχικό σκάφος της ρωσικής εποχής που βρέθηκε στα νερά του Ειρηνικού. Μπορεί η επιστήμη να αποκαλύψει την αλήθεια για αυτούς τους κινδύνους του Ειρηνικού;</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260909122500 +0300" stop="20260909131000 +0300" channel="XTV100001076">
+  <programme start="20260909122000 +0300" stop="20260909131000 +0300" channel="XTV100001076">
     <title lang="el">Διάσωση στον Παγετό Κ7 Ε4</title>
     <desc lang="el">Επεισόδιο: Απόλυτη Καταστροφή. Ο Θορντ και ο Μπιορν αντιμετωπίζουν την απόλυτη δοκιμασία διάσωσης όταν ένα φορτηγό καταστρέφεται αφού πέφτει 40 μέτρα σε έναν γκρεμό.</desc>
     <category lang="el">Ριάλιτι</category>
   </programme>
-  <programme start="20260909131000 +0300" stop="20260909133500 +0300" channel="XTV100001076">
+  <programme start="20260909131000 +0300" stop="20260909133000 +0300" channel="XTV100001076">
     <title lang="el">Αναζητώντας Πολύτιμα Μέταλλα Κ1 Ε11</title>
     <desc lang="el">Επεισόδιο: Ασημένιο ξίφος, χρυσό γουρούνι. Ο Diego εξερευνά τον κόσμο των πολεμικών τεχνών, αναζητώντας όπλα που μπορεί να φτιάχτηκαν από πολύτιμα μέταλλα.</desc>
     <category lang="el">Ριάλιτι</category>
   </programme>
-  <programme start="20260909133500 +0300" stop="20260909135500 +0300" channel="XTV100001076">
+  <programme start="20260909133000 +0300" stop="20260909135500 +0300" channel="XTV100001076">
     <title lang="el">Αναζητώντας Πολύτιμα Μέταλλα Κ1 Ε12</title>
     <desc lang="el">Επεισόδιο: Χρυσωρύχοι χωρίς πατρίδα. Ο Rich επισκέπτεται ένα ράντσο με θέμα την Άγρια Δύση, που χρησιμοποιείται για γυρίσματα ταινιών και γαμήλιες δεξιώσεις, με την ελπίδα ότι θα βρει αντίκες με πολύτιμα μέταλλα.</desc>
     <category lang="el">Ριάλιτι</category>
@@ -39368,12 +39363,12 @@
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε πόσοι τρόποι υπάρχουν για να τραυματιστούμε και να ντροπιαστούμε ανεβαίνοντας σε τρίκυκλο ή απλά ισορροπώντας πράγματα στο κεφάλι μας.</desc>
     <category lang="el">Επιστήμη - Μηχανική</category>
   </programme>
-  <programme start="20260909181000 +0300" stop="20260909183000 +0300" channel="XTV100001076">
+  <programme start="20260909181000 +0300" stop="20260909183500 +0300" channel="XTV100001076">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ5 Ε12</title>
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε πόσοι τρόποι υπάρχουν για να τραυματιστούμε και να ντροπιαστούμε κάνοντας push ups και βουτιές-μπόμπες στη θάλασσα και παίζοντας frisbee golf.</desc>
     <category lang="el">Επιστήμη - Μηχανική</category>
   </programme>
-  <programme start="20260909183000 +0300" stop="20260909192000 +0300" channel="XTV100001076">
+  <programme start="20260909183500 +0300" stop="20260909192000 +0300" channel="XTV100001076">
     <title lang="el">Τραγωδία στον Αέρα Κ10 Ε1</title>
     <desc lang="el">Επεισόδιο: Τραγωδία στον Αεροδιάδρομο. 17 Ιουλίου 2007. Η πτήση 3054 της TAM βρίσκεται στην τελική ευθεία για να προσγειωθεί στο διαβόητο αεροδρόμιο Κονγκόνας του Σάο Πάολο.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
@@ -39423,42 +39418,42 @@
     <desc lang="el">Επεισόδιο: Μαζεμένος Πάγος. Η Πυροσβεστική του Ντόσον Σίτι παλεύει να προστατεύσει την πόλη από καταστροφικές ξαφνικές πλημμύρες. Υπάλληλοι της υπηρεσίας Προστασίας Άγριας Ζωής εντοπίζουν ένα επικίνδυνο και καταστροφικό κοπάδι βισόνων και συναντούν μια αρκούδα.</desc>
     <category lang="el">Φύση - Ανθρωπολογία</category>
   </programme>
-  <programme start="20260910012000 +0300" stop="20260910020500 +0300" channel="XTV100001076">
+  <programme start="20260910012000 +0300" stop="20260910021000 +0300" channel="XTV100001076">
     <title lang="el">Τραγωδία στον Αέρα Κ10 Ε1</title>
     <desc lang="el">Επεισόδιο: Τραγωδία στον Αεροδιάδρομο. 17 Ιουλίου 2007. Η πτήση 3054 της TAM βρίσκεται στην τελική ευθεία για να προσγειωθεί στο διαβόητο αεροδρόμιο Κονγκόνας του Σάο Πάολο.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260910020500 +0300" stop="20260910025500 +0300" channel="XTV100001076">
+  <programme start="20260910021000 +0300" stop="20260910025500 +0300" channel="XTV100001076">
     <title lang="el">Τραγωδία στον Αέρα Κ10 Ε2</title>
     <desc lang="el">Επεισόδιο: Το Αεροπλάνο που Πετούσε Πολύ Ψηλά. Εκατόν εξήντα άνθρωποι έχασαν τη ζωή τους όταν το 2005 η Πτήση 708 της West Caribbean Airways συνετρίβη, οδηγώντας τελικά σε χρεωκοπία την προβληματική αεροπορική εταιρεία.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260910025500 +0300" stop="20260910034000 +0300" channel="XTV100001076">
+  <programme start="20260910025500 +0300" stop="20260910034500 +0300" channel="XTV100001076">
     <title lang="el">Τραγωδία στον Αέρα Κ10 Ε3</title>
     <desc lang="el">Επεισόδιο: Απόφαση της Στιγμής. Η τραγωδία με την πτήση 1285 της Arrow Air ήταν το πιο φονικό αεροπορικό δυστύχημα του Καναδά. Οι ερευνητές ισχυρίστηκαν ότι έφταιγε ο πάγος στα φτερά αλλά μια άλλη έρευνα διαφώνησε.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260910034000 +0300" stop="20260910042000 +0300" channel="XTV100001076">
+  <programme start="20260910034500 +0300" stop="20260910042500 +0300" channel="XTV100001076">
     <title lang="el">Υπερ-δεξιότητες με την Εύα Ζου Μπεκ Κ2 Ε3</title>
     <desc lang="el">Επεισόδιο: Πώς Επέζησα από την πιο Επώδυνη Τελετουργία στη Γη. Η Εύα Ζου Μπεκ υποβάλλεται οικειοθελώς σε τελετουργίες έντονου πόνου στον Αμαζόνιο της Κολομβίας, από την εισπνοή καυτερού ελαίου τσίλι μέχρι το δάγκωμα από τα 'μυρμήγκια-σφαίρα'.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
   </programme>
-  <programme start="20260910042000 +0300" stop="20260910050500 +0300" channel="XTV100001076">
+  <programme start="20260910042500 +0300" stop="20260910051000 +0300" channel="XTV100001076">
     <title lang="el">Yukon Rescue Κ1 Ε6</title>
     <desc lang="el">Επεισόδιο: Μαζεμένος Πάγος. Η Πυροσβεστική του Ντόσον Σίτι παλεύει να προστατεύσει την πόλη από καταστροφικές ξαφνικές πλημμύρες. Υπάλληλοι της υπηρεσίας Προστασίας Άγριας Ζωής εντοπίζουν ένα επικίνδυνο και καταστροφικό κοπάδι βισόνων και συναντούν μια αρκούδα.</desc>
     <category lang="el">Φύση - Ανθρωπολογία</category>
   </programme>
-  <programme start="20260910050500 +0300" stop="20260910053000 +0300" channel="XTV100001076">
+  <programme start="20260910051000 +0300" stop="20260910053500 +0300" channel="XTV100001076">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ5 Ε1</title>
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε πόσοι τρόποι υπάρχουν για να τραυματιστούμε και να ντροπιαστούμε ανεβαίνοντας σε τρίκυκλο ή απλά ισορροπώντας πράγματα στο κεφάλι μας.</desc>
     <category lang="el">Επιστήμη - Μηχανική</category>
   </programme>
-  <programme start="20260910053000 +0300" stop="20260910055500 +0300" channel="XTV100001076">
+  <programme start="20260910053500 +0300" stop="20260910060000 +0300" channel="XTV100001076">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ5 Ε12</title>
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε πόσοι τρόποι υπάρχουν για να τραυματιστούμε και να ντροπιαστούμε κάνοντας push ups και βουτιές-μπόμπες στη θάλασσα και παίζοντας frisbee golf.</desc>
     <category lang="el">Επιστήμη - Μηχανική</category>
   </programme>
-  <programme start="20260910055500 +0300" stop="20260910065000 +0300" channel="XTV100001076">
+  <programme start="20260910060000 +0300" stop="20260910065000 +0300" channel="XTV100001076">
     <title lang="el">Διάσωση στον Παγετό Κ7 Ε4</title>
     <desc lang="el">Επεισόδιο: Απόλυτη Καταστροφή. Ο Θορντ και ο Μπιορν αντιμετωπίζουν την απόλυτη δοκιμασία διάσωσης όταν ένα φορτηγό καταστρέφεται αφού πέφτει 40 μέτρα σε έναν γκρεμό.</desc>
     <category lang="el">Ριάλιτι</category>
@@ -69503,125 +69498,625 @@
     <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
     <category lang="el">Άλλο</category>
   </programme>
-  <programme start="20260908000000 +0300" stop="20260908040000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908000000 +0300" stop="20260908002000 +0300" channel="XTV100002326">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες ειδήσεις από τη Nea TV Crete.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260908040000 +0300" stop="20260908080000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908002000 +0300" stop="20260908021000 +0300" channel="XTV100002326">
+    <title lang="el">Δοξάρια και Σκαρόφτερα</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260908080000 +0300" stop="20260908120000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908021000 +0300" stop="20260908040500 +0300" channel="XTV100002326">
+    <title lang="el">Θύελλα στην Ουκρανία</title>
+    <desc lang="el">Ένα ουκρανικό χωριό καλείται να αντισταθεί στη γερμανική εισβολή τον Ιούνιο του 1941. (115')</desc>
+    <category lang="el">Πολεμική</category>
   </programme>
-  <programme start="20260908120000 +0300" stop="20260908160000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908040500 +0300" stop="20260908053000 +0300" channel="XTV100002326">
+    <title lang="el">Ένας Γορίλας Απ' το Μπρούκλιν</title>
+    <desc lang="el">Δύο ξεκαρδιστικοί καλλιτέχνες συναντούν έναν τρελό επιστήμονα σε ένα νησί της ζούγκλας. (85')</desc>
+    <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260908160000 +0300" stop="20260908200000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908053000 +0300" stop="20260908060500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260908200000 +0300" stop="20260909000000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908060500 +0300" stop="20260908065000 +0300" channel="XTV100002326">
+    <title lang="el">Ενορία εν Δράσει</title>
+    <desc lang="el">Διοργάνωση: Ι. Ναός Ευαγγελιστρίας Πειραιώς.</desc>
+    <category lang="el">Θρησκευτικό</category>
   </programme>
-  <programme start="20260909000000 +0300" stop="20260909040000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908065000 +0300" stop="20260908074000 +0300" channel="XTV100002326">
+    <title lang="el">Ενορία εν Δράσει</title>
+    <desc lang="el">Διοργάνωση: Ι. Ναός Ευαγγελιστρίας Πειραιώς.</desc>
+    <category lang="el">Θρησκευτικό</category>
   </programme>
-  <programme start="20260909040000 +0300" stop="20260909080000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908074000 +0300" stop="20260908081500 +0300" channel="XTV100002326">
+    <title lang="el">Εκκλησιαστική Ζωγραφική</title>
+    <desc lang="el">Το σεμινάριο εμβαθύνει στην εκκλησιαστική ζωγραφική και τη βυζαντινή αγιογραφία. Η σπουδή του σχεδίου περιλάμβανε την αποτύπωση των βασικών χαρακτηριστικών ενός εικονιζόμενου προσώπου, καθώς και τον φωτισμό του.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260909080000 +0300" stop="20260909120000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908081500 +0300" stop="20260908085000 +0300" channel="XTV100002326">
+    <title lang="el">Εκκλησιαστική Ζωγραφική</title>
+    <desc lang="el">Το σεμινάριο εμβαθύνει στην εκκλησιαστική ζωγραφική και τη βυζαντινή αγιογραφία. Η σπουδή του σχεδίου περιλάμβανε την αποτύπωση των βασικών χαρακτηριστικών ενός εικονιζόμενου προσώπου, καθώς και τον φωτισμό του.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260909120000 +0300" stop="20260909160000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908085000 +0300" stop="20260908092000 +0300" channel="XTV100002326">
+    <title lang="el">Μυρμηγκάκια Εν Δράσει</title>
+    <desc lang="el">Παιδικά Κινούμενα Σχέδια.</desc>
+    <category lang="el">Παιδική</category>
   </programme>
-  <programme start="20260909160000 +0300" stop="20260909200000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908092000 +0300" stop="20260908095000 +0300" channel="XTV100002326">
+    <title lang="el">Μυρμηγκάκια Εν Δράσει</title>
+    <desc lang="el">Παιδικά Κινούμενα Σχέδια.</desc>
+    <category lang="el">Παιδική</category>
   </programme>
-  <programme start="20260909200000 +0300" stop="20260910000000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908095000 +0300" stop="20260908101500 +0300" channel="XTV100002326">
+    <title lang="el">Οι Περιπέτειες του Μπαγκς Μπάνι</title>
+    <desc lang="el">Οι περιπέτειες του Μπαγκς Μπάνι και της παρέας του.</desc>
+    <category lang="el">Παιδική</category>
   </programme>
-  <programme start="20260910000000 +0300" stop="20260910040000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908101500 +0300" stop="20260908103500 +0300" channel="XTV100002326">
+    <title lang="el">Κάσπερ</title>
+    <desc lang="el">Παιδική σειρά κινουμένων σχεδίων. Ο Κάσπερ, ένα χαμογελαστό φαντασματάκι, ψάχνει απεγνωσμένα να κάνει φίλους. Δε διστάζει να μπλέκει σε περιπέτειες προκειμένου να χρησιμοποιήσει τις δυνάμεις του για να σώσει όσους τον έχουν ανάγκη.</desc>
+    <category lang="el">Παιδική</category>
   </programme>
-  <programme start="20260910040000 +0300" stop="20260910080000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908103500 +0300" stop="20260908111000 +0300" channel="XTV100002326">
+    <title lang="el">Loco Nuts</title>
+    <desc lang="el">6 αγαπημένοι φίλοι που λατρεύουν να κάνουν φάρσες ο ένας στον άλλον, μα βοηθούν όποιον βρίσκεται σε ανάγκη: Ο Alex (η αρκούδα), ο John (ο ελέφαντας), η Ruby (η γάτα), η Charlie (η μαϊμού), η Lily (το κουνέλι) και ο Toby (ο σκύλος).</desc>
+    <category lang="el">Παιδική</category>
   </programme>
-  <programme start="20260910080000 +0300" stop="20260910120000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908111000 +0300" stop="20260908114500 +0300" channel="XTV100002326">
+    <title lang="el">Loco Nuts</title>
+    <desc lang="el">6 αγαπημένοι φίλοι που λατρεύουν να κάνουν φάρσες ο ένας στον άλλον, μα βοηθούν όποιον βρίσκεται σε ανάγκη: Ο Alex (η αρκούδα), ο John (ο ελέφαντας), η Ruby (η γάτα), η Charlie (η μαϊμού), η Lily (το κουνέλι) και ο Toby (ο σκύλος).</desc>
+    <category lang="el">Παιδική</category>
   </programme>
-  <programme start="20260910120000 +0300" stop="20260910160000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908114500 +0300" stop="20260908121500 +0300" channel="XTV100002326">
+    <title lang="el">Καρέ Καρέ: Μαθήματα Σκίτσου</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Ο σκιτσογράφος Δημήτρης Νικολαΐδης παρουσιάζει με απλές γραμμές τα αντικείμενα στο σαλόνι και στην κρεβατοκάμαρα, τη γυναίκα, μέσα μεταφορών, παραλία και αμμουδιά και άλλα σκίτσα καθημερινής ασχολίας. Σκίτσα δίνουν στους επίδοξους σκιτσογράφους την απλότητα και την σκέψη.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260910160000 +0300" stop="20260910200000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908121500 +0300" stop="20260908134000 +0300" channel="XTV100002326">
+    <title lang="el">Καρέ Καρέ: Μαθήματα Σκίτσου</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Ο σκιτσογράφος Δημήτρης Νικολαΐδης παρουσιάζει με απλές γραμμές τα αντικείμενα στο σαλόνι και στην κρεβατοκάμαρα, τη γυναίκα, μέσα μεταφορών, παραλία και αμμουδιά και άλλα σκίτσα καθημερινής ασχολίας. Σκίτσα δίνουν στους επίδοξους σκιτσογράφους την απλότητα και την σκέψη.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260910200000 +0300" stop="20260911000000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908134000 +0300" stop="20260908134500 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
   </programme>
-  <programme start="20260911000000 +0300" stop="20260911040000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908134500 +0300" stop="20260908142000 +0300" channel="XTV100002326">
+    <title lang="el">Γκρεμνά και Γεύσεις</title>
+    <desc lang="el">Ντοκιμαντέρ. Με την Εύα Παρακεντάκη.</desc>
+    <category lang="el">Άλλο</category>
   </programme>
-  <programme start="20260911040000 +0300" stop="20260911080000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908142000 +0300" stop="20260908150000 +0300" channel="XTV100002326">
+    <title lang="el">Γκρεμνά και Γεύσεις</title>
+    <desc lang="el">Ντοκιμαντέρ. Με την Εύα Παρακεντάκη.</desc>
+    <category lang="el">Άλλο</category>
   </programme>
-  <programme start="20260911080000 +0300" stop="20260911120000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908150000 +0300" stop="20260908153500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20260911120000 +0300" stop="20260911160000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908153500 +0300" stop="20260908163500 +0300" channel="XTV100002326">
+    <title lang="el">Κρητών Έργα</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: Η Σφαγή του Καλλικράτη. Θρύλοι, παραδόσεις, ιστορία, πολιτισμός, λαογραφία αλλά και οι φυσικές ομορφιές της Κρήτης συναντώνται σε αυτή την εκπομπή του καναλιού. Γνώστες της ιστορίας του νησιού μας αποκαλύπτουν μια Κρήτη που συναρπάζει.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
   </programme>
-  <programme start="20260911160000 +0300" stop="20260911200000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908163500 +0300" stop="20260908172000 +0300" channel="XTV100002326">
+    <title lang="el">Πόλεις - Κράτη</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: Πετρούπολη. H Νίνα Μαλανδράκη, μας συστήνει ξανά τους Δήμους της σύγχρονης Ελλάδας.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260911200000 +0300" stop="20260912000000 +0300" channel="XTV100002326">
-    <title lang="el">Nea TV Crete</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260908172000 +0300" stop="20260908180000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260908180000 +0300" stop="20260908183500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260908183500 +0300" stop="20260908193500 +0300" channel="XTV100002326">
+    <title lang="el">The Escapers</title>
+    <desc lang="el">Επεισόδιο: Βελιγράδι-Βιέννη. Η Πόπη Μαλλιωτάκη και ο Βασίλης Λαζαρίδης ξεδιπλώνουν για πρώτη φορά την καθημερινότητα τους σε ένα ταξιδιωτικό ριάλιτι γεμάτο στιγμές γέλιου, χαράς και απροσδόκητων καταστάσεων ταξιδεύοντας μας στα πιο hot spots του κόσμου.</desc>
+    <category lang="el">Ριάλιτι</category>
+  </programme>
+  <programme start="20260908193500 +0300" stop="20260908200000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260908200000 +0300" stop="20260908203500 +0300" channel="XTV100002326">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τα τελευταία γεγονότα από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260908203500 +0300" stop="20260908223500 +0300" channel="XTV100002326">
+    <title lang="el">Παρέα Με Την Αριστέα</title>
+    <desc lang="el">Η εκπομπή επισκέπτεται χωριά της Κρήτης, μας μαθαίνει τους ανθρώπους και την ιστορία τους. Παρέα γνωρίζουμε την παράδοση και την μουσική τους.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260908223500 +0300" stop="20260908230000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260908230000 +0300" stop="20260909000000 +0300" channel="XTV100002326">
+    <title lang="el">A Touch of Frost</title>
+    <desc lang="el">Ο ντετέκτιβ Τζακ Φροστ είναι ένας αντισυμβατικός αστυνομικός που συμπαθεί τους αδύναμους και επιζητά την ηθική δικαίωσή τους. Αφηρημένος, ανοργάνωτος και αυθάδης, βρίσκεται πάντα μπλεγμένος στις πιο περίεργες καταστάσεις.</desc>
+    <category lang="el">Αστυνομική</category>
+  </programme>
+  <programme start="20260909000000 +0300" stop="20260909002500 +0300" channel="XTV100002326">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες ειδήσεις από τη Nea TV Crete.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260909002500 +0300" stop="20260909020500 +0300" channel="XTV100002326">
+    <title lang="el">Δοξάρια και Σκαρόφτερα</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260909020500 +0300" stop="20260909034000 +0300" channel="XTV100002326">
+    <title lang="el">My Favorite Brunette</title>
+    <desc lang="el">Λίγο πριν την εκτέλεσή του στο Σαν Κουέντιν, ο ερασιτέχνης πράκτορας και φωτογράφος βρεφών, Ρόνι Τζάκσον, εξηγεί στους δημοσιογράφους πώς έφτασε σε αυτό το σημείο. (95')</desc>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20260909034000 +0300" stop="20260909053000 +0300" channel="XTV100002326">
+    <title lang="el">Οι Δέκα Μελλοθάνατοι</title>
+    <desc lang="el">Επτά φιλοξενούμενοι και τρεις υπάλληλοι προσκαλούνται σε μία έπαυλη σε απομονωμένο νησί από έναν άγνωστο οικοδεσπότη και δολοφονούνται ο ένας μετά τον άλλο. Αποφασίζουν να συνεργαστούν για να βρουν τον δολοφόνο πριν είναι πολύ αργά. (110')</desc>
+    <category lang="el">Μυστηρίου</category>
+  </programme>
+  <programme start="20260909053000 +0300" stop="20260909060500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260909060500 +0300" stop="20260909065000 +0300" channel="XTV100002326">
+    <title lang="el">Ενορία εν Δράσει</title>
+    <desc lang="el">Διοργάνωση: Ι. Ναός Ευαγγελιστρίας Πειραιώς.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260909065000 +0300" stop="20260909074000 +0300" channel="XTV100002326">
+    <title lang="el">Ενορία εν Δράσει</title>
+    <desc lang="el">Διοργάνωση: Ι. Ναός Ευαγγελιστρίας Πειραιώς.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260909074000 +0300" stop="20260909081000 +0300" channel="XTV100002326">
+    <title lang="el">Εκκλησιαστική Ζωγραφική</title>
+    <desc lang="el">Το σεμινάριο εμβαθύνει στην εκκλησιαστική ζωγραφική και τη βυζαντινή αγιογραφία. Η σπουδή του σχεδίου περιλάμβανε την αποτύπωση των βασικών χαρακτηριστικών ενός εικονιζόμενου προσώπου, καθώς και τον φωτισμό του.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260909081000 +0300" stop="20260909084500 +0300" channel="XTV100002326">
+    <title lang="el">Εκκλησιαστική Ζωγραφική</title>
+    <desc lang="el">Το σεμινάριο εμβαθύνει στην εκκλησιαστική ζωγραφική και τη βυζαντινή αγιογραφία. Η σπουδή του σχεδίου περιλάμβανε την αποτύπωση των βασικών χαρακτηριστικών ενός εικονιζόμενου προσώπου, καθώς και τον φωτισμό του.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260909084500 +0300" stop="20260909091500 +0300" channel="XTV100002326">
+    <title lang="el">Μυρμηγκάκια Εν Δράσει</title>
+    <desc lang="el">Παιδικά Κινούμενα Σχέδια.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260909091500 +0300" stop="20260909094000 +0300" channel="XTV100002326">
+    <title lang="el">Μυρμηγκάκια Εν Δράσει</title>
+    <desc lang="el">Παιδικά Κινούμενα Σχέδια.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260909094000 +0300" stop="20260909101000 +0300" channel="XTV100002326">
+    <title lang="el">Πόρκυ</title>
+    <desc lang="el">Παιδική ταινία.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260909101000 +0300" stop="20260909103000 +0300" channel="XTV100002326">
+    <title lang="el">Daffy Duck Show</title>
+    <desc lang="el">Παιδική σειρά κινουμένων σχεδίων αμερικανικής παραγωγής 1996. Οι πιο αγαπημένοι σας ήρωες σάς περιμένουν να ζήσετε παρέα τις πιο απίθανες περιπέτειες και να σας ξεναγήσουν στον μοναδικό τους κόσμο. (Μεταγλ.)</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260909103000 +0300" stop="20260909111000 +0300" channel="XTV100002326">
+    <title lang="el">Loco Nuts</title>
+    <desc lang="el">6 αγαπημένοι φίλοι που λατρεύουν να κάνουν φάρσες ο ένας στον άλλον, μα βοηθούν όποιον βρίσκεται σε ανάγκη: Ο Alex (η αρκούδα), ο John (ο ελέφαντας), η Ruby (η γάτα), η Charlie (η μαϊμού), η Lily (το κουνέλι) και ο Toby (ο σκύλος).</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260909111000 +0300" stop="20260909114000 +0300" channel="XTV100002326">
+    <title lang="el">Loco Nuts</title>
+    <desc lang="el">6 αγαπημένοι φίλοι που λατρεύουν να κάνουν φάρσες ο ένας στον άλλον, μα βοηθούν όποιον βρίσκεται σε ανάγκη: Ο Alex (η αρκούδα), ο John (ο ελέφαντας), η Ruby (η γάτα), η Charlie (η μαϊμού), η Lily (το κουνέλι) και ο Toby (ο σκύλος).</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260909114000 +0300" stop="20260909121000 +0300" channel="XTV100002326">
+    <title lang="el">Καρέ Καρέ: Μαθήματα Σκίτσου</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Ο σκιτσογράφος Δημήτρης Νικολαΐδης παρουσιάζει με απλές γραμμές τα αντικείμενα στο σαλόνι και στην κρεβατοκάμαρα, τη γυναίκα, μέσα μεταφορών, παραλία και αμμουδιά και άλλα σκίτσα καθημερινής ασχολίας. Σκίτσα δίνουν στους επίδοξους σκιτσογράφους την απλότητα και την σκέψη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260909121000 +0300" stop="20260909124000 +0300" channel="XTV100002326">
+    <title lang="el">Καρέ Καρέ: Μαθήματα Σκίτσου</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Ο σκιτσογράφος Δημήτρης Νικολαΐδης παρουσιάζει με απλές γραμμές τα αντικείμενα στο σαλόνι και στην κρεβατοκάμαρα, τη γυναίκα, μέσα μεταφορών, παραλία και αμμουδιά και άλλα σκίτσα καθημερινής ασχολίας. Σκίτσα δίνουν στους επίδοξους σκιτσογράφους την απλότητα και την σκέψη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260909124000 +0300" stop="20260909135000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260909135000 +0300" stop="20260909143000 +0300" channel="XTV100002326">
+    <title lang="el">Γκρεμνά και Γεύσεις</title>
+    <desc lang="el">Ντοκιμαντέρ. Με την Εύα Παρακεντάκη.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260909143000 +0300" stop="20260909150000 +0300" channel="XTV100002326">
+    <title lang="el">Γκρεμνά και Γεύσεις</title>
+    <desc lang="el">Ντοκιμαντέρ. Με την Εύα Παρακεντάκη.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260909150000 +0300" stop="20260909153500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260909153500 +0300" stop="20260909165000 +0300" channel="XTV100002326">
+    <title lang="el">Κρητών Έργα</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: Κακόπετρος. Θρύλοι, παραδόσεις, ιστορία, πολιτισμός, λαογραφία αλλά και οι φυσικές ομορφιές της Κρήτης συναντώνται σε αυτή την εκπομπή του καναλιού. Γνώστες της ιστορίας του νησιού μας αποκαλύπτουν μια Κρήτη που συναρπάζει.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260909165000 +0300" stop="20260909175000 +0300" channel="XTV100002326">
+    <title lang="el">Ανθρώπων Ανιστορήματα</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: Ross Daily. Μια εκπομπή - συνάντηση με ανθρώπους του πολιτισμού, που με τις πράξεις και το έργο τους διαμορφώνουν τον πολιτιστικό χάρτη του τόπου μας.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260909175000 +0300" stop="20260909180000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260909180000 +0300" stop="20260909183500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260909183500 +0300" stop="20260909193000 +0300" channel="XTV100002326">
+    <title lang="el">The Escapers</title>
+    <desc lang="el">Επεισόδιο: Σαλαμίνα Α' Μέρος. Η Πόπη Μαλλιωτάκη και ο Βασίλης Λαζαρίδης ξεδιπλώνουν για πρώτη φορά την καθημερινότητα τους σε ένα ταξιδιωτικό ριάλιτι γεμάτο στιγμές γέλιου, χαράς και απροσδόκητων καταστάσεων ταξιδεύοντας μας στα πιο hot spots του κόσμου.</desc>
+    <category lang="el">Ριάλιτι</category>
+  </programme>
+  <programme start="20260909193000 +0300" stop="20260909200000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260909200000 +0300" stop="20260909203500 +0300" channel="XTV100002326">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις , ζωντανές συνδέσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260909203500 +0300" stop="20260909235000 +0300" channel="XTV100002326">
+    <title lang="el">25ο Διεθνές Πολιτιστικό Αντάμωμα</title>
+    <desc lang="el">Ο Χορευτικός Όμιλος Χανίων 'Ο Ψηλορείτης' διοργάνωσε και φέτος το 25ο Διεθνές Πολιτιστικό Αντάμωμα, τη μεγάλη Γιορτή χαράς και Πολιτισμού που αναδεικνύει την φιλία και την ειρήνη των λαών.</desc>
+    <category lang="el">Μουσική</category>
+  </programme>
+  <programme start="20260909235000 +0300" stop="20260910000000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260910000000 +0300" stop="20260910002500 +0300" channel="XTV100002326">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες ειδήσεις από τη Nea TV Crete.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260910002500 +0300" stop="20260910020000 +0300" channel="XTV100002326">
+    <title lang="el">Δοξάρια και Σκαρόφτερα</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260910020000 +0300" stop="20260910034000 +0300" channel="XTV100002326">
+    <title lang="el">Αποχαιρετισμός στα Όπλα</title>
+    <desc lang="el">Κατά τη διάρκεια του Πρώτου Παγκοσμίου Πολέμου, ανάβει ο έρωτας ανάμεσα σε έναν οδηγό ασθενοφόρου και μια νοσοκόμα. Αυτό λαμβάνει χώρα στην Ιταλία κι ο πόλεμος μέλει να σταθεί μεγάλο εμπόδιο στην αγάπη τους. (100')</desc>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20260910034000 +0300" stop="20260910052000 +0300" channel="XTV100002326">
+    <title lang="el">Αβραάμ Λίνκολν</title>
+    <desc lang="el">Μία επεισοδιακή βιογραφία του 16ου Προέδρου των ΗΠΑ, από τη γέννησή του και τις πρώτες του δουλειές, τις σχέσεις του με τις γυναίκες, την προεδρία και τον Εμφύλιο μέχρι τη δολοφονία του. (100')</desc>
+    <category lang="el">Βιογραφία</category>
+  </programme>
+  <programme start="20260910052000 +0300" stop="20260910053000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260910053000 +0300" stop="20260910060000 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260910060000 +0300" stop="20260910064000 +0300" channel="XTV100002326">
+    <title lang="el">Ενορία εν Δράσει</title>
+    <desc lang="el">Διοργάνωση: Ι. Ναός Ευαγγελιστρίας Πειραιώς.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260910064000 +0300" stop="20260910073000 +0300" channel="XTV100002326">
+    <title lang="el">Ενορία εν Δράσει</title>
+    <desc lang="el">Διοργάνωση: Ι. Ναός Ευαγγελιστρίας Πειραιώς.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260910073000 +0300" stop="20260910083000 +0300" channel="XTV100002326">
+    <title lang="el">Εκκλησιαστική Ζωγραφική</title>
+    <desc lang="el">Το σεμινάριο εμβαθύνει στην εκκλησιαστική ζωγραφική και τη βυζαντινή αγιογραφία. Η σπουδή του σχεδίου περιλάμβανε την αποτύπωση των βασικών χαρακτηριστικών ενός εικονιζόμενου προσώπου, καθώς και τον φωτισμό του.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260910083000 +0300" stop="20260910090000 +0300" channel="XTV100002326">
+    <title lang="el">Μυρμηγκάκια Εν Δράσει</title>
+    <desc lang="el">Παιδικά Κινούμενα Σχέδια.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260910090000 +0300" stop="20260910093500 +0300" channel="XTV100002326">
+    <title lang="el">Μυρμηγκάκια Εν Δράσει</title>
+    <desc lang="el">Παιδικά Κινούμενα Σχέδια.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260910093500 +0300" stop="20260910101000 +0300" channel="XTV100002326">
+    <title lang="el">Πόρκυ</title>
+    <desc lang="el">Παιδική ταινία.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260910101000 +0300" stop="20260910103500 +0300" channel="XTV100002326">
+    <title lang="el">Οι Περιπέτειες του Μπαγκς Μπάνι</title>
+    <desc lang="el">Οι περιπέτειες του Μπαγκς Μπάνι και της παρέας του.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260910103500 +0300" stop="20260910112000 +0300" channel="XTV100002326">
+    <title lang="el">Loco Nuts</title>
+    <desc lang="el">6 αγαπημένοι φίλοι που λατρεύουν να κάνουν φάρσες ο ένας στον άλλον, μα βοηθούν όποιον βρίσκεται σε ανάγκη: Ο Alex (η αρκούδα), ο John (ο ελέφαντας), η Ruby (η γάτα), η Charlie (η μαϊμού), η Lily (το κουνέλι) και ο Toby (ο σκύλος).</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260910112000 +0300" stop="20260910120000 +0300" channel="XTV100002326">
+    <title lang="el">Loco Nuts</title>
+    <desc lang="el">6 αγαπημένοι φίλοι που λατρεύουν να κάνουν φάρσες ο ένας στον άλλον, μα βοηθούν όποιον βρίσκεται σε ανάγκη: Ο Alex (η αρκούδα), ο John (ο ελέφαντας), η Ruby (η γάτα), η Charlie (η μαϊμού), η Lily (το κουνέλι) και ο Toby (ο σκύλος).</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260910120000 +0300" stop="20260910123000 +0300" channel="XTV100002326">
+    <title lang="el">Καρέ Καρέ: Μαθήματα Σκίτσου</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Ο σκιτσογράφος Δημήτρης Νικολαΐδης παρουσιάζει με απλές γραμμές τα αντικείμενα στο σαλόνι και στην κρεβατοκάμαρα, τη γυναίκα, μέσα μεταφορών, παραλία και αμμουδιά και άλλα σκίτσα καθημερινής ασχολίας. Σκίτσα δίνουν στους επίδοξους σκιτσογράφους την απλότητα και την σκέψη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260910123000 +0300" stop="20260910130000 +0300" channel="XTV100002326">
+    <title lang="el">Καρέ Καρέ: Μαθήματα Σκίτσου</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Ο σκιτσογράφος Δημήτρης Νικολαΐδης παρουσιάζει με απλές γραμμές τα αντικείμενα στο σαλόνι και στην κρεβατοκάμαρα, τη γυναίκα, μέσα μεταφορών, παραλία και αμμουδιά και άλλα σκίτσα καθημερινής ασχολίας. Σκίτσα δίνουν στους επίδοξους σκιτσογράφους την απλότητα και την σκέψη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260910130000 +0300" stop="20260910140000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260910140000 +0300" stop="20260910143000 +0300" channel="XTV100002326">
+    <title lang="el">Γκρεμνά και Γεύσεις</title>
+    <desc lang="el">Ντοκιμαντέρ. Με την Εύα Παρακεντάκη.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260910143000 +0300" stop="20260910150000 +0300" channel="XTV100002326">
+    <title lang="el">Γκρεμνά και Γεύσεις</title>
+    <desc lang="el">Ντοκιμαντέρ. Με την Εύα Παρακεντάκη.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260910150000 +0300" stop="20260910153500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260910153500 +0300" stop="20260910163000 +0300" channel="XTV100002326">
+    <title lang="el">Κρητών Έργα</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: Λύκειο Ελληνίδων Ρεθύμνου. Θρύλοι, παραδόσεις, ιστορία, πολιτισμός, λαογραφία αλλά και οι φυσικές ομορφιές της Κρήτης συναντώνται σε αυτή την εκπομπή του καναλιού. Γνώστες της ιστορίας του νησιού μας αποκαλύπτουν μια Κρήτη που συναρπάζει.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260910163000 +0300" stop="20260910173000 +0300" channel="XTV100002326">
+    <title lang="el">Πόλεις - Κράτη</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: Χαλάνδρι. H Νίνα Μαλανδράκη, μας συστήνει ξανά τους Δήμους της σύγχρονης Ελλάδας.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260910173000 +0300" stop="20260910180000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260910180000 +0300" stop="20260910183500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260910183500 +0300" stop="20260910193000 +0300" channel="XTV100002326">
+    <title lang="el">The Escapers</title>
+    <desc lang="el">Επεισόδιο: Σαλαμίνα Β' Μέρος. Η Πόπη Μαλλιωτάκη και ο Βασίλης Λαζαρίδης ξεδιπλώνουν για πρώτη φορά την καθημερινότητα τους σε ένα ταξιδιωτικό ριάλιτι γεμάτο στιγμές γέλιου, χαράς και απροσδόκητων καταστάσεων ταξιδεύοντας μας στα πιο hot spots του κόσμου.</desc>
+    <category lang="el">Ριάλιτι</category>
+  </programme>
+  <programme start="20260910193000 +0300" stop="20260910200000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260910200000 +0300" stop="20260910203000 +0300" channel="XTV100002326">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις , ζωντανές συνδέσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260910203000 +0300" stop="20260910223000 +0300" channel="XTV100002326">
+    <title lang="el">Παρέα Με Την Αριστέα</title>
+    <desc lang="el">Η εκπομπή επισκέπτεται χωριά της Κρήτης, μας μαθαίνει τους ανθρώπους και την ιστορία τους. Παρέα γνωρίζουμε την παράδοση και την μουσική τους.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260910223000 +0300" stop="20260910230000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260910230000 +0300" stop="20260911000000 +0300" channel="XTV100002326">
+    <title lang="el">A Touch of Frost</title>
+    <desc lang="el">Ο ντετέκτιβ Τζακ Φροστ είναι ένας αντισυμβατικός αστυνομικός που συμπαθεί τους αδύναμους και επιζητά την ηθική δικαίωσή τους. Αφηρημένος, ανοργάνωτος και αυθάδης, βρίσκεται πάντα μπλεγμένος στις πιο περίεργες καταστάσεις.</desc>
+    <category lang="el">Αστυνομική</category>
+  </programme>
+  <programme start="20260911000000 +0300" stop="20260911003000 +0300" channel="XTV100002326">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες ειδήσεις από τη Nea TV Crete.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260911003000 +0300" stop="20260911021000 +0300" channel="XTV100002326">
+    <title lang="el">Δοξάρια και Σκαρόφτερα</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260911021000 +0300" stop="20260911042000 +0300" channel="XTV100002326">
+    <title lang="el">Ένα Αστέρι Γεννιέται</title>
+    <desc lang="el">Μία νέα γυναίκα καταφθάνει στο Χόλιγουντ με όνειρο να γίνει ηθοποιός. Αυτός που θα την προσέξει είναι ένας ξεπεσμένος και αλκοολικός σταρ. (130')</desc>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20260911042000 +0300" stop="20260911053000 +0300" channel="XTV100002326">
+    <title lang="el">Οι Γυναίκες-Γάτες της Σελήνης</title>
+    <desc lang="el">Αστροναύτες ταξιδεύουν στη Σελήνη και ανακαλύπτουν ότι κατοικείται από όμορφες νεαρές γυναίκες με μαύρα κολάν. (70')</desc>
+    <category lang="el">Επιστ. Φαντασίας</category>
+  </programme>
+  <programme start="20260911053000 +0300" stop="20260911060500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260911060500 +0300" stop="20260911070500 +0300" channel="XTV100002326">
+    <title lang="el">Ενορία εν Δράσει</title>
+    <desc lang="el">Διοργάνωση: Ι. Ναός Ευαγγελιστρίας Πειραιώς.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260911070500 +0300" stop="20260911080000 +0300" channel="XTV100002326">
+    <title lang="el">Ενορία εν Δράσει</title>
+    <desc lang="el">Διοργάνωση: Ι. Ναός Ευαγγελιστρίας Πειραιώς.</desc>
+    <category lang="el">Θρησκευτικό</category>
+  </programme>
+  <programme start="20260911080000 +0300" stop="20260911085000 +0300" channel="XTV100002326">
+    <title lang="el">Εκκλησιαστική Ζωγραφική</title>
+    <desc lang="el">Το σεμινάριο εμβαθύνει στην εκκλησιαστική ζωγραφική και τη βυζαντινή αγιογραφία. Η σπουδή του σχεδίου περιλάμβανε την αποτύπωση των βασικών χαρακτηριστικών ενός εικονιζόμενου προσώπου, καθώς και τον φωτισμό του.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260911085000 +0300" stop="20260911092000 +0300" channel="XTV100002326">
+    <title lang="el">Εκκλησιαστική Ζωγραφική</title>
+    <desc lang="el">Το σεμινάριο εμβαθύνει στην εκκλησιαστική ζωγραφική και τη βυζαντινή αγιογραφία. Η σπουδή του σχεδίου περιλάμβανε την αποτύπωση των βασικών χαρακτηριστικών ενός εικονιζόμενου προσώπου, καθώς και τον φωτισμό του.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260911092000 +0300" stop="20260911100000 +0300" channel="XTV100002326">
+    <title lang="el">Μυρμηγκάκια Εν Δράσει</title>
+    <desc lang="el">Παιδικά Κινούμενα Σχέδια.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260911100000 +0300" stop="20260911102000 +0300" channel="XTV100002326">
+    <title lang="el">Μυρμηγκάκια Εν Δράσει</title>
+    <desc lang="el">Παιδικά Κινούμενα Σχέδια.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260911102000 +0300" stop="20260911105000 +0300" channel="XTV100002326">
+    <title lang="el">Οι Περιπέτειες του Μπαγκς Μπάνι</title>
+    <desc lang="el">Οι περιπέτειες του Μπαγκς Μπάνι και της παρέας του.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260911105000 +0300" stop="20260911111000 +0300" channel="XTV100002326">
+    <title lang="el">Κάσπερ</title>
+    <desc lang="el">Παιδική σειρά κινουμένων σχεδίων. Ο Κάσπερ, ένα χαμογελαστό φαντασματάκι, ψάχνει απεγνωσμένα να κάνει φίλους. Δε διστάζει να μπλέκει σε περιπέτειες προκειμένου να χρησιμοποιήσει τις δυνάμεις του για να σώσει όσους τον έχουν ανάγκη.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260911111000 +0300" stop="20260911114000 +0300" channel="XTV100002326">
+    <title lang="el">Πόρκυ</title>
+    <desc lang="el">Παιδική ταινία.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260911114000 +0300" stop="20260911121500 +0300" channel="XTV100002326">
+    <title lang="el">Loco Nuts</title>
+    <desc lang="el">6 αγαπημένοι φίλοι που λατρεύουν να κάνουν φάρσες ο ένας στον άλλον, μα βοηθούν όποιον βρίσκεται σε ανάγκη: Ο Alex (η αρκούδα), ο John (ο ελέφαντας), η Ruby (η γάτα), η Charlie (η μαϊμού), η Lily (το κουνέλι) και ο Toby (ο σκύλος).</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260911121500 +0300" stop="20260911125000 +0300" channel="XTV100002326">
+    <title lang="el">Loco Nuts</title>
+    <desc lang="el">6 αγαπημένοι φίλοι που λατρεύουν να κάνουν φάρσες ο ένας στον άλλον, μα βοηθούν όποιον βρίσκεται σε ανάγκη: Ο Alex (η αρκούδα), ο John (ο ελέφαντας), η Ruby (η γάτα), η Charlie (η μαϊμού), η Lily (το κουνέλι) και ο Toby (ο σκύλος).</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20260911125000 +0300" stop="20260911131500 +0300" channel="XTV100002326">
+    <title lang="el">Καρέ Καρέ: Μαθήματα Σκίτσου</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Ο σκιτσογράφος Δημήτρης Νικολαΐδης παρουσιάζει με απλές γραμμές τα αντικείμενα στο σαλόνι και στην κρεβατοκάμαρα, τη γυναίκα, μέσα μεταφορών, παραλία και αμμουδιά και άλλα σκίτσα καθημερινής ασχολίας. Σκίτσα δίνουν στους επίδοξους σκιτσογράφους την απλότητα και την σκέψη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260911131500 +0300" stop="20260911134500 +0300" channel="XTV100002326">
+    <title lang="el">Καρέ Καρέ: Μαθήματα Σκίτσου</title>
+    <desc lang="el">Ο σκιτσογράφος Δημήτρης Νικολαΐδης παρουσιάζει με απλές γραμμές τα αντικείμενα στο σαλόνι και στην κρεβατοκάμαρα, τη γυναίκα, μέσα μεταφορών, παραλία και αμμουδιά και άλλα σκίτσα καθημερινής ασχολίας. Σκίτσα δίνουν στους επίδοξους σκιτσογράφους την απλότητα και την σκέψη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260911134500 +0300" stop="20260911140000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260911140000 +0300" stop="20260911143000 +0300" channel="XTV100002326">
+    <title lang="el">Γκρεμνά και Γεύσεις</title>
+    <desc lang="el">Ντοκιμαντέρ. Με την Εύα Παρακεντάκη.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260911143000 +0300" stop="20260911150000 +0300" channel="XTV100002326">
+    <title lang="el">Γκρεμνά και Γεύσεις</title>
+    <desc lang="el">Ντοκιμαντέρ. Με την Εύα Παρακεντάκη.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260911150000 +0300" stop="20260911153500 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260911153500 +0300" stop="20260911162000 +0300" channel="XTV100002326">
+    <title lang="el">Κρητών Έργα</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: Λύκειο Ελληνίδων Ρεθύμνου. Θρύλοι, παραδόσεις, ιστορία, πολιτισμός, λαογραφία αλλά και οι φυσικές ομορφιές της Κρήτης συναντώνται σε αυτή την εκπομπή του καναλιού. Γνώστες της ιστορίας του νησιού μας αποκαλύπτουν μια Κρήτη που συναρπάζει.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+  </programme>
+  <programme start="20260911162000 +0300" stop="20260911170000 +0300" channel="XTV100002326">
+    <title lang="el">24 Ώρες Ευρώπη</title>
+    <desc lang="el">Ενημερωτική εκπομπή.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260911170000 +0300" stop="20260911180000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260911180000 +0300" stop="20260911184000 +0300" channel="XTV100002326">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260911184000 +0300" stop="20260911194000 +0300" channel="XTV100002326">
+    <title lang="el">The Escapers</title>
+    <desc lang="el">Επεισόδιο: Σαντορίνη Α' Μέρος. Η Πόπη Μαλλιωτάκη και ο Βασίλης Λαζαρίδης ξεδιπλώνουν για πρώτη φορά την καθημερινότητα τους σε ένα ταξιδιωτικό ριάλιτι γεμάτο στιγμές γέλιου, χαράς και απροσδόκητων καταστάσεων ταξιδεύοντας μας στα πιο hot spots του κόσμου.</desc>
+    <category lang="el">Ριάλιτι</category>
+  </programme>
+  <programme start="20260911194000 +0300" stop="20260911200000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260911200000 +0300" stop="20260911203000 +0300" channel="XTV100002326">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Ρεπορτάζ, αναλύσεις , ζωντανές συνδέσεις και ανταποκρίσεις για όλα τα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Ειδήσεις</category>
+  </programme>
+  <programme start="20260911203000 +0300" stop="20260911225000 +0300" channel="XTV100002326">
+    <title lang="el">Παρέα Με Την Αριστέα</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Η εκπομπή επισκέπτεται χωριά της Κρήτης, μας μαθαίνει τους ανθρώπους και την ιστορία τους. Παρέα γνωρίζουμε την παράδοση και την μουσική τους.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260911225000 +0300" stop="20260911230000 +0300" channel="XTV100002326">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από τη Nea TV Crete.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260911230000 +0300" stop="20260912000000 +0300" channel="XTV100002326">
+    <title lang="el">A Touch of Frost</title>
+    <desc lang="el">Ο ντετέκτιβ Τζακ Φροστ είναι ένας αντισυμβατικός αστυνομικός που συμπαθεί τους αδύναμους και επιζητά την ηθική δικαίωσή τους. Αφηρημένος, ανοργάνωτος και αυθάδης, βρίσκεται πάντα μπλεγμένος στις πιο περίεργες καταστάσεις.</desc>
+    <category lang="el">Αστυνομική</category>
   </programme>
   <programme start="20260905231500 +0300" stop="20260906010000 +0300" channel="XTV100000909">
     <title lang="el">Movie Time</title>
