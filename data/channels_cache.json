@@ -548,5 +548,25 @@
     "id": "TST000000004",
     "name": "TESTDR",
     "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/testdr-normal.png"
+  },
+  "XTV900000003": {
+    "id": "XTV900000003",
+    "name": "Magenta Sport 1 League",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/magenta_sport1league_normal.png"
+  },
+  "XTV900000004": {
+    "id": "XTV900000004",
+    "name": "Magenta Sport 2 League",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/magenta_sport2league_normal.png"
+  },
+  "XTV900000005": {
+    "id": "XTV900000005",
+    "name": "Magenta Sport 3 League",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/magenta_sport3league_normal.png"
+  },
+  "XTV900000006": {
+    "id": "XTV900000006",
+    "name": "Magenta Sport 4 League",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/magenta_sport4league_normal.png"
   }
 }
