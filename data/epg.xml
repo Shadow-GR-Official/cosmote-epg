@@ -3665,10 +3665,15 @@
     <desc lang="el">Επεισόδιο: Κωνσταντίνος Τζούμας: ηθοποιός εξ ιδιοσυγκρασίας. Το ντοκιμαντέρ είναι ένα κινηματογραφικό πορτρέτο του Κωνσταντίνου Τζούμα, ενός ανθρώπου που έχει χαρακτηριστεί ως 'είρων εκ φύσεως, ηθοποιός εξ ιδιοσυγκρασίας και συγγραφέας εξ ενστίκτου'.</desc>
     <category lang="el">Κοινωνικό - Πολιτικό</category>
   </programme>
-  <programme start="20260908230000 +0300" stop="20260909000000 +0300" channel="XTV100003344">
+  <programme start="20260908230000 +0300" stop="20260908235000 +0300" channel="XTV100003344">
     <title lang="el">Ο Όρκος Ε8 (Ε)</title>
     <desc lang="el">Επεισόδιο: Εντάσεις. Ο Γρηγόρης ζητάει εξουσιοδότηση από την Αλέκα, για να ψάξει τον φάκελο της υπόθεσης της κόρης της στην Εισαγγελία και εκείνη απογοητευμένη αρνείται να τον βοηθήσει. Η σχέση της Χλόης με την Έλλη βάζει την εργασιακή της θέση σε κίνδυνο.</desc>
     <category lang="el">Κοινωνική</category>
+  </programme>
+  <programme start="20260908235000 +0300" stop="20260909000000 +0300" channel="XTV100003344">
+    <title lang="el">Φεστιβάλ Δράμας</title>
+    <desc lang="el">Νέοι σκηνοθέτες και άνθρωποι του κινηματογράφου μεταφέρουν τον παλμό του 49ου Φεστιβάλ Ελληνικών Ταινιών Μικρού Μήκους που διεξάγεται στη Δράμα από τις 6 έως τις 12 Σεπτεμβρίου.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
   </programme>
   <programme start="20260909000000 +0300" stop="20260909010000 +0300" channel="XTV100003344">
     <title lang="el">Συνθέσεις Κ2</title>
@@ -84991,8 +84996,8 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260908093000 +0300" stop="20260908100000 +0300" channel="XTV100000929">
-    <title lang="el">Στάση Ζωής</title>
-    <desc lang="el">Το Al Jazeera εξετάζει όλες τις πλευρές για να μάθει την αλήθεια πάνω σε θέματα πολιτικής και κοινωνικών δρώμενων, με μια ανθρωπιστική ματιά και με σκοπό να ενημερώσει και να εκπαιδεύσει.</desc>
+    <title lang="el">Al Jazeera Reels</title>
+    <desc lang="el">Μια συλλογή από σύντομα ψηφιακά ντοκιμαντέρ και βίντεο από τα μέσα κοινωνικής δικτύωσης που εστιάζουν σε άγνωστες ανθρώπινες εμπειρίες, πολιτισμικές ιστορίες και κοινωνική δικαιοσύνη σε όλον τον κόσμο.</desc>
     <category lang="el">Κοινωνικό - Πολιτικό</category>
   </programme>
   <programme start="20260908100000 +0300" stop="20260908110000 +0300" channel="XTV100000929">
@@ -85051,8 +85056,8 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20260908173000 +0300" stop="20260908180000 +0300" channel="XTV100000929">
-    <title lang="el">Στάση Ζωής</title>
-    <desc lang="el">Το Al Jazeera εξετάζει όλες τις πλευρές για να μάθει την αλήθεια πάνω σε θέματα πολιτικής και κοινωνικών δρώμενων, με μια ανθρωπιστική ματιά και με σκοπό να ενημερώσει και να εκπαιδεύσει.</desc>
+    <title lang="el">Al Jazeera Reels</title>
+    <desc lang="el">Μια συλλογή από σύντομα ψηφιακά ντοκιμαντέρ και βίντεο από τα μέσα κοινωνικής δικτύωσης που εστιάζουν σε άγνωστες ανθρώπινες εμπειρίες, πολιτισμικές ιστορίες και κοινωνική δικαιοσύνη σε όλον τον κόσμο.</desc>
     <category lang="el">Κοινωνικό - Πολιτικό</category>
   </programme>
   <programme start="20260908180000 +0300" stop="20260908190000 +0300" channel="XTV100000929">
@@ -92064,6 +92069,126 @@
     <desc lang="el">Stoiximan Super League 2026-27. 3η Αγωνιστική.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
+  <programme start="20260909000000 +0300" stop="20260909020000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909020000 +0300" stop="20260909040000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909040000 +0300" stop="20260909060000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909060000 +0300" stop="20260909080000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909080000 +0300" stop="20260909100000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909100000 +0300" stop="20260909120000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909120000 +0300" stop="20260909140000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909140000 +0300" stop="20260909160000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909160000 +0300" stop="20260909180000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909180000 +0300" stop="20260909200000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909200000 +0300" stop="20260909220000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909220000 +0300" stop="20260910000000 +0300" channel="XTV900000003">
+    <title lang="el">Ποδόσφαιρο: Βόλος Elabet - Ολυμπιακός</title>
+    <desc lang="el">Stoiximan Super League 2026-27. 3η Αγωνιστική.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260910000000 +0300" stop="20260910020000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910020000 +0300" stop="20260910040000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910040000 +0300" stop="20260910060000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910060000 +0300" stop="20260910080000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910080000 +0300" stop="20260910100000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910100000 +0300" stop="20260910120000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910120000 +0300" stop="20260910140000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910140000 +0300" stop="20260910160000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910160000 +0300" stop="20260910180000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910180000 +0300" stop="20260910200000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910200000 +0300" stop="20260910220000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910220000 +0300" stop="20260911000000 +0300" channel="XTV900000003">
+    <title lang="el">Ποδόσφαιρο: ΟΦΗ - Κηφισιά</title>
+    <desc lang="el">Stoiximan Super League 2026-27. 3η Αγωνιστική.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
   <programme start="20260911000000 +0300" stop="20260911020000 +0300" channel="XTV900000003">
     <title lang="el">Magenta Sport 1 League</title>
     <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
@@ -92123,6 +92248,81 @@
     <title lang="el">Ποδόσφαιρο: ΑΕΚ - Άρης</title>
     <desc lang="el">Stoiximan Super League 2026-27. 3η Αγωνιστική.</desc>
     <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260912000000 +0300" stop="20260912020000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912020000 +0300" stop="20260912040000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912040000 +0300" stop="20260912060000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912060000 +0300" stop="20260912080000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912080000 +0300" stop="20260912100000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912100000 +0300" stop="20260912120000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912120000 +0300" stop="20260912140000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912140000 +0300" stop="20260912150000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912150000 +0300" stop="20260912160000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912160000 +0300" stop="20260912180000 +0300" channel="XTV900000003">
+    <title lang="el">Ποδόσφαιρο: Βόλος Elabet - Ολυμπιακός</title>
+    <desc lang="el">Stoiximan Super League 2026-27. 3η Αγωνιστική.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260912180000 +0300" stop="20260912190000 +0300" channel="XTV900000003">
+    <title lang="el">PreGame 2026-27 (Ζ)</title>
+    <desc lang="el">Ολυμπιακός - ΟΦΗ. Το Pre Game μάς βάζει στον αγωνιστικό χώρο, πλάι στους πρωταγωνιστές και μας αποκαλύπτει καρέ-καρέ τα σχέδια των προπονητών λίγο πριν από τη μάχη των ομάδων τους.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260912190000 +0300" stop="20260912211000 +0300" channel="XTV900000003">
+    <title lang="el">Ποδόσφαιρο: Ολυμπιακός - ΟΦΗ (Ζ)</title>
+    <desc lang="el">Stoiximan Super League 2026-27. 4η αγωνιστική. Η Stoiximan Super League διεξάγεται φέτος με 14 ομάδες. Το σύστημα διεξαγωγής περιλαμβάνει Play off για θέσεις κορυφής (1-4), Play In για τις θέσεις 5-8, αλλά και Play Out για αποφυγή του υποβιβασμού.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260912211000 +0300" stop="20260912220000 +0300" channel="XTV900000003">
+    <title lang="el">PostGame 2026-27 (Ζ)</title>
+    <desc lang="el">Ολυμπιακός - ΟΦΗ. Μετά από κάθε αγώνα, η εκπομπή Post Game σάς δίνει την ευκαιρία να μάθετε ό,τι αφορά στην αναμέτρηση που μόλις ολοκληρώθηκε.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260912220000 +0300" stop="20260912230000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912230000 +0300" stop="20260913000000 +0300" channel="XTV900000003">
+    <title lang="el">Magenta Sport 1 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260908000000 +0300" stop="20260908020000 +0300" channel="XTV900000004">
     <title lang="el">Magenta Sport 2 League</title>
@@ -92184,6 +92384,126 @@
     <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
     <category lang="el">Promo Card</category>
   </programme>
+  <programme start="20260909000000 +0300" stop="20260909020000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909020000 +0300" stop="20260909040000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909040000 +0300" stop="20260909060000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909060000 +0300" stop="20260909080000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909080000 +0300" stop="20260909100000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909100000 +0300" stop="20260909120000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909120000 +0300" stop="20260909140000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909140000 +0300" stop="20260909160000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909160000 +0300" stop="20260909180000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909180000 +0300" stop="20260909200000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909200000 +0300" stop="20260909220000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909220000 +0300" stop="20260910000000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910000000 +0300" stop="20260910020000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910020000 +0300" stop="20260910040000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910040000 +0300" stop="20260910060000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910060000 +0300" stop="20260910080000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910080000 +0300" stop="20260910100000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910100000 +0300" stop="20260910120000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910120000 +0300" stop="20260910140000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910140000 +0300" stop="20260910160000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910160000 +0300" stop="20260910180000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910180000 +0300" stop="20260910200000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910200000 +0300" stop="20260910220000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910220000 +0300" stop="20260911000000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
   <programme start="20260911000000 +0300" stop="20260911020000 +0300" channel="XTV900000004">
     <title lang="el">Magenta Sport 2 League</title>
     <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
@@ -92240,6 +92560,66 @@
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260911220000 +0300" stop="20260912000000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912000000 +0300" stop="20260912020000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912020000 +0300" stop="20260912040000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912040000 +0300" stop="20260912060000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912060000 +0300" stop="20260912080000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912080000 +0300" stop="20260912100000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912100000 +0300" stop="20260912120000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912120000 +0300" stop="20260912140000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912140000 +0300" stop="20260912160000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912160000 +0300" stop="20260912180000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912180000 +0300" stop="20260912200000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912200000 +0300" stop="20260912220000 +0300" channel="XTV900000004">
+    <title lang="el">Magenta Sport 2 League</title>
+    <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912220000 +0300" stop="20260913000000 +0300" channel="XTV900000004">
     <title lang="el">Magenta Sport 2 League</title>
     <desc lang="el">Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.</desc>
     <category lang="el">Promo Card</category>
@@ -92307,6 +92687,126 @@
   <programme start="20260908220000 +0300" stop="20260909000000 +0300" channel="XTV900000005">
     <title lang="el">Ποδόσφαιρο: Μπέτις - Ρεάλ Μαδρίτης</title>
     <desc lang="el">LaLiga EA Sports 2026-27. 4η Αγωνιστική.  Περιγραφή: Δημήτρης Ξαρλής.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260909000000 +0300" stop="20260909020000 +0300" channel="XTV900000005">
+    <title lang="el">Ποδόσφαιρο: Έλτσε - Ρεάλ Σοσιεδάδ</title>
+    <desc lang="el">LaLiga EA Sports 2026-27. 4η Αγωνιστική.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260909020000 +0300" stop="20260909040000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909040000 +0300" stop="20260909060000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909060000 +0300" stop="20260909080000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909080000 +0300" stop="20260909100000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909100000 +0300" stop="20260909120000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909120000 +0300" stop="20260909140000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909140000 +0300" stop="20260909160000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909160000 +0300" stop="20260909180000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909180000 +0300" stop="20260909200000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909200000 +0300" stop="20260909220000 +0300" channel="XTV900000005">
+    <title lang="el">Ποδόσφαιρο: Βιγιαρεάλ - Ντεπορτίβο λα Κορούνια</title>
+    <desc lang="el">LaLiga EA Sports 2026-27. 4η Αγωνιστική.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260909220000 +0300" stop="20260910000000 +0300" channel="XTV900000005">
+    <title lang="el">Ποδόσφαιρο: Μπιλμπάο - Ατλέτικο Μαδρίτης</title>
+    <desc lang="el">LaLiga EA Sports 2026-27. 4η Αγωνιστική.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260910000000 +0300" stop="20260910020000 +0300" channel="XTV900000005">
+    <title lang="el">Ποδόσφαιρο: Αλαβές - Οσασούνα</title>
+    <desc lang="el">LaLiga EA Sports 2026-27. 4η Αγωνιστική.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260910020000 +0300" stop="20260910040000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910040000 +0300" stop="20260910060000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910060000 +0300" stop="20260910080000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910080000 +0300" stop="20260910100000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910100000 +0300" stop="20260910120000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910120000 +0300" stop="20260910140000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910140000 +0300" stop="20260910160000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910160000 +0300" stop="20260910180000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910180000 +0300" stop="20260910200000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910200000 +0300" stop="20260910220000 +0300" channel="XTV900000005">
+    <title lang="el">Ποδόσφαιρο: Εσπανιόλ - Σεβίλλη</title>
+    <desc lang="el">LaLiga EA Sports 2026-27. 4η Αγωνιστική.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260910220000 +0300" stop="20260911000000 +0300" channel="XTV900000005">
+    <title lang="el">Ποδόσφαιρο: Βαλένθια - Μπαρτσελόνα</title>
+    <desc lang="el">LaLiga EA Sports 2026-27. 4η Αγωνιστική.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
   <programme start="20260911000000 +0300" stop="20260911020000 +0300" channel="XTV900000005">
@@ -92379,6 +92879,81 @@
     <desc lang="el">LaLiga EA Sports 2026-27. 5η Αγωνιστική. Η 96η σεζόν της κορυφαίας ποδοσφαιρικής διοργάνωσης της Ισπανίας περιλαμβάνει 20 ομάδες. Η Μπαρτσελόνα είναι η κάτοχος του τίτλου, έχοντας κατακτήσει το 29ο πρωτάθλημά της την προηγούμενη σεζόν.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
+  <programme start="20260912000000 +0300" stop="20260912020000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912020000 +0300" stop="20260912040000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912040000 +0300" stop="20260912060000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912060000 +0300" stop="20260912080000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912080000 +0300" stop="20260912100000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912100000 +0300" stop="20260912120000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912120000 +0300" stop="20260912140000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912140000 +0300" stop="20260912143000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912143000 +0300" stop="20260912150000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912150000 +0300" stop="20260912170000 +0300" channel="XTV900000005">
+    <title lang="el">Ποδόσφαιρο: Ρασίνγκ Σανταντέρ - Αλαβές (Ζ)</title>
+    <desc lang="el">LaLiga EA Sports 2026-27. 5η Αγωνιστική.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260912170000 +0300" stop="20260912190000 +0300" channel="XTV900000005">
+    <title lang="el">Ποδόσφαιρο: Σεβίλλη - Βαλένθια</title>
+    <desc lang="el">LaLiga EA Sports 2026-27. 5η Αγωνιστική.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260912190000 +0300" stop="20260912193000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912193000 +0300" stop="20260912213000 +0300" channel="XTV900000005">
+    <title lang="el">Ποδόσφαιρο: Μπιλμπάο - Έλτσε (Ζ)</title>
+    <desc lang="el">LaLiga EA Sports 2026-27. 5η Αγωνιστική.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260912213000 +0300" stop="20260912220000 +0300" channel="XTV900000005">
+    <title lang="el">Magenta Sport 3 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912220000 +0300" stop="20260913000000 +0300" channel="XTV900000005">
+    <title lang="el">Ποδόσφαιρο: Ρεάλ Μαδρίτης - Ράγιο Βαγιεκάνο (Ζ)</title>
+    <desc lang="el">LaLiga EA Sports 2026-27. 5η Αγωνιστική.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
   <programme start="20260908000000 +0300" stop="20260908020000 +0300" channel="XTV900000006">
     <title lang="el">Magenta Sport 4 League</title>
     <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
@@ -92439,6 +93014,126 @@
     <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
     <category lang="el">Promo Card</category>
   </programme>
+  <programme start="20260909000000 +0300" stop="20260909020000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909020000 +0300" stop="20260909040000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909040000 +0300" stop="20260909060000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909060000 +0300" stop="20260909080000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909080000 +0300" stop="20260909100000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909100000 +0300" stop="20260909120000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909120000 +0300" stop="20260909140000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909140000 +0300" stop="20260909160000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909160000 +0300" stop="20260909180000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909180000 +0300" stop="20260909200000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909200000 +0300" stop="20260909220000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260909220000 +0300" stop="20260910000000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910000000 +0300" stop="20260910020000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910020000 +0300" stop="20260910040000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910040000 +0300" stop="20260910060000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910060000 +0300" stop="20260910080000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910080000 +0300" stop="20260910100000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910100000 +0300" stop="20260910120000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910120000 +0300" stop="20260910140000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910140000 +0300" stop="20260910160000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910160000 +0300" stop="20260910180000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910180000 +0300" stop="20260910200000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910200000 +0300" stop="20260910220000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260910220000 +0300" stop="20260911000000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
   <programme start="20260911000000 +0300" stop="20260911020000 +0300" channel="XTV900000006">
     <title lang="el">Magenta Sport 4 League</title>
     <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
@@ -92495,6 +93190,76 @@
     <category lang="el">Promo Card</category>
   </programme>
   <programme start="20260911220000 +0300" stop="20260912000000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912000000 +0300" stop="20260912020000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912020000 +0300" stop="20260912040000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912040000 +0300" stop="20260912060000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912060000 +0300" stop="20260912080000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912080000 +0300" stop="20260912100000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912100000 +0300" stop="20260912120000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912120000 +0300" stop="20260912140000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912140000 +0300" stop="20260912160000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912160000 +0300" stop="20260912164500 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912164500 +0300" stop="20260912171500 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912171500 +0300" stop="20260912191500 +0300" channel="XTV900000006">
+    <title lang="el">Ποδόσφαιρο: Οσασούνα - Εσπανιόλ (Ζ)</title>
+    <desc lang="el">LaLiga EA Sports 2026-27. 5η Αγωνιστική.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20260912191500 +0300" stop="20260912200000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912200000 +0300" stop="20260912220000 +0300" channel="XTV900000006">
+    <title lang="el">Magenta Sport 4 League</title>
+    <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20260912220000 +0300" stop="20260913000000 +0300" channel="XTV900000006">
     <title lang="el">Magenta Sport 4 League</title>
     <desc lang="el">Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.</desc>
     <category lang="el">Promo Card</category>

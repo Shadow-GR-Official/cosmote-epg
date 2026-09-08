@@ -6160,10 +6160,19 @@
       {
         "title": "Ο Όρκος Ε8 (Ε)",
         "startTime": "2026-09-08T20:00:00Z",
-        "endTime": "2026-09-08T21:00:00Z",
+        "endTime": "2026-09-08T20:50:00Z",
         "description": "Επεισόδιο: Εντάσεις. Ο Γρηγόρης ζητάει εξουσιοδότηση από την Αλέκα, για να ψάξει τον φάκελο της υπόθεσης της κόρης της στην Εισαγγελία και εκείνη απογοητευμένη αρνείται να τον βοηθήσει. Η σχέση της Χλόης με την Έλλη βάζει την εργασιακή της θέση σε κίνδυνο.",
         "genres": [
           "Κοινωνική"
+        ]
+      },
+      {
+        "title": "Φεστιβάλ Δράμας",
+        "startTime": "2026-09-08T20:50:00Z",
+        "endTime": "2026-09-08T21:00:00Z",
+        "description": "Νέοι σκηνοθέτες και άνθρωποι του κινηματογράφου μεταφέρουν τον παλμό του 49ου Φεστιβάλ Ελληνικών Ταινιών Μικρού Μήκους που διεξάγεται στη Δράμα από τις 6 έως τις 12 Σεπτεμβρίου.",
+        "genres": [
+          "Παρουσίαση - Ανασκόπηση"
         ]
       },
       {
@@ -153194,10 +153203,10 @@
         ]
       },
       {
-        "title": "Στάση Ζωής",
+        "title": "Al Jazeera Reels",
         "startTime": "2026-09-08T06:30:00Z",
         "endTime": "2026-09-08T07:00:00Z",
-        "description": "Το Al Jazeera εξετάζει όλες τις πλευρές για να μάθει την αλήθεια πάνω σε θέματα πολιτικής και κοινωνικών δρώμενων, με μια ανθρωπιστική ματιά και με σκοπό να ενημερώσει και να εκπαιδεύσει.",
+        "description": "Μια συλλογή από σύντομα ψηφιακά ντοκιμαντέρ και βίντεο από τα μέσα κοινωνικής δικτύωσης που εστιάζουν σε άγνωστες ανθρώπινες εμπειρίες, πολιτισμικές ιστορίες και κοινωνική δικαιοσύνη σε όλον τον κόσμο.",
         "genres": [
           "Κοινωνικό - Πολιτικό"
         ]
@@ -153302,10 +153311,10 @@
         ]
       },
       {
-        "title": "Στάση Ζωής",
+        "title": "Al Jazeera Reels",
         "startTime": "2026-09-08T14:30:00Z",
         "endTime": "2026-09-08T15:00:00Z",
-        "description": "Το Al Jazeera εξετάζει όλες τις πλευρές για να μάθει την αλήθεια πάνω σε θέματα πολιτικής και κοινωνικών δρώμενων, με μια ανθρωπιστική ματιά και με σκοπό να ενημερώσει και να εκπαιδεύσει.",
+        "description": "Μια συλλογή από σύντομα ψηφιακά ντοκιμαντέρ και βίντεο από τα μέσα κοινωνικής δικτύωσης που εστιάζουν σε άγνωστες ανθρώπινες εμπειρίες, πολιτισμικές ιστορίες και κοινωνική δικαιοσύνη σε όλον τον κόσμο.",
         "genres": [
           "Κοινωνικό - Πολιτικό"
         ]
@@ -166373,6 +166382,222 @@
       },
       {
         "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-08T21:00:00Z",
+        "endTime": "2026-09-08T23:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-08T23:00:00Z",
+        "endTime": "2026-09-09T01:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-09T01:00:00Z",
+        "endTime": "2026-09-09T03:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-09T03:00:00Z",
+        "endTime": "2026-09-09T05:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-09T05:00:00Z",
+        "endTime": "2026-09-09T07:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-09T07:00:00Z",
+        "endTime": "2026-09-09T09:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-09T09:00:00Z",
+        "endTime": "2026-09-09T11:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-09T11:00:00Z",
+        "endTime": "2026-09-09T13:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-09T13:00:00Z",
+        "endTime": "2026-09-09T15:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-09T15:00:00Z",
+        "endTime": "2026-09-09T17:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-09T17:00:00Z",
+        "endTime": "2026-09-09T19:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Ποδόσφαιρο: Βόλος Elabet - Ολυμπιακός",
+        "startTime": "2026-09-09T19:00:00Z",
+        "endTime": "2026-09-09T21:00:00Z",
+        "description": "Stoiximan Super League 2026-27. 3η Αγωνιστική.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-09T21:00:00Z",
+        "endTime": "2026-09-09T23:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-09T23:00:00Z",
+        "endTime": "2026-09-10T01:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-10T01:00:00Z",
+        "endTime": "2026-09-10T03:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-10T03:00:00Z",
+        "endTime": "2026-09-10T05:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-10T05:00:00Z",
+        "endTime": "2026-09-10T07:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-10T07:00:00Z",
+        "endTime": "2026-09-10T09:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-10T09:00:00Z",
+        "endTime": "2026-09-10T11:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-10T11:00:00Z",
+        "endTime": "2026-09-10T13:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-10T13:00:00Z",
+        "endTime": "2026-09-10T15:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-10T15:00:00Z",
+        "endTime": "2026-09-10T17:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-10T17:00:00Z",
+        "endTime": "2026-09-10T19:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Ποδόσφαιρο: ΟΦΗ - Κηφισιά",
+        "startTime": "2026-09-10T19:00:00Z",
+        "endTime": "2026-09-10T21:00:00Z",
+        "description": "Stoiximan Super League 2026-27. 3η Αγωνιστική.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
         "startTime": "2026-09-10T21:00:00Z",
         "endTime": "2026-09-10T23:00:00Z",
         "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
@@ -166477,6 +166702,141 @@
         "description": "Stoiximan Super League 2026-27. 3η Αγωνιστική.",
         "genres": [
           "Ποδόσφαιρο"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-11T21:00:00Z",
+        "endTime": "2026-09-11T23:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-11T23:00:00Z",
+        "endTime": "2026-09-12T01:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-12T01:00:00Z",
+        "endTime": "2026-09-12T03:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-12T03:00:00Z",
+        "endTime": "2026-09-12T05:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-12T05:00:00Z",
+        "endTime": "2026-09-12T07:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-12T07:00:00Z",
+        "endTime": "2026-09-12T09:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-12T09:00:00Z",
+        "endTime": "2026-09-12T11:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-12T11:00:00Z",
+        "endTime": "2026-09-12T12:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-12T12:00:00Z",
+        "endTime": "2026-09-12T13:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Ποδόσφαιρο: Βόλος Elabet - Ολυμπιακός",
+        "startTime": "2026-09-12T13:00:00Z",
+        "endTime": "2026-09-12T15:00:00Z",
+        "description": "Stoiximan Super League 2026-27. 3η Αγωνιστική.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
+      },
+      {
+        "title": "PreGame 2026-27 (Ζ)",
+        "startTime": "2026-09-12T15:00:00Z",
+        "endTime": "2026-09-12T16:00:00Z",
+        "description": "Ολυμπιακός - ΟΦΗ. Το Pre Game μάς βάζει στον αγωνιστικό χώρο, πλάι στους πρωταγωνιστές και μας αποκαλύπτει καρέ-καρέ τα σχέδια των προπονητών λίγο πριν από τη μάχη των ομάδων τους.",
+        "genres": [
+          "Εκπομπή"
+        ]
+      },
+      {
+        "title": "Ποδόσφαιρο: Ολυμπιακός - ΟΦΗ (Ζ)",
+        "startTime": "2026-09-12T16:00:00Z",
+        "endTime": "2026-09-12T18:10:00Z",
+        "description": "Stoiximan Super League 2026-27. 4η αγωνιστική. Η Stoiximan Super League διεξάγεται φέτος με 14 ομάδες. Το σύστημα διεξαγωγής περιλαμβάνει Play off για θέσεις κορυφής (1-4), Play In για τις θέσεις 5-8, αλλά και Play Out για αποφυγή του υποβιβασμού.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
+      },
+      {
+        "title": "PostGame 2026-27 (Ζ)",
+        "startTime": "2026-09-12T18:10:00Z",
+        "endTime": "2026-09-12T19:00:00Z",
+        "description": "Ολυμπιακός - ΟΦΗ. Μετά από κάθε αγώνα, η εκπομπή Post Game σάς δίνει την ευκαιρία να μάθετε ό,τι αφορά στην αναμέτρηση που μόλις ολοκληρώθηκε.",
+        "genres": [
+          "Εκπομπή"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-12T19:00:00Z",
+        "endTime": "2026-09-12T20:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 1 League",
+        "startTime": "2026-09-12T20:00:00Z",
+        "endTime": "2026-09-12T21:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
         ]
       }
     ]
@@ -166596,6 +166956,222 @@
       },
       {
         "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-08T21:00:00Z",
+        "endTime": "2026-09-08T23:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-08T23:00:00Z",
+        "endTime": "2026-09-09T01:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-09T01:00:00Z",
+        "endTime": "2026-09-09T03:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-09T03:00:00Z",
+        "endTime": "2026-09-09T05:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-09T05:00:00Z",
+        "endTime": "2026-09-09T07:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-09T07:00:00Z",
+        "endTime": "2026-09-09T09:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-09T09:00:00Z",
+        "endTime": "2026-09-09T11:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-09T11:00:00Z",
+        "endTime": "2026-09-09T13:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-09T13:00:00Z",
+        "endTime": "2026-09-09T15:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-09T15:00:00Z",
+        "endTime": "2026-09-09T17:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-09T17:00:00Z",
+        "endTime": "2026-09-09T19:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-09T19:00:00Z",
+        "endTime": "2026-09-09T21:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-09T21:00:00Z",
+        "endTime": "2026-09-09T23:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-09T23:00:00Z",
+        "endTime": "2026-09-10T01:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-10T01:00:00Z",
+        "endTime": "2026-09-10T03:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-10T03:00:00Z",
+        "endTime": "2026-09-10T05:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-10T05:00:00Z",
+        "endTime": "2026-09-10T07:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-10T07:00:00Z",
+        "endTime": "2026-09-10T09:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-10T09:00:00Z",
+        "endTime": "2026-09-10T11:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-10T11:00:00Z",
+        "endTime": "2026-09-10T13:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-10T13:00:00Z",
+        "endTime": "2026-09-10T15:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-10T15:00:00Z",
+        "endTime": "2026-09-10T17:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-10T17:00:00Z",
+        "endTime": "2026-09-10T19:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-10T19:00:00Z",
+        "endTime": "2026-09-10T21:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
         "startTime": "2026-09-10T21:00:00Z",
         "endTime": "2026-09-10T23:00:00Z",
         "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
@@ -166697,6 +167273,114 @@
         "title": "Magenta Sport 2 League",
         "startTime": "2026-09-11T19:00:00Z",
         "endTime": "2026-09-11T21:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-11T21:00:00Z",
+        "endTime": "2026-09-11T23:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-11T23:00:00Z",
+        "endTime": "2026-09-12T01:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-12T01:00:00Z",
+        "endTime": "2026-09-12T03:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-12T03:00:00Z",
+        "endTime": "2026-09-12T05:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-12T05:00:00Z",
+        "endTime": "2026-09-12T07:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-12T07:00:00Z",
+        "endTime": "2026-09-12T09:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-12T09:00:00Z",
+        "endTime": "2026-09-12T11:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-12T11:00:00Z",
+        "endTime": "2026-09-12T13:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-12T13:00:00Z",
+        "endTime": "2026-09-12T15:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-12T15:00:00Z",
+        "endTime": "2026-09-12T17:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-12T17:00:00Z",
+        "endTime": "2026-09-12T19:00:00Z",
+        "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 2 League",
+        "startTime": "2026-09-12T19:00:00Z",
+        "endTime": "2026-09-12T21:00:00Z",
         "description": "Η καρδιά του ελληνικού ποδοσφαίρου χτυπά εδώ, με μεγάλα ντέρμπι και αναμετρήσεις της Stoiximan Super League.",
         "genres": [
           "Promo Card"
@@ -166827,6 +167511,222 @@
         ]
       },
       {
+        "title": "Ποδόσφαιρο: Έλτσε - Ρεάλ Σοσιεδάδ",
+        "startTime": "2026-09-08T21:00:00Z",
+        "endTime": "2026-09-08T23:00:00Z",
+        "description": "LaLiga EA Sports 2026-27. 4η Αγωνιστική.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-08T23:00:00Z",
+        "endTime": "2026-09-09T01:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-09T01:00:00Z",
+        "endTime": "2026-09-09T03:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-09T03:00:00Z",
+        "endTime": "2026-09-09T05:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-09T05:00:00Z",
+        "endTime": "2026-09-09T07:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-09T07:00:00Z",
+        "endTime": "2026-09-09T09:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-09T09:00:00Z",
+        "endTime": "2026-09-09T11:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-09T11:00:00Z",
+        "endTime": "2026-09-09T13:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-09T13:00:00Z",
+        "endTime": "2026-09-09T15:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-09T15:00:00Z",
+        "endTime": "2026-09-09T17:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Ποδόσφαιρο: Βιγιαρεάλ - Ντεπορτίβο λα Κορούνια",
+        "startTime": "2026-09-09T17:00:00Z",
+        "endTime": "2026-09-09T19:00:00Z",
+        "description": "LaLiga EA Sports 2026-27. 4η Αγωνιστική.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
+      },
+      {
+        "title": "Ποδόσφαιρο: Μπιλμπάο - Ατλέτικο Μαδρίτης",
+        "startTime": "2026-09-09T19:00:00Z",
+        "endTime": "2026-09-09T21:00:00Z",
+        "description": "LaLiga EA Sports 2026-27. 4η Αγωνιστική.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
+      },
+      {
+        "title": "Ποδόσφαιρο: Αλαβές - Οσασούνα",
+        "startTime": "2026-09-09T21:00:00Z",
+        "endTime": "2026-09-09T23:00:00Z",
+        "description": "LaLiga EA Sports 2026-27. 4η Αγωνιστική.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-09T23:00:00Z",
+        "endTime": "2026-09-10T01:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-10T01:00:00Z",
+        "endTime": "2026-09-10T03:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-10T03:00:00Z",
+        "endTime": "2026-09-10T05:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-10T05:00:00Z",
+        "endTime": "2026-09-10T07:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-10T07:00:00Z",
+        "endTime": "2026-09-10T09:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-10T09:00:00Z",
+        "endTime": "2026-09-10T11:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-10T11:00:00Z",
+        "endTime": "2026-09-10T13:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-10T13:00:00Z",
+        "endTime": "2026-09-10T15:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-10T15:00:00Z",
+        "endTime": "2026-09-10T17:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Ποδόσφαιρο: Εσπανιόλ - Σεβίλλη",
+        "startTime": "2026-09-10T17:00:00Z",
+        "endTime": "2026-09-10T19:00:00Z",
+        "description": "LaLiga EA Sports 2026-27. 4η Αγωνιστική.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
+      },
+      {
+        "title": "Ποδόσφαιρο: Βαλένθια - Μπαρτσελόνα",
+        "startTime": "2026-09-10T19:00:00Z",
+        "endTime": "2026-09-10T21:00:00Z",
+        "description": "LaLiga EA Sports 2026-27. 4η Αγωνιστική.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
+      },
+      {
         "title": "Ποδόσφαιρο: Μάλαγα - Λεβάντε",
         "startTime": "2026-09-10T21:00:00Z",
         "endTime": "2026-09-10T23:00:00Z",
@@ -166951,6 +167851,141 @@
         "genres": [
           "Ποδόσφαιρο"
         ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-11T21:00:00Z",
+        "endTime": "2026-09-11T23:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-11T23:00:00Z",
+        "endTime": "2026-09-12T01:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-12T01:00:00Z",
+        "endTime": "2026-09-12T03:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-12T03:00:00Z",
+        "endTime": "2026-09-12T05:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-12T05:00:00Z",
+        "endTime": "2026-09-12T07:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-12T07:00:00Z",
+        "endTime": "2026-09-12T09:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-12T09:00:00Z",
+        "endTime": "2026-09-12T11:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-12T11:00:00Z",
+        "endTime": "2026-09-12T11:30:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-12T11:30:00Z",
+        "endTime": "2026-09-12T12:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Ποδόσφαιρο: Ρασίνγκ Σανταντέρ - Αλαβές (Ζ)",
+        "startTime": "2026-09-12T12:00:00Z",
+        "endTime": "2026-09-12T14:00:00Z",
+        "description": "LaLiga EA Sports 2026-27. 5η Αγωνιστική.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
+      },
+      {
+        "title": "Ποδόσφαιρο: Σεβίλλη - Βαλένθια",
+        "startTime": "2026-09-12T14:00:00Z",
+        "endTime": "2026-09-12T16:00:00Z",
+        "description": "LaLiga EA Sports 2026-27. 5η Αγωνιστική.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-12T16:00:00Z",
+        "endTime": "2026-09-12T16:30:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Ποδόσφαιρο: Μπιλμπάο - Έλτσε (Ζ)",
+        "startTime": "2026-09-12T16:30:00Z",
+        "endTime": "2026-09-12T18:30:00Z",
+        "description": "LaLiga EA Sports 2026-27. 5η Αγωνιστική.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
+      },
+      {
+        "title": "Magenta Sport 3 League",
+        "startTime": "2026-09-12T18:30:00Z",
+        "endTime": "2026-09-12T19:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Ποδόσφαιρο: Ρεάλ Μαδρίτης - Ράγιο Βαγιεκάνο (Ζ)",
+        "startTime": "2026-09-12T19:00:00Z",
+        "endTime": "2026-09-12T21:00:00Z",
+        "description": "LaLiga EA Sports 2026-27. 5η Αγωνιστική.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
       }
     ]
   },
@@ -167069,6 +168104,222 @@
       },
       {
         "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-08T21:00:00Z",
+        "endTime": "2026-09-08T23:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-08T23:00:00Z",
+        "endTime": "2026-09-09T01:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-09T01:00:00Z",
+        "endTime": "2026-09-09T03:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-09T03:00:00Z",
+        "endTime": "2026-09-09T05:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-09T05:00:00Z",
+        "endTime": "2026-09-09T07:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-09T07:00:00Z",
+        "endTime": "2026-09-09T09:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-09T09:00:00Z",
+        "endTime": "2026-09-09T11:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-09T11:00:00Z",
+        "endTime": "2026-09-09T13:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-09T13:00:00Z",
+        "endTime": "2026-09-09T15:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-09T15:00:00Z",
+        "endTime": "2026-09-09T17:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-09T17:00:00Z",
+        "endTime": "2026-09-09T19:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-09T19:00:00Z",
+        "endTime": "2026-09-09T21:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-09T21:00:00Z",
+        "endTime": "2026-09-09T23:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-09T23:00:00Z",
+        "endTime": "2026-09-10T01:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-10T01:00:00Z",
+        "endTime": "2026-09-10T03:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-10T03:00:00Z",
+        "endTime": "2026-09-10T05:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-10T05:00:00Z",
+        "endTime": "2026-09-10T07:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-10T07:00:00Z",
+        "endTime": "2026-09-10T09:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-10T09:00:00Z",
+        "endTime": "2026-09-10T11:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-10T11:00:00Z",
+        "endTime": "2026-09-10T13:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-10T13:00:00Z",
+        "endTime": "2026-09-10T15:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-10T15:00:00Z",
+        "endTime": "2026-09-10T17:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-10T17:00:00Z",
+        "endTime": "2026-09-10T19:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-10T19:00:00Z",
+        "endTime": "2026-09-10T21:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
         "startTime": "2026-09-10T21:00:00Z",
         "endTime": "2026-09-10T23:00:00Z",
         "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
@@ -167170,6 +168421,132 @@
         "title": "Magenta Sport 4 League",
         "startTime": "2026-09-11T19:00:00Z",
         "endTime": "2026-09-11T21:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-11T21:00:00Z",
+        "endTime": "2026-09-11T23:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-11T23:00:00Z",
+        "endTime": "2026-09-12T01:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-12T01:00:00Z",
+        "endTime": "2026-09-12T03:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-12T03:00:00Z",
+        "endTime": "2026-09-12T05:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-12T05:00:00Z",
+        "endTime": "2026-09-12T07:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-12T07:00:00Z",
+        "endTime": "2026-09-12T09:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-12T09:00:00Z",
+        "endTime": "2026-09-12T11:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-12T11:00:00Z",
+        "endTime": "2026-09-12T13:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-12T13:00:00Z",
+        "endTime": "2026-09-12T13:45:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-12T13:45:00Z",
+        "endTime": "2026-09-12T14:15:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Ποδόσφαιρο: Οσασούνα - Εσπανιόλ (Ζ)",
+        "startTime": "2026-09-12T14:15:00Z",
+        "endTime": "2026-09-12T16:15:00Z",
+        "description": "LaLiga EA Sports 2026-27. 5η Αγωνιστική.",
+        "genres": [
+          "Ποδόσφαιρο"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-12T16:15:00Z",
+        "endTime": "2026-09-12T17:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-12T17:00:00Z",
+        "endTime": "2026-09-12T19:00:00Z",
+        "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
+        "genres": [
+          "Promo Card"
+        ]
+      },
+      {
+        "title": "Magenta Sport 4 League",
+        "startTime": "2026-09-12T19:00:00Z",
+        "endTime": "2026-09-12T21:00:00Z",
         "description": "Απολαύστε τη δράση της LaLiga EA Sports, με τις κορυφαίες ομάδες της Ισπανίας να μάχονται για τον τίτλο σε ένα πρωτάθλημα γεμάτο θέαμα και συγκινήσεις.",
         "genres": [
           "Promo Card"
