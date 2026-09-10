@@ -38,3 +38,4 @@ f.write("\n")
 
 print("M3U generated")
 print("channels:", len(seen))
+print("file:", OUTPUT_FILE)
