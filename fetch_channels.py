@@ -4,7 +4,7 @@ import os
 import time
 from datetime import datetime, timedelta
 
-BASE_URL = "https://www.cosmotetv.gr/api/channels/schedule?locale=el"
+BASE_URL = "https://www.magentatv.gr/api/channels/schedule?locale=el"
 
 os.makedirs("data", exist_ok=True)
 
