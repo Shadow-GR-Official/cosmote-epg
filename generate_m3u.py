@@ -1,27 +1,40 @@
 import json
-import urllib.parse
+import os
 
-with open("data/epg.json", "r", encoding="utf-8") as f:
-    channels = json.load(f)
+INPUT_FILE = "data/epg.json"
+OUTPUT_FILE = "data/channels.m3u"
+
+with open(INPUT_FILE, "r", encoding="utf-8") as f:
+channels = json.load(f)
 
 lines = ["#EXTM3U"]
+seen = set()
 
 for ch in channels:
-    cid = ch.get("id")
-    name = ch.get("name", "")
-    logo = ch.get("logo", "")
+cid = str(ch.get("id") or "").strip()
+name = str(ch.get("name") or "").strip()
+logo = str(ch.get("logo") or "").strip()
 
-    if not cid:
-        continue
+if not cid:
+    continue
 
-    cid_enc = urllib.parse.quote(str(cid))
+if cid in seen:
+    continue
 
-    lines.append(
-        f'#EXTINF:-1 tvg-id="{cid}" tvg-name="{name}" tvg-logo="{logo}",{name}'
-    )
-    lines.append(f"http://127.0.0.1/{cid_enc}")
+seen.add(cid)
 
-with open("data/channels.m3u", "w", encoding="utf-8") as f:
-    f.write("\n".join(lines))
+if not name:
+    name = cid
 
-print("✔ M3U generated")
+lines.append(
+    f'#EXTINF:-1 tvg-id="{cid}" tvg-name="{name}" tvg-logo="{logo}",{name}'
+)
+
+os.makedirs("data", exist_ok=True)
+
+with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
+f.write("\n".join(lines))
+f.write("\n")
+
+print("M3U generated")
+print("channels:", len(seen))
