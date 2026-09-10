@@ -2,82 +2,117 @@ import requests
 import json
 import os
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
-BASE_URL = "https://www.magentatv.gr/api/channels/schedule?locale=el"
+BASE_URL = "https://www.magentatv.gr/api/channels/schedule"
 
 os.makedirs("data", exist_ok=True)
 
 
-def safe_get(session, url, retries=20, delay=50):
-    for attempt in range(retries):
+def safe_get(session, params, retries=5, delay=5):
+    for attempt in range(1, retries + 1):
         try:
             r = session.get(
-                url,
-                timeout=(1000, 3000)  # (connect timeout, read timeout)
+                BASE_URL,
+                params=params,
+                timeout=(20, 60),
+                headers={
+                    "Accept": "application/json",
+                    "User-Agent": "Mozilla/5.0"
+                }
             )
 
-            if r.status_code != 200:
-                print("HTTP ERROR:", r.status_code)
-            elif not r.text.strip():
-                print("EMPTY RESPONSE")
+            if r.status_code == 200:
+                if not r.text.strip():
+                    print("EMPTY RESPONSE")
+                else:
+                    try:
+                        return r.json()
+                    except ValueError as e:
+                        print("JSON ERROR:", e)
             else:
-                return r.json()
+                print("HTTP ERROR:", r.status_code)
 
-        except Exception as e:
+        except requests.RequestException as e:
             print("REQUEST ERROR:", e)
 
-        # retry logic
-        if attempt < retries - 1:
-            print(f"Retrying in {delay}s... ({attempt+1}/{retries})")
+        if attempt < retries:
+            print(f"Retrying in {delay}s... ({attempt}/{retries})")
             time.sleep(delay)
 
     return None
 
 
 def extract_channels(data):
-    """
-    FIX: Magenta TV stripes can be dict OR list OR nested structure
-    """
     stripes = data.get("stripes")
 
-    channels = []
-
     if isinstance(stripes, dict):
-        channels.extend(stripes.get("channels", []))
+        return stripes.get("channels", [])
 
-    elif isinstance(stripes, list):
-        for s in stripes:
-            if isinstance(s, dict):
-                channels.extend(s.get("channels", []))
+    if isinstance(stripes, list):
+        channels = []
 
-    return channels
+        for stripe in stripes:
+            if isinstance(stripe, dict):
+                channels.extend(
+                    stripe.get("channels", [])
+                )
+
+        return channels
+
+    return []
 
 
 def run():
     session = requests.Session()
 
-    # warm-up (important for Cosmote session behavior)
-    session.get("https://www.magentatv.gr", timeout=20)
+    try:
+        session.get(
+            "https://www.magentatv.gr",
+            timeout=20,
+            headers={
+                "User-Agent": "Mozilla/5.0"
+            }
+        )
+    except requests.RequestException as e:
+        print("Warm-up error:", e)
 
     channels_by_id = {}
 
-    print("[FETCH] Cosmote EPG")
+    print("[FETCH] Magenta TV EPG")
 
     for i in range(-1, 5):
-        day = datetime.now() + timedelta(days=i)
+        day = datetime.now(timezone.utc) + timedelta(days=i)
 
-        from_ts = int(day.replace(hour=0, minute=0, second=0).timestamp())
-        to_ts = int(day.replace(hour=23, minute=59, second=59).timestamp())
+        from_dt = day.replace(
+            hour=0,
+            minute=0,
+            second=0,
+            microsecond=0
+        )
 
-        url = f"{BASE_URL}&from={from_ts}&to={to_ts}"
+        to_dt = day.replace(
+            hour=23,
+            minute=59,
+            second=59,
+            microsecond=0
+        )
 
-        print("→", day.strftime("%Y-%m-%d"))
+        from_ts = int(from_dt.timestamp())
+        to_ts = int(to_dt.timestamp())
 
-        data = safe_get(session, url)
+        params = {
+            "locale": "el",
+            "from": from_ts,
+            "to": to_ts
+        }
+
+        print("→", from_dt.strftime("%Y-%m-%d"))
+
+        data = safe_get(session, params)
 
         if not data:
-            print("skip")
+            print("  skip")
             continue
 
         channels = extract_channels(data)
@@ -86,6 +121,7 @@ def run():
 
         for ch in channels:
             guid = ch.get("guid")
+
             if not guid:
                 continue
 
@@ -94,27 +130,67 @@ def run():
                     "id": guid,
                     "name": ch.get("title"),
                     "logo": (ch.get("logos") or {}).get("square"),
-                    "items": []
+                    "items": {}
                 }
 
             for p in ch.get("items", []):
-                channels_by_id[guid]["items"].append({
+                program_id = (
+                    p.get("programGuid")
+                    or p.get("guid")
+                )
+
+                if not program_id:
+                    program_id = (
+                        f"{p.get('startTime')}|"
+                        f"{p.get('endTime')}|"
+                        f"{p.get('title')}"
+                    )
+
+                channels_by_id[guid]["items"][program_id] = {
                     "title": p.get("title"),
                     "startTime": p.get("startTime"),
                     "endTime": p.get("endTime"),
                     "description": p.get("description"),
                     "genres": p.get("genres")
-                })
+                }
 
         time.sleep(1.2)
 
-    epg_list = list(channels_by_id.values())
+    epg_list = []
 
-    with open("data/epg.json", "w", encoding="utf-8") as f:
-        json.dump(epg_list, f, ensure_ascii=False, indent=2)
+    for channel in channels_by_id.values():
+        items = list(channel["items"].values())
 
+        items.sort(
+            key=lambda x: x.get("startTime") or ""
+        )
+
+        channel["items"] = items
+        epg_list.append(channel)
+
+    epg_list.sort(
+        key=lambda x: x.get("name") or ""
+    )
+
+    output_file = "data/epg.json"
+
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(
+            epg_list,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+    total_programmes = sum(
+        len(ch["items"])
+        for ch in epg_list
+    )
+
+    print()
     print("✔ epg.json saved")
     print("✔ TOTAL channels:", len(epg_list))
+    print("✔ TOTAL programmes:", total_programmes)
 
 
 if __name__ == "__main__":
