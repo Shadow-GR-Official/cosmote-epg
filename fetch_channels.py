@@ -58,7 +58,7 @@ def run():
     session = requests.Session()
 
     # warm-up (important for Cosmote session behavior)
-    session.get("https://www.cosmotetv.gr", timeout=20)
+    session.get("https://www.magentatv.gr", timeout=20)
 
     channels_by_id = {}
 
