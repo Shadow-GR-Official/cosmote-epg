@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Shadow-GR-Official/cosmote-epg/blob/main/cosmote-epg.png" alt="cosmote-epg" width="1000">
+  <img src="https://github.com/Shadow-GR-Official/magentatv-epg/blob/main/magentatv-epg.png" alt="cosmote-epg" width="1000">
 </p>
 <p align="center">
   <img src="https://github.com/Shadow-GR-Official/cosmote-epg/blob/main/main.png" alt="cosmote-epg" width="1000">
