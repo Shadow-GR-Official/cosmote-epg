@@ -1,5 +1,6 @@
 import json
 import os
+import urllib.parse
 
 INPUT_FILE = "data/epg.json"
 OUTPUT_FILE = "data/channels.m3u"
@@ -26,8 +27,14 @@ seen.add(cid)
 if not name:
     name = cid
 
+cid_enc = urllib.parse.quote(cid)
+
 lines.append(
     f'#EXTINF:-1 tvg-id="{cid}" tvg-name="{name}" tvg-logo="{logo}",{name}'
+)
+
+lines.append(
+    f"http://127.0.0.1/{cid_enc}"
 )
 
 os.makedirs("data", exist_ok=True)
