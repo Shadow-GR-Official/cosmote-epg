@@ -1,62 +1,57 @@
-name: Magenta TV EPG Builder
+name: Magenta TV EPG Builder v10.09.2026
 
 on:
- schedule:
- - cron: '0 */6 * * *'
- workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
- build:
-  runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
-env:
-  TZ: Europe/Athens
-  
- steps:
+    env:
+      TZ: Europe/Athens
 
-  - name: Checkout
-    uses: actions/checkout@v4
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-  - name: Setup Python
-    uses: actions/setup-python@v5
-    with:
-      python-version: '3.11'
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-  - name: Install dependencies
-    run: pip install requests
+      - name: Install deps
+        run: pip install requests
 
-  - name: Create data folder
-    run: mkdir -p data
+      - name: Create data folder
+        run: mkdir -p data
 
-  - name: Fetch Magenta TV EPG
-    run: python fetch_channels.py
+      - name: Fetch   Magenta TV EPG
+        run: python fetch_channels.py
 
-  - name: Generate XML
-    run: python generate_epg.py
+      - name: Generate XML
+        run: python generate_epg.py
 
-  - name: Generate M3U
-    run: python generate_m3u.py
+      - name: Debug
+        run: |
+          ls -lah data/
+          head -n 20 data/epg.xml || true
 
-  - name: Check files
-    run: |
-      ls -lah data/
-      echo "----- M3U -----"
-      head -n 20 data/channels.m3u
-      echo "----- XML -----"
-      head -n 20 data/epg.xml
+      - name: Commit & Push
+        run: |
+          git config user.name "EPG Bot"
+          git config user.email "bot@github.com"
 
-  - name: Commit and Push
-    run: |
-      git config user.name "EPG Bot"
-      git config user.email "bot@github.com"
-      git add data/
-      if git diff --cached --quiet; then
-        echo "No changes"
-        exit 0
-      fi
-      git commit -m "Update Magenta TV EPG"
-      git push
+          git add data/
 
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "Magenta TV EPG $(date +'%Y-%m-%d %H:%M')"
+          git push
