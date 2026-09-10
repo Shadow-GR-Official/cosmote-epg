@@ -81,7 +81,7 @@ def run():
 
     print("[FETCH] Magenta TV EPG")
 
-    for i in range(-1, 5):
+    for i in range(-1, 7):
         day = datetime.now(timezone.utc) + timedelta(days=i)
 
         from_dt = day.replace(
