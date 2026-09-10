@@ -37,7 +37,7 @@ def safe_get(session, url, retries=20, delay=50):
 
 def extract_channels(data):
     """
-    FIX: Cosmote stripes can be dict OR list OR nested structure
+    FIX: Magenta TV stripes can be dict OR list OR nested structure
     """
     stripes = data.get("stripes")
 
