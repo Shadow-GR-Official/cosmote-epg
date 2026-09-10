@@ -30,7 +30,7 @@ jobs:
       - name: Create data folder
         run: mkdir -p data
 
-      - name: Fetch Cosmote EPG
+      - name: Fetch   Magenta TV EPG
         run: python fetch_channels.py
 
       - name: Generate XML
@@ -53,5 +53,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Cosmote EPG $(date +'%Y-%m-%d %H:%M')"
+          git commit -m "Magenta TV EPG $(date +'%Y-%m-%d %H:%M')"
           git push
