@@ -33,13 +33,19 @@ jobs:
       - name: Fetch   Magenta TV EPG
         run: python fetch_channels.py
 
+        
       - name: Generate XML
         run: python generate_epg.py
+
+      - name: Generate M3U
+        run: python generate_m3u.py
 
       - name: Debug
         run: |
           ls -lah data/
           head -n 20 data/epg.xml || true
+          head -n 20 data/channels.m3u || true
+
 
       - name: Commit & Push
         run: |
