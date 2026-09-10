@@ -16,6 +16,7 @@ cid = str(ch.get("id") or "").strip()
 name = str(ch.get("name") or "").strip()
 logo = str(ch.get("logo") or "").strip()
 
+
 if not cid:
     continue
 
@@ -36,6 +37,7 @@ lines.append(
 lines.append(
     f"http://127.0.0.1/{cid_enc}"
 )
+
 
 os.makedirs("data", exist_ok=True)
 
