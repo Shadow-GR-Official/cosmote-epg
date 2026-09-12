@@ -1,4 +1,3 @@
-
 name: Magenta TV EPG Builder v10.09.2026
 
 on:
@@ -26,21 +25,36 @@ jobs:
           python-version: "3.11"
 
       - name: Install deps
-        run: pip install requests
+        run: |
+          pip install requests
 
       - name: Fetch Magenta TV EPG
-        run: python fetch_channels.py
+        run: |
+          python fetch_channels.py
 
       - name: Generate XML
-        run: python generate_epg.py
+        run: |
+          python generate_epg.py
 
       - name: Generate M3U
-        run: python generate_m3u.py
+        run: |
+          python generate_m3u.py
 
       - name: Debug
         run: |
+          echo "===== DATA DIRECTORY ====="
           ls -lah data/
+
+          echo
+          echo "===== FILE SIZES ====="
+          du -h data/*
+
+          echo
+          echo "===== XML HEADER ====="
           head -n 20 data/epg.xml || true
+
+          echo
+          echo "===== M3U HEADER ====="
           head -n 20 data/channels.m3u || true
 
       - name: Commit & Push
@@ -50,11 +64,7 @@ jobs:
 
           git add -A
 
-          if git diff --cached --quiet; then
-            echo "No changes"
-            exit 0
-          fi
+          git commit --allow-empty \
+            -m "Magenta TV EPG $(date +'%Y-%m-%d %H:%M')"
 
-          git commit -m "Magenta TV EPG $(date +'%Y-%m-%d %H:%M')"
           git push
-
