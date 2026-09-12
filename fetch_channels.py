@@ -1,3 +1,4 @@
+
 import requests
 import json
 import os
@@ -28,8 +29,8 @@ def safe_get(session, params, retries=5, delay=5):
                 else:
                     try:
                         return r.json()
-                    except ValueError as e:
-                        print("JSON ERROR:", e)
+                    except ValueError:
+                        print("JSON ERROR")
             else:
                 print("HTTP ERROR:", r.status_code)
 
@@ -98,13 +99,10 @@ def run():
             microsecond=0
         )
 
-        from_ts = int(from_dt.timestamp())
-        to_ts = int(to_dt.timestamp())
-
         params = {
             "locale": "el",
-            "from": from_ts,
-            "to": to_ts
+            "from": int(from_dt.timestamp()),
+            "to": int(to_dt.timestamp())
         }
 
         print("→", from_dt.strftime("%Y-%m-%d"))
@@ -172,9 +170,11 @@ def run():
         key=lambda x: x.get("name") or ""
     )
 
-    output_file = "data/epg.json"
-
-    with open(output_file, "w", encoding="utf-8") as f:
+    with open(
+        "data/epg.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
         json.dump(
             epg_list,
             f,
@@ -195,3 +195,4 @@ def run():
 
 if __name__ == "__main__":
     run()
+
