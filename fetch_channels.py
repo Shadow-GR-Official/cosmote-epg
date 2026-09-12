@@ -1,11 +1,14 @@
-
 import requests
 import json
 import os
 import time
+import shutil
 from datetime import datetime, timedelta, timezone
 
 BASE_URL = "https://www.magentatv.gr/api/channels/schedule"
+
+if os.path.exists("data"):
+    shutil.rmtree("data")
 
 os.makedirs("data", exist_ok=True)
 
@@ -188,6 +191,7 @@ def run():
     )
 
     print()
+    print("✔ data folder cleaned")
     print("✔ epg.json saved")
     print("✔ TOTAL channels:", len(epg_list))
     print("✔ TOTAL programmes:", total_programmes)
@@ -195,4 +199,4 @@ def run():
 
 if __name__ == "__main__":
     run()
-
+    
