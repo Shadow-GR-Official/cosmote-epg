@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/Shadow-GR-Official/magentatv-epg/blob/main/magentatv-epg.png" alt="magentatv-epg" width="1000">
+  <img src="https://www.magentatv.gr/_next/image?url=%2Fuploads%2F1.3-TV-DIGITAL-POSTERS-UPDATE-SEP26-DESKTOP-1440x738.jpg" alt="magentatv-epg" width="1000">
 </p>
 <p align="center">
-  <img src="https://github.com/Shadow-GR-Official/magentatv-epg/blob/main/main.png" alt="magentatv-epg" width="1000">
+  <img src="" alt="magentatv-epg" width="1000">
 </p>
 
 ΠΡΟΣΟΧΉ! Ο οδηγός ηλεκτρονικού προγράμματος περιλαμβάνει όλα τα κανάλια της λίστας MAGNETA TV μόνο!
