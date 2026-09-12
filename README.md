@@ -5,8 +5,8 @@
 
 ΠΡΟΣΟΧΉ! Ο οδηγός ηλεκτρονικού προγράμματος περιλαμβάνει όλα τα κανάλια της λίστας MAGNETA TV μόνο!
 
-Η πλήρες λίστα τον καναλιών της MAGNETA TV
-υπάρχει εδώ: 
+Η πλήρες λίστα τον καναλιών της MAGNETA TV υπάρχει εδώ: 
+
 https://raw.githubusercontent.com/Shadow-GR-Official/magentatv-epg/refs/heads/main/data/channels.m3u
 
 Για να λειτουργήσει σωστά ο ηλεκτρονικός οδηγός προγράμματος,
@@ -15,4 +15,5 @@ https://raw.githubusercontent.com/Shadow-GR-Official/magentatv-epg/refs/heads/ma
 Παράδειγμα: tvg-id="XTV100000954" tvg-name="ΒΟΥΛΗ HD"
 
 EPG URL: 
+
 https://raw.githubusercontent.com/Shadow-GR-Official/magentatv-epg/refs/heads/main/data/epg.xml
