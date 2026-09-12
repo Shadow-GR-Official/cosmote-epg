@@ -50,6 +50,17 @@ jobs:
           du -h data/*
 
           echo
+          echo "===== QUICK COUNTS ====="
+          echo -n "XML channels: "
+          grep -c '<channel id=' data/epg.xml || true
+
+          echo -n "XML programmes: "
+          grep -c '<programme ' data/epg.xml || true
+
+          echo -n "M3U channels: "
+          grep -c '^#EXTINF:' data/channels.m3u || true
+
+          echo
           echo "===== XML HEADER ====="
           head -n 20 data/epg.xml || true
 
